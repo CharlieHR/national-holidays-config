@@ -1,0 +1,12 @@
+# generic temporary files
+*.orig
+*.bak
+.DS_Store
+._.DS_Store
+
+# Text Editors & IDEs
+.bundle
+.*.sw?
+*#
+*~
+.#*
