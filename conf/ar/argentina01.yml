@@ -2,102 +2,119 @@
 name: Argentina (all)
 '2017':
 - New Year's Day:
+    public holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       es: New Year's Day
 - Carnival:
+    public holiday: true
     start_date: '2017-02-27'
     end_date: '2017-02-27'
     names:
       en: Carnival
       es: Carnival
 - Carnival/Shrove Tuesday:
+    public holiday: true
     start_date: '2017-02-28'
     end_date: '2017-02-28'
     names:
       en: Carnival/Shrove Tuesday
       es: Carnival/Shrove Tuesday
 - Memorial Day:
+    public holiday: true
     start_date: '2017-03-24'
     end_date: '2017-03-24'
     names:
       en: Memorial Day
       es: Memorial Day
 - Day of the Veterans:
+    public holiday: true
     start_date: '2017-04-02'
     end_date: '2017-04-02'
     names:
       en: Day of the Veterans
       es: Day of the Veterans
 - Maundy Thursday:
+    public holiday: true
     start_date: '2017-04-13'
     end_date: '2017-04-13'
     names:
       en: Maundy Thursday
       es: Maundy Thursday
 - Good Friday:
+    public holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
       es: Good Friday
 - Labor Day / May Day:
+    public holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labor Day / May Day
       es: Labor Day / May Day
 - National Day/May 1810 Revolution:
+    public holiday: true
     start_date: '2017-05-25'
     end_date: '2017-05-25'
     names:
       en: National Day/May 1810 Revolution
       es: National Day/May 1810 Revolution
 - Commemoration of General Don Martín Miguel de Güemes:
+    public holiday: true
     start_date: '2017-06-17'
     end_date: '2017-06-17'
     names:
       en: Commemoration of General Don Martín Miguel de Güemes
       es: Commemoration of General Don Martín Miguel de Güemes
 - Flag Day:
+    public holiday: true
     start_date: '2017-06-20'
     end_date: '2017-06-20'
     names:
       en: Flag Day
       es: Flag Day
 - Independence day:
+    public holiday: true
     start_date: '2017-07-09'
     end_date: '2017-07-09'
     names:
       en: Independence day
       es: Independence day
 - San Martín Day:
+    public holiday: true
     start_date: '2017-08-21'
     end_date: '2017-08-21'
     names:
       en: San Martín Day
       es: San Martín Day
 - Day of respect for cultural diversity:
+    public holiday: true
     start_date: '2017-10-16'
     end_date: '2017-10-16'
     names:
       en: Day of respect for cultural diversity
       es: Day of respect for cultural diversity
 - National Sovereignty Day:
+    public holiday: true
     start_date: '2017-11-20'
     end_date: '2017-11-20'
     names:
       en: National Sovereignty Day
       es: National Sovereignty Day
 - Feast of the Immaculate Conception:
+    public holiday: true
     start_date: '2017-12-08'
     end_date: '2017-12-08'
     names:
       en: Feast of the Immaculate Conception
       es: Feast of the Immaculate Conception
 - Christmas Day:
+    public holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
@@ -105,102 +122,119 @@ name: Argentina (all)
       es: Christmas Day
 '2018':
 - New Year's Day:
+    public holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       es: New Year's Day
 - Carnival:
+    public holiday: true
     start_date: '2018-02-12'
     end_date: '2018-02-12'
     names:
       en: Carnival
       es: Carnival
 - Carnival/Shrove Tuesday:
+    public holiday: true
     start_date: '2018-02-13'
     end_date: '2018-02-13'
     names:
       en: Carnival/Shrove Tuesday
       es: Carnival/Shrove Tuesday
 - Memorial Day:
+    public holiday: true
     start_date: '2018-03-24'
     end_date: '2018-03-24'
     names:
       en: Memorial Day
       es: Memorial Day
 - Maundy Thursday:
+    public holiday: true
     start_date: '2018-03-29'
     end_date: '2018-03-29'
     names:
       en: Maundy Thursday
       es: Maundy Thursday
 - Good Friday:
+    public holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       es: Good Friday
 - Day of the Veterans:
+    public holiday: true
     start_date: '2018-04-02'
     end_date: '2018-04-02'
     names:
       en: Day of the Veterans
       es: Day of the Veterans
 - Labor Day / May Day:
+    public holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labor Day / May Day
       es: Labor Day / May Day
 - National Day/May 1810 Revolution:
+    public holiday: true
     start_date: '2018-05-25'
     end_date: '2018-05-25'
     names:
       en: National Day/May 1810 Revolution
       es: National Day/May 1810 Revolution
 - Commemoration of General Don Martín Miguel de Güemes:
+    public holiday: true
     start_date: '2018-06-17'
     end_date: '2018-06-17'
     names:
       en: Commemoration of General Don Martín Miguel de Güemes
       es: Commemoration of General Don Martín Miguel de Güemes
 - Flag Day:
+    public holiday: true
     start_date: '2018-06-20'
     end_date: '2018-06-20'
     names:
       en: Flag Day
       es: Flag Day
 - Independence day:
+    public holiday: true
     start_date: '2018-07-09'
     end_date: '2018-07-09'
     names:
       en: Independence day
       es: Independence day
 - San Martín Day:
+    public holiday: true
     start_date: '2018-08-20'
     end_date: '2018-08-20'
     names:
       en: San Martín Day
       es: San Martín Day
 - Day of respect for cultural diversity:
+    public holiday: true
     start_date: '2018-10-08'
     end_date: '2018-10-08'
     names:
       en: Day of respect for cultural diversity
       es: Day of respect for cultural diversity
 - National Sovereignty Day:
+    public holiday: true
     start_date: '2018-11-26'
     end_date: '2018-11-26'
     names:
       en: National Sovereignty Day
       es: National Sovereignty Day
 - Feast of the Immaculate Conception:
+    public holiday: true
     start_date: '2018-12-08'
     end_date: '2018-12-08'
     names:
       en: Feast of the Immaculate Conception
       es: Feast of the Immaculate Conception
 - Christmas Day:
+    public holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:

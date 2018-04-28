@@ -2,84 +2,98 @@
 name: Portugal (all)
 '2011':
 - New Year's Day:
+    public holiday: true
     start_date: '2011-01-01'
     end_date: '2011-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Carnival (Shrove Tuesday):
+    public holiday: true
     start_date: '2011-03-08'
     end_date: '2011-03-08'
     names:
       en: Carnival (Shrove Tuesday)
       pt: Carnaval
 - Good Friday:
+    public holiday: true
     start_date: '2011-04-22'
     end_date: '2011-04-22'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2011-04-24'
     end_date: '2011-04-24'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2011-04-25'
     end_date: '2011-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2011-05-01'
     end_date: '2011-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2011-06-10'
     end_date: '2011-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2011-06-23'
     end_date: '2011-06-23'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2011-08-15'
     end_date: '2011-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2011-10-05'
     end_date: '2011-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2011-11-01'
     end_date: '2011-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2011-12-01'
     end_date: '2011-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2011-12-08'
     end_date: '2011-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2011-12-25'
     end_date: '2011-12-25'
     names:
@@ -87,84 +101,98 @@ name: Portugal (all)
       pt: Natal
 '2012':
 - New Year's Day:
+    public holiday: true
     start_date: '2012-01-01'
     end_date: '2012-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Carnival (Shrove Tuesday):
+    public holiday: true
     start_date: '2012-02-21'
     end_date: '2012-02-21'
     names:
       en: Carnival (Shrove Tuesday)
       pt: Carnaval
 - Good Friday:
+    public holiday: true
     start_date: '2012-04-06'
     end_date: '2012-04-06'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2012-04-08'
     end_date: '2012-04-08'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2012-04-25'
     end_date: '2012-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2012-05-01'
     end_date: '2012-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2012-06-07'
     end_date: '2012-06-07'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2012-06-10'
     end_date: '2012-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2012-08-15'
     end_date: '2012-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2012-10-05'
     end_date: '2012-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2012-11-01'
     end_date: '2012-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2012-12-01'
     end_date: '2012-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2012-12-08'
     end_date: '2012-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2012-12-25'
     end_date: '2012-12-25'
     names:
@@ -172,60 +200,70 @@ name: Portugal (all)
       pt: Natal
 '2013':
 - New Year's Day:
+    public holiday: true
     start_date: '2013-01-01'
     end_date: '2013-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Carnival (Shrove Tuesday):
+    public holiday: true
     start_date: '2013-02-12'
     end_date: '2013-02-12'
     names:
       en: Carnival (Shrove Tuesday)
       pt: Carnaval
 - Good Friday:
+    public holiday: true
     start_date: '2013-03-29'
     end_date: '2013-03-29'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2013-03-31'
     end_date: '2013-03-31'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2013-04-25'
     end_date: '2013-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2013-05-01'
     end_date: '2013-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2013-06-10'
     end_date: '2013-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2013-08-15'
     end_date: '2013-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Immaculate Conception:
+    public holiday: true
     start_date: '2013-12-08'
     end_date: '2013-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2013-12-25'
     end_date: '2013-12-25'
     names:
@@ -233,60 +271,70 @@ name: Portugal (all)
       pt: Natal
 '2014':
 - New Year's Day:
+    public holiday: true
     start_date: '2014-01-01'
     end_date: '2014-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Carnival (Shrove Tuesday):
+    public holiday: true
     start_date: '2014-03-04'
     end_date: '2014-03-04'
     names:
       en: Carnival (Shrove Tuesday)
       pt: Carnaval
 - Good Friday:
+    public holiday: true
     start_date: '2014-04-18'
     end_date: '2014-04-18'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2014-04-20'
     end_date: '2014-04-20'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2014-04-25'
     end_date: '2014-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2014-05-01'
     end_date: '2014-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2014-06-10'
     end_date: '2014-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2014-08-15'
     end_date: '2014-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Immaculate Conception:
+    public holiday: true
     start_date: '2014-12-08'
     end_date: '2014-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2014-12-25'
     end_date: '2014-12-25'
     names:
@@ -294,60 +342,70 @@ name: Portugal (all)
       pt: Natal
 '2015':
 - New Year's Day:
+    public holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Carnival (Shrove Tuesday):
+    public holiday: true
     start_date: '2015-02-17'
     end_date: '2015-02-17'
     names:
       en: Carnival (Shrove Tuesday)
       pt: Carnaval
 - Good Friday:
+    public holiday: true
     start_date: '2015-04-03'
     end_date: '2015-04-03'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2015-04-05'
     end_date: '2015-04-05'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2015-04-25'
     end_date: '2015-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2015-05-01'
     end_date: '2015-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2015-06-10'
     end_date: '2015-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2015-08-15'
     end_date: '2015-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Immaculate Conception:
+    public holiday: true
     start_date: '2015-12-08'
     end_date: '2015-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2015-12-25'
     end_date: '2015-12-25'
     names:
@@ -355,84 +413,98 @@ name: Portugal (all)
       pt: Natal
 '2016':
 - New Year's Day:
+    public holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Carnival (Shrove Tuesday):
+    public holiday: true
     start_date: '2016-02-09'
     end_date: '2016-02-09'
     names:
       en: Carnival (Shrove Tuesday)
       pt: Carnaval
 - Good Friday:
+    public holiday: true
     start_date: '2016-03-25'
     end_date: '2016-03-25'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2016-03-27'
     end_date: '2016-03-27'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2016-04-25'
     end_date: '2016-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2016-05-26'
     end_date: '2016-05-26'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2016-06-10'
     end_date: '2016-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2016-08-15'
     end_date: '2016-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2016-10-05'
     end_date: '2016-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2016-11-01'
     end_date: '2016-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2016-12-01'
     end_date: '2016-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2016-12-08'
     end_date: '2016-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2016-12-25'
     end_date: '2016-12-25'
     names:
@@ -440,84 +512,98 @@ name: Portugal (all)
       pt: Natal
 '2017':
 - New Year's Day:
+    public holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Carnival (Shrove Tuesday):
+    public holiday: true
     start_date: '2017-02-28'
     end_date: '2017-02-28'
     names:
       en: Carnival (Shrove Tuesday)
       pt: Carnaval
 - Good Friday:
+    public holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2017-04-16'
     end_date: '2017-04-16'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2017-04-25'
     end_date: '2017-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2017-06-10'
     end_date: '2017-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2017-06-15'
     end_date: '2017-06-15'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2017-08-15'
     end_date: '2017-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2017-10-05'
     end_date: '2017-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2017-11-01'
     end_date: '2017-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2017-12-01'
     end_date: '2017-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2017-12-08'
     end_date: '2017-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
@@ -525,78 +611,91 @@ name: Portugal (all)
       pt: Natal
 '2018':
 - New Year's Day:
+    public holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2018-04-01'
     end_date: '2018-04-01'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2018-04-25'
     end_date: '2018-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2018-05-31'
     end_date: '2018-05-31'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2018-06-10'
     end_date: '2018-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2018-08-15'
     end_date: '2018-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2018-10-05'
     end_date: '2018-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2018-11-01'
     end_date: '2018-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2018-12-01'
     end_date: '2018-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2018-12-08'
     end_date: '2018-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
@@ -604,78 +703,91 @@ name: Portugal (all)
       pt: Natal
 '2019':
 - New Year's Day:
+    public holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2019-04-19'
     end_date: '2019-04-19'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2019-04-21'
     end_date: '2019-04-21'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2019-04-25'
     end_date: '2019-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2019-06-10'
     end_date: '2019-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2019-06-20'
     end_date: '2019-06-20'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2019-08-15'
     end_date: '2019-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2019-10-05'
     end_date: '2019-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2019-11-01'
     end_date: '2019-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2019-12-01'
     end_date: '2019-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2019-12-08'
     end_date: '2019-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:
@@ -683,78 +795,91 @@ name: Portugal (all)
       pt: Natal
 '2020':
 - New Year's Day:
+    public holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2020-04-10'
     end_date: '2020-04-10'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2020-04-12'
     end_date: '2020-04-12'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2020-04-25'
     end_date: '2020-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2020-06-10'
     end_date: '2020-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2020-06-11'
     end_date: '2020-06-11'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2020-08-15'
     end_date: '2020-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2020-10-05'
     end_date: '2020-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2020-11-01'
     end_date: '2020-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2020-12-01'
     end_date: '2020-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2020-12-08'
     end_date: '2020-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2020-12-25'
     end_date: '2020-12-25'
     names:
@@ -762,78 +887,91 @@ name: Portugal (all)
       pt: Natal
 '2021':
 - New Year's Day:
+    public holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2021-04-02'
     end_date: '2021-04-02'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2021-04-04'
     end_date: '2021-04-04'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2021-04-25'
     end_date: '2021-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2021-06-03'
     end_date: '2021-06-03'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2021-06-10'
     end_date: '2021-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2021-08-15'
     end_date: '2021-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2021-10-05'
     end_date: '2021-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2021-11-01'
     end_date: '2021-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2021-12-01'
     end_date: '2021-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2021-12-08'
     end_date: '2021-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2021-12-25'
     end_date: '2021-12-25'
     names:
@@ -841,78 +979,91 @@ name: Portugal (all)
       pt: Natal
 '2022':
 - New Year's Day:
+    public holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2022-04-15'
     end_date: '2022-04-15'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2022-04-17'
     end_date: '2022-04-17'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2022-04-25'
     end_date: '2022-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2022-06-10'
     end_date: '2022-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2022-06-16'
     end_date: '2022-06-16'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2022-08-15'
     end_date: '2022-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2022-10-05'
     end_date: '2022-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2022-11-01'
     end_date: '2022-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2022-12-01'
     end_date: '2022-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2022-12-08'
     end_date: '2022-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2022-12-25'
     end_date: '2022-12-25'
     names:
@@ -920,78 +1071,91 @@ name: Portugal (all)
       pt: Natal
 '2023':
 - New Year's Day:
+    public holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2023-04-07'
     end_date: '2023-04-07'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2023-04-09'
     end_date: '2023-04-09'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2023-04-25'
     end_date: '2023-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2023-06-08'
     end_date: '2023-06-08'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2023-06-10'
     end_date: '2023-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2023-08-15'
     end_date: '2023-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2023-10-05'
     end_date: '2023-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2023-11-01'
     end_date: '2023-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2023-12-01'
     end_date: '2023-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2023-12-08'
     end_date: '2023-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2023-12-25'
     end_date: '2023-12-25'
     names:
@@ -999,78 +1163,91 @@ name: Portugal (all)
       pt: Natal
 '2024':
 - New Year's Day:
+    public holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2024-03-29'
     end_date: '2024-03-29'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2024-03-31'
     end_date: '2024-03-31'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2024-04-25'
     end_date: '2024-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2024-05-30'
     end_date: '2024-05-30'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2024-06-10'
     end_date: '2024-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2024-08-15'
     end_date: '2024-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2024-10-05'
     end_date: '2024-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2024-11-01'
     end_date: '2024-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2024-12-01'
     end_date: '2024-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2024-12-08'
     end_date: '2024-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2024-12-25'
     end_date: '2024-12-25'
     names:
@@ -1078,78 +1255,91 @@ name: Portugal (all)
       pt: Natal
 '2025':
 - New Year's Day:
+    public holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2025-04-18'
     end_date: '2025-04-18'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2025-04-20'
     end_date: '2025-04-20'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2025-04-25'
     end_date: '2025-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2025-06-10'
     end_date: '2025-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2025-06-19'
     end_date: '2025-06-19'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2025-08-15'
     end_date: '2025-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2025-10-05'
     end_date: '2025-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2025-11-01'
     end_date: '2025-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2025-12-01'
     end_date: '2025-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2025-12-08'
     end_date: '2025-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2025-12-25'
     end_date: '2025-12-25'
     names:
@@ -1157,78 +1347,91 @@ name: Portugal (all)
       pt: Natal
 '2026':
 - New Year's Day:
+    public holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2026-04-03'
     end_date: '2026-04-03'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2026-04-05'
     end_date: '2026-04-05'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2026-04-25'
     end_date: '2026-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2026-06-04'
     end_date: '2026-06-04'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2026-06-10'
     end_date: '2026-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2026-08-15'
     end_date: '2026-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2026-10-05'
     end_date: '2026-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2026-11-01'
     end_date: '2026-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2026-12-01'
     end_date: '2026-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2026-12-08'
     end_date: '2026-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2026-12-25'
     end_date: '2026-12-25'
     names:
@@ -1236,78 +1439,91 @@ name: Portugal (all)
       pt: Natal
 '2027':
 - New Year's Day:
+    public holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2027-03-26'
     end_date: '2027-03-26'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2027-03-28'
     end_date: '2027-03-28'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2027-04-25'
     end_date: '2027-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2027-05-27'
     end_date: '2027-05-27'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2027-06-10'
     end_date: '2027-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2027-08-15'
     end_date: '2027-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2027-10-05'
     end_date: '2027-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2027-11-01'
     end_date: '2027-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2027-12-01'
     end_date: '2027-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2027-12-08'
     end_date: '2027-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2027-12-25'
     end_date: '2027-12-25'
     names:
@@ -1315,78 +1531,91 @@ name: Portugal (all)
       pt: Natal
 '2028':
 - New Year's Day:
+    public holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2028-04-14'
     end_date: '2028-04-14'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2028-04-16'
     end_date: '2028-04-16'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2028-04-25'
     end_date: '2028-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2028-06-10'
     end_date: '2028-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2028-06-15'
     end_date: '2028-06-15'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2028-08-15'
     end_date: '2028-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2028-10-05'
     end_date: '2028-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2028-11-01'
     end_date: '2028-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2028-12-01'
     end_date: '2028-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2028-12-08'
     end_date: '2028-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2028-12-25'
     end_date: '2028-12-25'
     names:
@@ -1394,78 +1623,91 @@ name: Portugal (all)
       pt: Natal
 '2029':
 - New Year's Day:
+    public holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2029-03-30'
     end_date: '2029-03-30'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2029-04-01'
     end_date: '2029-04-01'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2029-04-25'
     end_date: '2029-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2029-05-31'
     end_date: '2029-05-31'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2029-06-10'
     end_date: '2029-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2029-08-15'
     end_date: '2029-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2029-10-05'
     end_date: '2029-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2029-11-01'
     end_date: '2029-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2029-12-01'
     end_date: '2029-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2029-12-08'
     end_date: '2029-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2029-12-25'
     end_date: '2029-12-25'
     names:
@@ -1473,78 +1715,91 @@ name: Portugal (all)
       pt: Natal
 '2030':
 - New Year's Day:
+    public holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2030-04-19'
     end_date: '2030-04-19'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2030-04-21'
     end_date: '2030-04-21'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2030-04-25'
     end_date: '2030-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2030-06-10'
     end_date: '2030-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2030-06-20'
     end_date: '2030-06-20'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2030-08-15'
     end_date: '2030-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2030-10-05'
     end_date: '2030-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2030-11-01'
     end_date: '2030-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2030-12-01'
     end_date: '2030-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2030-12-08'
     end_date: '2030-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2030-12-25'
     end_date: '2030-12-25'
     names:
@@ -1552,78 +1807,91 @@ name: Portugal (all)
       pt: Natal
 '2031':
 - New Year's Day:
+    public holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2031-04-11'
     end_date: '2031-04-11'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2031-04-13'
     end_date: '2031-04-13'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2031-04-25'
     end_date: '2031-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2031-06-10'
     end_date: '2031-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2031-06-12'
     end_date: '2031-06-12'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2031-08-15'
     end_date: '2031-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2031-10-05'
     end_date: '2031-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2031-11-01'
     end_date: '2031-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2031-12-01'
     end_date: '2031-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2031-12-08'
     end_date: '2031-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2031-12-25'
     end_date: '2031-12-25'
     names:
@@ -1631,78 +1899,91 @@ name: Portugal (all)
       pt: Natal
 '2032':
 - New Year's Day:
+    public holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2032-03-26'
     end_date: '2032-03-26'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2032-03-28'
     end_date: '2032-03-28'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2032-04-25'
     end_date: '2032-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2032-05-27'
     end_date: '2032-05-27'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2032-06-10'
     end_date: '2032-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2032-08-15'
     end_date: '2032-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2032-10-05'
     end_date: '2032-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2032-11-01'
     end_date: '2032-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2032-12-01'
     end_date: '2032-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2032-12-08'
     end_date: '2032-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2032-12-25'
     end_date: '2032-12-25'
     names:
@@ -1710,78 +1991,91 @@ name: Portugal (all)
       pt: Natal
 '2033':
 - New Year's Day:
+    public holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2033-04-15'
     end_date: '2033-04-15'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2033-04-17'
     end_date: '2033-04-17'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2033-04-25'
     end_date: '2033-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2033-06-10'
     end_date: '2033-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2033-06-16'
     end_date: '2033-06-16'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2033-08-15'
     end_date: '2033-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2033-10-05'
     end_date: '2033-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2033-11-01'
     end_date: '2033-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2033-12-01'
     end_date: '2033-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2033-12-08'
     end_date: '2033-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2033-12-25'
     end_date: '2033-12-25'
     names:
@@ -1789,78 +2083,91 @@ name: Portugal (all)
       pt: Natal
 '2034':
 - New Year's Day:
+    public holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2034-04-07'
     end_date: '2034-04-07'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2034-04-09'
     end_date: '2034-04-09'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2034-04-25'
     end_date: '2034-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2034-06-08'
     end_date: '2034-06-08'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2034-06-10'
     end_date: '2034-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2034-08-15'
     end_date: '2034-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2034-10-05'
     end_date: '2034-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2034-11-01'
     end_date: '2034-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2034-12-01'
     end_date: '2034-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2034-12-08'
     end_date: '2034-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2034-12-25'
     end_date: '2034-12-25'
     names:
@@ -1868,78 +2175,91 @@ name: Portugal (all)
       pt: Natal
 '2035':
 - New Year's Day:
+    public holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2035-03-23'
     end_date: '2035-03-23'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2035-03-25'
     end_date: '2035-03-25'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2035-04-25'
     end_date: '2035-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2035-05-24'
     end_date: '2035-05-24'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2035-06-10'
     end_date: '2035-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2035-08-15'
     end_date: '2035-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2035-10-05'
     end_date: '2035-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2035-11-01'
     end_date: '2035-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2035-12-01'
     end_date: '2035-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2035-12-08'
     end_date: '2035-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2035-12-25'
     end_date: '2035-12-25'
     names:
@@ -1947,78 +2267,91 @@ name: Portugal (all)
       pt: Natal
 '2036':
 - New Year's Day:
+    public holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2036-04-11'
     end_date: '2036-04-11'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2036-04-13'
     end_date: '2036-04-13'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2036-04-25'
     end_date: '2036-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2036-06-10'
     end_date: '2036-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2036-06-12'
     end_date: '2036-06-12'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2036-08-15'
     end_date: '2036-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2036-10-05'
     end_date: '2036-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2036-11-01'
     end_date: '2036-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2036-12-01'
     end_date: '2036-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2036-12-08'
     end_date: '2036-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2036-12-25'
     end_date: '2036-12-25'
     names:
@@ -2026,78 +2359,91 @@ name: Portugal (all)
       pt: Natal
 '2037':
 - New Year's Day:
+    public holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2037-04-03'
     end_date: '2037-04-03'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2037-04-05'
     end_date: '2037-04-05'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2037-04-25'
     end_date: '2037-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2037-06-04'
     end_date: '2037-06-04'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2037-06-10'
     end_date: '2037-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2037-08-15'
     end_date: '2037-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2037-10-05'
     end_date: '2037-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2037-11-01'
     end_date: '2037-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2037-12-01'
     end_date: '2037-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2037-12-08'
     end_date: '2037-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2037-12-25'
     end_date: '2037-12-25'
     names:
@@ -2105,78 +2451,91 @@ name: Portugal (all)
       pt: Natal
 '2038':
 - New Year's Day:
+    public holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2038-04-23'
     end_date: '2038-04-23'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2038-04-25'
     end_date: '2038-04-25'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2038-04-25'
     end_date: '2038-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Portugal Day:
+    public holiday: true
     start_date: '2038-06-10'
     end_date: '2038-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Corpus Christi:
+    public holiday: true
     start_date: '2038-06-24'
     end_date: '2038-06-24'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Assumption of Mary:
+    public holiday: true
     start_date: '2038-08-15'
     end_date: '2038-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2038-10-05'
     end_date: '2038-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2038-11-01'
     end_date: '2038-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2038-12-01'
     end_date: '2038-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2038-12-08'
     end_date: '2038-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2038-12-25'
     end_date: '2038-12-25'
     names:
@@ -2184,78 +2543,91 @@ name: Portugal (all)
       pt: Natal
 '2039':
 - New Year's Day:
+    public holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2039-04-08'
     end_date: '2039-04-08'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2039-04-10'
     end_date: '2039-04-10'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2039-04-25'
     end_date: '2039-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2039-06-09'
     end_date: '2039-06-09'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2039-06-10'
     end_date: '2039-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2039-08-15'
     end_date: '2039-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2039-10-05'
     end_date: '2039-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2039-11-01'
     end_date: '2039-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2039-12-01'
     end_date: '2039-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2039-12-08'
     end_date: '2039-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2039-12-25'
     end_date: '2039-12-25'
     names:
@@ -2263,78 +2635,91 @@ name: Portugal (all)
       pt: Natal
 '2040':
 - New Year's Day:
+    public holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo
 - Good Friday:
+    public holiday: true
     start_date: '2040-03-30'
     end_date: '2040-03-30'
     names:
       en: Good Friday
       pt: Sexta-feira Santa
 - Easter Sunday:
+    public holiday: true
     start_date: '2040-04-01'
     end_date: '2040-04-01'
     names:
       en: Easter Sunday
       pt: Páscoa
 - Freedom Day:
+    public holiday: true
     start_date: '2040-04-25'
     end_date: '2040-04-25'
     names:
       en: Freedom Day
       pt: Dia da Liberdade
 - Labour Day:
+    public holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador
 - Corpus Christi:
+    public holiday: true
     start_date: '2040-05-31'
     end_date: '2040-05-31'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Portugal Day:
+    public holiday: true
     start_date: '2040-06-10'
     end_date: '2040-06-10'
     names:
       en: Portugal Day
       pt: Dia de Portugal, de Camões e das Comunidades Portuguesas
 - Assumption of Mary:
+    public holiday: true
     start_date: '2040-08-15'
     end_date: '2040-08-15'
     names:
       en: Assumption of Mary
       pt: Assunção de Nossa Senhora
 - Republic Day:
+    public holiday: true
     start_date: '2040-10-05'
     end_date: '2040-10-05'
     names:
       en: Republic Day
       pt: Implantação da República
 - All Saints' Day:
+    public holiday: true
     start_date: '2040-11-01'
     end_date: '2040-11-01'
     names:
       en: All Saints' Day
       pt: Todos os Santos
 - Restoration of Independence:
+    public holiday: true
     start_date: '2040-12-01'
     end_date: '2040-12-01'
     names:
       en: Restoration of Independence
       pt: Restauração da Independência
 - Immaculate Conception:
+    public holiday: true
     start_date: '2040-12-08'
     end_date: '2040-12-08'
     names:
       en: Immaculate Conception
       pt: Imaculada Conceição
 - Christmas Day:
+    public holiday: true
     start_date: '2040-12-25'
     end_date: '2040-12-25'
     names:

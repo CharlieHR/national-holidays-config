@@ -2,72 +2,84 @@
 name: Moldova (all)
 '2017':
 - New Year's Day:
+    public holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       ro: New Year's Day
 - Orthodox Christmas Day:
+    public holiday: true
     start_date: '2017-01-07'
     end_date: '2017-01-07'
     names:
       en: Orthodox Christmas Day
       ro: Orthodox Christmas Day
 - Orthodox Christmas Holiday:
+    public holiday: true
     start_date: '2017-01-08'
     end_date: '2017-01-08'
     names:
       en: Orthodox Christmas Holiday
       ro: Orthodox Christmas Holiday
 - International Women's Day:
+    public holiday: true
     start_date: '2017-03-08'
     end_date: '2017-03-08'
     names:
       en: International Women's Day
       ro: International Women's Day
 - Orthodox Easter Day:
+    public holiday: true
     start_date: '2017-04-16'
     end_date: '2017-04-16'
     names:
       en: Orthodox Easter Day
       ro: Orthodox Easter Day
 - Orthodox Easter Monday:
+    public holiday: true
     start_date: '2017-04-17'
     end_date: '2017-04-17'
     names:
       en: Orthodox Easter Monday
       ro: Orthodox Easter Monday
 - Labour Day:
+    public holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day
       ro: Labour Day
 - Victory and Commemoration Day:
+    public holiday: true
     start_date: '2017-05-09'
     end_date: '2017-05-09'
     names:
       en: Victory and Commemoration Day
       ro: Victory and Commemoration Day
 - International Children's Day:
+    public holiday: true
     start_date: '2017-06-01'
     end_date: '2017-06-01'
     names:
       en: International Children's Day
       ro: International Children's Day
 - Independence Day:
+    public holiday: true
     start_date: '2017-08-27'
     end_date: '2017-08-27'
     names:
       en: Independence Day
       ro: Independence Day
 - National Language Day:
+    public holiday: true
     start_date: '2017-08-31'
     end_date: '2017-08-31'
     names:
       en: National Language Day
       ro: National Language Day
 - Christmas Day:
+    public holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
@@ -75,72 +87,84 @@ name: Moldova (all)
       ro: Christmas Day
 '2018':
 - New Year's Day:
+    public holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       ro: New Year's Day
 - Orthodox Christmas Day:
+    public holiday: true
     start_date: '2018-01-07'
     end_date: '2018-01-07'
     names:
       en: Orthodox Christmas Day
       ro: Orthodox Christmas Day
 - Orthodox Christmas Holiday:
+    public holiday: true
     start_date: '2018-01-08'
     end_date: '2018-01-08'
     names:
       en: Orthodox Christmas Holiday
       ro: Orthodox Christmas Holiday
 - International Women's Day:
+    public holiday: true
     start_date: '2018-03-08'
     end_date: '2018-03-08'
     names:
       en: International Women's Day
       ro: International Women's Day
 - Orthodox Easter Day:
+    public holiday: true
     start_date: '2018-04-08'
     end_date: '2018-04-08'
     names:
       en: Orthodox Easter Day
       ro: Orthodox Easter Day
 - Orthodox Easter Monday:
+    public holiday: true
     start_date: '2018-04-09'
     end_date: '2018-04-09'
     names:
       en: Orthodox Easter Monday
       ro: Orthodox Easter Monday
 - Labour Day:
+    public holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
       ro: Labour Day
 - Victory and Commemoration Day:
+    public holiday: true
     start_date: '2018-05-09'
     end_date: '2018-05-09'
     names:
       en: Victory and Commemoration Day
       ro: Victory and Commemoration Day
 - International Children's Day:
+    public holiday: true
     start_date: '2018-06-01'
     end_date: '2018-06-01'
     names:
       en: International Children's Day
       ro: International Children's Day
 - Independence Day:
+    public holiday: true
     start_date: '2018-08-27'
     end_date: '2018-08-27'
     names:
       en: Independence Day
       ro: Independence Day
 - National Language Day:
+    public holiday: true
     start_date: '2018-08-31'
     end_date: '2018-08-31'
     names:
       en: National Language Day
       ro: National Language Day
 - Christmas Day:
+    public holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:

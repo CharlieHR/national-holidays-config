@@ -2,96 +2,112 @@
 name: Bahrain (all)
 '2017':
 - New Year:
+    public holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year
       ar: New Year
 - May Day:
+    public holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: May Day
       ar: May Day
 - Eid al-Fitr:
+    public holiday: true
     start_date: '2017-06-26'
     end_date: '2017-06-26'
     names:
       en: Eid al-Fitr
       ar: Eid al-Fitr
 - Eid al-Fitr:
+    public holiday: true
     start_date: '2017-06-27'
     end_date: '2017-06-27'
     names:
       en: Eid al-Fitr
       ar: Eid al-Fitr
 - Eid al-Fitr:
+    public holiday: true
     start_date: '2017-06-28'
     end_date: '2017-06-28'
     names:
       en: Eid al-Fitr
       ar: Eid al-Fitr
 - Eid al-Adha:
+    public holiday: true
     start_date: '2017-09-02'
     end_date: '2017-09-02'
     names:
       en: Eid al-Adha
       ar: Eid al-Adha
 - Eid al-Adha:
+    public holiday: true
     start_date: '2017-09-03'
     end_date: '2017-09-03'
     names:
       en: Eid al-Adha
       ar: Eid al-Adha
 - Eid al-Adha:
+    public holiday: true
     start_date: '2017-09-04'
     end_date: '2017-09-04'
     names:
       en: Eid al-Adha
       ar: Eid al-Adha
 - Eid al-Adha:
+    public holiday: true
     start_date: '2017-09-05'
     end_date: '2017-09-05'
     names:
       en: Eid al-Adha
       ar: Eid al-Adha
 - Eid al-Adha:
+    public holiday: true
     start_date: '2017-09-06'
     end_date: '2017-09-06'
     names:
       en: Eid al-Adha
       ar: Eid al-Adha
 - Muharram:
+    public holiday: true
     start_date: '2017-09-22'
     end_date: '2017-09-22'
     names:
       en: Muharram
       ar: Muharram
 - Ashoora:
+    public holiday: true
     start_date: '2017-10-22'
     end_date: '2017-10-22'
     names:
       en: Ashoora
       ar: Ashoora
 - Ashoora (second day):
+    public holiday: true
     start_date: '2017-10-23'
     end_date: '2017-10-23'
     names:
       en: Ashoora (second day)
       ar: Ashoora (second day)
 - The Prophet's Birthday:
+    public holiday: true
     start_date: '2017-12-01'
     end_date: '2017-12-01'
     names:
       en: The Prophet's Birthday
       ar: The Prophet's Birthday
 - National Day:
+    public holiday: true
     start_date: '2017-12-16'
     end_date: '2017-12-16'
     names:
       en: National Day
       ar: National Day
 - National Day (second day):
+    public holiday: true
     start_date: '2017-12-17'
     end_date: '2017-12-17'
     names:
@@ -99,96 +115,112 @@ name: Bahrain (all)
       ar: National Day (second day)
 '2018':
 - New Year:
+    public holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year
       ar: New Year
 - May Day:
+    public holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: May Day
       ar: May Day
 - Eid al-Fitr:
+    public holiday: true
     start_date: '2018-06-15'
     end_date: '2018-06-15'
     names:
       en: Eid al-Fitr
       ar: Eid al-Fitr
 - Eid al-Fitr:
+    public holiday: true
     start_date: '2018-06-16'
     end_date: '2018-06-16'
     names:
       en: Eid al-Fitr
       ar: Eid al-Fitr
 - Eid al-Fitr:
+    public holiday: true
     start_date: '2018-06-17'
     end_date: '2018-06-17'
     names:
       en: Eid al-Fitr
       ar: Eid al-Fitr
 - Eid al-Adha:
+    public holiday: true
     start_date: '2018-08-22'
     end_date: '2018-08-22'
     names:
       en: Eid al-Adha
       ar: Eid al-Adha
 - Eid al-Adha:
+    public holiday: true
     start_date: '2018-08-23'
     end_date: '2018-08-23'
     names:
       en: Eid al-Adha
       ar: Eid al-Adha
 - Eid al-Adha:
+    public holiday: true
     start_date: '2018-08-24'
     end_date: '2018-08-24'
     names:
       en: Eid al-Adha
       ar: Eid al-Adha
 - Eid al-Adha:
+    public holiday: true
     start_date: '2018-08-25'
     end_date: '2018-08-25'
     names:
       en: Eid al-Adha
       ar: Eid al-Adha
 - Eid al-Adha:
+    public holiday: true
     start_date: '2018-08-26'
     end_date: '2018-08-26'
     names:
       en: Eid al-Adha
       ar: Eid al-Adha
 - Muharram:
+    public holiday: true
     start_date: '2018-09-12'
     end_date: '2018-09-12'
     names:
       en: Muharram
       ar: Muharram
 - Ashoora:
+    public holiday: true
     start_date: '2018-10-22'
     end_date: '2018-10-22'
     names:
       en: Ashoora
       ar: Ashoora
 - Ashoora (second day):
+    public holiday: true
     start_date: '2018-10-23'
     end_date: '2018-10-23'
     names:
       en: Ashoora (second day)
       ar: Ashoora (second day)
 - The Prophet's Birthday:
+    public holiday: true
     start_date: '2018-11-21'
     end_date: '2018-11-21'
     names:
       en: The Prophet's Birthday
       ar: The Prophet's Birthday
 - National Day:
+    public holiday: true
     start_date: '2018-12-16'
     end_date: '2018-12-16'
     names:
       en: National Day
       ar: National Day
 - National Day (second day):
+    public holiday: true
     start_date: '2018-12-17'
     end_date: '2018-12-17'
     names:

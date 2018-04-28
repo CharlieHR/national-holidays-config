@@ -2,84 +2,98 @@
 name: Sevilla
 '2017':
 - New Year's Day:
+    public holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
+    public holiday: true
     start_date: '2017-01-06'
     end_date: '2017-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Andalucia's Day:
+    public holiday: true
     start_date: '2017-02-28'
     end_date: '2017-02-28'
     names:
       en: Andalucia's Day
       es: Día de Andalucía
 - Good Thursday:
+    public holiday: true
     start_date: '2017-04-13'
     end_date: '2017-04-13'
     names:
       en: Good Thursday
       es: Jueves Santo
 - Good Friday:
+    public holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
       es: Viernes Santo
 - Labour Day:
+    public holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
 - St. Ferdinand's Day:
+    public holiday: true
     start_date: '2017-05-30'
     end_date: '2017-05-30'
     names:
       en: St. Ferdinand's Day
       es: San Fernando
 - Corpus Christi:
+    public holiday: true
     start_date: '2017-06-15'
     end_date: '2017-06-15'
     names:
       en: Corpus Christi
       es: Corpus Christi
 - Assumption of Mary:
+    public holiday: true
     start_date: '2017-08-15'
     end_date: '2017-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - National Day of Spain:
+    public holiday: true
     start_date: '2017-10-12'
     end_date: '2017-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
+    public holiday: true
     start_date: '2017-11-01'
     end_date: '2017-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
+    public holiday: true
     start_date: '2017-12-06'
     end_date: '2017-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
+    public holiday: true
     start_date: '2017-12-08'
     end_date: '2017-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
+    public holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
@@ -87,84 +101,98 @@ name: Sevilla
       es: Dia de Navidad
 '2018':
 - New Year's Day:
+    public holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
+    public holiday: true
     start_date: '2018-01-06'
     end_date: '2018-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Andalucia's Day:
+    public holiday: true
     start_date: '2018-02-28'
     end_date: '2018-02-28'
     names:
       en: Andalucia's Day
       es: Día de Andalucía
 - Good Thursday:
+    public holiday: true
     start_date: '2018-03-29'
     end_date: '2018-03-29'
     names:
       en: Good Thursday
       es: Jueves Santo
 - Good Friday:
+    public holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       es: Viernes Santo
 - Seville's Fair:
+    public holiday: true
     start_date: '2018-04-18'
     end_date: '2018-04-18'
     names:
       en: Seville's Fair
       es: Feria de Abril
 - Labour Day:
+    public holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
 - Corpus Christi:
+    public holiday: true
     start_date: '2018-05-31'
     end_date: '2018-05-31'
     names:
       en: Corpus Christi
       es: Corpus Christi
 - Assumption of Mary:
+    public holiday: true
     start_date: '2018-08-15'
     end_date: '2018-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - National Day of Spain:
+    public holiday: true
     start_date: '2018-10-12'
     end_date: '2018-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
+    public holiday: true
     start_date: '2018-11-01'
     end_date: '2018-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
+    public holiday: true
     start_date: '2018-12-06'
     end_date: '2018-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
+    public holiday: true
     start_date: '2018-12-08'
     end_date: '2018-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
+    public holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
@@ -172,84 +200,98 @@ name: Sevilla
       es: Dia de Navidad
 '2019':
 - New Year's Day:
+    public holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
+    public holiday: true
     start_date: '2019-01-06'
     end_date: '2019-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Andalucia's Day:
+    public holiday: true
     start_date: '2019-02-28'
     end_date: '2019-02-28'
     names:
       en: Andalucia's Day
       es: Día de Andalucía
 - Good Thursday:
+    public holiday: true
     start_date: '2019-04-18'
     end_date: '2019-04-18'
     names:
       en: Good Thursday
       es: Jueves Santo
 - Good Friday:
+    public holiday: true
     start_date: '2019-04-19'
     end_date: '2019-04-19'
     names:
       en: Good Friday
       es: Viernes Santo
 - Good Monday:
+    public holiday: true
     start_date: '2019-04-22'
     end_date: '2019-04-22'
     names:
       en: Good Monday
       es: Lunes de Pascua
 - Labour Day:
+    public holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
 - St. Joseph's Day:
+    public holiday: true
     start_date: '2019-06-24'
     end_date: '2019-06-24'
     names:
       en: St. Joseph's Day
       es: San Juan
 - Assumption of Mary:
+    public holiday: true
     start_date: '2019-08-15'
     end_date: '2019-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - National Day of Spain:
+    public holiday: true
     start_date: '2019-10-12'
     end_date: '2019-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
+    public holiday: true
     start_date: '2019-11-01'
     end_date: '2019-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
+    public holiday: true
     start_date: '2019-12-06'
     end_date: '2019-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
+    public holiday: true
     start_date: '2019-12-08'
     end_date: '2019-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
+    public holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:

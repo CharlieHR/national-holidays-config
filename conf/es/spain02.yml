@@ -2,84 +2,98 @@
 name: Catalunya
 '2015':
 - New Year's Day:
+    public holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
+    public holiday: true
     start_date: '2015-01-06'
     end_date: '2015-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Good Friday:
+    public holiday: true
     start_date: '2015-04-03'
     end_date: '2015-04-03'
     names:
       en: Good Friday
       es: Viernes Santo
 - Good Monday:
+    public holiday: true
     start_date: '2015-04-06'
     end_date: '2015-04-06'
     names:
       en: Good Monday
       es: Lunes de Pascua
 - Labour Day:
+    public holiday: true
     start_date: '2015-05-01'
     end_date: '2015-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
 - St. Joseph's:
+    public holiday: true
     start_date: '2015-06-24'
     end_date: '2015-06-24'
     names:
       en: St. Joseph's
       es: San Juan
 - Assumption of Mary:
+    public holiday: true
     start_date: '2015-08-15'
     end_date: '2015-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - Catalunya's Day:
+    public holiday: true
     start_date: '2015-09-11'
     end_date: '2015-09-11'
     names:
       en: Catalunya's Day
       es: Día de Catalunya
 - National Day of Spain:
+    public holiday: true
     start_date: '2015-10-12'
     end_date: '2015-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
+    public holiday: true
     start_date: '2015-11-01'
     end_date: '2015-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
+    public holiday: true
     start_date: '2015-12-06'
     end_date: '2015-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
+    public holiday: true
     start_date: '2015-12-08'
     end_date: '2015-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
+    public holiday: true
     start_date: '2015-12-25'
     end_date: '2015-12-25'
     names:
       en: Christmas Day
       es: Dia de Navidad
 - St. Stephen's Day:
+    public holiday: true
     start_date: '2015-12-26'
     end_date: '2015-12-26'
     names:
@@ -87,84 +101,98 @@ name: Catalunya
       es: San Esteban
 '2016':
 - New Year's Day:
+    public holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
+    public holiday: true
     start_date: '2016-01-06'
     end_date: '2016-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Good Friday:
+    public holiday: true
     start_date: '2016-03-25'
     end_date: '2016-03-25'
     names:
       en: Good Friday
       es: Viernes Santo
 - Good Monday:
+    public holiday: true
     start_date: '2016-03-28'
     end_date: '2016-03-28'
     names:
       en: Good Monday
       es: Lunes de Pascua
 - Labour Day:
+    public holiday: true
     start_date: '2016-05-02'
     end_date: '2016-05-02'
     names:
       en: Labour Day
       es: Día del trabajo
 - Good Monday:
+    public holiday: true
     start_date: '2016-05-16'
     end_date: '2016-05-16'
     names:
       en: Good Monday
       es: Lunes de Pascua Granada
 - St. Joseph's Day:
+    public holiday: true
     start_date: '2016-06-24'
     end_date: '2016-06-24'
     names:
       en: St. Joseph's Day
       es: San Juan
 - Assumption of Mary:
+    public holiday: true
     start_date: '2016-08-15'
     end_date: '2016-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - Catalunya's Day:
+    public holiday: true
     start_date: '2016-09-11'
     end_date: '2016-09-11'
     names:
       en: Catalunya's Day
       es: Día de Catalunya
 - National Day of Spain:
+    public holiday: true
     start_date: '2016-10-12'
     end_date: '2016-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
+    public holiday: true
     start_date: '2016-11-01'
     end_date: '2016-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
+    public holiday: true
     start_date: '2016-12-06'
     end_date: '2016-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
+    public holiday: true
     start_date: '2016-12-08'
     end_date: '2016-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
+    public holiday: true
     start_date: '2016-12-26'
     end_date: '2016-12-26'
     names:
@@ -172,78 +200,91 @@ name: Catalunya
       es: Dia de Navidad
 '2017':
 - New Year's Day:
+    public holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
+    public holiday: true
     start_date: '2017-01-06'
     end_date: '2017-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Good Friday:
+    public holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
       es: Viernes Santo
 - Good Monday:
+    public holiday: true
     start_date: '2017-04-17'
     end_date: '2017-04-17'
     names:
       en: Good Monday
       es: Lunes de Pascua
 - Labour Day:
+    public holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
 - St. Joseph's Day:
+    public holiday: true
     start_date: '2017-06-24'
     end_date: '2017-06-24'
     names:
       en: St. Joseph's Day
       es: San Juan
 - Assumption of Mary:
+    public holiday: true
     start_date: '2017-08-15'
     end_date: '2017-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - Catalunya's Day:
+    public holiday: true
     start_date: '2017-09-11'
     end_date: '2017-09-11'
     names:
       en: Catalunya's Day
       es: Día de Catalunya
 - National Day of Spain:
+    public holiday: true
     start_date: '2017-10-12'
     end_date: '2017-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
+    public holiday: true
     start_date: '2017-11-01'
     end_date: '2017-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
+    public holiday: true
     start_date: '2017-12-06'
     end_date: '2017-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
+    public holiday: true
     start_date: '2017-12-08'
     end_date: '2017-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
+    public holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
@@ -251,78 +292,91 @@ name: Catalunya
       es: Dia de Navidad
 '2018':
 - New Year's Day:
+    public holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
+    public holiday: true
     start_date: '2018-01-06'
     end_date: '2018-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Good Friday:
+    public holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       es: Viernes Santo
 - Good Monday:
+    public holiday: true
     start_date: '2018-04-02'
     end_date: '2018-04-02'
     names:
       en: Good Monday
       es: Lunes de Pascua
 - Labour Day:
+    public holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
 - St. Joseph's Day:
+    public holiday: true
     start_date: '2018-06-25'
     end_date: '2018-06-25'
     names:
       en: St. Joseph's Day
       es: San Juan
 - Assumption of Mary:
+    public holiday: true
     start_date: '2018-08-15'
     end_date: '2018-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - Catalunya's Day:
+    public holiday: true
     start_date: '2018-09-11'
     end_date: '2018-09-11'
     names:
       en: Catalunya's Day
       es: Día de Catalunya
 - National Day of Spain:
+    public holiday: true
     start_date: '2018-10-12'
     end_date: '2018-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
+    public holiday: true
     start_date: '2018-11-01'
     end_date: '2018-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
+    public holiday: true
     start_date: '2018-12-06'
     end_date: '2018-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
+    public holiday: true
     start_date: '2018-12-08'
     end_date: '2018-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
+    public holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
@@ -330,78 +384,91 @@ name: Catalunya
       es: Dia de Navidad
 '2019':
 - New Year's Day:
+    public holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
+    public holiday: true
     start_date: '2019-01-06'
     end_date: '2019-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Good Friday:
+    public holiday: true
     start_date: '2019-04-19'
     end_date: '2019-04-19'
     names:
       en: Good Friday
       es: Viernes Santo
 - Good Monday:
+    public holiday: true
     start_date: '2019-04-22'
     end_date: '2019-04-22'
     names:
       en: Good Monday
       es: Lunes de Pascua
 - Labour Day:
+    public holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
 - St. Joseph's Day:
+    public holiday: true
     start_date: '2019-06-24'
     end_date: '2019-06-24'
     names:
       en: St. Joseph's Day
       es: San Juan
 - Assumption of Mary:
+    public holiday: true
     start_date: '2019-08-15'
     end_date: '2019-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - Catalunya's Day:
+    public holiday: true
     start_date: '2019-09-11'
     end_date: '2019-09-11'
     names:
       en: Catalunya's Day
       es: Día de Catalunya
 - National Day of Spain:
+    public holiday: true
     start_date: '2019-10-12'
     end_date: '2019-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
+    public holiday: true
     start_date: '2019-11-01'
     end_date: '2019-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
+    public holiday: true
     start_date: '2019-12-06'
     end_date: '2019-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
+    public holiday: true
     start_date: '2019-12-08'
     end_date: '2019-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
+    public holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:
@@ -409,78 +476,91 @@ name: Catalunya
       es: Dia de Navidad
 '2020':
 - New Year's Day:
+    public holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
+    public holiday: true
     start_date: '2020-01-06'
     end_date: '2020-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Good Friday:
+    public holiday: true
     start_date: '2020-04-10'
     end_date: '2020-04-10'
     names:
       en: Good Friday
       es: Viernes Santo
 - Good Monday:
+    public holiday: true
     start_date: '2020-04-13'
     end_date: '2020-04-13'
     names:
       en: Good Monday
       es: Lunes de Pascua
 - Labour Day:
+    public holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
 - St. Joseph's Day:
+    public holiday: true
     start_date: '2020-06-24'
     end_date: '2020-06-24'
     names:
       en: St. Joseph's Day
       es: San Juan
 - Assumption of Mary:
+    public holiday: true
     start_date: '2020-08-15'
     end_date: '2020-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - Catalunya's Day:
+    public holiday: true
     start_date: '2020-09-11'
     end_date: '2020-09-11'
     names:
       en: Catalunya's Day
       es: Día de Catalunya
 - National Day of Spain:
+    public holiday: true
     start_date: '2020-10-12'
     end_date: '2020-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
+    public holiday: true
     start_date: '2020-11-01'
     end_date: '2020-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
+    public holiday: true
     start_date: '2020-12-06'
     end_date: '2020-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
+    public holiday: true
     start_date: '2020-12-08'
     end_date: '2020-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
+    public holiday: true
     start_date: '2020-12-25'
     end_date: '2020-12-25'
     names:

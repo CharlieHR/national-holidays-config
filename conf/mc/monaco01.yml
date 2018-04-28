@@ -2,84 +2,98 @@
 name: Monaco (all)
 '2017':
 - New Year's Day:
+    public holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       fr: New Year's Day
 - New Year's Day observed:
+    public holiday: true
     start_date: '2017-01-02'
     end_date: '2017-01-02'
     names:
       en: New Year's Day observed
       fr: New Year's Day observed
 - Saint Dévote's Day:
+    public holiday: true
     start_date: '2017-01-27'
     end_date: '2017-01-27'
     names:
       en: Saint Dévote's Day
       fr: Saint Dévote's Day
 - Easter Monday:
+    public holiday: true
     start_date: '2017-04-17'
     end_date: '2017-04-17'
     names:
       en: Easter Monday
       fr: Easter Monday
 - Labour Day/May Day:
+    public holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day/May Day
       fr: Labour Day/May Day
 - Ascension Day:
+    public holiday: true
     start_date: '2017-05-25'
     end_date: '2017-05-25'
     names:
       en: Ascension Day
       fr: Ascension Day
 - Whit Monday:
+    public holiday: true
     start_date: '2017-06-05'
     end_date: '2017-06-05'
     names:
       en: Whit Monday
       fr: Whit Monday
 - Corpus Christi:
+    public holiday: true
     start_date: '2017-06-15'
     end_date: '2017-06-15'
     names:
       en: Corpus Christi
       fr: Corpus Christi
 - Assumption of Mary:
+    public holiday: true
     start_date: '2017-08-15'
     end_date: '2017-08-15'
     names:
       en: Assumption of Mary
       fr: Assumption of Mary
 - All Saints' Day:
+    public holiday: true
     start_date: '2017-11-01'
     end_date: '2017-11-01'
     names:
       en: All Saints' Day
       fr: All Saints' Day
 - National Day:
+    public holiday: true
     start_date: '2017-11-19'
     end_date: '2017-11-19'
     names:
       en: National Day
       fr: National Day
 - National Day observed:
+    public holiday: true
     start_date: '2017-11-20'
     end_date: '2017-11-20'
     names:
       en: National Day observed
       fr: National Day observed
 - Feast of the Immaculate Conception:
+    public holiday: true
     start_date: '2017-12-08'
     end_date: '2017-12-08'
     names:
       en: Feast of the Immaculate Conception
       fr: Feast of the Immaculate Conception
 - Christmas Day:
+    public holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
@@ -87,72 +101,84 @@ name: Monaco (all)
       fr: Christmas Day
 '2018':
 - New Year's Day:
+    public holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       fr: New Year's Day
 - Saint Dévote's Day:
+    public holiday: true
     start_date: '2018-01-27'
     end_date: '2018-01-27'
     names:
       en: Saint Dévote's Day
       fr: Saint Dévote's Day
 - Easter Monday:
+    public holiday: true
     start_date: '2018-04-02'
     end_date: '2018-04-02'
     names:
       en: Easter Monday
       fr: Easter Monday
 - Labour Day/May Day:
+    public holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day/May Day
       fr: Labour Day/May Day
 - Ascension Day:
+    public holiday: true
     start_date: '2018-05-10'
     end_date: '2018-05-10'
     names:
       en: Ascension Day
       fr: Ascension Day
 - Whit Monday:
+    public holiday: true
     start_date: '2018-05-21'
     end_date: '2018-05-21'
     names:
       en: Whit Monday
       fr: Whit Monday
 - Corpus Christi:
+    public holiday: true
     start_date: '2018-05-31'
     end_date: '2018-05-31'
     names:
       en: Corpus Christi
       fr: Corpus Christi
 - Assumption of Mary:
+    public holiday: true
     start_date: '2018-08-15'
     end_date: '2018-08-15'
     names:
       en: Assumption of Mary
       fr: Assumption of Mary
 - All Saints' Day:
+    public holiday: true
     start_date: '2018-11-01'
     end_date: '2018-11-01'
     names:
       en: All Saints' Day
       fr: All Saints' Day
 - National Day:
+    public holiday: true
     start_date: '2018-11-19'
     end_date: '2018-11-19'
     names:
       en: National Day
       fr: National Day
 - Feast of the Immaculate Conception:
+    public holiday: true
     start_date: '2018-12-08'
     end_date: '2018-12-08'
     names:
       en: Feast of the Immaculate Conception
       fr: Feast of the Immaculate Conception
 - Christmas Day:
+    public holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:

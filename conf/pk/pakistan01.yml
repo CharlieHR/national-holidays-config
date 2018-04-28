@@ -2,122 +2,146 @@
 name: Pakistan (all)
 '2017':
 - Kashmir Day:
+    public holiday: true
     start_date: '2017-02-05'
     end_date: '2017-02-05'
     names:
       en: Kashmir Day
 - Pakistan Day:
+    public holiday: true
     start_date: '2017-03-23'
     end_date: '2017-03-23'
     names:
       en: Pakistan Day
 - Labour Day:
+    public holiday: true
     start_date: '2017-01-05'
     end_date: '2017-01-05'
     names:
       en: Labour Day
 - Eid-ul-Fitr:
+    public holiday: true
     start_date: '2017-06-26'
     end_date: '2017-06-26'
     names:
       en: Eid-ul-Fitr
 - Eid-ul-Fitr:
+    public holiday: true
     start_date: '2017-06-27'
     end_date: '2017-06-27'
     names:
       en: Eid-ul-Fitr
 - Eid-ul-Fitr:
+    public holiday: true
     start_date: '2017-06-28'
     end_date: '2017-06-28'
     names:
       en: Eid-ul-Fitr
 - Independence Day:
+    public holiday: true
     start_date: '2017-08-14'
     end_date: '2017-08-14'
     names:
       en: Independence Day
 - Eid ul-Azha:
+    public holiday: true
     start_date: '2017-09-01'
     end_date: '2017-09-01'
     names:
       en: Eid ul-Azha
 - Eid ul-Azha:
+    public holiday: true
     start_date: '2017-09-02'
     end_date: '2017-09-02'
     names:
       en: Eid ul-Azha
 - Ashura:
+    public holiday: true
     start_date: '2017-09-30'
     end_date: '2017-09-30'
     names:
       en: Ashura
 - Birthday of Nabi:
+    public holiday: true
     start_date: '2017-12-01'
     end_date: '2017-12-01'
     names:
       en: Birthday of Nabi
 - Birthday of Quaid-e-Azam Muhammad Ali Jinnah:
+    public holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Birthday of Quaid-e-Azam Muhammad Ali Jinnah
 '2018':
 - Kashmir Day:
+    public holiday: true
     start_date: '2018-02-05'
     end_date: '2018-02-05'
     names:
       en: Kashmir Day
 - Pakistan Day:
+    public holiday: true
     start_date: '2018-03-23'
     end_date: '2018-03-23'
     names:
       en: Pakistan Day
 - Labour Day:
+    public holiday: true
     start_date: '2018-01-05'
     end_date: '2018-01-05'
     names:
       en: Labour Day
 - Eid-ul-Fitr:
+    public holiday: true
     start_date: '2018-06-15'
     end_date: '2018-06-15'
     names:
       en: Eid-ul-Fitr
 - Eid-ul-Fitr:
+    public holiday: true
     start_date: '2018-06-16'
     end_date: '2018-06-16'
     names:
       en: Eid-ul-Fitr
 - Eid-ul-Fitr:
+    public holiday: true
     start_date: '2018-06-17'
     end_date: '2018-06-17'
     names:
       en: Eid-ul-Fitr
 - Independence Day:
+    public holiday: true
     start_date: '2018-08-14'
     end_date: '2018-08-14'
     names:
       en: Independence Day
 - Eid ul-Azha:
+    public holiday: true
     start_date: '2018-08-22'
     end_date: '2018-08-22'
     names:
       en: Eid ul-Azha
 - Eid ul-Azha:
+    public holiday: true
     start_date: '2018-08-23'
     end_date: '2018-08-23'
     names:
       en: Eid ul-Azha
 - Ashoora:
+    public holiday: true
     start_date: '2018-09-20'
     end_date: '2018-09-20'
     names:
       en: Ashoora
 - Birthday of Nabi:
+    public holiday: true
     start_date: '2018-10-20'
     end_date: '2018-10-20'
     names:
       en: Birthday of Nabi
 - Birthday of Quaid-e-Azam Muhammad Ali Jinnah:
+    public holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:

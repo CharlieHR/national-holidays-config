@@ -2,78 +2,91 @@
 name: Vietnam
 '2017':
 - New Year's Day:
+    public holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       vi: New Year's Day
 - New Year's Holiday:
+    public holiday: true
     start_date: '2017-01-02'
     end_date: '2017-01-02'
     names:
       en: New Year's Holiday
       vi: New Year's Holiday
 - Tet Holiday:
+    public holiday: true
     start_date: '2017-01-26'
     end_date: '2017-01-26'
     names:
       en: Tet Holiday
       vi: Tet Holiday
 - Vietnamese New Year's Eve:
+    public holiday: true
     start_date: '2017-01-27'
     end_date: '2017-01-27'
     names:
       en: Vietnamese New Year's Eve
       vi: Vietnamese New Year's Eve
 - Vietnamese New Year:
+    public holiday: true
     start_date: '2017-01-28'
     end_date: '2017-01-28'
     names:
       en: Vietnamese New Year
       vi: Vietnamese New Year
 - Vietnamese New Year Holiday:
+    public holiday: true
     start_date: '2017-01-29'
     end_date: '2017-01-29'
     names:
       en: Vietnamese New Year Holiday
       vi: Vietnamese New Year Holiday
 - Vietnamese New Year Holiday:
+    public holiday: true
     start_date: '2017-01-30'
     end_date: '2017-01-30'
     names:
       en: Vietnamese New Year Holiday
       vi: Vietnamese New Year Holiday
 - Vietnamese New Year Holiday:
+    public holiday: true
     start_date: '2017-01-31'
     end_date: '2017-01-31'
     names:
       en: Vietnamese New Year Holiday
       vi: Vietnamese New Year Holiday
 - Vietnamese New Year Holiday:
+    public holiday: true
     start_date: '2017-02-01'
     end_date: '2017-02-01'
     names:
       en: Vietnamese New Year Holiday
       vi: Vietnamese New Year Holiday
 - Vietnamese Kings' Commemoration Day:
+    public holiday: true
     start_date: '2017-04-06'
     end_date: '2017-04-06'
     names:
       en: Vietnamese Kings' Commemoration Day
       vi: Vietnamese Kings' Commemoration Day
 - Labour Day:
+    public holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day
       vi: Labour Day
 - Reunification Day:
+    public holiday: true
     start_date: '2017-05-02'
     end_date: '2017-05-02'
     names:
       en: Reunification Day
       vi: Reunification Day
 - Independence Day:
+    public holiday: true
     start_date: '2017-09-04'
     end_date: '2017-09-04'
     names:
@@ -81,60 +94,70 @@ name: Vietnam
       vi: Independence Day
 '2018':
 - New Year's Day:
+    public holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       vi: New Year's Day
 - Vietnamese New Year's Eve:
+    public holiday: true
     start_date: '2018-02-15'
     end_date: '2018-02-15'
     names:
       en: Vietnamese New Year's Eve
       vi: Vietnamese New Year's Eve
 - Vietnamese New Year:
+    public holiday: true
     start_date: '2018-02-16'
     end_date: '2018-02-16'
     names:
       en: Vietnamese New Year
       vi: Vietnamese New Year
 - Vietnamese New Year Holiday:
+    public holiday: true
     start_date: '2018-02-17'
     end_date: '2018-02-17'
     names:
       en: Vietnamese New Year Holiday
       vi: Vietnamese New Year Holiday
 - Vietnamese New Year Holiday:
+    public holiday: true
     start_date: '2018-02-18'
     end_date: '2018-02-18'
     names:
       en: Vietnamese New Year Holiday
       vi: Vietnamese New Year Holiday
 - Vietnamese New Year Holiday:
+    public holiday: true
     start_date: '2018-02-19'
     end_date: '2018-02-19'
     names:
       en: Vietnamese New Year Holiday
       vi: Vietnamese New Year Holiday
 - Vietnamese New Year Holiday:
+    public holiday: true
     start_date: '2018-02-20'
     end_date: '2018-02-20'
     names:
       en: Vietnamese New Year Holiday
       vi: Vietnamese New Year Holiday
 - Vietnamese Kings' Commemoration Day:
+    public holiday: true
     start_date: '2018-04-25'
     end_date: '2018-04-25'
     names:
       en: Vietnamese Kings' Commemoration Day
       vi: Vietnamese Kings' Commemoration Day
 - Labour Day:
+    public holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
       vi: Labour Day
 - Independence Day:
+    public holiday: true
     start_date: '2018-09-03'
     end_date: '2018-09-03'
     names:

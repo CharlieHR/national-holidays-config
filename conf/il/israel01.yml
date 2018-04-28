@@ -2,72 +2,84 @@
 name: Israel (all)
 '2014':
 - Feast of Purim:
+    public holiday: true
     start_date: '2014-03-16'
     end_date: '2014-03-16'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2014-03-17'
     end_date: '2014-03-17'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2014-04-15'
     end_date: '2014-04-15'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2014-04-21'
     end_date: '2014-04-21'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2014-05-06'
     end_date: '2014-05-06'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2014-06-04'
     end_date: '2014-06-04'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2014-08-05'
     end_date: '2014-08-05'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2014-09-25'
     end_date: '2014-09-25'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2014-09-26'
     end_date: '2014-09-26'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2014-10-04'
     end_date: '2014-10-04'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2014-10-09'
     end_date: '2014-10-09'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2014-10-16'
     end_date: '2014-10-16'
     names:
@@ -75,72 +87,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2015':
 - Feast of Purim:
+    public holiday: true
     start_date: '2015-03-05'
     end_date: '2015-03-05'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2015-03-06'
     end_date: '2015-03-06'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2015-04-04'
     end_date: '2015-04-04'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2015-04-10'
     end_date: '2015-04-10'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2015-04-23'
     end_date: '2015-04-23'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2015-05-24'
     end_date: '2015-05-24'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2015-07-26'
     end_date: '2015-07-26'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2015-09-14'
     end_date: '2015-09-14'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2015-09-15'
     end_date: '2015-09-15'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2015-09-23'
     end_date: '2015-09-23'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2015-09-28'
     end_date: '2015-09-28'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2015-10-05'
     end_date: '2015-10-05'
     names:
@@ -148,72 +172,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2016':
 - Feast of Purim:
+    public holiday: true
     start_date: '2016-03-24'
     end_date: '2016-03-24'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2016-03-25'
     end_date: '2016-03-25'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2016-04-23'
     end_date: '2016-04-23'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2016-04-29'
     end_date: '2016-04-29'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2016-05-12'
     end_date: '2016-05-12'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2016-06-12'
     end_date: '2016-06-12'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2016-08-14'
     end_date: '2016-08-14'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2016-10-03'
     end_date: '2016-10-03'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2016-10-04'
     end_date: '2016-10-04'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2016-10-12'
     end_date: '2016-10-12'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2016-10-17'
     end_date: '2016-10-17'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2016-10-24'
     end_date: '2016-10-24'
     names:
@@ -221,72 +257,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2017':
 - Feast of Purim:
+    public holiday: true
     start_date: '2017-03-12'
     end_date: '2017-03-12'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2017-03-13'
     end_date: '2017-03-13'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2017-04-11'
     end_date: '2017-04-11'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2017-04-17'
     end_date: '2017-04-17'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2017-05-02'
     end_date: '2017-05-02'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2017-05-31'
     end_date: '2017-05-31'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2017-08-01'
     end_date: '2017-08-01'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2017-09-21'
     end_date: '2017-09-21'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2017-09-22'
     end_date: '2017-09-22'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2017-09-30'
     end_date: '2017-09-30'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2017-10-05'
     end_date: '2017-10-05'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2017-10-12'
     end_date: '2017-10-12'
     names:
@@ -294,72 +342,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2018':
 - Feast of Purim:
+    public holiday: true
     start_date: '2018-03-01'
     end_date: '2018-03-01'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2018-03-02'
     end_date: '2018-03-02'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2018-03-31'
     end_date: '2018-03-31'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2018-04-06'
     end_date: '2018-04-06'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2018-04-19'
     end_date: '2018-04-19'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2018-05-20'
     end_date: '2018-05-20'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2018-07-22'
     end_date: '2018-07-22'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2018-09-10'
     end_date: '2018-09-10'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2018-09-11'
     end_date: '2018-09-11'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2018-09-19'
     end_date: '2018-09-19'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2018-09-24'
     end_date: '2018-09-24'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2018-10-01'
     end_date: '2018-10-01'
     names:
@@ -367,72 +427,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2019':
 - Feast of Purim:
+    public holiday: true
     start_date: '2019-03-21'
     end_date: '2019-03-21'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2019-03-22'
     end_date: '2019-03-22'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2019-04-20'
     end_date: '2019-04-20'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2019-04-26'
     end_date: '2019-04-26'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2019-05-09'
     end_date: '2019-05-09'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2019-06-09'
     end_date: '2019-06-09'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2019-08-11'
     end_date: '2019-08-11'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2019-09-30'
     end_date: '2019-09-30'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2019-10-01'
     end_date: '2019-10-01'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2019-10-09'
     end_date: '2019-10-09'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2019-10-14'
     end_date: '2019-10-14'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2019-10-21'
     end_date: '2019-10-21'
     names:
@@ -440,72 +512,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2020':
 - Feast of Purim:
+    public holiday: true
     start_date: '2020-03-10'
     end_date: '2020-03-10'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2020-03-11'
     end_date: '2020-03-11'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2020-04-09'
     end_date: '2020-04-09'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2020-04-15'
     end_date: '2020-04-15'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2020-04-29'
     end_date: '2020-04-29'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2020-05-29'
     end_date: '2020-05-29'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2020-07-30'
     end_date: '2020-07-30'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2020-09-19'
     end_date: '2020-09-19'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2020-09-20'
     end_date: '2020-09-20'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2020-09-28'
     end_date: '2020-09-28'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2020-10-03'
     end_date: '2020-10-03'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2020-10-10'
     end_date: '2020-10-10'
     names:
@@ -513,72 +597,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2021':
 - Feast of Purim:
+    public holiday: true
     start_date: '2021-02-26'
     end_date: '2021-02-26'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2021-02-27'
     end_date: '2021-02-27'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2021-03-28'
     end_date: '2021-03-28'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2021-04-03'
     end_date: '2021-04-03'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2021-04-15'
     end_date: '2021-04-15'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2021-05-17'
     end_date: '2021-05-17'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2021-07-18'
     end_date: '2021-07-18'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2021-09-07'
     end_date: '2021-09-07'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2021-09-08'
     end_date: '2021-09-08'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2021-09-16'
     end_date: '2021-09-16'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2021-09-21'
     end_date: '2021-09-21'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2021-09-28'
     end_date: '2021-09-28'
     names:
@@ -586,72 +682,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2022':
 - Feast of Purim:
+    public holiday: true
     start_date: '2022-03-17'
     end_date: '2022-03-17'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2022-03-18'
     end_date: '2022-03-18'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2022-04-16'
     end_date: '2022-04-16'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2022-04-22'
     end_date: '2022-04-22'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2022-05-05'
     end_date: '2022-05-05'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2022-06-05'
     end_date: '2022-06-05'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2022-08-07'
     end_date: '2022-08-07'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2022-09-26'
     end_date: '2022-09-26'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2022-09-27'
     end_date: '2022-09-27'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2022-10-05'
     end_date: '2022-10-05'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2022-10-10'
     end_date: '2022-10-10'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2022-10-17'
     end_date: '2022-10-17'
     names:
@@ -659,72 +767,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2023':
 - Feast of Purim:
+    public holiday: true
     start_date: '2023-03-07'
     end_date: '2023-03-07'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2023-03-08'
     end_date: '2023-03-08'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2023-04-06'
     end_date: '2023-04-06'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2023-04-12'
     end_date: '2023-04-12'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2023-04-26'
     end_date: '2023-04-26'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2023-05-26'
     end_date: '2023-05-26'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2023-07-27'
     end_date: '2023-07-27'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2023-09-16'
     end_date: '2023-09-16'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2023-09-17'
     end_date: '2023-09-17'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2023-09-25'
     end_date: '2023-09-25'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2023-09-30'
     end_date: '2023-09-30'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2023-10-07'
     end_date: '2023-10-07'
     names:
@@ -732,72 +852,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2024':
 - Feast of Purim:
+    public holiday: true
     start_date: '2024-03-24'
     end_date: '2024-03-24'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2024-03-25'
     end_date: '2024-03-25'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2024-04-23'
     end_date: '2024-04-23'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2024-04-29'
     end_date: '2024-04-29'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2024-05-14'
     end_date: '2024-05-14'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2024-06-12'
     end_date: '2024-06-12'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2024-08-13'
     end_date: '2024-08-13'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2024-10-03'
     end_date: '2024-10-03'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2024-10-04'
     end_date: '2024-10-04'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2024-10-12'
     end_date: '2024-10-12'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2024-10-17'
     end_date: '2024-10-17'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2024-10-24'
     end_date: '2024-10-24'
     names:
@@ -805,72 +937,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2025':
 - Feast of Purim:
+    public holiday: true
     start_date: '2025-03-14'
     end_date: '2025-03-14'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2025-03-15'
     end_date: '2025-03-15'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2025-04-13'
     end_date: '2025-04-13'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2025-04-19'
     end_date: '2025-04-19'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2025-06-02'
     end_date: '2025-06-02'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2025-08-03'
     end_date: '2025-08-03'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2025-09-23'
     end_date: '2025-09-23'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2025-09-24'
     end_date: '2025-09-24'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2025-10-02'
     end_date: '2025-10-02'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2025-10-07'
     end_date: '2025-10-07'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2025-10-14'
     end_date: '2025-10-14'
     names:
@@ -878,72 +1022,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2026':
 - Feast of Purim:
+    public holiday: true
     start_date: '2026-03-03'
     end_date: '2026-03-03'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2026-03-04'
     end_date: '2026-03-04'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2026-04-02'
     end_date: '2026-04-02'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2026-04-08'
     end_date: '2026-04-08'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2026-04-22'
     end_date: '2026-04-22'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2026-05-22'
     end_date: '2026-05-22'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2026-07-23'
     end_date: '2026-07-23'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2026-09-12'
     end_date: '2026-09-12'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2026-09-13'
     end_date: '2026-09-13'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2026-09-21'
     end_date: '2026-09-21'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2026-09-26'
     end_date: '2026-09-26'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2026-10-03'
     end_date: '2026-10-03'
     names:
@@ -951,72 +1107,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2027':
 - Feast of Purim:
+    public holiday: true
     start_date: '2027-03-23'
     end_date: '2027-03-23'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2027-03-24'
     end_date: '2027-03-24'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2027-04-22'
     end_date: '2027-04-22'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2027-04-28'
     end_date: '2027-04-28'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2027-05-12'
     end_date: '2027-05-12'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2027-06-11'
     end_date: '2027-06-11'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2027-08-12'
     end_date: '2027-08-12'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2027-10-02'
     end_date: '2027-10-02'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2027-10-03'
     end_date: '2027-10-03'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2027-10-11'
     end_date: '2027-10-11'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2027-10-16'
     end_date: '2027-10-16'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2027-10-23'
     end_date: '2027-10-23'
     names:
@@ -1024,72 +1192,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2028':
 - Feast of Purim:
+    public holiday: true
     start_date: '2028-03-12'
     end_date: '2028-03-12'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2028-03-13'
     end_date: '2028-03-13'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2028-04-11'
     end_date: '2028-04-11'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2028-04-17'
     end_date: '2028-04-17'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2028-05-02'
     end_date: '2028-05-02'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2028-05-31'
     end_date: '2028-05-31'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2028-08-01'
     end_date: '2028-08-01'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2028-09-21'
     end_date: '2028-09-21'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2028-09-22'
     end_date: '2028-09-22'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2028-09-30'
     end_date: '2028-09-30'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2028-10-05'
     end_date: '2028-10-05'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2028-10-12'
     end_date: '2028-10-12'
     names:
@@ -1097,72 +1277,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2029':
 - Feast of Purim:
+    public holiday: true
     start_date: '2029-03-01'
     end_date: '2029-03-01'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2029-03-02'
     end_date: '2029-03-02'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2029-03-31'
     end_date: '2029-03-31'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2029-04-06'
     end_date: '2029-04-06'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2029-04-19'
     end_date: '2029-04-19'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2029-05-20'
     end_date: '2029-05-20'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2029-07-22'
     end_date: '2029-07-22'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2029-09-10'
     end_date: '2029-09-10'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2029-09-11'
     end_date: '2029-09-11'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2029-09-19'
     end_date: '2029-09-19'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2029-09-24'
     end_date: '2029-09-24'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2029-10-01'
     end_date: '2029-10-01'
     names:
@@ -1170,72 +1362,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2030':
 - Feast of Purim:
+    public holiday: true
     start_date: '2030-03-19'
     end_date: '2030-03-19'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2030-03-20'
     end_date: '2030-03-20'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2030-04-18'
     end_date: '2030-04-18'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2030-04-24'
     end_date: '2030-04-24'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2030-05-08'
     end_date: '2030-05-08'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2030-06-07'
     end_date: '2030-06-07'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2030-08-08'
     end_date: '2030-08-08'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2030-09-28'
     end_date: '2030-09-28'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2030-09-29'
     end_date: '2030-09-29'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2030-10-07'
     end_date: '2030-10-07'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2030-10-12'
     end_date: '2030-10-12'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2030-10-19'
     end_date: '2030-10-19'
     names:
@@ -1243,72 +1447,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2031':
 - Feast of Purim:
+    public holiday: true
     start_date: '2031-03-09'
     end_date: '2031-03-09'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2031-03-10'
     end_date: '2031-03-10'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2031-04-08'
     end_date: '2031-04-08'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2031-04-14'
     end_date: '2031-04-14'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2031-04-29'
     end_date: '2031-04-29'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2031-05-28'
     end_date: '2031-05-28'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2031-07-29'
     end_date: '2031-07-29'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2031-09-18'
     end_date: '2031-09-18'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2031-09-19'
     end_date: '2031-09-19'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2031-09-27'
     end_date: '2031-09-27'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2031-10-02'
     end_date: '2031-10-02'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2031-10-09'
     end_date: '2031-10-09'
     names:
@@ -1316,72 +1532,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2032':
 - Feast of Purim:
+    public holiday: true
     start_date: '2032-02-26'
     end_date: '2032-02-26'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2032-02-27'
     end_date: '2032-02-27'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2032-03-27'
     end_date: '2032-03-27'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2032-04-02'
     end_date: '2032-04-02'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2032-04-15'
     end_date: '2032-04-15'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2032-05-16'
     end_date: '2032-05-16'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2032-07-18'
     end_date: '2032-07-18'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2032-09-06'
     end_date: '2032-09-06'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2032-09-07'
     end_date: '2032-09-07'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2032-09-15'
     end_date: '2032-09-15'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2032-09-20'
     end_date: '2032-09-20'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2032-09-27'
     end_date: '2032-09-27'
     names:
@@ -1389,72 +1617,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2033':
 - Feast of Purim:
+    public holiday: true
     start_date: '2033-03-15'
     end_date: '2033-03-15'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2033-03-16'
     end_date: '2033-03-16'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2033-04-14'
     end_date: '2033-04-14'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2033-04-20'
     end_date: '2033-04-20'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2033-05-04'
     end_date: '2033-05-04'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2033-06-03'
     end_date: '2033-06-03'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2033-08-04'
     end_date: '2033-08-04'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2033-09-24'
     end_date: '2033-09-24'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2033-09-25'
     end_date: '2033-09-25'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2033-10-03'
     end_date: '2033-10-03'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2033-10-08'
     end_date: '2033-10-08'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2033-10-15'
     end_date: '2033-10-15'
     names:
@@ -1462,72 +1702,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2034':
 - Feast of Purim:
+    public holiday: true
     start_date: '2034-03-05'
     end_date: '2034-03-05'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2034-03-06'
     end_date: '2034-03-06'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2034-04-04'
     end_date: '2034-04-04'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2034-04-10'
     end_date: '2034-04-10'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2034-04-25'
     end_date: '2034-04-25'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2034-05-24'
     end_date: '2034-05-24'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2034-07-25'
     end_date: '2034-07-25'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2034-09-14'
     end_date: '2034-09-14'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2034-09-15'
     end_date: '2034-09-15'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2034-09-23'
     end_date: '2034-09-23'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2034-09-28'
     end_date: '2034-09-28'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2034-10-05'
     end_date: '2034-10-05'
     names:
@@ -1535,72 +1787,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2035':
 - Feast of Purim:
+    public holiday: true
     start_date: '2035-03-25'
     end_date: '2035-03-25'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2035-03-26'
     end_date: '2035-03-26'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2035-04-24'
     end_date: '2035-04-24'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2035-04-30'
     end_date: '2035-04-30'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2035-05-15'
     end_date: '2035-05-15'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2035-06-13'
     end_date: '2035-06-13'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2035-08-14'
     end_date: '2035-08-14'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2035-10-04'
     end_date: '2035-10-04'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2035-10-05'
     end_date: '2035-10-05'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2035-10-13'
     end_date: '2035-10-13'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2035-10-18'
     end_date: '2035-10-18'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2035-10-25'
     end_date: '2035-10-25'
     names:
@@ -1608,72 +1872,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2036':
 - Feast of Purim:
+    public holiday: true
     start_date: '2036-03-13'
     end_date: '2036-03-13'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2036-03-14'
     end_date: '2036-03-14'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2036-04-12'
     end_date: '2036-04-12'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2036-04-18'
     end_date: '2036-04-18'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2036-06-01'
     end_date: '2036-06-01'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2036-08-03'
     end_date: '2036-08-03'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2036-09-22'
     end_date: '2036-09-22'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2036-09-23'
     end_date: '2036-09-23'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2036-10-01'
     end_date: '2036-10-01'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2036-10-06'
     end_date: '2036-10-06'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2036-10-13'
     end_date: '2036-10-13'
     names:
@@ -1681,72 +1957,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2037':
 - Feast of Purim:
+    public holiday: true
     start_date: '2037-03-01'
     end_date: '2037-03-01'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2037-03-02'
     end_date: '2037-03-02'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2037-03-31'
     end_date: '2037-03-31'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2037-04-06'
     end_date: '2037-04-06'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2037-04-21'
     end_date: '2037-04-21'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2037-05-20'
     end_date: '2037-05-20'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2037-07-21'
     end_date: '2037-07-21'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2037-09-10'
     end_date: '2037-09-10'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2037-09-11'
     end_date: '2037-09-11'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2037-09-19'
     end_date: '2037-09-19'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2037-09-24'
     end_date: '2037-09-24'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2037-10-01'
     end_date: '2037-10-01'
     names:
@@ -1754,72 +2042,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2038':
 - Feast of Purim:
+    public holiday: true
     start_date: '2038-03-21'
     end_date: '2038-03-21'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2038-03-22'
     end_date: '2038-03-22'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2038-04-20'
     end_date: '2038-04-20'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2038-04-26'
     end_date: '2038-04-26'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2038-05-11'
     end_date: '2038-05-11'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2038-06-09'
     end_date: '2038-06-09'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2038-08-10'
     end_date: '2038-08-10'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2038-09-30'
     end_date: '2038-09-30'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2038-10-01'
     end_date: '2038-10-01'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2038-10-09'
     end_date: '2038-10-09'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2038-10-14'
     end_date: '2038-10-14'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2038-10-21'
     end_date: '2038-10-21'
     names:
@@ -1827,72 +2127,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2039':
 - Feast of Purim:
+    public holiday: true
     start_date: '2039-03-10'
     end_date: '2039-03-10'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2039-03-11'
     end_date: '2039-03-11'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2039-04-09'
     end_date: '2039-04-09'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2039-04-15'
     end_date: '2039-04-15'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2039-04-28'
     end_date: '2039-04-28'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2039-05-29'
     end_date: '2039-05-29'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2039-07-31'
     end_date: '2039-07-31'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2039-09-19'
     end_date: '2039-09-19'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2039-09-20'
     end_date: '2039-09-20'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2039-09-28'
     end_date: '2039-09-28'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2039-10-03'
     end_date: '2039-10-03'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2039-10-10'
     end_date: '2039-10-10'
     names:
@@ -1900,72 +2212,84 @@ name: Israel (all)
       he: שמחת תורה/שמיני עצרת (Simchat Torah/Shemini Atzeret)
 '2040':
 - Feast of Purim:
+    public holiday: true
     start_date: '2040-02-28'
     end_date: '2040-02-28'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Feast of Purim:
+    public holiday: true
     start_date: '2040-02-29'
     end_date: '2040-02-29'
     names:
       en: Feast of Purim
       he: פורים (Purim)
 - Passover:
+    public holiday: true
     start_date: '2040-03-29'
     end_date: '2040-03-29'
     names:
       en: Passover
       he: פסח (Pesach)
 - Seventh day of Passover:
+    public holiday: true
     start_date: '2040-04-04'
     end_date: '2040-04-04'
     names:
       en: Seventh day of Passover
       he: שביעי של פסח (Shvi'i shel Pesach)
 - Independence Day:
+    public holiday: true
     start_date: '2040-04-18'
     end_date: '2040-04-18'
     names:
       en: Independence Day
       he: יום העצמאות (Yom Ha-Atzmaut)
 - Feast of Shavuot (Pentecost):
+    public holiday: true
     start_date: '2040-05-18'
     end_date: '2040-05-18'
     names:
       en: Feast of Shavuot (Pentecost)
       he: שבועות (Shavuot)
 - Fast of Ninth of Av:
+    public holiday: true
     start_date: '2040-07-19'
     end_date: '2040-07-19'
     names:
       en: Fast of Ninth of Av
       he: תשעה באב (Tisha B'Av)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2040-09-08'
     end_date: '2040-09-08'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Rosh Hashanah (New Year):
+    public holiday: true
     start_date: '2040-09-09'
     end_date: '2040-09-09'
     names:
       en: Rosh Hashanah (New Year)
       he: ראש השנה (Rosh Hashanah)
 - Day of Atonement (Yom Kippur):
+    public holiday: true
     start_date: '2040-09-17'
     end_date: '2040-09-17'
     names:
       en: Day of Atonement (Yom Kippur)
       he: יום כיפור (Yom Kippur)
 - First Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2040-09-22'
     end_date: '2040-09-22'
     names:
       en: First Day of Sucot (Tabernacles)
       he: סוכות (Sukkot)
 - Last Day of Sucot (Tabernacles):
+    public holiday: true
     start_date: '2040-09-29'
     end_date: '2040-09-29'
     names:
