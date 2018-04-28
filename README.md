@@ -1,3 +1,7 @@
+# WORK IN PROGRESS, NOT READY FOR USE
+
+Until this is done you can use the [neosepulveda/national_holidays](https://github.com/neosepulveda/national_holidays) Ruby gem that this is based on.
+
 # National holidays config
 
 ## A configuration first repository
