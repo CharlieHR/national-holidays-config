@@ -1,0 +1,196 @@
+---
+name: Indonesia
+'2017':
+- New Year's Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: New Year's Day
+      id: New Year's Day
+- Chinese New Year:
+    start_date: '2017-01-28'
+    end_date: '2017-01-28'
+    names:
+      en: Chinese New Year
+      id: Chinese New Year
+- Balinese New Year:
+    start_date: '2017-03-28'
+    end_date: '2017-03-28'
+    names:
+      en: Balinese New Year
+      id: Balinese New Year
+- Good Friday:
+    start_date: '2017-04-14'
+    end_date: '2017-04-14'
+    names:
+      en: Good Friday
+      id: Good Friday
+- The Prophet's Ascension:
+    start_date: '2017-04-24'
+    end_date: '2017-04-24'
+    names:
+      en: The Prophet's Ascension
+      id: The Prophet's Ascension
+- Labor Day:
+    start_date: '2017-05-01'
+    end_date: '2017-05-01'
+    names:
+      en: Labor Day
+      id: Labor Day
+- Buddha's Birthday:
+    start_date: '2017-05-11'
+    end_date: '2017-05-11'
+    names:
+      en: Buddha's Birthday
+      id: Buddha's Birthday
+- Ascension of Jesus Christ:
+    start_date: '2017-05-25'
+    end_date: '2017-05-25'
+    names:
+      en: Ascension of Jesus Christ
+      id: Ascension of Jesus Christ
+- Pancasila Day:
+    start_date: '2017-06-01'
+    end_date: '2017-06-01'
+    names:
+      en: Pancasila Day
+      id: Pancasila Day
+- Eid al-Fitr:
+    start_date: '2017-06-25'
+    end_date: '2017-06-25'
+    names:
+      en: Eid al-Fitr
+      id: Eid al-Fitr
+- Eid al-Fitr Holiday:
+    start_date: '2017-06-26'
+    end_date: '2017-06-26'
+    names:
+      en: Eid al-Fitr Holiday
+      id: Eid al-Fitr Holiday
+- Independence Day:
+    start_date: '2017-08-17'
+    end_date: '2017-08-17'
+    names:
+      en: Independence Day
+      id: Independence Day
+- Eid al-Adha:
+    start_date: '2017-09-01'
+    end_date: '2017-09-01'
+    names:
+      en: Eid al-Adha
+      id: Eid al-Adha
+- Islamic New Year:
+    start_date: '2017-09-21'
+    end_date: '2017-09-21'
+    names:
+      en: Islamic New Year
+      id: Islamic New Year
+- Prophet's Birthday:
+    start_date: '2017-12-01'
+    end_date: '2017-12-01'
+    names:
+      en: Prophet's Birthday
+      id: Prophet's Birthday
+- Christmas:
+    start_date: '2017-12-25'
+    end_date: '2017-12-25'
+    names:
+      en: Christmas
+      id: Christmas
+'2018':
+- New Year's Day:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: New Year's Day
+      id: New Year's Day
+- Chinese New Year:
+    start_date: '2018-02-16'
+    end_date: '2018-02-16'
+    names:
+      en: Chinese New Year
+      id: Chinese New Year
+- Balinese New Year:
+    start_date: '2018-03-17'
+    end_date: '2018-03-17'
+    names:
+      en: Balinese New Year
+      id: Balinese New Year
+- Good Friday:
+    start_date: '2018-03-30'
+    end_date: '2018-03-30'
+    names:
+      en: Good Friday
+      id: Good Friday
+- The Prophet's Ascension:
+    start_date: '2018-04-13'
+    end_date: '2018-04-13'
+    names:
+      en: The Prophet's Ascension
+      id: The Prophet's Ascension
+- Labor Day:
+    start_date: '2018-05-01'
+    end_date: '2018-05-01'
+    names:
+      en: Labor Day
+      id: Labor Day
+- Ascension of Jesus Christ:
+    start_date: '2018-05-10'
+    end_date: '2018-05-10'
+    names:
+      en: Ascension of Jesus Christ
+      id: Ascension of Jesus Christ
+- Buddha's Birthday:
+    start_date: '2018-05-29'
+    end_date: '2018-05-29'
+    names:
+      en: Buddha's Birthday
+      id: Buddha's Birthday
+- Pancasila Day:
+    start_date: '2018-06-01'
+    end_date: '2018-06-01'
+    names:
+      en: Pancasila Day
+      id: Pancasila Day
+- Eid al-Fitr:
+    start_date: '2018-06-15'
+    end_date: '2018-06-15'
+    names:
+      en: Eid al-Fitr
+      id: Eid al-Fitr
+- Eid al-Fitr Holiday:
+    start_date: '2018-06-16'
+    end_date: '2018-06-16'
+    names:
+      en: Eid al-Fitr Holiday
+      id: Eid al-Fitr Holiday
+- Independence Day:
+    start_date: '2018-08-17'
+    end_date: '2018-08-17'
+    names:
+      en: Independence Day
+      id: Independence Day
+- Eid al-Adha:
+    start_date: '2018-08-22'
+    end_date: '2018-08-22'
+    names:
+      en: Eid al-Adha
+      id: Eid al-Adha
+- Islamic New Year:
+    start_date: '2018-09-11'
+    end_date: '2018-09-11'
+    names:
+      en: Islamic New Year
+      id: Islamic New Year
+- Prophet's Birthday:
+    start_date: '2018-11-20'
+    end_date: '2018-11-20'
+    names:
+      en: Prophet's Birthday
+      id: Prophet's Birthday
+- Christmas:
+    start_date: '2018-12-25'
+    end_date: '2018-12-25'
+    names:
+      en: Christmas
+      id: Christmas

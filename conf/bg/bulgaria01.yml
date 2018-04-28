@@ -1,0 +1,160 @@
+---
+name: Bulgaria (all)
+'2017':
+- New Year's Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: New Year's Day
+      bg: New Year's Day
+- New Year's Holiday:
+    start_date: '2017-01-02'
+    end_date: '2017-01-02'
+    names:
+      en: New Year's Holiday
+      bg: New Year's Holiday
+- Liberation Day:
+    start_date: '2017-03-03'
+    end_date: '2017-03-03'
+    names:
+      en: Liberation Day
+      bg: Liberation Day
+- Orthodox Good Friday:
+    start_date: '2017-04-14'
+    end_date: '2017-04-14'
+    names:
+      en: Orthodox Good Friday
+      bg: Orthodox Good Friday
+- Orthodox Easter Monday:
+    start_date: '2017-04-17'
+    end_date: '2017-04-17'
+    names:
+      en: Orthodox Easter Monday
+      bg: Orthodox Easter Monday
+- Labour Day:
+    start_date: '2017-05-01'
+    end_date: '2017-05-01'
+    names:
+      en: Labour Day
+      bg: Labour Day
+- St George's Day:
+    start_date: '2017-05-08'
+    end_date: '2017-05-08'
+    names:
+      en: St George's Day
+      bg: St George's Day
+- Culture and Literacy Day:
+    start_date: '2017-05-24'
+    end_date: '2017-05-24'
+    names:
+      en: Culture and Literacy Day
+      bg: Culture and Literacy Day
+- Unification Day:
+    start_date: '2017-09-06'
+    end_date: '2017-09-06'
+    names:
+      en: Unification Day
+      bg: Unification Day
+- Independence Day:
+    start_date: '2017-09-22'
+    end_date: '2017-09-22'
+    names:
+      en: Independence Day
+      bg: Independence Day
+- Christmas Eve:
+    start_date: '2017-12-24'
+    end_date: '2017-12-24'
+    names:
+      en: Christmas Eve
+      bg: Christmas Eve
+- Christmas Day:
+    start_date: '2017-12-25'
+    end_date: '2017-12-25'
+    names:
+      en: Christmas Day
+      bg: Christmas Day
+- Second Day of Christmas:
+    start_date: '2017-12-26'
+    end_date: '2017-12-26'
+    names:
+      en: Second Day of Christmas
+      bg: Second Day of Christmas
+- Third Day of Christmas:
+    start_date: '2017-01-27'
+    end_date: '2017-01-27'
+    names:
+      en: Third Day of Christmas
+      bg: Third Day of Christmas
+- Liberation Day:
+    start_date: '2017-03-03'
+    end_date: '2017-03-03'
+    names:
+      en: Liberation Day
+      bg: Liberation Day
+- Orthodox Good Friday:
+    start_date: '2017-04-06'
+    end_date: '2017-04-06'
+    names:
+      en: Orthodox Good Friday
+      bg: Orthodox Good Friday
+- Orthodox Easter Monday:
+    start_date: '2017-04-09'
+    end_date: '2017-04-09'
+    names:
+      en: Orthodox Easter Monday
+      bg: Orthodox Easter Monday
+- Labour Day:
+    start_date: '2017-04-30'
+    end_date: '2017-04-30'
+    names:
+      en: Labour Day
+      bg: Labour Day
+- St George's Day:
+    start_date: '2017-05-06'
+    end_date: '2017-05-06'
+    names:
+      en: St George's Day
+      bg: St George's Day
+- Culture and Literacy Day:
+    start_date: '2017-05-24'
+    end_date: '2017-05-24'
+    names:
+      en: Culture and Literacy Day
+      bg: Culture and Literacy Day
+- Unification Day:
+    start_date: '2017-09-06'
+    end_date: '2017-09-06'
+    names:
+      en: Unification Day
+      bg: Unification Day
+- Independence Day:
+    start_date: '2017-09-22'
+    end_date: '2017-09-22'
+    names:
+      en: Independence Day
+      bg: Independence Day
+- Christmas Eve:
+    start_date: '2017-12-24'
+    end_date: '2017-12-24'
+    names:
+      en: Christmas Eve
+      bg: Christmas Eve
+- Christmas Day:
+    start_date: '2017-12-25'
+    end_date: '2017-12-25'
+    names:
+      en: Christmas Day
+      bg: Christmas Day
+- Second Day of Christmas:
+    start_date: '2017-12-26'
+    end_date: '2017-12-26'
+    names:
+      en: Second Day of Christmas
+      bg: Second Day of Christmas
+'2018':
+- New Year's Day:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: New Year's Day
+      bg: New Year's Day

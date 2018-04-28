@@ -1,0 +1,130 @@
+---
+name: Haiti (all)
+'2017':
+- New Year's Day / Independence Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: New Year's Day / Independence Day
+      fr: New Year's Day / Independence Day
+- Heroes’ Day / Ancestors’ Day:
+    start_date: '2017-01-02'
+    end_date: '2017-01-02'
+    names:
+      en: Heroes’ Day / Ancestors’ Day
+      fr: Heroes’ Day / Ancestors’ Day
+- Inauguration of Jovenel Moïse:
+    start_date: '2017-02-07'
+    end_date: '2017-02-07'
+    names:
+      en: Inauguration of Jovenel Moïse
+      fr: Inauguration of Jovenel Moïse
+- Carnival / Shrove Tuesday:
+    start_date: '2017-02-28'
+    end_date: '2017-02-28'
+    names:
+      en: Carnival / Shrove Tuesday
+      fr: Carnival / Shrove Tuesday
+- Good Friday:
+    start_date: '2017-04-14'
+    end_date: '2017-04-14'
+    names:
+      en: Good Friday
+      fr: Good Friday
+- Agriculture and Labor Day:
+    start_date: '2017-05-01'
+    end_date: '2017-05-01'
+    names:
+      en: Agriculture and Labor Day
+      fr: Agriculture and Labor Day
+- Flag Day / University Day:
+    start_date: '2017-05-18'
+    end_date: '2017-05-18'
+    names:
+      en: Flag Day / University Day
+      fr: Flag Day/University Day
+- Mother's Day:
+    start_date: '2017-05-30'
+    end_date: '2017-05-30'
+    names:
+      en: Mother's Day
+      fr: Mother's Day
+- Dessalines Day:
+    start_date: '2017-10-17'
+    end_date: '2017-10-17'
+    names:
+      en: Dessalines Day
+      fr: Dessalines Day
+- Vertières Day:
+    start_date: '2017-11-18'
+    end_date: '2017-11-18'
+    names:
+      en: Vertières Day
+      fr: Vertières Day
+- Christmas Day:
+    start_date: '2017-12-25'
+    end_date: '2017-12-25'
+    names:
+      en: Christmas Day
+      fr: Christmas Day
+'2018':
+- New Year's Day / Independence Day:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: New Year's Day / Independence Day
+      fr: New Year's Day / Independence Day
+- Heroes’ Day / Ancestors’ Day:
+    start_date: '2018-01-02'
+    end_date: '2018-01-02'
+    names:
+      en: Heroes’ Day / Ancestors’ Day
+      fr: Heroes’ Day / Ancestors’ Day
+- Carnival / Shrove Tuesday:
+    start_date: '2018-02-13'
+    end_date: '2018-02-13'
+    names:
+      en: Carnival / Shrove Tuesday
+      fr: Carnival / Shrove Tuesday
+- Good Friday:
+    start_date: '2018-03-30'
+    end_date: '2018-03-30'
+    names:
+      en: Good Friday
+      fr: Good Friday
+- Agriculture and Labor Day:
+    start_date: '2018-05-01'
+    end_date: '2018-05-01'
+    names:
+      en: Agriculture and Labor Day
+      fr: Agriculture and Labor Day
+- Flag Day / University Day:
+    start_date: '2018-05-18'
+    end_date: '2018-05-18'
+    names:
+      en: Flag Day / University Day
+      fr: Flag Day / University Day
+- Mother's Day:
+    start_date: '2018-05-27'
+    end_date: '2018-05-27'
+    names:
+      en: Mother's Day
+      fr: Mother's Day
+- Dessalines Day:
+    start_date: '2018-10-17'
+    end_date: '2018-10-17'
+    names:
+      en: Dessalines Day
+      fr: Dessalines Day
+- Vertières Day:
+    start_date: '2018-11-18'
+    end_date: '2018-11-18'
+    names:
+      en: Vertières Day
+      fr: Vertières Day
+- Christmas Day:
+    start_date: '2018-12-25'
+    end_date: '2018-12-25'
+    names:
+      en: Christmas Day
+      fr: Christmas Day

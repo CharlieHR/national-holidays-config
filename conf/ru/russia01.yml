@@ -1,0 +1,3122 @@
+---
+name: Russia (all)
+'2011':
+- New Year’s Day:
+    start_date: '2011-01-01'
+    end_date: '2011-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2011-01-02'
+    end_date: '2011-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2011-01-03'
+    end_date: '2011-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2011-01-04'
+    end_date: '2011-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2011-01-05'
+    end_date: '2011-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2011-01-06'
+    end_date: '2011-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2011-01-07'
+    end_date: '2011-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2011-01-08'
+    end_date: '2011-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2011-01-09'
+    end_date: '2011-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2011-01-10'
+    end_date: '2011-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2011-02-23'
+    end_date: '2011-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- Holiday:
+    start_date: '2011-03-07'
+    end_date: '2011-03-07'
+    names:
+      en: Holiday
+      ru: Праздник
+- International Women's Day:
+    start_date: '2011-03-08'
+    end_date: '2011-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2011-05-01'
+    end_date: '2011-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2011-05-02'
+    end_date: '2011-05-02'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2011-05-09'
+    end_date: '2011-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2011-06-12'
+    end_date: '2011-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Holiday:
+    start_date: '2011-06-13'
+    end_date: '2011-06-13'
+    names:
+      en: Holiday
+      ru: Праздник
+- Unity Day:
+    start_date: '2011-11-04'
+    end_date: '2011-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2012':
+- New Year’s Day:
+    start_date: '2012-01-01'
+    end_date: '2012-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2012-01-02'
+    end_date: '2012-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2012-01-03'
+    end_date: '2012-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2012-01-04'
+    end_date: '2012-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2012-01-05'
+    end_date: '2012-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2012-01-06'
+    end_date: '2012-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2012-01-07'
+    end_date: '2012-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2012-01-08'
+    end_date: '2012-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2012-01-09'
+    end_date: '2012-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2012-02-23'
+    end_date: '2012-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2012-03-08'
+    end_date: '2012-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- Holiday:
+    start_date: '2012-03-09'
+    end_date: '2012-03-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2012-04-30'
+    end_date: '2012-04-30'
+    names:
+      en: Holiday
+      ru: Праздник
+- The Day of Spring and Labor:
+    start_date: '2012-05-01'
+    end_date: '2012-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2012-05-07'
+    end_date: '2012-05-07'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2012-05-08'
+    end_date: '2012-05-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2012-05-09'
+    end_date: '2012-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Holiday:
+    start_date: '2012-06-11'
+    end_date: '2012-06-11'
+    names:
+      en: Holiday
+      ru: Праздник
+- Russia Day:
+    start_date: '2012-06-12'
+    end_date: '2012-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2012-11-04'
+    end_date: '2012-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+- Holiday:
+    start_date: '2012-11-05'
+    end_date: '2012-11-05'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2012-12-31'
+    end_date: '2012-12-31'
+    names:
+      en: Holiday
+      ru: Праздник
+'2013':
+- New Year’s Day:
+    start_date: '2013-01-01'
+    end_date: '2013-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2013-01-02'
+    end_date: '2013-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2013-01-03'
+    end_date: '2013-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2013-01-04'
+    end_date: '2013-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2013-01-05'
+    end_date: '2013-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2013-01-06'
+    end_date: '2013-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2013-01-07'
+    end_date: '2013-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2013-01-08'
+    end_date: '2013-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2013-02-23'
+    end_date: '2013-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2013-03-08'
+    end_date: '2013-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2013-05-01'
+    end_date: '2013-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2013-05-02'
+    end_date: '2013-05-02'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2013-05-03'
+    end_date: '2013-05-03'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2013-05-09'
+    end_date: '2013-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Holiday:
+    start_date: '2013-05-10'
+    end_date: '2013-05-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Russia Day:
+    start_date: '2013-06-12'
+    end_date: '2013-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2013-11-04'
+    end_date: '2013-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2014':
+- New Year’s Day:
+    start_date: '2014-01-01'
+    end_date: '2014-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2014-01-02'
+    end_date: '2014-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2014-01-03'
+    end_date: '2014-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2014-01-04'
+    end_date: '2014-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2014-01-05'
+    end_date: '2014-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2014-01-06'
+    end_date: '2014-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2014-01-07'
+    end_date: '2014-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2014-01-08'
+    end_date: '2014-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2014-02-23'
+    end_date: '2014-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2014-03-08'
+    end_date: '2014-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- Holiday:
+    start_date: '2014-03-10'
+    end_date: '2014-03-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- The Day of Spring and Labor:
+    start_date: '2014-05-01'
+    end_date: '2014-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2014-05-02'
+    end_date: '2014-05-02'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2014-05-09'
+    end_date: '2014-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2014-06-12'
+    end_date: '2014-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Holiday:
+    start_date: '2014-06-13'
+    end_date: '2014-06-13'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2014-11-03'
+    end_date: '2014-11-03'
+    names:
+      en: Holiday
+      ru: Праздник
+- Unity Day:
+    start_date: '2014-11-04'
+    end_date: '2014-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2015':
+- New Year’s Day:
+    start_date: '2015-01-01'
+    end_date: '2015-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2015-01-02'
+    end_date: '2015-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2015-01-03'
+    end_date: '2015-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2015-01-04'
+    end_date: '2015-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2015-01-05'
+    end_date: '2015-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2015-01-06'
+    end_date: '2015-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2015-01-07'
+    end_date: '2015-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2015-01-08'
+    end_date: '2015-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2015-01-09'
+    end_date: '2015-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2015-02-23'
+    end_date: '2015-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2015-03-08'
+    end_date: '2015-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- Holiday:
+    start_date: '2015-03-09'
+    end_date: '2015-03-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- The Day of Spring and Labor:
+    start_date: '2015-05-01'
+    end_date: '2015-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2015-05-04'
+    end_date: '2015-05-04'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2015-05-09'
+    end_date: '2015-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Holiday:
+    start_date: '2015-05-11'
+    end_date: '2015-05-11'
+    names:
+      en: Holiday
+      ru: Праздник
+- Russia Day:
+    start_date: '2015-06-12'
+    end_date: '2015-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2015-11-04'
+    end_date: '2015-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2016':
+- New Year’s Day:
+    start_date: '2016-01-01'
+    end_date: '2016-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2016-01-02'
+    end_date: '2016-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2016-01-03'
+    end_date: '2016-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2016-01-04'
+    end_date: '2016-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2016-01-05'
+    end_date: '2016-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2016-01-06'
+    end_date: '2016-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2016-01-07'
+    end_date: '2016-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2016-01-08'
+    end_date: '2016-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2016-02-22'
+    end_date: '2016-02-22'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2016-02-23'
+    end_date: '2016-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- Holiday:
+    start_date: '2016-03-07'
+    end_date: '2016-03-07'
+    names:
+      en: Holiday
+      ru: Праздник
+- International Women's Day:
+    start_date: '2016-03-08'
+    end_date: '2016-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2016-05-01'
+    end_date: '2016-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2016-05-02'
+    end_date: '2016-05-02'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2016-05-03'
+    end_date: '2016-05-03'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2016-05-09'
+    end_date: '2016-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2016-06-12'
+    end_date: '2016-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Holiday:
+    start_date: '2016-06-13'
+    end_date: '2016-06-13'
+    names:
+      en: Holiday
+      ru: Праздник
+- Unity Day:
+    start_date: '2016-11-04'
+    end_date: '2016-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2017':
+- New Year’s Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2017-01-02'
+    end_date: '2017-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2017-01-03'
+    end_date: '2017-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2017-01-04'
+    end_date: '2017-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2017-01-05'
+    end_date: '2017-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2017-01-06'
+    end_date: '2017-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2017-01-07'
+    end_date: '2017-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2017-01-08'
+    end_date: '2017-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2017-01-09'
+    end_date: '2017-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2017-02-23'
+    end_date: '2017-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2017-03-08'
+    end_date: '2017-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2017-05-01'
+    end_date: '2017-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2017-05-09'
+    end_date: '2017-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2017-06-12'
+    end_date: '2017-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2017-11-04'
+    end_date: '2017-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+- Holiday:
+    start_date: '2017-11-06'
+    end_date: '2017-11-06'
+    names:
+      en: Holiday
+      ru: Праздник
+'2018':
+- New Year’s Day:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2018-01-02'
+    end_date: '2018-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2018-01-03'
+    end_date: '2018-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2018-01-04'
+    end_date: '2018-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2018-01-05'
+    end_date: '2018-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2018-01-06'
+    end_date: '2018-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2018-01-07'
+    end_date: '2018-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2018-01-08'
+    end_date: '2018-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2018-01-09'
+    end_date: '2018-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2018-02-23'
+    end_date: '2018-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2018-03-08'
+    end_date: '2018-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2018-05-01'
+    end_date: '2018-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2018-05-09'
+    end_date: '2018-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2018-06-12'
+    end_date: '2018-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2018-11-04'
+    end_date: '2018-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+- Holiday:
+    start_date: '2018-11-05'
+    end_date: '2018-11-05'
+    names:
+      en: Holiday
+      ru: Праздник
+'2019':
+- New Year’s Day:
+    start_date: '2019-01-01'
+    end_date: '2019-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2019-01-02'
+    end_date: '2019-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2019-01-03'
+    end_date: '2019-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2019-01-04'
+    end_date: '2019-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2019-01-05'
+    end_date: '2019-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2019-01-06'
+    end_date: '2019-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2019-01-07'
+    end_date: '2019-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2019-01-08'
+    end_date: '2019-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2019-02-23'
+    end_date: '2019-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2019-03-08'
+    end_date: '2019-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2019-05-01'
+    end_date: '2019-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2019-05-09'
+    end_date: '2019-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2019-06-12'
+    end_date: '2019-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2019-11-04'
+    end_date: '2019-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2020':
+- New Year’s Day:
+    start_date: '2020-01-01'
+    end_date: '2020-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2020-01-02'
+    end_date: '2020-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2020-01-03'
+    end_date: '2020-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2020-01-04'
+    end_date: '2020-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2020-01-05'
+    end_date: '2020-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2020-01-06'
+    end_date: '2020-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2020-01-07'
+    end_date: '2020-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2020-01-08'
+    end_date: '2020-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2020-02-23'
+    end_date: '2020-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2020-03-08'
+    end_date: '2020-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- Holiday:
+    start_date: '2020-03-09'
+    end_date: '2020-03-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- The Day of Spring and Labor:
+    start_date: '2020-05-01'
+    end_date: '2020-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2020-05-09'
+    end_date: '2020-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Holiday:
+    start_date: '2020-05-11'
+    end_date: '2020-05-11'
+    names:
+      en: Holiday
+      ru: Праздник
+- Russia Day:
+    start_date: '2020-06-12'
+    end_date: '2020-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2020-11-04'
+    end_date: '2020-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2021':
+- New Year’s Day:
+    start_date: '2021-01-01'
+    end_date: '2021-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2021-01-02'
+    end_date: '2021-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2021-01-03'
+    end_date: '2021-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2021-01-04'
+    end_date: '2021-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2021-01-05'
+    end_date: '2021-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2021-01-06'
+    end_date: '2021-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2021-01-07'
+    end_date: '2021-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2021-01-08'
+    end_date: '2021-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2021-01-09'
+    end_date: '2021-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2021-01-10'
+    end_date: '2021-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2021-02-23'
+    end_date: '2021-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2021-03-08'
+    end_date: '2021-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2021-05-01'
+    end_date: '2021-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2021-05-03'
+    end_date: '2021-05-03'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2021-05-09'
+    end_date: '2021-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Holiday:
+    start_date: '2021-05-10'
+    end_date: '2021-05-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Russia Day:
+    start_date: '2021-06-12'
+    end_date: '2021-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Holiday:
+    start_date: '2021-06-14'
+    end_date: '2021-06-14'
+    names:
+      en: Holiday
+      ru: Праздник
+- Unity Day:
+    start_date: '2021-11-04'
+    end_date: '2021-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2022':
+- New Year’s Day:
+    start_date: '2022-01-01'
+    end_date: '2022-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2022-01-02'
+    end_date: '2022-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2022-01-03'
+    end_date: '2022-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2022-01-04'
+    end_date: '2022-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2022-01-05'
+    end_date: '2022-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2022-01-06'
+    end_date: '2022-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2022-01-07'
+    end_date: '2022-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2022-01-08'
+    end_date: '2022-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2022-01-09'
+    end_date: '2022-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2022-01-10'
+    end_date: '2022-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2022-02-23'
+    end_date: '2022-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2022-03-08'
+    end_date: '2022-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2022-05-01'
+    end_date: '2022-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2022-05-02'
+    end_date: '2022-05-02'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2022-05-09'
+    end_date: '2022-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2022-06-12'
+    end_date: '2022-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Holiday:
+    start_date: '2022-06-13'
+    end_date: '2022-06-13'
+    names:
+      en: Holiday
+      ru: Праздник
+- Unity Day:
+    start_date: '2022-11-04'
+    end_date: '2022-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2023':
+- New Year’s Day:
+    start_date: '2023-01-01'
+    end_date: '2023-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2023-01-02'
+    end_date: '2023-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2023-01-03'
+    end_date: '2023-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2023-01-04'
+    end_date: '2023-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2023-01-05'
+    end_date: '2023-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2023-01-06'
+    end_date: '2023-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2023-01-07'
+    end_date: '2023-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2023-01-08'
+    end_date: '2023-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2023-01-09'
+    end_date: '2023-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2023-02-23'
+    end_date: '2023-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2023-03-08'
+    end_date: '2023-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2023-05-01'
+    end_date: '2023-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2023-05-09'
+    end_date: '2023-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2023-06-12'
+    end_date: '2023-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2023-11-04'
+    end_date: '2023-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+- Holiday:
+    start_date: '2023-11-06'
+    end_date: '2023-11-06'
+    names:
+      en: Holiday
+      ru: Праздник
+'2024':
+- New Year’s Day:
+    start_date: '2024-01-01'
+    end_date: '2024-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2024-01-02'
+    end_date: '2024-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2024-01-03'
+    end_date: '2024-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2024-01-04'
+    end_date: '2024-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2024-01-05'
+    end_date: '2024-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2024-01-06'
+    end_date: '2024-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2024-01-07'
+    end_date: '2024-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2024-01-08'
+    end_date: '2024-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2024-01-09'
+    end_date: '2024-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2024-02-23'
+    end_date: '2024-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2024-03-08'
+    end_date: '2024-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2024-05-01'
+    end_date: '2024-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2024-05-09'
+    end_date: '2024-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2024-06-12'
+    end_date: '2024-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2024-11-04'
+    end_date: '2024-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2025':
+- New Year’s Day:
+    start_date: '2025-01-01'
+    end_date: '2025-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2025-01-02'
+    end_date: '2025-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2025-01-03'
+    end_date: '2025-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2025-01-04'
+    end_date: '2025-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2025-01-05'
+    end_date: '2025-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2025-01-06'
+    end_date: '2025-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2025-01-07'
+    end_date: '2025-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2025-01-08'
+    end_date: '2025-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2025-02-23'
+    end_date: '2025-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2025-03-08'
+    end_date: '2025-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- Holiday:
+    start_date: '2025-03-10'
+    end_date: '2025-03-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- The Day of Spring and Labor:
+    start_date: '2025-05-01'
+    end_date: '2025-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2025-05-09'
+    end_date: '2025-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2025-06-12'
+    end_date: '2025-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2025-11-04'
+    end_date: '2025-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2026':
+- New Year’s Day:
+    start_date: '2026-01-01'
+    end_date: '2026-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2026-01-02'
+    end_date: '2026-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2026-01-03'
+    end_date: '2026-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2026-01-04'
+    end_date: '2026-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2026-01-05'
+    end_date: '2026-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2026-01-06'
+    end_date: '2026-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2026-01-07'
+    end_date: '2026-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2026-01-08'
+    end_date: '2026-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2026-01-09'
+    end_date: '2026-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2026-01-10'
+    end_date: '2026-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2026-01-11'
+    end_date: '2026-01-11'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2026-02-23'
+    end_date: '2026-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2026-03-08'
+    end_date: '2026-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- Holiday:
+    start_date: '2026-03-09'
+    end_date: '2026-03-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- The Day of Spring and Labor:
+    start_date: '2026-05-01'
+    end_date: '2026-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2026-05-09'
+    end_date: '2026-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Holiday:
+    start_date: '2026-05-11'
+    end_date: '2026-05-11'
+    names:
+      en: Holiday
+      ru: Праздник
+- Russia Day:
+    start_date: '2026-06-12'
+    end_date: '2026-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2026-11-04'
+    end_date: '2026-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2027':
+- New Year’s Day:
+    start_date: '2027-01-01'
+    end_date: '2027-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2027-01-02'
+    end_date: '2027-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2027-01-03'
+    end_date: '2027-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2027-01-04'
+    end_date: '2027-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2027-01-05'
+    end_date: '2027-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2027-01-06'
+    end_date: '2027-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2027-01-07'
+    end_date: '2027-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2027-01-08'
+    end_date: '2027-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2027-01-09'
+    end_date: '2027-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2027-01-10'
+    end_date: '2027-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2027-02-23'
+    end_date: '2027-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2027-03-08'
+    end_date: '2027-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2027-05-01'
+    end_date: '2027-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2027-05-03'
+    end_date: '2027-05-03'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2027-05-09'
+    end_date: '2027-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Holiday:
+    start_date: '2027-05-10'
+    end_date: '2027-05-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Russia Day:
+    start_date: '2027-06-12'
+    end_date: '2027-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Holiday:
+    start_date: '2027-06-14'
+    end_date: '2027-06-14'
+    names:
+      en: Holiday
+      ru: Праздник
+- Unity Day:
+    start_date: '2027-11-04'
+    end_date: '2027-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2028':
+- New Year’s Day:
+    start_date: '2028-01-01'
+    end_date: '2028-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2028-01-02'
+    end_date: '2028-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2028-01-03'
+    end_date: '2028-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2028-01-04'
+    end_date: '2028-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2028-01-05'
+    end_date: '2028-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2028-01-06'
+    end_date: '2028-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2028-01-07'
+    end_date: '2028-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2028-01-08'
+    end_date: '2028-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2028-01-09'
+    end_date: '2028-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2028-01-10'
+    end_date: '2028-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2028-02-23'
+    end_date: '2028-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2028-03-08'
+    end_date: '2028-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2028-05-01'
+    end_date: '2028-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2028-05-09'
+    end_date: '2028-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2028-06-12'
+    end_date: '2028-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2028-11-04'
+    end_date: '2028-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+- Holiday:
+    start_date: '2028-11-06'
+    end_date: '2028-11-06'
+    names:
+      en: Holiday
+      ru: Праздник
+'2029':
+- New Year’s Day:
+    start_date: '2029-01-01'
+    end_date: '2029-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2029-01-02'
+    end_date: '2029-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2029-01-03'
+    end_date: '2029-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2029-01-04'
+    end_date: '2029-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2029-01-05'
+    end_date: '2029-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2029-01-06'
+    end_date: '2029-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2029-01-07'
+    end_date: '2029-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2029-01-08'
+    end_date: '2029-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2029-01-09'
+    end_date: '2029-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2029-02-23'
+    end_date: '2029-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2029-03-08'
+    end_date: '2029-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2029-05-01'
+    end_date: '2029-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2029-05-09'
+    end_date: '2029-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2029-06-12'
+    end_date: '2029-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2029-11-04'
+    end_date: '2029-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+- Holiday:
+    start_date: '2029-11-05'
+    end_date: '2029-11-05'
+    names:
+      en: Holiday
+      ru: Праздник
+'2030':
+- New Year’s Day:
+    start_date: '2030-01-01'
+    end_date: '2030-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2030-01-02'
+    end_date: '2030-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2030-01-03'
+    end_date: '2030-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2030-01-04'
+    end_date: '2030-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2030-01-05'
+    end_date: '2030-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2030-01-06'
+    end_date: '2030-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2030-01-07'
+    end_date: '2030-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2030-01-08'
+    end_date: '2030-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2030-02-23'
+    end_date: '2030-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2030-03-08'
+    end_date: '2030-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2030-05-01'
+    end_date: '2030-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2030-05-09'
+    end_date: '2030-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2030-06-12'
+    end_date: '2030-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2030-11-04'
+    end_date: '2030-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2031':
+- New Year’s Day:
+    start_date: '2031-01-01'
+    end_date: '2031-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2031-01-02'
+    end_date: '2031-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2031-01-03'
+    end_date: '2031-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2031-01-04'
+    end_date: '2031-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2031-01-05'
+    end_date: '2031-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2031-01-06'
+    end_date: '2031-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2031-01-07'
+    end_date: '2031-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2031-01-08'
+    end_date: '2031-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2031-02-23'
+    end_date: '2031-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2031-03-08'
+    end_date: '2031-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- Holiday:
+    start_date: '2031-03-10'
+    end_date: '2031-03-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- The Day of Spring and Labor:
+    start_date: '2031-05-01'
+    end_date: '2031-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2031-05-09'
+    end_date: '2031-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2031-06-12'
+    end_date: '2031-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2031-11-04'
+    end_date: '2031-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2032':
+- New Year’s Day:
+    start_date: '2032-01-01'
+    end_date: '2032-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2032-01-02'
+    end_date: '2032-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2032-01-03'
+    end_date: '2032-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2032-01-04'
+    end_date: '2032-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2032-01-05'
+    end_date: '2032-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2032-01-06'
+    end_date: '2032-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2032-01-07'
+    end_date: '2032-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2032-01-08'
+    end_date: '2032-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2032-01-09'
+    end_date: '2032-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2032-01-10'
+    end_date: '2032-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2032-01-11'
+    end_date: '2032-01-11'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2032-02-23'
+    end_date: '2032-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2032-03-08'
+    end_date: '2032-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2032-05-01'
+    end_date: '2032-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2032-05-03'
+    end_date: '2032-05-03'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2032-05-09'
+    end_date: '2032-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Holiday:
+    start_date: '2032-05-10'
+    end_date: '2032-05-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Russia Day:
+    start_date: '2032-06-12'
+    end_date: '2032-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Holiday:
+    start_date: '2032-06-14'
+    end_date: '2032-06-14'
+    names:
+      en: Holiday
+      ru: Праздник
+- Unity Day:
+    start_date: '2032-11-04'
+    end_date: '2032-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2033':
+- New Year’s Day:
+    start_date: '2033-01-01'
+    end_date: '2033-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2033-01-02'
+    end_date: '2033-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2033-01-03'
+    end_date: '2033-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2033-01-04'
+    end_date: '2033-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2033-01-05'
+    end_date: '2033-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2033-01-06'
+    end_date: '2033-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2033-01-07'
+    end_date: '2033-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2033-01-08'
+    end_date: '2033-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2033-01-09'
+    end_date: '2033-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2033-01-10'
+    end_date: '2033-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2033-02-23'
+    end_date: '2033-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2033-03-08'
+    end_date: '2033-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2033-05-01'
+    end_date: '2033-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2033-05-02'
+    end_date: '2033-05-02'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2033-05-09'
+    end_date: '2033-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2033-06-12'
+    end_date: '2033-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Holiday:
+    start_date: '2033-06-13'
+    end_date: '2033-06-13'
+    names:
+      en: Holiday
+      ru: Праздник
+- Unity Day:
+    start_date: '2033-11-04'
+    end_date: '2033-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2034':
+- New Year’s Day:
+    start_date: '2034-01-01'
+    end_date: '2034-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2034-01-02'
+    end_date: '2034-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2034-01-03'
+    end_date: '2034-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2034-01-04'
+    end_date: '2034-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2034-01-05'
+    end_date: '2034-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2034-01-06'
+    end_date: '2034-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2034-01-07'
+    end_date: '2034-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2034-01-08'
+    end_date: '2034-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2034-01-09'
+    end_date: '2034-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2034-02-23'
+    end_date: '2034-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2034-03-08'
+    end_date: '2034-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2034-05-01'
+    end_date: '2034-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2034-05-09'
+    end_date: '2034-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2034-06-12'
+    end_date: '2034-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2034-11-04'
+    end_date: '2034-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+- Holiday:
+    start_date: '2034-11-06'
+    end_date: '2034-11-06'
+    names:
+      en: Holiday
+      ru: Праздник
+'2035':
+- New Year’s Day:
+    start_date: '2035-01-01'
+    end_date: '2035-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2035-01-02'
+    end_date: '2035-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2035-01-03'
+    end_date: '2035-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2035-01-04'
+    end_date: '2035-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2035-01-05'
+    end_date: '2035-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2035-01-06'
+    end_date: '2035-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2035-01-07'
+    end_date: '2035-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2035-01-08'
+    end_date: '2035-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2035-01-09'
+    end_date: '2035-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2035-02-23'
+    end_date: '2035-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2035-03-08'
+    end_date: '2035-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2035-05-01'
+    end_date: '2035-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2035-05-09'
+    end_date: '2035-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2035-06-12'
+    end_date: '2035-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2035-11-04'
+    end_date: '2035-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+- Holiday:
+    start_date: '2035-11-05'
+    end_date: '2035-11-05'
+    names:
+      en: Holiday
+      ru: Праздник
+'2036':
+- New Year’s Day:
+    start_date: '2036-01-01'
+    end_date: '2036-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2036-01-02'
+    end_date: '2036-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2036-01-03'
+    end_date: '2036-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2036-01-04'
+    end_date: '2036-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2036-01-05'
+    end_date: '2036-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2036-01-06'
+    end_date: '2036-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2036-01-07'
+    end_date: '2036-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2036-01-08'
+    end_date: '2036-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2036-02-23'
+    end_date: '2036-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2036-03-08'
+    end_date: '2036-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- Holiday:
+    start_date: '2036-03-10'
+    end_date: '2036-03-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- The Day of Spring and Labor:
+    start_date: '2036-05-01'
+    end_date: '2036-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2036-05-09'
+    end_date: '2036-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2036-06-12'
+    end_date: '2036-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2036-11-04'
+    end_date: '2036-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2037':
+- New Year’s Day:
+    start_date: '2037-01-01'
+    end_date: '2037-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2037-01-02'
+    end_date: '2037-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2037-01-03'
+    end_date: '2037-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2037-01-04'
+    end_date: '2037-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2037-01-05'
+    end_date: '2037-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2037-01-06'
+    end_date: '2037-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2037-01-07'
+    end_date: '2037-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2037-01-08'
+    end_date: '2037-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2037-01-09'
+    end_date: '2037-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2037-01-10'
+    end_date: '2037-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2037-01-11'
+    end_date: '2037-01-11'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2037-02-23'
+    end_date: '2037-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2037-03-08'
+    end_date: '2037-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- Holiday:
+    start_date: '2037-03-09'
+    end_date: '2037-03-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- The Day of Spring and Labor:
+    start_date: '2037-05-01'
+    end_date: '2037-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2037-05-09'
+    end_date: '2037-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Holiday:
+    start_date: '2037-05-11'
+    end_date: '2037-05-11'
+    names:
+      en: Holiday
+      ru: Праздник
+- Russia Day:
+    start_date: '2037-06-12'
+    end_date: '2037-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2037-11-04'
+    end_date: '2037-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2038':
+- New Year’s Day:
+    start_date: '2038-01-01'
+    end_date: '2038-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2038-01-02'
+    end_date: '2038-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2038-01-03'
+    end_date: '2038-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2038-01-04'
+    end_date: '2038-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2038-01-05'
+    end_date: '2038-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2038-01-06'
+    end_date: '2038-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2038-01-07'
+    end_date: '2038-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2038-01-08'
+    end_date: '2038-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2038-01-09'
+    end_date: '2038-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2038-01-10'
+    end_date: '2038-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2038-02-23'
+    end_date: '2038-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2038-03-08'
+    end_date: '2038-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2038-05-01'
+    end_date: '2038-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2038-05-03'
+    end_date: '2038-05-03'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2038-05-09'
+    end_date: '2038-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Holiday:
+    start_date: '2038-05-10'
+    end_date: '2038-05-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Russia Day:
+    start_date: '2038-06-12'
+    end_date: '2038-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Holiday:
+    start_date: '2038-06-14'
+    end_date: '2038-06-14'
+    names:
+      en: Holiday
+      ru: Праздник
+- Unity Day:
+    start_date: '2038-11-04'
+    end_date: '2038-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2039':
+- New Year’s Day:
+    start_date: '2039-01-01'
+    end_date: '2039-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2039-01-02'
+    end_date: '2039-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2039-01-03'
+    end_date: '2039-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2039-01-04'
+    end_date: '2039-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2039-01-05'
+    end_date: '2039-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2039-01-06'
+    end_date: '2039-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2039-01-07'
+    end_date: '2039-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2039-01-08'
+    end_date: '2039-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2039-01-09'
+    end_date: '2039-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2039-01-10'
+    end_date: '2039-01-10'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2039-02-23'
+    end_date: '2039-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2039-03-08'
+    end_date: '2039-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2039-05-01'
+    end_date: '2039-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Holiday:
+    start_date: '2039-05-02'
+    end_date: '2039-05-02'
+    names:
+      en: Holiday
+      ru: Праздник
+- Victory Day:
+    start_date: '2039-05-09'
+    end_date: '2039-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2039-06-12'
+    end_date: '2039-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Holiday:
+    start_date: '2039-06-13'
+    end_date: '2039-06-13'
+    names:
+      en: Holiday
+      ru: Праздник
+- Unity Day:
+    start_date: '2039-11-04'
+    end_date: '2039-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+'2040':
+- New Year’s Day:
+    start_date: '2040-01-01'
+    end_date: '2040-01-01'
+    names:
+      en: New Year’s Day
+      ru: Новый год
+- New Year’s Holiday:
+    start_date: '2040-01-02'
+    end_date: '2040-01-02'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2040-01-03'
+    end_date: '2040-01-03'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2040-01-04'
+    end_date: '2040-01-04'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2040-01-05'
+    end_date: '2040-01-05'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- New Year’s Holiday:
+    start_date: '2040-01-06'
+    end_date: '2040-01-06'
+    names:
+      en: New Year’s Holiday
+      ru: Новогодние каникулы
+- Orthodox Christmas Day:
+    start_date: '2040-01-07'
+    end_date: '2040-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ru: Рождество Христово
+- Holiday:
+    start_date: '2040-01-08'
+    end_date: '2040-01-08'
+    names:
+      en: Holiday
+      ru: Праздник
+- Holiday:
+    start_date: '2040-01-09'
+    end_date: '2040-01-09'
+    names:
+      en: Holiday
+      ru: Праздник
+- Defender of the Fatherland Day:
+    start_date: '2040-02-23'
+    end_date: '2040-02-23'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+- International Women's Day:
+    start_date: '2040-03-08'
+    end_date: '2040-03-08'
+    names:
+      en: International Women's Day
+      ru: Восьмое марта
+- The Day of Spring and Labor:
+    start_date: '2040-05-01'
+    end_date: '2040-05-01'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+- Victory Day:
+    start_date: '2040-05-09'
+    end_date: '2040-05-09'
+    names:
+      en: Victory Day
+      ru: День Победы
+- Russia Day:
+    start_date: '2040-06-12'
+    end_date: '2040-06-12'
+    names:
+      en: Russia Day
+      ru: День России
+- Unity Day:
+    start_date: '2040-11-04'
+    end_date: '2040-11-04'
+    names:
+      en: Unity Day
+      ru: День народного единства
+- Holiday:
+    start_date: '2040-11-05'
+    end_date: '2040-11-05'
+    names:
+      en: Holiday
+      ru: Праздник

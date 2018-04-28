@@ -1,0 +1,1382 @@
+---
+name: Ireland (all)
+'2011':
+- New Year's Day:
+    start_date: '2011-01-01'
+    end_date: '2011-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2011-03-17'
+    end_date: '2011-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2011-04-25'
+    end_date: '2011-04-25'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2011-05-02'
+    end_date: '2011-05-02'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2011-06-06'
+    end_date: '2011-06-06'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2011-08-01'
+    end_date: '2011-08-01'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2011-10-31'
+    end_date: '2011-10-31'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2011-12-25'
+    end_date: '2011-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2011-12-26'
+    end_date: '2011-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2012':
+- New Year's Day:
+    start_date: '2012-01-01'
+    end_date: '2012-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2012-03-17'
+    end_date: '2012-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2012-04-09'
+    end_date: '2012-04-09'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2012-05-07'
+    end_date: '2012-05-07'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2012-06-04'
+    end_date: '2012-06-04'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2012-08-06'
+    end_date: '2012-08-06'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2012-10-29'
+    end_date: '2012-10-29'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2012-12-25'
+    end_date: '2012-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2012-12-26'
+    end_date: '2012-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2013':
+- New Year's Day:
+    start_date: '2013-01-01'
+    end_date: '2013-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2013-03-17'
+    end_date: '2013-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2013-04-01'
+    end_date: '2013-04-01'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2013-05-06'
+    end_date: '2013-05-06'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2013-06-03'
+    end_date: '2013-06-03'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2013-08-05'
+    end_date: '2013-08-05'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2013-10-28'
+    end_date: '2013-10-28'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2013-12-25'
+    end_date: '2013-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2013-12-26'
+    end_date: '2013-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2014':
+- New Year's Day:
+    start_date: '2014-01-01'
+    end_date: '2014-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2014-03-17'
+    end_date: '2014-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2014-04-21'
+    end_date: '2014-04-21'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2014-05-05'
+    end_date: '2014-05-05'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2014-06-02'
+    end_date: '2014-06-02'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2014-08-04'
+    end_date: '2014-08-04'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2014-10-27'
+    end_date: '2014-10-27'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2014-12-25'
+    end_date: '2014-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2014-12-26'
+    end_date: '2014-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2015':
+- New Year's Day:
+    start_date: '2015-01-01'
+    end_date: '2015-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2015-03-17'
+    end_date: '2015-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2015-04-06'
+    end_date: '2015-04-06'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2015-05-04'
+    end_date: '2015-05-04'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2015-06-01'
+    end_date: '2015-06-01'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2015-08-03'
+    end_date: '2015-08-03'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2015-10-26'
+    end_date: '2015-10-26'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2015-12-25'
+    end_date: '2015-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2015-12-26'
+    end_date: '2015-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2016':
+- New Year's Day:
+    start_date: '2016-01-01'
+    end_date: '2016-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2016-03-17'
+    end_date: '2016-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2016-03-28'
+    end_date: '2016-03-28'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2016-05-02'
+    end_date: '2016-05-02'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2016-06-06'
+    end_date: '2016-06-06'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2016-08-01'
+    end_date: '2016-08-01'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2016-10-31'
+    end_date: '2016-10-31'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2016-12-25'
+    end_date: '2016-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2016-12-26'
+    end_date: '2016-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2017':
+- New Year's Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2017-03-17'
+    end_date: '2017-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2017-04-17'
+    end_date: '2017-04-17'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2017-05-01'
+    end_date: '2017-05-01'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2017-06-05'
+    end_date: '2017-06-05'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2017-08-07'
+    end_date: '2017-08-07'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2017-10-30'
+    end_date: '2017-10-30'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2017-12-25'
+    end_date: '2017-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2017-12-26'
+    end_date: '2017-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2018':
+- New Year's Day:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2018-03-17'
+    end_date: '2018-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2018-04-02'
+    end_date: '2018-04-02'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2018-05-07'
+    end_date: '2018-05-07'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2018-06-04'
+    end_date: '2018-06-04'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2018-08-06'
+    end_date: '2018-08-06'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2018-10-29'
+    end_date: '2018-10-29'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2018-12-25'
+    end_date: '2018-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2018-12-26'
+    end_date: '2018-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2019':
+- New Year's Day:
+    start_date: '2019-01-01'
+    end_date: '2019-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2019-03-17'
+    end_date: '2019-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2019-04-22'
+    end_date: '2019-04-22'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2019-05-06'
+    end_date: '2019-05-06'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2019-06-03'
+    end_date: '2019-06-03'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2019-08-05'
+    end_date: '2019-08-05'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2019-10-28'
+    end_date: '2019-10-28'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2019-12-25'
+    end_date: '2019-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2019-12-26'
+    end_date: '2019-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2020':
+- New Year's Day:
+    start_date: '2020-01-01'
+    end_date: '2020-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2020-03-17'
+    end_date: '2020-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2020-04-13'
+    end_date: '2020-04-13'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2020-05-04'
+    end_date: '2020-05-04'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2020-06-01'
+    end_date: '2020-06-01'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2020-08-03'
+    end_date: '2020-08-03'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2020-10-26'
+    end_date: '2020-10-26'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2020-12-25'
+    end_date: '2020-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2020-12-26'
+    end_date: '2020-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2021':
+- New Year's Day:
+    start_date: '2021-01-01'
+    end_date: '2021-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2021-03-17'
+    end_date: '2021-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2021-04-05'
+    end_date: '2021-04-05'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2021-05-03'
+    end_date: '2021-05-03'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2021-06-07'
+    end_date: '2021-06-07'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2021-08-02'
+    end_date: '2021-08-02'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2021-10-25'
+    end_date: '2021-10-25'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2021-12-25'
+    end_date: '2021-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2021-12-26'
+    end_date: '2021-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2022':
+- New Year's Day:
+    start_date: '2022-01-01'
+    end_date: '2022-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2022-03-17'
+    end_date: '2022-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2022-04-18'
+    end_date: '2022-04-18'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2022-05-02'
+    end_date: '2022-05-02'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2022-06-06'
+    end_date: '2022-06-06'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2022-08-01'
+    end_date: '2022-08-01'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2022-10-31'
+    end_date: '2022-10-31'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2022-12-25'
+    end_date: '2022-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2022-12-26'
+    end_date: '2022-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2023':
+- New Year's Day:
+    start_date: '2023-01-01'
+    end_date: '2023-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2023-03-17'
+    end_date: '2023-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2023-04-10'
+    end_date: '2023-04-10'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2023-05-01'
+    end_date: '2023-05-01'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2023-06-05'
+    end_date: '2023-06-05'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2023-08-07'
+    end_date: '2023-08-07'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2023-10-30'
+    end_date: '2023-10-30'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2023-12-25'
+    end_date: '2023-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2023-12-26'
+    end_date: '2023-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2024':
+- New Year's Day:
+    start_date: '2024-01-01'
+    end_date: '2024-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2024-03-17'
+    end_date: '2024-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2024-04-01'
+    end_date: '2024-04-01'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2024-05-06'
+    end_date: '2024-05-06'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2024-06-03'
+    end_date: '2024-06-03'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2024-08-05'
+    end_date: '2024-08-05'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2024-10-28'
+    end_date: '2024-10-28'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2024-12-25'
+    end_date: '2024-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2024-12-26'
+    end_date: '2024-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2025':
+- New Year's Day:
+    start_date: '2025-01-01'
+    end_date: '2025-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2025-03-17'
+    end_date: '2025-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2025-04-21'
+    end_date: '2025-04-21'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2025-05-05'
+    end_date: '2025-05-05'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2025-06-02'
+    end_date: '2025-06-02'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2025-08-04'
+    end_date: '2025-08-04'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2025-10-27'
+    end_date: '2025-10-27'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2025-12-25'
+    end_date: '2025-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2025-12-26'
+    end_date: '2025-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2026':
+- New Year's Day:
+    start_date: '2026-01-01'
+    end_date: '2026-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2026-03-17'
+    end_date: '2026-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2026-04-06'
+    end_date: '2026-04-06'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2026-05-04'
+    end_date: '2026-05-04'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2026-06-01'
+    end_date: '2026-06-01'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2026-08-03'
+    end_date: '2026-08-03'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2026-10-26'
+    end_date: '2026-10-26'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2026-12-25'
+    end_date: '2026-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2026-12-26'
+    end_date: '2026-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2027':
+- New Year's Day:
+    start_date: '2027-01-01'
+    end_date: '2027-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2027-03-17'
+    end_date: '2027-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2027-03-29'
+    end_date: '2027-03-29'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2027-05-03'
+    end_date: '2027-05-03'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2027-06-07'
+    end_date: '2027-06-07'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2027-08-02'
+    end_date: '2027-08-02'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2027-10-25'
+    end_date: '2027-10-25'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2027-12-25'
+    end_date: '2027-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2027-12-26'
+    end_date: '2027-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2028':
+- New Year's Day:
+    start_date: '2028-01-01'
+    end_date: '2028-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2028-03-17'
+    end_date: '2028-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2028-04-17'
+    end_date: '2028-04-17'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2028-05-01'
+    end_date: '2028-05-01'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2028-06-05'
+    end_date: '2028-06-05'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2028-08-07'
+    end_date: '2028-08-07'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2028-10-30'
+    end_date: '2028-10-30'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2028-12-25'
+    end_date: '2028-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2028-12-26'
+    end_date: '2028-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2029':
+- New Year's Day:
+    start_date: '2029-01-01'
+    end_date: '2029-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2029-03-17'
+    end_date: '2029-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2029-04-02'
+    end_date: '2029-04-02'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2029-05-07'
+    end_date: '2029-05-07'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2029-06-04'
+    end_date: '2029-06-04'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2029-08-06'
+    end_date: '2029-08-06'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2029-10-29'
+    end_date: '2029-10-29'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2029-12-25'
+    end_date: '2029-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2029-12-26'
+    end_date: '2029-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2030':
+- New Year's Day:
+    start_date: '2030-01-01'
+    end_date: '2030-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2030-03-17'
+    end_date: '2030-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2030-04-22'
+    end_date: '2030-04-22'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2030-05-06'
+    end_date: '2030-05-06'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2030-06-03'
+    end_date: '2030-06-03'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2030-08-05'
+    end_date: '2030-08-05'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2030-10-28'
+    end_date: '2030-10-28'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2030-12-25'
+    end_date: '2030-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2030-12-26'
+    end_date: '2030-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2031':
+- New Year's Day:
+    start_date: '2031-01-01'
+    end_date: '2031-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2031-03-17'
+    end_date: '2031-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2031-04-14'
+    end_date: '2031-04-14'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2031-05-05'
+    end_date: '2031-05-05'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2031-06-02'
+    end_date: '2031-06-02'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2031-08-04'
+    end_date: '2031-08-04'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2031-10-27'
+    end_date: '2031-10-27'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2031-12-25'
+    end_date: '2031-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2031-12-26'
+    end_date: '2031-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2032':
+- New Year's Day:
+    start_date: '2032-01-01'
+    end_date: '2032-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2032-03-17'
+    end_date: '2032-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2032-03-29'
+    end_date: '2032-03-29'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2032-05-03'
+    end_date: '2032-05-03'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2032-06-07'
+    end_date: '2032-06-07'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2032-08-02'
+    end_date: '2032-08-02'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2032-10-25'
+    end_date: '2032-10-25'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2032-12-25'
+    end_date: '2032-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2032-12-26'
+    end_date: '2032-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2033':
+- New Year's Day:
+    start_date: '2033-01-01'
+    end_date: '2033-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2033-03-17'
+    end_date: '2033-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2033-04-18'
+    end_date: '2033-04-18'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2033-05-02'
+    end_date: '2033-05-02'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2033-06-06'
+    end_date: '2033-06-06'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2033-08-01'
+    end_date: '2033-08-01'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2033-10-31'
+    end_date: '2033-10-31'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2033-12-25'
+    end_date: '2033-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2033-12-26'
+    end_date: '2033-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2034':
+- New Year's Day:
+    start_date: '2034-01-01'
+    end_date: '2034-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2034-03-17'
+    end_date: '2034-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2034-04-10'
+    end_date: '2034-04-10'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2034-05-01'
+    end_date: '2034-05-01'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2034-06-05'
+    end_date: '2034-06-05'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2034-08-07'
+    end_date: '2034-08-07'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2034-10-30'
+    end_date: '2034-10-30'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2034-12-25'
+    end_date: '2034-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2034-12-26'
+    end_date: '2034-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2035':
+- New Year's Day:
+    start_date: '2035-01-01'
+    end_date: '2035-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2035-03-17'
+    end_date: '2035-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2035-03-26'
+    end_date: '2035-03-26'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2035-05-07'
+    end_date: '2035-05-07'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2035-06-04'
+    end_date: '2035-06-04'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2035-08-06'
+    end_date: '2035-08-06'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2035-10-29'
+    end_date: '2035-10-29'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2035-12-25'
+    end_date: '2035-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2035-12-26'
+    end_date: '2035-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2036':
+- New Year's Day:
+    start_date: '2036-01-01'
+    end_date: '2036-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2036-03-17'
+    end_date: '2036-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2036-04-14'
+    end_date: '2036-04-14'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2036-05-05'
+    end_date: '2036-05-05'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2036-06-02'
+    end_date: '2036-06-02'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2036-08-04'
+    end_date: '2036-08-04'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2036-10-27'
+    end_date: '2036-10-27'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2036-12-25'
+    end_date: '2036-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2036-12-26'
+    end_date: '2036-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2037':
+- New Year's Day:
+    start_date: '2037-01-01'
+    end_date: '2037-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2037-03-17'
+    end_date: '2037-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2037-04-06'
+    end_date: '2037-04-06'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2037-05-04'
+    end_date: '2037-05-04'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2037-06-01'
+    end_date: '2037-06-01'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2037-08-03'
+    end_date: '2037-08-03'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2037-10-26'
+    end_date: '2037-10-26'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2037-12-25'
+    end_date: '2037-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2037-12-26'
+    end_date: '2037-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2038':
+- New Year's Day:
+    start_date: '2038-01-01'
+    end_date: '2038-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2038-03-17'
+    end_date: '2038-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2038-04-26'
+    end_date: '2038-04-26'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2038-05-03'
+    end_date: '2038-05-03'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2038-06-07'
+    end_date: '2038-06-07'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2038-08-02'
+    end_date: '2038-08-02'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2038-10-25'
+    end_date: '2038-10-25'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2038-12-25'
+    end_date: '2038-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2038-12-26'
+    end_date: '2038-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2039':
+- New Year's Day:
+    start_date: '2039-01-01'
+    end_date: '2039-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2039-03-17'
+    end_date: '2039-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2039-04-11'
+    end_date: '2039-04-11'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2039-05-02'
+    end_date: '2039-05-02'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2039-06-06'
+    end_date: '2039-06-06'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2039-08-01'
+    end_date: '2039-08-01'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2039-10-31'
+    end_date: '2039-10-31'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2039-12-25'
+    end_date: '2039-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2039-12-26'
+    end_date: '2039-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín
+'2040':
+- New Year's Day:
+    start_date: '2040-01-01'
+    end_date: '2040-01-01'
+    names:
+      en: Lá Caille or Lá Bliana Nua
+- Saint Patrick's Day:
+    start_date: '2040-03-17'
+    end_date: '2040-03-17'
+    names:
+      en: Lá Fhéile Pádraig
+- Easter Monday:
+    start_date: '2040-04-02'
+    end_date: '2040-04-02'
+    names:
+      en: Luan Cásca
+- Labour Day:
+    start_date: '2040-05-07'
+    end_date: '2040-05-07'
+    names:
+      en: Lá an Lucht Oibre
+- June Holiday:
+    start_date: '2040-06-04'
+    end_date: '2040-06-04'
+    names:
+      en: Lá Saoire i mí Mheitheamh
+- August Holiday:
+    start_date: '2040-08-06'
+    end_date: '2040-08-06'
+    names:
+      en: Lá Saoire i mí Lúnasa
+- October Holiday:
+    start_date: '2040-10-29'
+    end_date: '2040-10-29'
+    names:
+      en: Lá Saoire i mí Dheireadh Fómhair
+- Christmas Day:
+    start_date: '2040-12-25'
+    end_date: '2040-12-25'
+    names:
+      en: Lá Nollag
+- St Stephen's Day:
+    start_date: '2040-12-26'
+    end_date: '2040-12-26'
+    names:
+      en: Lá Fhéile Stiofáin or Lá an Dreoilín

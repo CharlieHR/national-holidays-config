@@ -1,0 +1,1832 @@
+---
+name: Manitoba
+'2011':
+- New Year's Day:
+    start_date: '2011-01-01'
+    end_date: '2011-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2011-02-21'
+    end_date: '2011-02-21'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2011-04-22'
+    end_date: '2011-04-22'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2011-04-24'
+    end_date: '2011-04-24'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2011-05-23'
+    end_date: '2011-05-23'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2011-07-01'
+    end_date: '2011-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Civic Holiday:
+    start_date: '2011-08-01'
+    end_date: '2011-08-01'
+    names:
+      en: Civic Holiday / Premier lundi d'août
+- Labour Day:
+    start_date: '2011-09-05'
+    end_date: '2011-09-05'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2011-10-10'
+    end_date: '2011-10-10'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2011-11-11'
+    end_date: '2011-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2011-12-25'
+    end_date: '2011-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2011-12-26'
+    end_date: '2011-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2012':
+- New Year's Day:
+    start_date: '2012-01-01'
+    end_date: '2012-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2012-02-20'
+    end_date: '2012-02-20'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2012-04-06'
+    end_date: '2012-04-06'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2012-04-08'
+    end_date: '2012-04-08'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2012-05-21'
+    end_date: '2012-05-21'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2012-07-02'
+    end_date: '2012-07-02'
+    names:
+      en: Canada Day / Fête du Canada
+- Civic Holiday:
+    start_date: '2012-08-06'
+    end_date: '2012-08-06'
+    names:
+      en: Civic Holiday / Premier lundi d'août
+- Labour Day:
+    start_date: '2012-09-03'
+    end_date: '2012-09-03'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2012-10-08'
+    end_date: '2012-10-08'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2012-11-11'
+    end_date: '2012-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2012-12-25'
+    end_date: '2012-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2012-12-26'
+    end_date: '2012-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2013':
+- New Year's Day:
+    start_date: '2013-01-01'
+    end_date: '2013-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2013-02-18'
+    end_date: '2013-02-18'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2013-03-29'
+    end_date: '2013-03-29'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2013-03-31'
+    end_date: '2013-03-31'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2013-05-20'
+    end_date: '2013-05-20'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2013-07-01'
+    end_date: '2013-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Civic Holiday:
+    start_date: '2013-08-05'
+    end_date: '2013-08-05'
+    names:
+      en: Civic Holiday / Premier lundi d'août
+- Labour Day:
+    start_date: '2013-09-02'
+    end_date: '2013-09-02'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2013-10-14'
+    end_date: '2013-10-14'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2013-11-11'
+    end_date: '2013-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2013-12-25'
+    end_date: '2013-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2013-12-26'
+    end_date: '2013-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2014':
+- New Year's Day:
+    start_date: '2014-01-01'
+    end_date: '2014-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2014-02-17'
+    end_date: '2014-02-17'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2014-04-18'
+    end_date: '2014-04-18'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2014-04-20'
+    end_date: '2014-04-20'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2014-05-19'
+    end_date: '2014-05-19'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2014-07-01'
+    end_date: '2014-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Civic Holiday:
+    start_date: '2014-08-04'
+    end_date: '2014-08-04'
+    names:
+      en: Civic Holiday / Premier lundi d'août
+- Labour Day:
+    start_date: '2014-09-01'
+    end_date: '2014-09-01'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2014-10-13'
+    end_date: '2014-10-13'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2014-11-11'
+    end_date: '2014-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2014-12-25'
+    end_date: '2014-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2014-12-26'
+    end_date: '2014-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2015':
+- New Year's Day:
+    start_date: '2015-01-01'
+    end_date: '2015-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2015-02-16'
+    end_date: '2015-02-16'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2015-04-03'
+    end_date: '2015-04-03'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2015-04-05'
+    end_date: '2015-04-05'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2015-05-18'
+    end_date: '2015-05-18'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2015-07-01'
+    end_date: '2015-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Civic Holiday:
+    start_date: '2015-08-03'
+    end_date: '2015-08-03'
+    names:
+      en: Civic Holiday / Premier lundi d'août
+- Labour Day:
+    start_date: '2015-09-07'
+    end_date: '2015-09-07'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2015-10-12'
+    end_date: '2015-10-12'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2015-11-11'
+    end_date: '2015-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2015-12-25'
+    end_date: '2015-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2015-12-26'
+    end_date: '2015-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2016':
+- New Year's Day:
+    start_date: '2016-01-01'
+    end_date: '2016-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2016-02-15'
+    end_date: '2016-02-15'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2016-03-25'
+    end_date: '2016-03-25'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2016-03-27'
+    end_date: '2016-03-27'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2016-05-23'
+    end_date: '2016-05-23'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2016-07-01'
+    end_date: '2016-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2016-08-01'
+    end_date: '2016-08-01'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2016-09-05'
+    end_date: '2016-09-05'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2016-10-10'
+    end_date: '2016-10-10'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2016-11-11'
+    end_date: '2016-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2016-12-25'
+    end_date: '2016-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2016-12-26'
+    end_date: '2016-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2017':
+- New Year's Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2017-02-20'
+    end_date: '2017-02-20'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2017-04-14'
+    end_date: '2017-04-14'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2017-04-16'
+    end_date: '2017-04-16'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2017-05-22'
+    end_date: '2017-05-22'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2017-07-01'
+    end_date: '2017-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2017-08-07'
+    end_date: '2017-08-07'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2017-09-04'
+    end_date: '2017-09-04'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2017-10-09'
+    end_date: '2017-10-09'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2017-11-11'
+    end_date: '2017-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2017-12-25'
+    end_date: '2017-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2017-12-26'
+    end_date: '2017-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2018':
+- New Year's Day:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2018-02-19'
+    end_date: '2018-02-19'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2018-03-30'
+    end_date: '2018-03-30'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2018-04-01'
+    end_date: '2018-04-01'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2018-05-21'
+    end_date: '2018-05-21'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2018-07-02'
+    end_date: '2018-07-02'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2018-08-06'
+    end_date: '2018-08-06'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2018-09-03'
+    end_date: '2018-09-03'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2018-10-08'
+    end_date: '2018-10-08'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2018-11-11'
+    end_date: '2018-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2018-12-25'
+    end_date: '2018-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2018-12-26'
+    end_date: '2018-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2019':
+- New Year's Day:
+    start_date: '2019-01-01'
+    end_date: '2019-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2019-02-18'
+    end_date: '2019-02-18'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2019-04-19'
+    end_date: '2019-04-19'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2019-04-21'
+    end_date: '2019-04-21'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2019-05-20'
+    end_date: '2019-05-20'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2019-07-01'
+    end_date: '2019-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2019-08-05'
+    end_date: '2019-08-05'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2019-09-02'
+    end_date: '2019-09-02'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2019-10-14'
+    end_date: '2019-10-14'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2019-11-11'
+    end_date: '2019-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2019-12-25'
+    end_date: '2019-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2019-12-26'
+    end_date: '2019-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2020':
+- New Year's Day:
+    start_date: '2020-01-01'
+    end_date: '2020-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2020-02-17'
+    end_date: '2020-02-17'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2020-04-10'
+    end_date: '2020-04-10'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2020-04-12'
+    end_date: '2020-04-12'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2020-05-18'
+    end_date: '2020-05-18'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2020-07-01'
+    end_date: '2020-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2020-08-03'
+    end_date: '2020-08-03'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2020-09-07'
+    end_date: '2020-09-07'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2020-10-12'
+    end_date: '2020-10-12'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2020-11-11'
+    end_date: '2020-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2020-12-25'
+    end_date: '2020-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2020-12-26'
+    end_date: '2020-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2021':
+- New Year's Day:
+    start_date: '2021-01-01'
+    end_date: '2021-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2021-02-15'
+    end_date: '2021-02-15'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2021-04-02'
+    end_date: '2021-04-02'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2021-04-04'
+    end_date: '2021-04-04'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2021-05-24'
+    end_date: '2021-05-24'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2021-07-01'
+    end_date: '2021-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2021-08-02'
+    end_date: '2021-08-02'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2021-09-06'
+    end_date: '2021-09-06'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2021-10-11'
+    end_date: '2021-10-11'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2021-11-11'
+    end_date: '2021-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2021-12-25'
+    end_date: '2021-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2021-12-26'
+    end_date: '2021-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2022':
+- New Year's Day:
+    start_date: '2022-01-01'
+    end_date: '2022-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2022-02-21'
+    end_date: '2022-02-21'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2022-04-15'
+    end_date: '2022-04-15'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2022-04-17'
+    end_date: '2022-04-17'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2022-05-23'
+    end_date: '2022-05-23'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2022-07-01'
+    end_date: '2022-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2022-08-01'
+    end_date: '2022-08-01'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2022-09-05'
+    end_date: '2022-09-05'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2022-10-10'
+    end_date: '2022-10-10'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2022-11-11'
+    end_date: '2022-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2022-12-25'
+    end_date: '2022-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2022-12-26'
+    end_date: '2022-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2023':
+- New Year's Day:
+    start_date: '2023-01-01'
+    end_date: '2023-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2023-02-20'
+    end_date: '2023-02-20'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2023-04-07'
+    end_date: '2023-04-07'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2023-04-09'
+    end_date: '2023-04-09'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2023-05-22'
+    end_date: '2023-05-22'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2023-07-01'
+    end_date: '2023-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2023-08-07'
+    end_date: '2023-08-07'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2023-09-04'
+    end_date: '2023-09-04'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2023-10-09'
+    end_date: '2023-10-09'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2023-11-11'
+    end_date: '2023-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2023-12-25'
+    end_date: '2023-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2023-12-26'
+    end_date: '2023-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2024':
+- New Year's Day:
+    start_date: '2024-01-01'
+    end_date: '2024-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2024-02-19'
+    end_date: '2024-02-19'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2024-03-29'
+    end_date: '2024-03-29'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2024-03-31'
+    end_date: '2024-03-31'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2024-05-20'
+    end_date: '2024-05-20'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2024-07-01'
+    end_date: '2024-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2024-08-05'
+    end_date: '2024-08-05'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2024-09-02'
+    end_date: '2024-09-02'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2024-10-14'
+    end_date: '2024-10-14'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2024-11-11'
+    end_date: '2024-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2024-12-25'
+    end_date: '2024-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2024-12-26'
+    end_date: '2024-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2025':
+- New Year's Day:
+    start_date: '2025-01-01'
+    end_date: '2025-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2025-02-17'
+    end_date: '2025-02-17'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2025-04-18'
+    end_date: '2025-04-18'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2025-04-20'
+    end_date: '2025-04-20'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2025-05-19'
+    end_date: '2025-05-19'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2025-07-01'
+    end_date: '2025-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2025-08-04'
+    end_date: '2025-08-04'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2025-09-01'
+    end_date: '2025-09-01'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2025-10-13'
+    end_date: '2025-10-13'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2025-11-11'
+    end_date: '2025-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2025-12-25'
+    end_date: '2025-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2025-12-26'
+    end_date: '2025-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2026':
+- New Year's Day:
+    start_date: '2026-01-01'
+    end_date: '2026-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2026-02-16'
+    end_date: '2026-02-16'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2026-04-03'
+    end_date: '2026-04-03'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2026-04-05'
+    end_date: '2026-04-05'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2026-05-18'
+    end_date: '2026-05-18'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2026-07-01'
+    end_date: '2026-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2026-08-03'
+    end_date: '2026-08-03'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2026-09-07'
+    end_date: '2026-09-07'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2026-10-12'
+    end_date: '2026-10-12'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2026-11-11'
+    end_date: '2026-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2026-12-25'
+    end_date: '2026-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2026-12-26'
+    end_date: '2026-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2027':
+- New Year's Day:
+    start_date: '2027-01-01'
+    end_date: '2027-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2027-02-15'
+    end_date: '2027-02-15'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2027-03-26'
+    end_date: '2027-03-26'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2027-03-28'
+    end_date: '2027-03-28'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2027-05-24'
+    end_date: '2027-05-24'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2027-07-01'
+    end_date: '2027-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2027-08-02'
+    end_date: '2027-08-02'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2027-09-06'
+    end_date: '2027-09-06'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2027-10-11'
+    end_date: '2027-10-11'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2027-11-11'
+    end_date: '2027-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2027-12-25'
+    end_date: '2027-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2027-12-26'
+    end_date: '2027-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2028':
+- New Year's Day:
+    start_date: '2028-01-01'
+    end_date: '2028-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2028-02-21'
+    end_date: '2028-02-21'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2028-04-14'
+    end_date: '2028-04-14'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2028-04-16'
+    end_date: '2028-04-16'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2028-05-22'
+    end_date: '2028-05-22'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2028-07-01'
+    end_date: '2028-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2028-08-07'
+    end_date: '2028-08-07'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2028-09-04'
+    end_date: '2028-09-04'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2028-10-09'
+    end_date: '2028-10-09'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2028-11-11'
+    end_date: '2028-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2028-12-25'
+    end_date: '2028-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2028-12-26'
+    end_date: '2028-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2029':
+- New Year's Day:
+    start_date: '2029-01-01'
+    end_date: '2029-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2029-02-19'
+    end_date: '2029-02-19'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2029-03-30'
+    end_date: '2029-03-30'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2029-04-01'
+    end_date: '2029-04-01'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2029-05-21'
+    end_date: '2029-05-21'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2029-07-02'
+    end_date: '2029-07-02'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2029-08-06'
+    end_date: '2029-08-06'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2029-09-03'
+    end_date: '2029-09-03'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2029-10-08'
+    end_date: '2029-10-08'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2029-11-11'
+    end_date: '2029-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2029-12-25'
+    end_date: '2029-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2029-12-26'
+    end_date: '2029-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2030':
+- New Year's Day:
+    start_date: '2030-01-01'
+    end_date: '2030-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2030-02-18'
+    end_date: '2030-02-18'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2030-04-19'
+    end_date: '2030-04-19'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2030-04-21'
+    end_date: '2030-04-21'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2030-05-20'
+    end_date: '2030-05-20'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2030-07-01'
+    end_date: '2030-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2030-08-05'
+    end_date: '2030-08-05'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2030-09-02'
+    end_date: '2030-09-02'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2030-10-14'
+    end_date: '2030-10-14'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2030-11-11'
+    end_date: '2030-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2030-12-25'
+    end_date: '2030-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2030-12-26'
+    end_date: '2030-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2031':
+- New Year's Day:
+    start_date: '2031-01-01'
+    end_date: '2031-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2031-02-17'
+    end_date: '2031-02-17'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2031-04-11'
+    end_date: '2031-04-11'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2031-04-13'
+    end_date: '2031-04-13'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2031-05-19'
+    end_date: '2031-05-19'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2031-07-01'
+    end_date: '2031-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2031-08-04'
+    end_date: '2031-08-04'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2031-09-01'
+    end_date: '2031-09-01'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2031-10-13'
+    end_date: '2031-10-13'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2031-11-11'
+    end_date: '2031-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2031-12-25'
+    end_date: '2031-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2031-12-26'
+    end_date: '2031-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2032':
+- New Year's Day:
+    start_date: '2032-01-01'
+    end_date: '2032-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2032-02-16'
+    end_date: '2032-02-16'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2032-03-26'
+    end_date: '2032-03-26'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2032-03-28'
+    end_date: '2032-03-28'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2032-05-24'
+    end_date: '2032-05-24'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2032-07-01'
+    end_date: '2032-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2032-08-02'
+    end_date: '2032-08-02'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2032-09-06'
+    end_date: '2032-09-06'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2032-10-11'
+    end_date: '2032-10-11'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2032-11-11'
+    end_date: '2032-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2032-12-25'
+    end_date: '2032-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2032-12-26'
+    end_date: '2032-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2033':
+- New Year's Day:
+    start_date: '2033-01-01'
+    end_date: '2033-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2033-02-21'
+    end_date: '2033-02-21'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2033-04-15'
+    end_date: '2033-04-15'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2033-04-17'
+    end_date: '2033-04-17'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2033-05-23'
+    end_date: '2033-05-23'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2033-07-01'
+    end_date: '2033-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2033-08-01'
+    end_date: '2033-08-01'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2033-09-05'
+    end_date: '2033-09-05'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2033-10-10'
+    end_date: '2033-10-10'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2033-11-11'
+    end_date: '2033-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2033-12-25'
+    end_date: '2033-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2033-12-26'
+    end_date: '2033-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2034':
+- New Year's Day:
+    start_date: '2034-01-01'
+    end_date: '2034-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2034-02-20'
+    end_date: '2034-02-20'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2034-04-07'
+    end_date: '2034-04-07'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2034-04-09'
+    end_date: '2034-04-09'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2034-05-22'
+    end_date: '2034-05-22'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2034-07-01'
+    end_date: '2034-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2034-08-07'
+    end_date: '2034-08-07'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2034-09-04'
+    end_date: '2034-09-04'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2034-10-09'
+    end_date: '2034-10-09'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2034-11-11'
+    end_date: '2034-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2034-12-25'
+    end_date: '2034-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2034-12-26'
+    end_date: '2034-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2035':
+- New Year's Day:
+    start_date: '2035-01-01'
+    end_date: '2035-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2035-02-19'
+    end_date: '2035-02-19'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2035-03-23'
+    end_date: '2035-03-23'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2035-03-25'
+    end_date: '2035-03-25'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2035-05-21'
+    end_date: '2035-05-21'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2035-07-02'
+    end_date: '2035-07-02'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2035-08-06'
+    end_date: '2035-08-06'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2035-09-03'
+    end_date: '2035-09-03'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2035-10-08'
+    end_date: '2035-10-08'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2035-11-11'
+    end_date: '2035-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2035-12-25'
+    end_date: '2035-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2035-12-26'
+    end_date: '2035-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2036':
+- New Year's Day:
+    start_date: '2036-01-01'
+    end_date: '2036-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2036-02-18'
+    end_date: '2036-02-18'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2036-04-11'
+    end_date: '2036-04-11'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2036-04-13'
+    end_date: '2036-04-13'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2036-05-19'
+    end_date: '2036-05-19'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2036-07-01'
+    end_date: '2036-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2036-08-04'
+    end_date: '2036-08-04'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2036-09-01'
+    end_date: '2036-09-01'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2036-10-13'
+    end_date: '2036-10-13'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2036-11-11'
+    end_date: '2036-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2036-12-25'
+    end_date: '2036-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2036-12-26'
+    end_date: '2036-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2037':
+- New Year's Day:
+    start_date: '2037-01-01'
+    end_date: '2037-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2037-02-16'
+    end_date: '2037-02-16'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2037-04-03'
+    end_date: '2037-04-03'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2037-04-05'
+    end_date: '2037-04-05'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2037-05-18'
+    end_date: '2037-05-18'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2037-07-01'
+    end_date: '2037-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2037-08-03'
+    end_date: '2037-08-03'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2037-09-07'
+    end_date: '2037-09-07'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2037-10-12'
+    end_date: '2037-10-12'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2037-11-11'
+    end_date: '2037-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2037-12-25'
+    end_date: '2037-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2037-12-26'
+    end_date: '2037-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2038':
+- New Year's Day:
+    start_date: '2038-01-01'
+    end_date: '2038-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2038-02-15'
+    end_date: '2038-02-15'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2038-04-23'
+    end_date: '2038-04-23'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2038-04-25'
+    end_date: '2038-04-25'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2038-05-24'
+    end_date: '2038-05-24'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2038-07-01'
+    end_date: '2038-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2038-08-02'
+    end_date: '2038-08-02'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2038-09-06'
+    end_date: '2038-09-06'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2038-10-11'
+    end_date: '2038-10-11'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2038-11-11'
+    end_date: '2038-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2038-12-25'
+    end_date: '2038-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2038-12-26'
+    end_date: '2038-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2039':
+- New Year's Day:
+    start_date: '2039-01-01'
+    end_date: '2039-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2039-02-21'
+    end_date: '2039-02-21'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2039-04-08'
+    end_date: '2039-04-08'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2039-04-10'
+    end_date: '2039-04-10'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2039-05-23'
+    end_date: '2039-05-23'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2039-07-01'
+    end_date: '2039-07-01'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2039-08-01'
+    end_date: '2039-08-01'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2039-09-05'
+    end_date: '2039-09-05'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2039-10-10'
+    end_date: '2039-10-10'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2039-11-11'
+    end_date: '2039-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2039-12-25'
+    end_date: '2039-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2039-12-26'
+    end_date: '2039-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël
+'2040':
+- New Year's Day:
+    start_date: '2040-01-01'
+    end_date: '2040-01-01'
+    names:
+      en: New Year's Day / Jour de l'An
+- Louis Riel Day:
+    start_date: '2040-02-20'
+    end_date: '2040-02-20'
+    names:
+      en: Louis Riel Day / La Journée Louis Riel
+- Good Friday:
+    start_date: '2040-03-30'
+    end_date: '2040-03-30'
+    names:
+      en: Good Friday / Vendredi saint
+- Easter Sunday:
+    start_date: '2040-04-01'
+    end_date: '2040-04-01'
+    names:
+      en: Easter Sunday / Le dimanche de Pâques
+- Victoria Day:
+    start_date: '2040-05-21'
+    end_date: '2040-05-21'
+    names:
+      en: Victoria Day / Fête de la Reine ou Journée nationale des Patriotes
+- Canada Day:
+    start_date: '2040-07-02'
+    end_date: '2040-07-02'
+    names:
+      en: Canada Day / Fête du Canada
+- Terry Fox Day:
+    start_date: '2040-08-06'
+    end_date: '2040-08-06'
+    names:
+      en: Terry Fox Day / La Journée Terry Fox
+- Labour Day:
+    start_date: '2040-09-03'
+    end_date: '2040-09-03'
+    names:
+      en: Labour Day / Fête du travail
+- Thanksgiving Day:
+    start_date: '2040-10-08'
+    end_date: '2040-10-08'
+    names:
+      en: Thanksgiving Day / Action de grâce
+- Remembrance Day:
+    start_date: '2040-11-11'
+    end_date: '2040-11-11'
+    names:
+      en: Remembrance Day / Jour du Souvenir
+- Christmas Day:
+    start_date: '2040-12-25'
+    end_date: '2040-12-25'
+    names:
+      en: Christmas Day / Noël
+- Boxing Day:
+    start_date: '2040-12-26'
+    end_date: '2040-12-26'
+    names:
+      en: Boxing Day / Lendemain de Noël

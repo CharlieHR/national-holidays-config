@@ -1,0 +1,112 @@
+---
+name: Saudi Arabia (all)
+'2017':
+- Eid-al-Fitr (End of Ramadan):
+    start_date: '2017-06-25'
+    end_date: '2017-06-25'
+    names:
+      en: Eid-al-Fitr (End of Ramadan)
+      ar: Eid-al-Fitr (End of Ramadan)
+- Eid-al-Fitr Holiday:
+    start_date: '2017-06-26'
+    end_date: '2017-06-26'
+    names:
+      en: Eid-al-Fitr Holiday
+      ar: Eid-al-Fitr Holiday
+- Eid-al-Fitr Holiday:
+    start_date: '2017-06-27'
+    end_date: '2017-06-27'
+    names:
+      en: Eid-al-Fitr Holiday
+      ar: Eid-al-Fitr Holiday
+- Eid-al-Fitr Holiday:
+    start_date: '2017-06-28'
+    end_date: '2017-06-28'
+    names:
+      en: Eid-al-Fitr Holiday
+      ar: Eid-al-Fitr Holiday
+- Eid-al-Fitr Holiday:
+    start_date: '2017-07-02'
+    end_date: '2017-07-02'
+    names:
+      en: Eid-al-Fitr Holiday
+      ar: Eid-al-Fitr Holiday
+- Eid-al-Adha (Feast of Sacrifice):
+    start_date: '2017-09-02'
+    end_date: '2017-09-02'
+    names:
+      en: Eid-al-Adha (Feast of Sacrifice)
+      ar: Eid-al-Adha (Feast of Sacrifice)
+- Eid-al-Adha Holiday:
+    start_date: '2017-09-04'
+    end_date: '2017-09-04'
+    names:
+      en: Eid-al-Adha Holiday
+      ar: Eid-al-Adha Holiday
+- Eid-al-Adha Holiday:
+    start_date: '2017-09-05'
+    end_date: '2017-09-05'
+    names:
+      en: Eid-al-Adha Holiday
+      ar: Eid-al-Adha Holiday
+- Saudi National Day:
+    start_date: '2017-09-23'
+    end_date: '2017-09-23'
+    names:
+      en: Saudi National Day
+      ar: Saudi National Day
+'2018':
+- Eid-al-Fitr (End of Ramadan):
+    start_date: '2018-06-15'
+    end_date: '2018-06-15'
+    names:
+      en: Eid-al-Fitr (End of Ramadan)
+      ar: Eid-al-Fitr (End of Ramadan)
+- Eid-al-Fitr Holiday:
+    start_date: '2018-06-15'
+    end_date: '2018-06-15'
+    names:
+      en: Eid-al-Fitr Holiday
+      ar: Eid-al-Fitr Holiday
+- Eid-al-Fitr Holiday:
+    start_date: '2018-06-15'
+    end_date: '2018-06-15'
+    names:
+      en: Eid-al-Fitr Holiday
+      ar: Eid-al-Fitr Holiday
+- Eid-al-Fitr Holiday:
+    start_date: '2018-06-18'
+    end_date: '2018-06-18'
+    names:
+      en: Eid-al-Fitr Holiday
+      ar: Eid-al-Fitr Holiday
+- Eid-al-Fitr Holiday:
+    start_date: '2018-06-21'
+    end_date: '2018-06-21'
+    names:
+      en: Eid-al-Fitr Holiday
+      ar: Eid-al-Fitr Holiday
+- Eid-al-Adha (Feast of Sacrifice):
+    start_date: '2018-08-22'
+    end_date: '2018-08-22'
+    names:
+      en: Eid-al-Adha (Feast of Sacrifice)
+      ar: Eid-al-Adha (Feast of Sacrifice)
+- Eid-al-Adha Holiday:
+    start_date: '2018-08-24'
+    end_date: '2018-08-24'
+    names:
+      en: Eid-al-Adha Holiday
+      ar: Eid-al-Adha Holiday
+- Eid-al-Adha Holiday:
+    start_date: '2018-08-25'
+    end_date: '2018-08-25'
+    names:
+      en: Eid-al-Adha Holiday
+      ar: Eid-al-Adha Holiday
+- Saudi National Day:
+    start_date: '2018-09-23'
+    end_date: '2018-09-23'
+    names:
+      en: Saudi National Day
+      ar: Saudi National Day

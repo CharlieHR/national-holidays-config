@@ -1,0 +1,130 @@
+---
+name: Ethiopia (all)
+'2016':
+- New Year's Day:
+    start_date: '2016-01-01'
+    end_date: '2016-01-01'
+    names:
+      en: New Year's Day
+      am: New Year's Day
+- Christmas:
+    start_date: '2016-01-07'
+    end_date: '2016-01-07'
+    names:
+      en: Christmas
+      am: Genna
+- Epiphany:
+    start_date: '2016-01-20'
+    end_date: '2016-01-20'
+    names:
+      en: Epiphany
+      am: Timkat
+- Victory of Adwa:
+    start_date: '2016-03-02'
+    end_date: '2016-03-02'
+    names:
+      en: Victory of Adwa
+      am: Victory of Adwa
+- Good Friday:
+    start_date: '2016-04-29'
+    end_date: '2016-04-29'
+    names:
+      en: Good Friday
+      am: Siklet
+- Easter:
+    start_date: '2016-05-01'
+    end_date: '2016-05-01'
+    names:
+      en: Easter
+      am: Fasika
+- Patriots’ Victory Day:
+    start_date: '2016-05-05'
+    end_date: '2016-05-05'
+    names:
+      en: Patriots’ Victory Day
+      am: Arbegnoch Qen
+- Down fall of the Derg:
+    start_date: '2016-05-28'
+    end_date: '2016-05-28'
+    names:
+      en: Down fall of the Derg
+      am: Derg Downfall Day
+- New Year:
+    start_date: '2016-09-11'
+    end_date: '2016-09-11'
+    names:
+      en: New Year
+      am: Enkutatash
+- Finding of the True Cross:
+    start_date: '2016-09-27'
+    end_date: '2016-09-27'
+    names:
+      en: Finding of the True Cross
+      am: Meskel
+'2017':
+- New Year's Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: New Year's Day
+      am: New Year's Day
+- Christmas:
+    start_date: '2017-01-07'
+    end_date: '2017-01-07'
+    names:
+      en: Christmas
+      am: Genna
+- Epiphany:
+    start_date: '2017-01-19'
+    end_date: '2017-01-19'
+    names:
+      en: Epiphany
+      am: Timkat
+- Victory of Adwa:
+    start_date: '2017-03-02'
+    end_date: '2017-03-02'
+    names:
+      en: Victory of Adwa
+      am: Victory of Adwa
+- Good Friday:
+    start_date: '2017-04-14'
+    end_date: '2017-04-14'
+    names:
+      en: Good Friday
+      am: Siklet
+- Easter:
+    start_date: '2017-04-15'
+    end_date: '2017-04-15'
+    names:
+      en: Easter
+      am: Fasika
+- Patriots’ Victory Day:
+    start_date: '2017-05-05'
+    end_date: '2017-05-05'
+    names:
+      en: Patriots’ Victory Day
+      am: Arbegnoch Qen
+- Down fall of the Derg:
+    start_date: '2017-05-28'
+    end_date: '2017-05-28'
+    names:
+      en: Down fall of the Derg
+      am: Derg Downfall Day
+- Id Al Adaha:
+    start_date: '2017-09-01'
+    end_date: '2017-09-01'
+    names:
+      en: Id Al Adaha
+      am: Id Al Adaha
+- New Year:
+    start_date: '2017-09-11'
+    end_date: '2017-09-11'
+    names:
+      en: New Year
+      am: Enkutatash
+- Finding of the True Cross:
+    start_date: '2017-09-27'
+    end_date: '2017-09-27'
+    names:
+      en: Finding of the True Cross
+      am: Meskel

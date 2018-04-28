@@ -1,0 +1,119 @@
+---
+name: Jamaica (all)
+'2017':
+- New Years Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: New Years Day
+- New Years Holiday:
+    start_date: '2017-01-02'
+    end_date: '2017-01-02'
+    names:
+      en: New Years Holiday
+- Ash Wednesday:
+    start_date: '2017-03-01'
+    end_date: '2017-03-01'
+    names:
+      en: Ash Wednesday
+- Good Friday:
+    start_date: '2017-04-14'
+    end_date: '2017-04-14'
+    names:
+      en: Good Friday
+- Easter Day:
+    start_date: '2017-04-16'
+    end_date: '2017-04-16'
+    names:
+      en: Easter Day
+- Easter Monday:
+    start_date: '2017-04-17'
+    end_date: '2017-04-17'
+    names:
+      en: Easter Monday
+- Labour Day:
+    start_date: '2017-05-23'
+    end_date: '2017-05-23'
+    names:
+      en: Labour Day
+- Emancipation Day:
+    start_date: '2017-08-01'
+    end_date: '2017-08-01'
+    names:
+      en: Emancipation Day
+- Independence Day (observed):
+    start_date: '2017-08-07'
+    end_date: '2017-08-07'
+    names:
+      en: Independence Day (observed)
+- National Heroes' Day:
+    start_date: '2017-10-16'
+    end_date: '2017-10-16'
+    names:
+      en: National Heroes' Day
+- Christmas Day:
+    start_date: '2017-12-25'
+    end_date: '2017-12-25'
+    names:
+      en: Christmas Day
+- Boxing Day:
+    start_date: '2017-12-26'
+    end_date: '2017-12-26'
+    names:
+      en: Boxing Day
+'2018':
+- New Years Day:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: New Years Day
+- Ash Wednesday:
+    start_date: '2018-02-14'
+    end_date: '2018-02-14'
+    names:
+      en: Ash Wednesday
+- Good Friday:
+    start_date: '2018-03-30'
+    end_date: '2018-03-30'
+    names:
+      en: Good Friday
+- Easter Day:
+    start_date: '2018-04-01'
+    end_date: '2018-04-01'
+    names:
+      en: Easter Day
+- Easter Monday:
+    start_date: '2018-04-02'
+    end_date: '2018-04-02'
+    names:
+      en: Easter Monday
+- Labour Day:
+    start_date: '2018-05-23'
+    end_date: '2018-05-23'
+    names:
+      en: Labour Day
+- Emancipation Day:
+    start_date: '2018-08-01'
+    end_date: '2018-08-01'
+    names:
+      en: Emancipation Day
+- Independence Day (observed):
+    start_date: '2018-08-06'
+    end_date: '2018-08-06'
+    names:
+      en: Independence Day (observed)
+- National Heroes' Day:
+    start_date: '2018-10-15'
+    end_date: '2018-10-15'
+    names:
+      en: National Heroes' Day
+- Christmas Day:
+    start_date: '2018-12-25'
+    end_date: '2018-12-25'
+    names:
+      en: Christmas Day
+- Boxing Day:
+    start_date: '2018-12-26'
+    end_date: '2018-12-26'
+    names:
+      en: Boxing Day

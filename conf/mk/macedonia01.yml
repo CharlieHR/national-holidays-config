@@ -1,0 +1,75 @@
+---
+name: Macedonia, Republic of (all)
+'2018':
+- New Year's Day:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: New Year's Day
+      mk: New Year's Day
+- Orthodox Christmas Day:
+    start_date: '2018-01-07'
+    end_date: '2018-01-07'
+    names:
+      en: Orthodox Christmas Day
+      mk: Orthodox Christmas Day
+- Orthodox Easter Day:
+    start_date: '2018-04-08'
+    end_date: '2018-04-08'
+    names:
+      en: Orthodox Easter Day
+      mk: Orthodox Easter Day
+- Orthodox Easter Monday:
+    start_date: '2018-04-09'
+    end_date: '2018-04-09'
+    names:
+      en: Orthodox Easter Monday
+      mk: Orthodox Easter Monday
+- Labour Day:
+    start_date: '2018-05-01'
+    end_date: '2018-05-01'
+    names:
+      en: Labour Day
+      mk: Labour Day
+- St. Cyril and St. Methodius:
+    start_date: '2018-05-24'
+    end_date: '2018-05-24'
+    names:
+      en: St. Cyril and St. Methodius
+      mk: St. Cyril and St. Methodius
+- End of Ramadan:
+    start_date: '2018-06-15'
+    end_date: '2018-06-15'
+    names:
+      en: End of Ramadan
+      mk: Eid Al Fitr
+- Ilinden Uprising Day:
+    start_date: '2018-08-02'
+    end_date: '2018-08-02'
+    names:
+      en: Ilinden Uprising Day
+      mk: Ilinden Uprising Day
+- Independence Day:
+    start_date: '2018-09-08'
+    end_date: '2018-09-08'
+    names:
+      en: Independence Day
+      mk: Independence Day
+- People's Uprising Against Fascism:
+    start_date: '2018-10-11'
+    end_date: '2018-10-11'
+    names:
+      en: People's Uprising Against Fascism
+      mk: People's Uprising Against Fascism
+- Revolutionary Struggle Day:
+    start_date: '2018-10-23'
+    end_date: '2018-10-23'
+    names:
+      en: Revolutionary Struggle Day
+      mk: Revolutionary Struggle Day
+- St. Clement of Ohrid Day:
+    start_date: '2018-12-08'
+    end_date: '2018-12-08'
+    names:
+      en: St. Clement of Ohrid Day
+      mk: St. Clement of Ohrid Day

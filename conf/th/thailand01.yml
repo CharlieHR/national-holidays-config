@@ -1,0 +1,256 @@
+---
+name: Thailand (all)
+'2017':
+- New Year's Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: New Year's Day
+      th: New Year's Day
+- New Year's Day observed:
+    start_date: '2017-01-02'
+    end_date: '2017-01-02'
+    names:
+      en: New Year's Day observed
+      th: New Year's Day observed
+- Makha Bucha:
+    start_date: '2017-02-11'
+    end_date: '2017-02-11'
+    names:
+      en: Makha Bucha
+      th: Makha Bucha
+- Chakri Day:
+    start_date: '2017-04-06'
+    end_date: '2017-04-06'
+    names:
+      en: Chakri Day
+      th: Chakri Day
+- Songkran:
+    start_date: '2017-04-13'
+    end_date: '2017-04-13'
+    names:
+      en: Songkran
+      th: Songkran
+- Songkran:
+    start_date: '2017-04-14'
+    end_date: '2017-04-14'
+    names:
+      en: Songkran
+      th: Songkran
+- Songkran:
+    start_date: '2017-04-15'
+    end_date: '2017-04-15'
+    names:
+      en: Songkran
+      th: Songkran
+- Songkran observed:
+    start_date: '2017-04-17'
+    end_date: '2017-04-17'
+    names:
+      en: Songkran observed
+      th: Songkran observed
+- Labor Day:
+    start_date: '2017-05-01'
+    end_date: '2017-05-01'
+    names:
+      en: Labor Day
+      th: Labor Day
+- Coronation Day:
+    start_date: '2017-05-05'
+    end_date: '2017-05-05'
+    names:
+      en: Coronation Day
+      th: Coronation Day
+- Visakha Bucha:
+    start_date: '2017-05-10'
+    end_date: '2017-05-10'
+    names:
+      en: Visakha Bucha
+      th: Visakha Bucha
+- Buddhist Lent Day:
+    start_date: '2017-07-09'
+    end_date: '2017-07-09'
+    names:
+      en: Buddhist Lent Day
+      th: Buddhist Lent Day
+- Asalha Bucha:
+    start_date: '2017-07-10'
+    end_date: '2017-07-10'
+    names:
+      en: Asalha Bucha
+      th: Asalha Bucha
+- The Queen's Birthday observed:
+    start_date: '2017-08-11'
+    end_date: '2017-08-11'
+    names:
+      en: The Queen's Birthday observed
+      th: The Queen's Birthday observed
+- Mother's Day observed:
+    start_date: '2017-08-11'
+    end_date: '2017-08-11'
+    names:
+      en: Mother's Day observed
+      th: Mother's Day observed
+- The Queen's Birthday:
+    start_date: '2017-08-12'
+    end_date: '2017-08-12'
+    names:
+      en: The Queen's Birthday
+      th: The Queen's Birthday
+- Mother's Day:
+    start_date: '2017-08-12'
+    end_date: '2017-08-12'
+    names:
+      en: Mother's Day
+      th: Mother's Day
+- Chulalongkorn Day:
+    start_date: '2017-10-23'
+    end_date: '2017-10-23'
+    names:
+      en: Chulalongkorn Day
+      th: Chulalongkorn Day
+- King Bhumibol Adulyadej day:
+    start_date: '2017-12-05'
+    end_date: '2017-12-05'
+    names:
+      en: King Bhumibol Adulyadej day
+      th: King Bhumibol Adulyadej day
+- Father's Day:
+    start_date: '2017-12-05'
+    end_date: '2017-12-05'
+    names:
+      en: Father's Day
+      th: Father's Day
+- Constitution Day:
+    start_date: '2017-12-10'
+    end_date: '2017-12-10'
+    names:
+      en: Constitution Day
+      th: Constitution Day
+- Constitution Day observed:
+    start_date: '2017-12-11'
+    end_date: '2017-12-11'
+    names:
+      en: Constitution Day observed
+      th: Constitution Day observed
+- New Year's Eve:
+    start_date: '2017-12-31'
+    end_date: '2017-12-31'
+    names:
+      en: New Year's Eve
+      th: New Year's Eve
+'2018':
+- New Year's Day:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: New Year's Day
+      th: New Year's Day
+- New Year's Day observed:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: New Year's Day observed
+      th: New Year's Day observed
+- Chakri Day:
+    start_date: '2018-04-06'
+    end_date: '2018-04-06'
+    names:
+      en: Chakri Day
+      th: Chakri Day
+- Songkran:
+    start_date: '2018-04-13'
+    end_date: '2018-04-13'
+    names:
+      en: Songkran
+      th: Songkran
+- Songkran:
+    start_date: '2018-04-14'
+    end_date: '2018-04-14'
+    names:
+      en: Songkran
+      th: Songkran
+- Songkran:
+    start_date: '2018-04-15'
+    end_date: '2018-04-15'
+    names:
+      en: Songkran
+      th: Songkran
+- Songkran observed:
+    start_date: '2018-04-17'
+    end_date: '2018-04-17'
+    names:
+      en: Songkran observed
+      th: Songkran observed
+- Labor Day:
+    start_date: '2018-05-01'
+    end_date: '2018-05-01'
+    names:
+      en: Labor Day
+      th: Labor Day
+- Coronation Day:
+    start_date: '2018-05-05'
+    end_date: '2018-05-05'
+    names:
+      en: Coronation Day
+      th: Coronation Day
+- Coronation Day observed:
+    start_date: '2018-05-07'
+    end_date: '2018-05-07'
+    names:
+      en: Coronation Day observed
+      th: Coronation Day observed
+- The Queen's Birthday:
+    start_date: '2018-08-12'
+    end_date: '2018-08-12'
+    names:
+      en: The Queen's Birthday
+      th: The Queen's Birthday
+- Mother's Day:
+    start_date: '2018-08-12'
+    end_date: '2018-08-12'
+    names:
+      en: Mother's Day
+      th: Mother's Day
+- The Queen's Birthday observed:
+    start_date: '2018-08-13'
+    end_date: '2018-08-13'
+    names:
+      en: The Queen's Birthday observed
+      th: The Queen's Birthday observed
+- Mother's Day observed:
+    start_date: '2018-08-13'
+    end_date: '2018-08-13'
+    names:
+      en: Mother's Day observed
+      th: Mother's Day observed
+- Chulalongkorn Day:
+    start_date: '2018-10-23'
+    end_date: '2018-10-23'
+    names:
+      en: Chulalongkorn Day
+      th: Chulalongkorn Day
+- King Bhumibol Adulyadej day:
+    start_date: '2018-12-05'
+    end_date: '2018-12-05'
+    names:
+      en: King Bhumibol Adulyadej day
+      th: King Bhumibol Adulyadej day
+- Father's Day:
+    start_date: '2018-12-05'
+    end_date: '2018-12-05'
+    names:
+      en: Father's Day
+      th: Father's Day
+- Constitution Day:
+    start_date: '2018-12-10'
+    end_date: '2018-12-10'
+    names:
+      en: Constitution Day
+      th: Constitution Day
+- New Year's Eve:
+    start_date: '2018-12-31'
+    end_date: '2018-12-31'
+    names:
+      en: New Year's Eve
+      th: New Year's Eve

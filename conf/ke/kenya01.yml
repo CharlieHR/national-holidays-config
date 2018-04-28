@@ -1,0 +1,109 @@
+---
+name: Kenya (all)
+'2016':
+- New Year's Day:
+    start_date: '2016-01-01'
+    end_date: '2016-01-01'
+    names:
+      en: New Year's Day
+- Good Friday:
+    start_date: '2016-03-25'
+    end_date: '2016-03-25'
+    names:
+      en: Good Friday
+- Easter Monday:
+    start_date: '2016-03-28'
+    end_date: '2016-03-28'
+    names:
+      en: Easter Monday
+- Labour Day:
+    start_date: '2016-05-01'
+    end_date: '2016-05-01'
+    names:
+      en: Labour Day
+- Labour Day Holiday:
+    start_date: '2016-05-02'
+    end_date: '2016-05-02'
+    names:
+      en: Labour Day Holiday
+- National Day:
+    start_date: '2016-06-01'
+    end_date: '2016-06-01'
+    names:
+      en: Madaraka Day
+- End of Ramadan:
+    start_date: '2016-07-07'
+    end_date: '2016-07-07'
+    names:
+      en: Eid Al Fitr
+- Heroes' Day:
+    start_date: '2016-08-20'
+    end_date: '2016-08-20'
+    names:
+      en: Mashujaa Day
+- Independence Day:
+    start_date: '2016-12-12'
+    end_date: '2016-12-12'
+    names:
+      en: Jamhuri Day
+- Christmas Day:
+    start_date: '2016-12-25'
+    end_date: '2016-12-25'
+    names:
+      en: Christmas Day
+- Boxing Day:
+    start_date: '2016-12-26'
+    end_date: '2016-12-26'
+    names:
+      en: Boxing Day
+'2017':
+- New Year's Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: New Year's Day
+- Good Friday:
+    start_date: '2017-04-14'
+    end_date: '2017-04-14'
+    names:
+      en: Good Friday
+- Easter Monday:
+    start_date: '2017-04-17'
+    end_date: '2017-04-17'
+    names:
+      en: Easter Monday
+- Labour Day:
+    start_date: '2017-05-01'
+    end_date: '2017-05-01'
+    names:
+      en: Labour Day
+- National Day:
+    start_date: '2017-06-01'
+    end_date: '2017-06-01'
+    names:
+      en: Madaraka Day
+- End of Ramadan:
+    start_date: '2017-06-26'
+    end_date: '2017-06-26'
+    names:
+      en: Eid Al Fitr
+- Heroes' Day:
+    start_date: '2017-08-20'
+    end_date: '2017-08-20'
+    names:
+      en: Mashujaa Day
+- Independence Day:
+    start_date: '2017-12-12'
+    end_date: '2017-12-12'
+    names:
+      en: Jamhuri Day
+- Christmas Day:
+    start_date: '2017-12-25'
+    end_date: '2017-12-25'
+    names:
+      en: Christmas Day
+- Boxing Day:
+    start_date: '2017-12-26'
+    end_date: '2017-12-26'
+    names:
+      en: Boxing Day

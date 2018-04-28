@@ -1,0 +1,2198 @@
+---
+name: Italy (all)
+'2011':
+- New Year's Day:
+    start_date: '2011-01-01'
+    end_date: '2011-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2011-01-06'
+    end_date: '2011-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- 150th anniversary of the unification of Italy:
+    start_date: '2011-03-17'
+    end_date: '2011-03-17'
+    names:
+      en: 150th anniversary of the unification of Italy
+      it: 150° anniversario della proclamazione dell'Unita' d'Italia
+- Easter Sunday:
+    start_date: '2011-04-24'
+    end_date: '2011-04-24'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2011-04-25'
+    end_date: '2011-04-25'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2011-04-25'
+    end_date: '2011-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2011-05-01'
+    end_date: '2011-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2011-06-02'
+    end_date: '2011-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2011-08-15'
+    end_date: '2011-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2011-11-01'
+    end_date: '2011-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2011-12-08'
+    end_date: '2011-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2011-12-25'
+    end_date: '2011-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2011-12-26'
+    end_date: '2011-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2012':
+- New Year's Day:
+    start_date: '2012-01-01'
+    end_date: '2012-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2012-01-06'
+    end_date: '2012-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2012-04-08'
+    end_date: '2012-04-08'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2012-04-09'
+    end_date: '2012-04-09'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2012-04-25'
+    end_date: '2012-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2012-05-01'
+    end_date: '2012-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2012-06-02'
+    end_date: '2012-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2012-08-15'
+    end_date: '2012-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2012-11-01'
+    end_date: '2012-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2012-12-08'
+    end_date: '2012-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2012-12-25'
+    end_date: '2012-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2012-12-26'
+    end_date: '2012-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2013':
+- New Year's Day:
+    start_date: '2013-01-01'
+    end_date: '2013-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2013-01-06'
+    end_date: '2013-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2013-03-31'
+    end_date: '2013-03-31'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2013-04-01'
+    end_date: '2013-04-01'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2013-04-25'
+    end_date: '2013-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2013-05-01'
+    end_date: '2013-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2013-06-02'
+    end_date: '2013-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2013-08-15'
+    end_date: '2013-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2013-11-01'
+    end_date: '2013-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2013-12-08'
+    end_date: '2013-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2013-12-25'
+    end_date: '2013-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2013-12-26'
+    end_date: '2013-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2014':
+- New Year's Day:
+    start_date: '2014-01-01'
+    end_date: '2014-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2014-01-06'
+    end_date: '2014-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2014-04-20'
+    end_date: '2014-04-20'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2014-04-21'
+    end_date: '2014-04-21'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2014-04-25'
+    end_date: '2014-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2014-05-01'
+    end_date: '2014-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2014-06-02'
+    end_date: '2014-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2014-08-15'
+    end_date: '2014-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2014-11-01'
+    end_date: '2014-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2014-12-08'
+    end_date: '2014-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2014-12-25'
+    end_date: '2014-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2014-12-26'
+    end_date: '2014-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2015':
+- New Year's Day:
+    start_date: '2015-01-01'
+    end_date: '2015-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2015-01-06'
+    end_date: '2015-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2015-04-05'
+    end_date: '2015-04-05'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2015-04-06'
+    end_date: '2015-04-06'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2015-04-25'
+    end_date: '2015-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2015-05-01'
+    end_date: '2015-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2015-06-02'
+    end_date: '2015-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2015-08-15'
+    end_date: '2015-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2015-11-01'
+    end_date: '2015-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2015-12-08'
+    end_date: '2015-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2015-12-25'
+    end_date: '2015-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2015-12-26'
+    end_date: '2015-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2016':
+- New Year's Day:
+    start_date: '2016-01-01'
+    end_date: '2016-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2016-01-06'
+    end_date: '2016-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2016-03-27'
+    end_date: '2016-03-27'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2016-03-28'
+    end_date: '2016-03-28'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2016-04-25'
+    end_date: '2016-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2016-05-01'
+    end_date: '2016-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2016-06-02'
+    end_date: '2016-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2016-08-15'
+    end_date: '2016-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2016-11-01'
+    end_date: '2016-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2016-12-08'
+    end_date: '2016-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2016-12-25'
+    end_date: '2016-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2016-12-26'
+    end_date: '2016-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2017':
+- New Year's Day:
+    start_date: '2017-01-01'
+    end_date: '2017-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2017-01-06'
+    end_date: '2017-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2017-04-16'
+    end_date: '2017-04-16'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2017-04-17'
+    end_date: '2017-04-17'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2017-04-25'
+    end_date: '2017-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2017-05-01'
+    end_date: '2017-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2017-06-02'
+    end_date: '2017-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2017-08-15'
+    end_date: '2017-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2017-11-01'
+    end_date: '2017-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2017-12-08'
+    end_date: '2017-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2017-12-25'
+    end_date: '2017-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2017-12-26'
+    end_date: '2017-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2018':
+- New Year's Day:
+    start_date: '2018-01-01'
+    end_date: '2018-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2018-01-06'
+    end_date: '2018-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2018-04-01'
+    end_date: '2018-04-01'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2018-04-02'
+    end_date: '2018-04-02'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2018-04-25'
+    end_date: '2018-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2018-05-01'
+    end_date: '2018-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2018-06-02'
+    end_date: '2018-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2018-08-15'
+    end_date: '2018-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2018-11-01'
+    end_date: '2018-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2018-12-08'
+    end_date: '2018-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2018-12-25'
+    end_date: '2018-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2018-12-26'
+    end_date: '2018-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2019':
+- New Year's Day:
+    start_date: '2019-01-01'
+    end_date: '2019-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2019-01-06'
+    end_date: '2019-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2019-04-21'
+    end_date: '2019-04-21'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2019-04-22'
+    end_date: '2019-04-22'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2019-04-25'
+    end_date: '2019-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2019-05-01'
+    end_date: '2019-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2019-06-02'
+    end_date: '2019-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2019-08-15'
+    end_date: '2019-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2019-11-01'
+    end_date: '2019-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2019-12-08'
+    end_date: '2019-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2019-12-25'
+    end_date: '2019-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2019-12-26'
+    end_date: '2019-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2020':
+- New Year's Day:
+    start_date: '2020-01-01'
+    end_date: '2020-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2020-01-06'
+    end_date: '2020-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2020-04-12'
+    end_date: '2020-04-12'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2020-04-13'
+    end_date: '2020-04-13'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2020-04-25'
+    end_date: '2020-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2020-05-01'
+    end_date: '2020-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2020-06-02'
+    end_date: '2020-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2020-08-15'
+    end_date: '2020-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2020-11-01'
+    end_date: '2020-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2020-12-08'
+    end_date: '2020-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2020-12-25'
+    end_date: '2020-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2020-12-26'
+    end_date: '2020-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2021':
+- New Year's Day:
+    start_date: '2021-01-01'
+    end_date: '2021-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2021-01-06'
+    end_date: '2021-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2021-04-04'
+    end_date: '2021-04-04'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2021-04-05'
+    end_date: '2021-04-05'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2021-04-25'
+    end_date: '2021-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2021-05-01'
+    end_date: '2021-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2021-06-02'
+    end_date: '2021-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2021-08-15'
+    end_date: '2021-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2021-11-01'
+    end_date: '2021-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2021-12-08'
+    end_date: '2021-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2021-12-25'
+    end_date: '2021-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2021-12-26'
+    end_date: '2021-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2022':
+- New Year's Day:
+    start_date: '2022-01-01'
+    end_date: '2022-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2022-01-06'
+    end_date: '2022-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2022-04-17'
+    end_date: '2022-04-17'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2022-04-18'
+    end_date: '2022-04-18'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2022-04-25'
+    end_date: '2022-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2022-05-01'
+    end_date: '2022-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2022-06-02'
+    end_date: '2022-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2022-08-15'
+    end_date: '2022-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2022-11-01'
+    end_date: '2022-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2022-12-08'
+    end_date: '2022-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2022-12-25'
+    end_date: '2022-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2022-12-26'
+    end_date: '2022-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2023':
+- New Year's Day:
+    start_date: '2023-01-01'
+    end_date: '2023-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2023-01-06'
+    end_date: '2023-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2023-04-09'
+    end_date: '2023-04-09'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2023-04-10'
+    end_date: '2023-04-10'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2023-04-25'
+    end_date: '2023-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2023-05-01'
+    end_date: '2023-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2023-06-02'
+    end_date: '2023-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2023-08-15'
+    end_date: '2023-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2023-11-01'
+    end_date: '2023-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2023-12-08'
+    end_date: '2023-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2023-12-25'
+    end_date: '2023-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2023-12-26'
+    end_date: '2023-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2024':
+- New Year's Day:
+    start_date: '2024-01-01'
+    end_date: '2024-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2024-01-06'
+    end_date: '2024-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2024-03-31'
+    end_date: '2024-03-31'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2024-04-01'
+    end_date: '2024-04-01'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2024-04-25'
+    end_date: '2024-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2024-05-01'
+    end_date: '2024-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2024-06-02'
+    end_date: '2024-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2024-08-15'
+    end_date: '2024-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2024-11-01'
+    end_date: '2024-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2024-12-08'
+    end_date: '2024-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2024-12-25'
+    end_date: '2024-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2024-12-26'
+    end_date: '2024-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2025':
+- New Year's Day:
+    start_date: '2025-01-01'
+    end_date: '2025-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2025-01-06'
+    end_date: '2025-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2025-04-20'
+    end_date: '2025-04-20'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2025-04-21'
+    end_date: '2025-04-21'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2025-04-25'
+    end_date: '2025-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2025-05-01'
+    end_date: '2025-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2025-06-02'
+    end_date: '2025-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2025-08-15'
+    end_date: '2025-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2025-11-01'
+    end_date: '2025-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2025-12-08'
+    end_date: '2025-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2025-12-25'
+    end_date: '2025-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2025-12-26'
+    end_date: '2025-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2026':
+- New Year's Day:
+    start_date: '2026-01-01'
+    end_date: '2026-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2026-01-06'
+    end_date: '2026-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2026-04-05'
+    end_date: '2026-04-05'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2026-04-06'
+    end_date: '2026-04-06'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2026-04-25'
+    end_date: '2026-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2026-05-01'
+    end_date: '2026-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2026-06-02'
+    end_date: '2026-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2026-08-15'
+    end_date: '2026-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2026-11-01'
+    end_date: '2026-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2026-12-08'
+    end_date: '2026-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2026-12-25'
+    end_date: '2026-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2026-12-26'
+    end_date: '2026-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2027':
+- New Year's Day:
+    start_date: '2027-01-01'
+    end_date: '2027-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2027-01-06'
+    end_date: '2027-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2027-03-28'
+    end_date: '2027-03-28'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2027-03-29'
+    end_date: '2027-03-29'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2027-04-25'
+    end_date: '2027-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2027-05-01'
+    end_date: '2027-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2027-06-02'
+    end_date: '2027-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2027-08-15'
+    end_date: '2027-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2027-11-01'
+    end_date: '2027-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2027-12-08'
+    end_date: '2027-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2027-12-25'
+    end_date: '2027-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2027-12-26'
+    end_date: '2027-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2028':
+- New Year's Day:
+    start_date: '2028-01-01'
+    end_date: '2028-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2028-01-06'
+    end_date: '2028-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2028-04-16'
+    end_date: '2028-04-16'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2028-04-17'
+    end_date: '2028-04-17'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2028-04-25'
+    end_date: '2028-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2028-05-01'
+    end_date: '2028-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2028-06-02'
+    end_date: '2028-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2028-08-15'
+    end_date: '2028-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2028-11-01'
+    end_date: '2028-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2028-12-08'
+    end_date: '2028-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2028-12-25'
+    end_date: '2028-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2028-12-26'
+    end_date: '2028-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2029':
+- New Year's Day:
+    start_date: '2029-01-01'
+    end_date: '2029-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2029-01-06'
+    end_date: '2029-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2029-04-01'
+    end_date: '2029-04-01'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2029-04-02'
+    end_date: '2029-04-02'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2029-04-25'
+    end_date: '2029-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2029-05-01'
+    end_date: '2029-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2029-06-02'
+    end_date: '2029-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2029-08-15'
+    end_date: '2029-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2029-11-01'
+    end_date: '2029-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2029-12-08'
+    end_date: '2029-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2029-12-25'
+    end_date: '2029-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2029-12-26'
+    end_date: '2029-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2030':
+- New Year's Day:
+    start_date: '2030-01-01'
+    end_date: '2030-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2030-01-06'
+    end_date: '2030-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2030-04-21'
+    end_date: '2030-04-21'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2030-04-22'
+    end_date: '2030-04-22'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2030-04-25'
+    end_date: '2030-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2030-05-01'
+    end_date: '2030-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2030-06-02'
+    end_date: '2030-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2030-08-15'
+    end_date: '2030-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2030-11-01'
+    end_date: '2030-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2030-12-08'
+    end_date: '2030-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2030-12-25'
+    end_date: '2030-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2030-12-26'
+    end_date: '2030-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2031':
+- New Year's Day:
+    start_date: '2031-01-01'
+    end_date: '2031-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2031-01-06'
+    end_date: '2031-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2031-04-13'
+    end_date: '2031-04-13'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2031-04-14'
+    end_date: '2031-04-14'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2031-04-25'
+    end_date: '2031-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2031-05-01'
+    end_date: '2031-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2031-06-02'
+    end_date: '2031-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2031-08-15'
+    end_date: '2031-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2031-11-01'
+    end_date: '2031-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2031-12-08'
+    end_date: '2031-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2031-12-25'
+    end_date: '2031-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2031-12-26'
+    end_date: '2031-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2032':
+- New Year's Day:
+    start_date: '2032-01-01'
+    end_date: '2032-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2032-01-06'
+    end_date: '2032-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2032-03-28'
+    end_date: '2032-03-28'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2032-03-29'
+    end_date: '2032-03-29'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2032-04-25'
+    end_date: '2032-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2032-05-01'
+    end_date: '2032-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2032-06-02'
+    end_date: '2032-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2032-08-15'
+    end_date: '2032-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2032-11-01'
+    end_date: '2032-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2032-12-08'
+    end_date: '2032-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2032-12-25'
+    end_date: '2032-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2032-12-26'
+    end_date: '2032-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2033':
+- New Year's Day:
+    start_date: '2033-01-01'
+    end_date: '2033-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2033-01-06'
+    end_date: '2033-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2033-04-17'
+    end_date: '2033-04-17'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2033-04-18'
+    end_date: '2033-04-18'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2033-04-25'
+    end_date: '2033-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2033-05-01'
+    end_date: '2033-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2033-06-02'
+    end_date: '2033-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2033-08-15'
+    end_date: '2033-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2033-11-01'
+    end_date: '2033-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2033-12-08'
+    end_date: '2033-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2033-12-25'
+    end_date: '2033-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2033-12-26'
+    end_date: '2033-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2034':
+- New Year's Day:
+    start_date: '2034-01-01'
+    end_date: '2034-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2034-01-06'
+    end_date: '2034-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2034-04-09'
+    end_date: '2034-04-09'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2034-04-10'
+    end_date: '2034-04-10'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2034-04-25'
+    end_date: '2034-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2034-05-01'
+    end_date: '2034-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2034-06-02'
+    end_date: '2034-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2034-08-15'
+    end_date: '2034-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2034-11-01'
+    end_date: '2034-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2034-12-08'
+    end_date: '2034-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2034-12-25'
+    end_date: '2034-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2034-12-26'
+    end_date: '2034-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2035':
+- New Year's Day:
+    start_date: '2035-01-01'
+    end_date: '2035-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2035-01-06'
+    end_date: '2035-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2035-03-25'
+    end_date: '2035-03-25'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2035-03-26'
+    end_date: '2035-03-26'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2035-04-25'
+    end_date: '2035-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2035-05-01'
+    end_date: '2035-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2035-06-02'
+    end_date: '2035-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2035-08-15'
+    end_date: '2035-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2035-11-01'
+    end_date: '2035-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2035-12-08'
+    end_date: '2035-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2035-12-25'
+    end_date: '2035-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2035-12-26'
+    end_date: '2035-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2036':
+- New Year's Day:
+    start_date: '2036-01-01'
+    end_date: '2036-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2036-01-06'
+    end_date: '2036-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2036-04-13'
+    end_date: '2036-04-13'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2036-04-14'
+    end_date: '2036-04-14'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2036-04-25'
+    end_date: '2036-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2036-05-01'
+    end_date: '2036-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2036-06-02'
+    end_date: '2036-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2036-08-15'
+    end_date: '2036-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2036-11-01'
+    end_date: '2036-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2036-12-08'
+    end_date: '2036-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2036-12-25'
+    end_date: '2036-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2036-12-26'
+    end_date: '2036-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2037':
+- New Year's Day:
+    start_date: '2037-01-01'
+    end_date: '2037-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2037-01-06'
+    end_date: '2037-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2037-04-05'
+    end_date: '2037-04-05'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2037-04-06'
+    end_date: '2037-04-06'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2037-04-25'
+    end_date: '2037-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2037-05-01'
+    end_date: '2037-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2037-06-02'
+    end_date: '2037-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2037-08-15'
+    end_date: '2037-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2037-11-01'
+    end_date: '2037-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2037-12-08'
+    end_date: '2037-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2037-12-25'
+    end_date: '2037-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2037-12-26'
+    end_date: '2037-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2038':
+- New Year's Day:
+    start_date: '2038-01-01'
+    end_date: '2038-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2038-01-06'
+    end_date: '2038-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2038-04-25'
+    end_date: '2038-04-25'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Anniversary of Liberation:
+    start_date: '2038-04-25'
+    end_date: '2038-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Easter Monday:
+    start_date: '2038-04-26'
+    end_date: '2038-04-26'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Labour Day:
+    start_date: '2038-05-01'
+    end_date: '2038-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2038-06-02'
+    end_date: '2038-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2038-08-15'
+    end_date: '2038-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2038-11-01'
+    end_date: '2038-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2038-12-08'
+    end_date: '2038-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2038-12-25'
+    end_date: '2038-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2038-12-26'
+    end_date: '2038-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2039':
+- New Year's Day:
+    start_date: '2039-01-01'
+    end_date: '2039-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2039-01-06'
+    end_date: '2039-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2039-04-10'
+    end_date: '2039-04-10'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2039-04-11'
+    end_date: '2039-04-11'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2039-04-25'
+    end_date: '2039-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2039-05-01'
+    end_date: '2039-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2039-06-02'
+    end_date: '2039-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2039-08-15'
+    end_date: '2039-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2039-11-01'
+    end_date: '2039-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2039-12-08'
+    end_date: '2039-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2039-12-25'
+    end_date: '2039-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2039-12-26'
+    end_date: '2039-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+'2040':
+- New Year's Day:
+    start_date: '2040-01-01'
+    end_date: '2040-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+- Epiphany:
+    start_date: '2040-01-06'
+    end_date: '2040-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+- Easter Sunday:
+    start_date: '2040-04-01'
+    end_date: '2040-04-01'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+- Easter Monday:
+    start_date: '2040-04-02'
+    end_date: '2040-04-02'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+- Anniversary of Liberation:
+    start_date: '2040-04-25'
+    end_date: '2040-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+- Labour Day:
+    start_date: '2040-05-01'
+    end_date: '2040-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+- Republic Day:
+    start_date: '2040-06-02'
+    end_date: '2040-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+- Assumption of Mary:
+    start_date: '2040-08-15'
+    end_date: '2040-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+- All Saints' Day:
+    start_date: '2040-11-01'
+    end_date: '2040-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+- Immaculate Conception Day:
+    start_date: '2040-12-08'
+    end_date: '2040-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+- Christmas Day:
+    start_date: '2040-12-25'
+    end_date: '2040-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+- St Stephen's Day:
+    start_date: '2040-12-26'
+    end_date: '2040-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
