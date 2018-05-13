@@ -2,126 +2,126 @@
 name: Brazil (all)
 '2016':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-08'
     end_date: '2016-02-08'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-09'
     end_date: '2016-02-09'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-10'
     end_date: '2016-02-10'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-25'
     end_date: '2016-03-25'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-04-21'
     end_date: '2016-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-26'
     end_date: '2016-05-26'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Municipal Public Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-08-05'
     end_date: '2016-08-05'
     names:
       en: Municipal Public Holiday
       pt: Feriado Municipal
 - Municipal Public Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-08-18'
     end_date: '2016-08-18'
     names:
       en: Municipal Public Holiday
       pt: Feriado Municipal
 - Municipal Public Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-08-22'
     end_date: '2016-08-22'
     names:
       en: Municipal Public Holiday
       pt: Feriado Municipal
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-09-07'
     end_date: '2016-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-12'
     end_date: '2016-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-28'
     end_date: '2016-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-11-02'
     end_date: '2016-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-11-15'
     end_date: '2016-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-11-20'
     end_date: '2016-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-25'
     end_date: '2016-12-25'
     names:
@@ -129,105 +129,105 @@ name: Brazil (all)
       pt: Natal
 '2017':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-02-27'
     end_date: '2017-02-27'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-02-28'
     end_date: '2017-02-28'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-03-01'
     end_date: '2017-03-01'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-21'
     end_date: '2017-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-15'
     end_date: '2017-06-15'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-09-07'
     end_date: '2017-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-12'
     end_date: '2017-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-27'
     end_date: '2017-10-27'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-11-02'
     end_date: '2017-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-11-15'
     end_date: '2017-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-11-20'
     end_date: '2017-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
@@ -235,105 +235,105 @@ name: Brazil (all)
       pt: Natal
 '2018':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-12'
     end_date: '2018-02-12'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-13'
     end_date: '2018-02-13'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-14'
     end_date: '2018-02-14'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-21'
     end_date: '2018-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-31'
     end_date: '2018-05-31'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-09-07'
     end_date: '2018-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-12'
     end_date: '2018-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-29'
     end_date: '2018-10-29'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-11-02'
     end_date: '2018-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-11-15'
     end_date: '2018-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-11-20'
     end_date: '2018-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
@@ -341,105 +341,105 @@ name: Brazil (all)
       pt: Natal
 '2019':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-03-04'
     end_date: '2019-03-04'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-03-05'
     end_date: '2019-03-05'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-03-06'
     end_date: '2019-03-06'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-19'
     end_date: '2019-04-19'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-21'
     end_date: '2019-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-20'
     end_date: '2019-06-20'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-09-07'
     end_date: '2019-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-12'
     end_date: '2019-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-28'
     end_date: '2019-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-11-02'
     end_date: '2019-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-11-15'
     end_date: '2019-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-11-20'
     end_date: '2019-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:
@@ -447,105 +447,105 @@ name: Brazil (all)
       pt: Natal
 '2020':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-02-24'
     end_date: '2020-02-24'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-02-25'
     end_date: '2020-02-25'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-02-26'
     end_date: '2020-02-26'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-10'
     end_date: '2020-04-10'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-21'
     end_date: '2020-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-11'
     end_date: '2020-06-11'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-09-07'
     end_date: '2020-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-12'
     end_date: '2020-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-28'
     end_date: '2020-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-11-02'
     end_date: '2020-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-11-15'
     end_date: '2020-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-11-20'
     end_date: '2020-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-25'
     end_date: '2020-12-25'
     names:
@@ -553,105 +553,105 @@ name: Brazil (all)
       pt: Natal
 '2021':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-15'
     end_date: '2021-02-15'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-16'
     end_date: '2021-02-16'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-17'
     end_date: '2021-02-17'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-02'
     end_date: '2021-04-02'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-21'
     end_date: '2021-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-06-03'
     end_date: '2021-06-03'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-09-07'
     end_date: '2021-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-12'
     end_date: '2021-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-28'
     end_date: '2021-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-11-02'
     end_date: '2021-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-11-15'
     end_date: '2021-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-11-20'
     end_date: '2021-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-25'
     end_date: '2021-12-25'
     names:
@@ -659,105 +659,105 @@ name: Brazil (all)
       pt: Natal
 '2022':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-02-28'
     end_date: '2022-02-28'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-03-01'
     end_date: '2022-03-01'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-03-02'
     end_date: '2022-03-02'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-15'
     end_date: '2022-04-15'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-21'
     end_date: '2022-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-16'
     end_date: '2022-06-16'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-09-07'
     end_date: '2022-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-12'
     end_date: '2022-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-28'
     end_date: '2022-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-11-02'
     end_date: '2022-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-11-15'
     end_date: '2022-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-11-20'
     end_date: '2022-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-25'
     end_date: '2022-12-25'
     names:
@@ -765,105 +765,105 @@ name: Brazil (all)
       pt: Natal
 '2023':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-02-20'
     end_date: '2023-02-20'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-02-21'
     end_date: '2023-02-21'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-02-22'
     end_date: '2023-02-22'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-07'
     end_date: '2023-04-07'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-21'
     end_date: '2023-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-06-08'
     end_date: '2023-06-08'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-09-07'
     end_date: '2023-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-12'
     end_date: '2023-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-27'
     end_date: '2023-10-27'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-11-02'
     end_date: '2023-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-11-15'
     end_date: '2023-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-11-20'
     end_date: '2023-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-25'
     end_date: '2023-12-25'
     names:
@@ -871,105 +871,105 @@ name: Brazil (all)
       pt: Natal
 '2024':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-12'
     end_date: '2024-02-12'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-13'
     end_date: '2024-02-13'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-14'
     end_date: '2024-02-14'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-03-29'
     end_date: '2024-03-29'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-21'
     end_date: '2024-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-30'
     end_date: '2024-05-30'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-09-07'
     end_date: '2024-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-12'
     end_date: '2024-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-28'
     end_date: '2024-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-11-02'
     end_date: '2024-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-11-15'
     end_date: '2024-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-11-20'
     end_date: '2024-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-25'
     end_date: '2024-12-25'
     names:
@@ -977,105 +977,105 @@ name: Brazil (all)
       pt: Natal
 '2025':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-03-03'
     end_date: '2025-03-03'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-03-04'
     end_date: '2025-03-04'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-03-05'
     end_date: '2025-03-05'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-18'
     end_date: '2025-04-18'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-21'
     end_date: '2025-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-19'
     end_date: '2025-06-19'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-09-07'
     end_date: '2025-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-12'
     end_date: '2025-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-28'
     end_date: '2025-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-11-02'
     end_date: '2025-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-11-15'
     end_date: '2025-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-11-20'
     end_date: '2025-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-25'
     end_date: '2025-12-25'
     names:
@@ -1083,105 +1083,105 @@ name: Brazil (all)
       pt: Natal
 '2026':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-16'
     end_date: '2026-02-16'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-17'
     end_date: '2026-02-17'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-18'
     end_date: '2026-02-18'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-03'
     end_date: '2026-04-03'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-21'
     end_date: '2026-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-06-04'
     end_date: '2026-06-04'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-09-07'
     end_date: '2026-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-12'
     end_date: '2026-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-28'
     end_date: '2026-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-11-02'
     end_date: '2026-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-11-15'
     end_date: '2026-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-11-20'
     end_date: '2026-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-25'
     end_date: '2026-12-25'
     names:
@@ -1189,105 +1189,105 @@ name: Brazil (all)
       pt: Natal
 '2027':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-08'
     end_date: '2027-02-08'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-09'
     end_date: '2027-02-09'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-10'
     end_date: '2027-02-10'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-26'
     end_date: '2027-03-26'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-04-21'
     end_date: '2027-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-27'
     end_date: '2027-05-27'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-09-07'
     end_date: '2027-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-12'
     end_date: '2027-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-28'
     end_date: '2027-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-11-02'
     end_date: '2027-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-11-15'
     end_date: '2027-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-11-20'
     end_date: '2027-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-25'
     end_date: '2027-12-25'
     names:
@@ -1295,105 +1295,105 @@ name: Brazil (all)
       pt: Natal
 '2028':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-02-28'
     end_date: '2028-02-28'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-02-29'
     end_date: '2028-02-29'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-03-01'
     end_date: '2028-03-01'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-14'
     end_date: '2028-04-14'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-21'
     end_date: '2028-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-15'
     end_date: '2028-06-15'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-09-07'
     end_date: '2028-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-12'
     end_date: '2028-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-27'
     end_date: '2028-10-27'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-11-02'
     end_date: '2028-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-11-15'
     end_date: '2028-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-11-20'
     end_date: '2028-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-25'
     end_date: '2028-12-25'
     names:
@@ -1401,105 +1401,105 @@ name: Brazil (all)
       pt: Natal
 '2029':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-12'
     end_date: '2029-02-12'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-13'
     end_date: '2029-02-13'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-14'
     end_date: '2029-02-14'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-03-30'
     end_date: '2029-03-30'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-21'
     end_date: '2029-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-31'
     end_date: '2029-05-31'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-09-07'
     end_date: '2029-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-12'
     end_date: '2029-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-29'
     end_date: '2029-10-29'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-11-02'
     end_date: '2029-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-11-15'
     end_date: '2029-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-11-20'
     end_date: '2029-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-25'
     end_date: '2029-12-25'
     names:
@@ -1507,105 +1507,105 @@ name: Brazil (all)
       pt: Natal
 '2030':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-03-04'
     end_date: '2030-03-04'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-03-05'
     end_date: '2030-03-05'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-03-06'
     end_date: '2030-03-06'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-19'
     end_date: '2030-04-19'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-21'
     end_date: '2030-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-20'
     end_date: '2030-06-20'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-09-07'
     end_date: '2030-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-12'
     end_date: '2030-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-28'
     end_date: '2030-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-11-02'
     end_date: '2030-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-11-15'
     end_date: '2030-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-11-20'
     end_date: '2030-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-25'
     end_date: '2030-12-25'
     names:
@@ -1613,105 +1613,105 @@ name: Brazil (all)
       pt: Natal
 '2031':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-02-24'
     end_date: '2031-02-24'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-02-25'
     end_date: '2031-02-25'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-02-26'
     end_date: '2031-02-26'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-11'
     end_date: '2031-04-11'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-21'
     end_date: '2031-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-12'
     end_date: '2031-06-12'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-09-07'
     end_date: '2031-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-12'
     end_date: '2031-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-28'
     end_date: '2031-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-11-02'
     end_date: '2031-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-11-15'
     end_date: '2031-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-11-20'
     end_date: '2031-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-25'
     end_date: '2031-12-25'
     names:
@@ -1719,105 +1719,105 @@ name: Brazil (all)
       pt: Natal
 '2032':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-09'
     end_date: '2032-02-09'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-10'
     end_date: '2032-02-10'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-11'
     end_date: '2032-02-11'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-26'
     end_date: '2032-03-26'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-04-21'
     end_date: '2032-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-27'
     end_date: '2032-05-27'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-09-07'
     end_date: '2032-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-12'
     end_date: '2032-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-28'
     end_date: '2032-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-11-02'
     end_date: '2032-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-11-15'
     end_date: '2032-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-11-20'
     end_date: '2032-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-25'
     end_date: '2032-12-25'
     names:
@@ -1825,105 +1825,105 @@ name: Brazil (all)
       pt: Natal
 '2033':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-02-28'
     end_date: '2033-02-28'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-03-01'
     end_date: '2033-03-01'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-03-02'
     end_date: '2033-03-02'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-15'
     end_date: '2033-04-15'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-21'
     end_date: '2033-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-16'
     end_date: '2033-06-16'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-09-07'
     end_date: '2033-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-12'
     end_date: '2033-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-28'
     end_date: '2033-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-11-02'
     end_date: '2033-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-11-15'
     end_date: '2033-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-11-20'
     end_date: '2033-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-25'
     end_date: '2033-12-25'
     names:
@@ -1931,105 +1931,105 @@ name: Brazil (all)
       pt: Natal
 '2034':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-20'
     end_date: '2034-02-20'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-21'
     end_date: '2034-02-21'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-22'
     end_date: '2034-02-22'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-07'
     end_date: '2034-04-07'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-21'
     end_date: '2034-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-06-08'
     end_date: '2034-06-08'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-09-07'
     end_date: '2034-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-12'
     end_date: '2034-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-27'
     end_date: '2034-10-27'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-11-02'
     end_date: '2034-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-11-15'
     end_date: '2034-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-11-20'
     end_date: '2034-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-25'
     end_date: '2034-12-25'
     names:
@@ -2037,105 +2037,105 @@ name: Brazil (all)
       pt: Natal
 '2035':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-05'
     end_date: '2035-02-05'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-06'
     end_date: '2035-02-06'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-07'
     end_date: '2035-02-07'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-23'
     end_date: '2035-03-23'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-04-21'
     end_date: '2035-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-24'
     end_date: '2035-05-24'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-09-07'
     end_date: '2035-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-12'
     end_date: '2035-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-29'
     end_date: '2035-10-29'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-11-02'
     end_date: '2035-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-11-15'
     end_date: '2035-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-11-20'
     end_date: '2035-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-25'
     end_date: '2035-12-25'
     names:
@@ -2143,105 +2143,105 @@ name: Brazil (all)
       pt: Natal
 '2036':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-02-25'
     end_date: '2036-02-25'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-02-26'
     end_date: '2036-02-26'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-02-27'
     end_date: '2036-02-27'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-11'
     end_date: '2036-04-11'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-21'
     end_date: '2036-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-12'
     end_date: '2036-06-12'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-09-07'
     end_date: '2036-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-12'
     end_date: '2036-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-28'
     end_date: '2036-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-11-02'
     end_date: '2036-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-11-15'
     end_date: '2036-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-11-20'
     end_date: '2036-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-25'
     end_date: '2036-12-25'
     names:
@@ -2249,105 +2249,105 @@ name: Brazil (all)
       pt: Natal
 '2037':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-16'
     end_date: '2037-02-16'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-17'
     end_date: '2037-02-17'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-18'
     end_date: '2037-02-18'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-03'
     end_date: '2037-04-03'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-21'
     end_date: '2037-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-06-04'
     end_date: '2037-06-04'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-09-07'
     end_date: '2037-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-12'
     end_date: '2037-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-28'
     end_date: '2037-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-11-02'
     end_date: '2037-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-11-15'
     end_date: '2037-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-11-20'
     end_date: '2037-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-25'
     end_date: '2037-12-25'
     names:
@@ -2355,105 +2355,105 @@ name: Brazil (all)
       pt: Natal
 '2038':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-03-08'
     end_date: '2038-03-08'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-03-09'
     end_date: '2038-03-09'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-03-10'
     end_date: '2038-03-10'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-21'
     end_date: '2038-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-23'
     end_date: '2038-04-23'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-24'
     end_date: '2038-06-24'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-09-07'
     end_date: '2038-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-12'
     end_date: '2038-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-28'
     end_date: '2038-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-11-02'
     end_date: '2038-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-11-15'
     end_date: '2038-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-11-20'
     end_date: '2038-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-25'
     end_date: '2038-12-25'
     names:
@@ -2461,105 +2461,105 @@ name: Brazil (all)
       pt: Natal
 '2039':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-02-21'
     end_date: '2039-02-21'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-02-22'
     end_date: '2039-02-22'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-02-23'
     end_date: '2039-02-23'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-08'
     end_date: '2039-04-08'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-21'
     end_date: '2039-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-06-09'
     end_date: '2039-06-09'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-09-07'
     end_date: '2039-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-12'
     end_date: '2039-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-28'
     end_date: '2039-10-28'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-11-02'
     end_date: '2039-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-11-15'
     end_date: '2039-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-11-20'
     end_date: '2039-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-25'
     end_date: '2039-12-25'
     names:
@@ -2567,105 +2567,105 @@ name: Brazil (all)
       pt: Natal
 '2040':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       pt: Ano Novo / Confraternizaçao Universal
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-13'
     end_date: '2040-02-13'
     names:
       en: Carnival
       pt: Carnaval
 - Carnival:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-14'
     end_date: '2040-02-14'
     names:
       en: Carnival
       pt: Carnaval
 - Ash Wednesday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-15'
     end_date: '2040-02-15'
     names:
       en: Ash Wednesday
       pt: Quarta-feira de Cinzas
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-03-30'
     end_date: '2040-03-30'
     names:
       en: Good Friday
       pt: Paixao de Cristo
 - Tiradentes' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-21'
     end_date: '2040-04-21'
     names:
       en: Tiradentes' Day
       pt: Dia de Tiradentes
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: Labour Day
       pt: Dia do Trabalhador (Dia do Trabalho)
 - Corpus Christi:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-31'
     end_date: '2040-05-31'
     names:
       en: Corpus Christi
       pt: Corpo de Deus
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-09-07'
     end_date: '2040-09-07'
     names:
       en: Independence Day
       pt: Dia da Independencia
 - Lady of Aparecida Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-12'
     end_date: '2040-10-12'
     names:
       en: Lady of Aparecida Day
       pt: Nossa Senhora Aparecida
 - Civil Servants' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-29'
     end_date: '2040-10-29'
     names:
       en: Civil Servants' Day
       pt: Dia do Servidor Público
 - All Souls' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-11-02'
     end_date: '2040-11-02'
     names:
       en: All Souls' Day
       pt: Dia de Finados
 - Republic Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-11-15'
     end_date: '2040-11-15'
     names:
       en: Republic Day
       pt: Proclamaçao da República
 - Dia da Consciencia Negra:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-11-20'
     end_date: '2040-11-20'
     names:
       en: Dia da Consciencia Negra
       pt: Black Consciousness Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-25'
     end_date: '2040-12-25'
     names:

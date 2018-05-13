@@ -2,122 +2,122 @@
 name: Singapore (all)
 '2017':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
 - New Year's Day observed:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-02'
     end_date: '2017-01-02'
     names:
       en: New Year's Day observed
 - Chinese Lunar New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-28'
     end_date: '2017-01-28'
     names:
       en: Chinese Lunar New Year's Day
 - Second day of Chinese Lunar New Year:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-29'
     end_date: '2017-01-29'
     names:
       en: Second day of Chinese Lunar New Year
 - Chinese Lunar New Year observed:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-30'
     end_date: '2017-01-30'
     names:
       en: Chinese Lunar New Year observed
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day
 - Vesak Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-10'
     end_date: '2017-05-10'
     names:
       en: Vesak Day
 - Hari Raya Puasa:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-25'
     end_date: '2017-06-25'
     names:
       en: Hari Raya Puasa
 - Hari Raya Puasa observed:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-26'
     end_date: '2017-06-26'
     names:
       en: Hari Raya Puasa observed
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-08-09'
     end_date: '2017-08-09'
     names:
       en: National Day
 - Hari Raya Haji:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-09-01'
     end_date: '2017-09-01'
     names:
       en: Hari Raya Haji
 - Diwali/Deepavali:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-18'
     end_date: '2017-10-18'
     names:
       en: Diwali/Deepavali
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
 '2018':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
 - Chinese Lunar New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-16'
     end_date: '2018-02-16'
     names:
       en: Chinese Lunar New Year's Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-09'
     end_date: '2018-08-09'
     names:
       en: National Day
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:

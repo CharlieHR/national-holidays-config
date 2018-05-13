@@ -2,98 +2,98 @@
 name: Tenerife
 '2018':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-06'
     end_date: '2018-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Good Thursday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-03-29'
     end_date: '2018-03-29'
     names:
       en: Good Thursday
       es: Jueves Santo
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       es: Viernes Santo
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
 - Día de la Cruz:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-03'
     end_date: '2018-05-03'
     names:
       en: Día de la Cruz
       es: Día de la Cruz
 - Day of Canarias:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-03'
     end_date: '2018-05-03'
     names:
       en: Day of Canarias
       es: Día de las Canarias
 - St. Joseph's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-25'
     end_date: '2018-06-25'
     names:
       en: St. Joseph's Day
       es: San Juan
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-15'
     end_date: '2018-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - National Day of Spain:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-12'
     end_date: '2018-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-11-01'
     end_date: '2018-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-06'
     end_date: '2018-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-08'
     end_date: '2018-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
@@ -101,84 +101,84 @@ name: Tenerife
       es: Dia de Navidad
 '2019':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
 - Lord's Epiphany:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-07'
     end_date: '2019-01-07'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
 - Día de la Cruz:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-03'
     end_date: '2019-05-03'
     names:
       en: Día de la Cruz
       es: Día de la Cruz
 - Día of Canarias:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-30'
     end_date: '2019-05-30'
     names:
       en: Día of Canarias
       es: Día de la Canarias
 - St. Joseph's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-24'
     end_date: '2019-06-24'
     names:
       en: St. Joseph's Day
       es: San Juan
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-08-15'
     end_date: '2019-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
 - National Day of Spain:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-12'
     end_date: '2019-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
 - All Saints:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-11-01'
     end_date: '2019-11-01'
     names:
       en: All Saints
       es: Todos los Santos
 - Spanish Contitution's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-06'
     end_date: '2019-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
 - Immaculate Conception Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-09'
     end_date: '2019-12-09'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:

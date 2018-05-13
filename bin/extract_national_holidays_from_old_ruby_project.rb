@@ -28,7 +28,7 @@ Dir.chdir config_directory do
           config[year] ||= []
           config[year] << {
             national_holiday.english_name => {
-              'public holiday' => true,
+              'public_holiday' => true,
               'start_date' => national_holiday.start_date.strftime('%Y-%m-%d'),
               'end_date' => national_holiday.end_date.strftime('%Y-%m-%d'),
               'names' => {

@@ -2,84 +2,84 @@
 name: Estonia (all)
 '2011':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-01-01'
     end_date: '2011-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-02-24'
     end_date: '2011-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-04-22'
     end_date: '2011-04-22'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-04-24'
     end_date: '2011-04-24'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2011-05-01'
     end_date: '2011-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-06-12'
     end_date: '2011-06-12'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-06-23'
     end_date: '2011-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2011-06-24'
     end_date: '2011-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-08-20'
     end_date: '2011-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-12-24'
     end_date: '2011-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-12-25'
     end_date: '2011-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-12-26'
     end_date: '2011-12-26'
     names:
@@ -87,84 +87,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2012':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-01-01'
     end_date: '2012-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-02-24'
     end_date: '2012-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-04-06'
     end_date: '2012-04-06'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-04-08'
     end_date: '2012-04-08'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2012-05-01'
     end_date: '2012-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-05-27'
     end_date: '2012-05-27'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-06-23'
     end_date: '2012-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2012-06-24'
     end_date: '2012-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-08-20'
     end_date: '2012-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-24'
     end_date: '2012-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-25'
     end_date: '2012-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-26'
     end_date: '2012-12-26'
     names:
@@ -172,84 +172,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2013':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-01-01'
     end_date: '2013-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-02-24'
     end_date: '2013-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-03-29'
     end_date: '2013-03-29'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-03-31'
     end_date: '2013-03-31'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-01'
     end_date: '2013-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-19'
     end_date: '2013-05-19'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-06-23'
     end_date: '2013-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2013-06-24'
     end_date: '2013-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-08-20'
     end_date: '2013-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-24'
     end_date: '2013-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-25'
     end_date: '2013-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-26'
     end_date: '2013-12-26'
     names:
@@ -257,84 +257,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2014':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-01-01'
     end_date: '2014-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-02-24'
     end_date: '2014-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-18'
     end_date: '2014-04-18'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-20'
     end_date: '2014-04-20'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-01'
     end_date: '2014-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-08'
     end_date: '2014-06-08'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-23'
     end_date: '2014-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-24'
     end_date: '2014-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-08-20'
     end_date: '2014-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-24'
     end_date: '2014-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-25'
     end_date: '2014-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-26'
     end_date: '2014-12-26'
     names:
@@ -342,84 +342,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2015':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-02-24'
     end_date: '2015-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-03'
     end_date: '2015-04-03'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-05'
     end_date: '2015-04-05'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-01'
     end_date: '2015-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-24'
     end_date: '2015-05-24'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-06-23'
     end_date: '2015-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2015-06-24'
     end_date: '2015-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-08-20'
     end_date: '2015-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-24'
     end_date: '2015-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-25'
     end_date: '2015-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-26'
     end_date: '2015-12-26'
     names:
@@ -427,84 +427,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2016':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-24'
     end_date: '2016-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-25'
     end_date: '2016-03-25'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-27'
     end_date: '2016-03-27'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-15'
     end_date: '2016-05-15'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-06-23'
     end_date: '2016-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2016-06-24'
     end_date: '2016-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-08-20'
     end_date: '2016-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-24'
     end_date: '2016-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-25'
     end_date: '2016-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-26'
     end_date: '2016-12-26'
     names:
@@ -512,84 +512,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2017':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-02-24'
     end_date: '2017-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-16'
     end_date: '2017-04-16'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-04'
     end_date: '2017-06-04'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-23'
     end_date: '2017-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-24'
     end_date: '2017-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-08-20'
     end_date: '2017-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-24'
     end_date: '2017-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-26'
     end_date: '2017-12-26'
     names:
@@ -597,84 +597,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2018':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-24'
     end_date: '2018-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-01'
     end_date: '2018-04-01'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-20'
     end_date: '2018-05-20'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-23'
     end_date: '2018-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-24'
     end_date: '2018-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-20'
     end_date: '2018-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-24'
     end_date: '2018-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-26'
     end_date: '2018-12-26'
     names:
@@ -682,84 +682,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2019':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-02-24'
     end_date: '2019-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-19'
     end_date: '2019-04-19'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-21'
     end_date: '2019-04-21'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-09'
     end_date: '2019-06-09'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-23'
     end_date: '2019-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-24'
     end_date: '2019-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-08-20'
     end_date: '2019-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-24'
     end_date: '2019-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-26'
     end_date: '2019-12-26'
     names:
@@ -767,84 +767,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2020':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-02-24'
     end_date: '2020-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-10'
     end_date: '2020-04-10'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-12'
     end_date: '2020-04-12'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-31'
     end_date: '2020-05-31'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-23'
     end_date: '2020-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-24'
     end_date: '2020-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-08-20'
     end_date: '2020-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-24'
     end_date: '2020-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-25'
     end_date: '2020-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-26'
     end_date: '2020-12-26'
     names:
@@ -852,84 +852,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2021':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-24'
     end_date: '2021-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-02'
     end_date: '2021-04-02'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-04'
     end_date: '2021-04-04'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-23'
     end_date: '2021-05-23'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-06-23'
     end_date: '2021-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2021-06-24'
     end_date: '2021-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-08-20'
     end_date: '2021-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-24'
     end_date: '2021-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-25'
     end_date: '2021-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-26'
     end_date: '2021-12-26'
     names:
@@ -937,84 +937,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2022':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-02-24'
     end_date: '2022-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-15'
     end_date: '2022-04-15'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-17'
     end_date: '2022-04-17'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-05'
     end_date: '2022-06-05'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-23'
     end_date: '2022-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-24'
     end_date: '2022-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-08-20'
     end_date: '2022-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-24'
     end_date: '2022-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-25'
     end_date: '2022-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-26'
     end_date: '2022-12-26'
     names:
@@ -1022,84 +1022,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2023':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-02-24'
     end_date: '2023-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-07'
     end_date: '2023-04-07'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-09'
     end_date: '2023-04-09'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-28'
     end_date: '2023-05-28'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-06-23'
     end_date: '2023-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2023-06-24'
     end_date: '2023-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-08-20'
     end_date: '2023-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-24'
     end_date: '2023-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-25'
     end_date: '2023-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-26'
     end_date: '2023-12-26'
     names:
@@ -1107,84 +1107,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2024':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-24'
     end_date: '2024-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-03-29'
     end_date: '2024-03-29'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-03-31'
     end_date: '2024-03-31'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-19'
     end_date: '2024-05-19'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-06-23'
     end_date: '2024-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2024-06-24'
     end_date: '2024-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-08-20'
     end_date: '2024-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-24'
     end_date: '2024-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-25'
     end_date: '2024-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-26'
     end_date: '2024-12-26'
     names:
@@ -1192,84 +1192,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2025':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-02-24'
     end_date: '2025-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-18'
     end_date: '2025-04-18'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-20'
     end_date: '2025-04-20'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-08'
     end_date: '2025-06-08'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-23'
     end_date: '2025-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-24'
     end_date: '2025-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-08-20'
     end_date: '2025-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-24'
     end_date: '2025-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-25'
     end_date: '2025-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-26'
     end_date: '2025-12-26'
     names:
@@ -1277,84 +1277,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2026':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-24'
     end_date: '2026-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-03'
     end_date: '2026-04-03'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-05'
     end_date: '2026-04-05'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-24'
     end_date: '2026-05-24'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-06-23'
     end_date: '2026-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2026-06-24'
     end_date: '2026-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-08-20'
     end_date: '2026-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-24'
     end_date: '2026-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-25'
     end_date: '2026-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-26'
     end_date: '2026-12-26'
     names:
@@ -1362,84 +1362,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2027':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-24'
     end_date: '2027-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-26'
     end_date: '2027-03-26'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-28'
     end_date: '2027-03-28'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-16'
     end_date: '2027-05-16'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-06-23'
     end_date: '2027-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2027-06-24'
     end_date: '2027-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-08-20'
     end_date: '2027-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-24'
     end_date: '2027-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-25'
     end_date: '2027-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-26'
     end_date: '2027-12-26'
     names:
@@ -1447,84 +1447,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2028':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-02-24'
     end_date: '2028-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-14'
     end_date: '2028-04-14'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-16'
     end_date: '2028-04-16'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-04'
     end_date: '2028-06-04'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-23'
     end_date: '2028-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-24'
     end_date: '2028-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-08-20'
     end_date: '2028-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-24'
     end_date: '2028-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-25'
     end_date: '2028-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-26'
     end_date: '2028-12-26'
     names:
@@ -1532,84 +1532,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2029':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-24'
     end_date: '2029-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-03-30'
     end_date: '2029-03-30'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-01'
     end_date: '2029-04-01'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-20'
     end_date: '2029-05-20'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-06-23'
     end_date: '2029-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2029-06-24'
     end_date: '2029-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-08-20'
     end_date: '2029-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-24'
     end_date: '2029-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-25'
     end_date: '2029-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-26'
     end_date: '2029-12-26'
     names:
@@ -1617,84 +1617,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2030':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-02-24'
     end_date: '2030-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-19'
     end_date: '2030-04-19'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-21'
     end_date: '2030-04-21'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-09'
     end_date: '2030-06-09'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-23'
     end_date: '2030-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-24'
     end_date: '2030-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-08-20'
     end_date: '2030-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-24'
     end_date: '2030-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-25'
     end_date: '2030-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-26'
     end_date: '2030-12-26'
     names:
@@ -1702,84 +1702,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2031':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-02-24'
     end_date: '2031-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-11'
     end_date: '2031-04-11'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-13'
     end_date: '2031-04-13'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-01'
     end_date: '2031-06-01'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-23'
     end_date: '2031-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-24'
     end_date: '2031-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-08-20'
     end_date: '2031-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-24'
     end_date: '2031-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-25'
     end_date: '2031-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-26'
     end_date: '2031-12-26'
     names:
@@ -1787,84 +1787,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2032':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-24'
     end_date: '2032-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-26'
     end_date: '2032-03-26'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-28'
     end_date: '2032-03-28'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-16'
     end_date: '2032-05-16'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-06-23'
     end_date: '2032-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2032-06-24'
     end_date: '2032-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-08-20'
     end_date: '2032-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-24'
     end_date: '2032-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-25'
     end_date: '2032-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-26'
     end_date: '2032-12-26'
     names:
@@ -1872,84 +1872,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2033':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-02-24'
     end_date: '2033-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-15'
     end_date: '2033-04-15'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-17'
     end_date: '2033-04-17'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-05'
     end_date: '2033-06-05'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-23'
     end_date: '2033-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-24'
     end_date: '2033-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-08-20'
     end_date: '2033-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-24'
     end_date: '2033-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-25'
     end_date: '2033-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-26'
     end_date: '2033-12-26'
     names:
@@ -1957,84 +1957,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2034':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-24'
     end_date: '2034-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-07'
     end_date: '2034-04-07'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-09'
     end_date: '2034-04-09'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-28'
     end_date: '2034-05-28'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-06-23'
     end_date: '2034-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2034-06-24'
     end_date: '2034-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-08-20'
     end_date: '2034-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-24'
     end_date: '2034-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-25'
     end_date: '2034-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-26'
     end_date: '2034-12-26'
     names:
@@ -2042,84 +2042,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2035':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-24'
     end_date: '2035-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-23'
     end_date: '2035-03-23'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-25'
     end_date: '2035-03-25'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-13'
     end_date: '2035-05-13'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-06-23'
     end_date: '2035-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2035-06-24'
     end_date: '2035-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-08-20'
     end_date: '2035-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-24'
     end_date: '2035-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-25'
     end_date: '2035-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-26'
     end_date: '2035-12-26'
     names:
@@ -2127,84 +2127,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2036':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-02-24'
     end_date: '2036-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-11'
     end_date: '2036-04-11'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-13'
     end_date: '2036-04-13'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-01'
     end_date: '2036-06-01'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-23'
     end_date: '2036-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-24'
     end_date: '2036-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-08-20'
     end_date: '2036-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-24'
     end_date: '2036-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-25'
     end_date: '2036-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-26'
     end_date: '2036-12-26'
     names:
@@ -2212,84 +2212,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2037':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-24'
     end_date: '2037-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-03'
     end_date: '2037-04-03'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-05'
     end_date: '2037-04-05'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-24'
     end_date: '2037-05-24'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-06-23'
     end_date: '2037-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2037-06-24'
     end_date: '2037-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-08-20'
     end_date: '2037-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-24'
     end_date: '2037-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-25'
     end_date: '2037-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-26'
     end_date: '2037-12-26'
     names:
@@ -2297,84 +2297,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2038':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-02-24'
     end_date: '2038-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-23'
     end_date: '2038-04-23'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-25'
     end_date: '2038-04-25'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-13'
     end_date: '2038-06-13'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-23'
     end_date: '2038-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-24'
     end_date: '2038-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-08-20'
     end_date: '2038-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-24'
     end_date: '2038-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-25'
     end_date: '2038-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-26'
     end_date: '2038-12-26'
     names:
@@ -2382,84 +2382,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2039':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-02-24'
     end_date: '2039-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-08'
     end_date: '2039-04-08'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-10'
     end_date: '2039-04-10'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-29'
     end_date: '2039-05-29'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-06-23'
     end_date: '2039-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2039-06-24'
     end_date: '2039-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-08-20'
     end_date: '2039-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-24'
     end_date: '2039-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-25'
     end_date: '2039-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-26'
     end_date: '2039-12-26'
     names:
@@ -2467,84 +2467,84 @@ name: Estonia (all)
       et: teine jõulupüha
 '2040':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       et: uusaasta
 - Independence Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-24'
     end_date: '2040-02-24'
     names:
       en: Independence Day
       et: iseseisvuspäev
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-03-30'
     end_date: '2040-03-30'
     names:
       en: Good Friday
       et: suur reede
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-01'
     end_date: '2040-04-01'
     names:
       en: Easter Sunday
       et: ülestõusmispühade 1. püha
 - Spring Day (May Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: Spring Day (May Day)
       et: kevadpüha
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-20'
     end_date: '2040-05-20'
     names:
       en: Whit Sunday
       et: nelipühade 1. püha
 - Victory Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-06-23'
     end_date: '2040-06-23'
     names:
       en: Victory Day
       et: võidupüha
 - St. John's Day (Midsummer Day):
-    public holiday: true
+    public_holiday: true
     start_date: '2040-06-24'
     end_date: '2040-06-24'
     names:
       en: St. John's Day (Midsummer Day)
       et: jaanipäev
 - Day of Restoration of Independence:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-08-20'
     end_date: '2040-08-20'
     names:
       en: Day of Restoration of Independence
       et: taasiseseisvumispäev
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-24'
     end_date: '2040-12-24'
     names:
       en: Christmas Eve
       et: jõululaupäev
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-25'
     end_date: '2040-12-25'
     names:
       en: Christmas Day
       et: esimene jõulupüha
 - Boxing Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-26'
     end_date: '2040-12-26'
     names:

@@ -2,91 +2,91 @@
 name: Kuwait
 '2017':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       ar: New Year's Day
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-02-25'
     end_date: '2017-02-25'
     names:
       en: National Day
       ar: National Day
 - Liberation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-02-26'
     end_date: '2017-02-26'
     names:
       en: Liberation Day
       ar: Liberation Day
 - The Prophet's Ascension:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-27'
     end_date: '2017-04-27'
     names:
       en: The Prophet's Ascension
       ar: The Prophet's Ascension
 - Eid al-Fitr:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-25'
     end_date: '2017-06-25'
     names:
       en: Eid al-Fitr
       ar: Eid al-Fitr
 - Eid al-Fitr Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-26'
     end_date: '2017-06-26'
     names:
       en: Eid al-Fitr Holiday
       ar: Eid al-Fitr Holiday
 - Eid al-Fitr Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-27'
     end_date: '2017-06-27'
     names:
       en: Eid al-Fitr Holiday
       ar: Eid al-Fitr Holiday
 - Arafat Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-08-31'
     end_date: '2017-08-31'
     names:
       en: Arafat Day
       ar: Arafat Day
 - Eid-al-Adha:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-09-01'
     end_date: '2017-09-01'
     names:
       en: Eid-al-Adha
       ar: Eid-al-Adha
 - Eid-al-Adha Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-09-02'
     end_date: '2017-09-02'
     names:
       en: Eid-al-Adha Holiday
       ar: Eid-al-Adha Holiday
 - Eid-al-Adha Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-09-03'
     end_date: '2017-09-03'
     names:
       en: Eid-al-Adha Holiday
       ar: Eid-al-Adha Holiday
 - Islamic New Year:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-09-21'
     end_date: '2017-09-21'
     names:
       en: Islamic New Year
       ar: Islamic New Year
 - The Prophet's Birthday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-01'
     end_date: '2017-12-01'
     names:
@@ -94,91 +94,91 @@ name: Kuwait
       ar: The Prophet's Birthday
 '2018':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       ar: New Year's Day
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-25'
     end_date: '2018-02-25'
     names:
       en: National Day
       ar: National Day
 - Liberation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-26'
     end_date: '2018-02-26'
     names:
       en: Liberation Day
       ar: Liberation Day
 - The Prophet's Ascension:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-13'
     end_date: '2018-04-13'
     names:
       en: The Prophet's Ascension
       ar: The Prophet's Ascension
 - Eid al-Fitr:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-15'
     end_date: '2018-06-15'
     names:
       en: Eid al-Fitr
       ar: Eid al-Fitr
 - Eid al-Fitr Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-16'
     end_date: '2018-06-16'
     names:
       en: Eid al-Fitr Holiday
       ar: Eid al-Fitr Holiday
 - Eid al-Fitr Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-17'
     end_date: '2018-06-17'
     names:
       en: Eid al-Fitr Holiday
       ar: Eid al-Fitr Holiday
 - Arafat Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-21'
     end_date: '2018-08-21'
     names:
       en: Arafat Day
       ar: Arafat Day
 - Eid-al-Adha:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-22'
     end_date: '2018-08-22'
     names:
       en: Eid-al-Adha
       ar: Eid-al-Adha
 - Eid-al-Adha Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-23'
     end_date: '2018-08-23'
     names:
       en: Eid-al-Adha Holiday
       ar: Eid-al-Adha Holiday
 - Eid-al-Adha Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-24'
     end_date: '2018-08-24'
     names:
       en: Eid-al-Adha Holiday
       ar: Eid-al-Adha Holiday
 - Islamic New Year:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-09-12'
     end_date: '2018-09-12'
     names:
       en: Islamic New Year
       ar: Islamic New Year
 - The Prophet's Birthday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-11-21'
     end_date: '2018-11-21'
     names:

@@ -2,70 +2,70 @@
 name: Hungary (all)
 '2011':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-01-01'
     end_date: '2011-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-03-14'
     end_date: '2011-03-14'
     names:
       en: Rest Day
       hu: Pihenőnap
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2011-03-15'
     end_date: '2011-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-04-24'
     end_date: '2011-04-24'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-04-25'
     end_date: '2011-04-25'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-05-01'
     end_date: '2011-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-06-12'
     end_date: '2011-06-12'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-06-13'
     end_date: '2011-06-13'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-08-20'
     end_date: '2011-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2011-10-23'
     end_date: '2011-10-23'
     names:
@@ -73,28 +73,28 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-10-31'
     end_date: '2011-10-31'
     names:
       en: Rest Day
       hu: Pihenőnap
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-11-01'
     end_date: '2011-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-12-25'
     end_date: '2011-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-12-26'
     end_date: '2011-12-26'
     names:
@@ -102,84 +102,84 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2012':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-01-01'
     end_date: '2012-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2012-03-15'
     end_date: '2012-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-03-16'
     end_date: '2012-03-16'
     names:
       en: Rest Day
       hu: Pihenőnap
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-04-08'
     end_date: '2012-04-08'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-04-09'
     end_date: '2012-04-09'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-04-30'
     end_date: '2012-04-30'
     names:
       en: Rest Day
       hu: Pihenőnap
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-05-01'
     end_date: '2012-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-05-27'
     end_date: '2012-05-27'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-05-28'
     end_date: '2012-05-28'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-08-20'
     end_date: '2012-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-10-22'
     end_date: '2012-10-22'
     names:
       en: Rest Day
       hu: Pihenőnap
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2012-10-23'
     end_date: '2012-10-23'
     names:
@@ -187,42 +187,42 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-11-01'
     end_date: '2012-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-11-02'
     end_date: '2012-11-02'
     names:
       en: Rest Day
       hu: Pihenőnap
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-24'
     end_date: '2012-12-24'
     names:
       en: Rest Day
       hu: Pihenőnap
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-25'
     end_date: '2012-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-26'
     end_date: '2012-12-26'
     names:
       en: Second Day of Christmas
       hu: Karácsony másnapja
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-31'
     end_date: '2012-12-31'
     names:
@@ -230,70 +230,70 @@ name: Hungary (all)
       hu: Pihenőnap
 '2013':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-01-01'
     end_date: '2013-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2013-03-15'
     end_date: '2013-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-03-31'
     end_date: '2013-03-31'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-01'
     end_date: '2013-04-01'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-01'
     end_date: '2013-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-19'
     end_date: '2013-05-19'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-20'
     end_date: '2013-05-20'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-08-19'
     end_date: '2013-08-19'
     names:
       en: Rest Day
       hu: Pihenőnap
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-08-20'
     end_date: '2013-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2013-10-23'
     end_date: '2013-10-23'
     names:
@@ -301,35 +301,35 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-11-01'
     end_date: '2013-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-24'
     end_date: '2013-12-24'
     names:
       en: Rest Day
       hu: Pihenőnap
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-25'
     end_date: '2013-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-26'
     end_date: '2013-12-26'
     names:
       en: Second Day of Christmas
       hu: Karácsony másnapja
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-27'
     end_date: '2013-12-27'
     names:
@@ -337,70 +337,70 @@ name: Hungary (all)
       hu: Pihenőnap
 '2014':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-01-01'
     end_date: '2014-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2014-03-15'
     end_date: '2014-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-20'
     end_date: '2014-04-20'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-21'
     end_date: '2014-04-21'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-01'
     end_date: '2014-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-02'
     end_date: '2014-05-02'
     names:
       en: Rest Day
       hu: Pihenőnap
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-08'
     end_date: '2014-06-08'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-09'
     end_date: '2014-06-09'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-08-20'
     end_date: '2014-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2014-10-23'
     end_date: '2014-10-23'
     names:
@@ -408,35 +408,35 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-10-24'
     end_date: '2014-10-24'
     names:
       en: Rest Day
       hu: Pihenőnap
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-11-01'
     end_date: '2014-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-24'
     end_date: '2014-12-24'
     names:
       en: Rest Day
       hu: Pihenőnap
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-25'
     end_date: '2014-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-26'
     end_date: '2014-12-26'
     names:
@@ -444,77 +444,77 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2015':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-01-02'
     end_date: '2015-01-02'
     names:
       en: Rest Day
       hu: Pihenőnap
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2015-03-15'
     end_date: '2015-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-05'
     end_date: '2015-04-05'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-06'
     end_date: '2015-04-06'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-01'
     end_date: '2015-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-24'
     end_date: '2015-05-24'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-25'
     end_date: '2015-05-25'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-08-20'
     end_date: '2015-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-08-21'
     end_date: '2015-08-21'
     names:
       en: Rest Day
       hu: Pihenőnap
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2015-10-23'
     end_date: '2015-10-23'
     names:
@@ -522,28 +522,28 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-11-01'
     end_date: '2015-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-24'
     end_date: '2015-12-24'
     names:
       en: Rest Day
       hu: Pihenőnap
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-25'
     end_date: '2015-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-26'
     end_date: '2015-12-26'
     names:
@@ -551,70 +551,70 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2016':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-14'
     end_date: '2016-03-14'
     names:
       en: Rest Day
       hu: Pihenőnap
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-15'
     end_date: '2016-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-27'
     end_date: '2016-03-27'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-28'
     end_date: '2016-03-28'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-15'
     end_date: '2016-05-15'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-16'
     end_date: '2016-05-16'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-08-20'
     end_date: '2016-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-23'
     end_date: '2016-10-23'
     names:
@@ -622,35 +622,35 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-31'
     end_date: '2016-10-31'
     names:
       en: Rest Day
       hu: Pihenőnap
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-11-01'
     end_date: '2016-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Rest Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-24'
     end_date: '2016-12-24'
     names:
       en: Rest Day
       hu: Pihenőnap
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-25'
     end_date: '2016-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-26'
     end_date: '2016-12-26'
     names:
@@ -658,63 +658,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2017':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2017-03-15'
     end_date: '2017-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-16'
     end_date: '2017-04-16'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-17'
     end_date: '2017-04-17'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-04'
     end_date: '2017-06-04'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-05'
     end_date: '2017-06-05'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-08-20'
     end_date: '2017-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-23'
     end_date: '2017-10-23'
     names:
@@ -722,21 +722,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-11-01'
     end_date: '2017-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-26'
     end_date: '2017-12-26'
     names:
@@ -744,63 +744,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2018':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2018-03-15'
     end_date: '2018-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-01'
     end_date: '2018-04-01'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-02'
     end_date: '2018-04-02'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-20'
     end_date: '2018-05-20'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-21'
     end_date: '2018-05-21'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-20'
     end_date: '2018-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-23'
     end_date: '2018-10-23'
     names:
@@ -808,21 +808,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-11-01'
     end_date: '2018-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-26'
     end_date: '2018-12-26'
     names:
@@ -830,63 +830,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2019':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2019-03-15'
     end_date: '2019-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-21'
     end_date: '2019-04-21'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-22'
     end_date: '2019-04-22'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-09'
     end_date: '2019-06-09'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-10'
     end_date: '2019-06-10'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-08-20'
     end_date: '2019-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-23'
     end_date: '2019-10-23'
     names:
@@ -894,21 +894,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-11-01'
     end_date: '2019-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-26'
     end_date: '2019-12-26'
     names:
@@ -916,63 +916,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2020':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2020-03-15'
     end_date: '2020-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-12'
     end_date: '2020-04-12'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-13'
     end_date: '2020-04-13'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-31'
     end_date: '2020-05-31'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-01'
     end_date: '2020-06-01'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-08-20'
     end_date: '2020-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-23'
     end_date: '2020-10-23'
     names:
@@ -980,21 +980,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-11-01'
     end_date: '2020-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-25'
     end_date: '2020-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-26'
     end_date: '2020-12-26'
     names:
@@ -1002,63 +1002,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2021':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2021-03-15'
     end_date: '2021-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-04'
     end_date: '2021-04-04'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-05'
     end_date: '2021-04-05'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-23'
     end_date: '2021-05-23'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-24'
     end_date: '2021-05-24'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-08-20'
     end_date: '2021-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-23'
     end_date: '2021-10-23'
     names:
@@ -1066,21 +1066,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-11-01'
     end_date: '2021-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-25'
     end_date: '2021-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-26'
     end_date: '2021-12-26'
     names:
@@ -1088,63 +1088,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2022':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2022-03-15'
     end_date: '2022-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-17'
     end_date: '2022-04-17'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-18'
     end_date: '2022-04-18'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-05'
     end_date: '2022-06-05'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-06'
     end_date: '2022-06-06'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-08-20'
     end_date: '2022-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-23'
     end_date: '2022-10-23'
     names:
@@ -1152,21 +1152,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-11-01'
     end_date: '2022-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-25'
     end_date: '2022-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-26'
     end_date: '2022-12-26'
     names:
@@ -1174,63 +1174,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2023':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2023-03-15'
     end_date: '2023-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-09'
     end_date: '2023-04-09'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-10'
     end_date: '2023-04-10'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-28'
     end_date: '2023-05-28'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-29'
     end_date: '2023-05-29'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-08-20'
     end_date: '2023-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-23'
     end_date: '2023-10-23'
     names:
@@ -1238,21 +1238,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-11-01'
     end_date: '2023-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-25'
     end_date: '2023-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-26'
     end_date: '2023-12-26'
     names:
@@ -1260,63 +1260,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2024':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2024-03-15'
     end_date: '2024-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-03-31'
     end_date: '2024-03-31'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-01'
     end_date: '2024-04-01'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-19'
     end_date: '2024-05-19'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-20'
     end_date: '2024-05-20'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-08-20'
     end_date: '2024-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-23'
     end_date: '2024-10-23'
     names:
@@ -1324,21 +1324,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-11-01'
     end_date: '2024-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-25'
     end_date: '2024-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-26'
     end_date: '2024-12-26'
     names:
@@ -1346,63 +1346,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2025':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2025-03-15'
     end_date: '2025-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-20'
     end_date: '2025-04-20'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-21'
     end_date: '2025-04-21'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-08'
     end_date: '2025-06-08'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-09'
     end_date: '2025-06-09'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-08-20'
     end_date: '2025-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-23'
     end_date: '2025-10-23'
     names:
@@ -1410,21 +1410,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-11-01'
     end_date: '2025-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-25'
     end_date: '2025-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-26'
     end_date: '2025-12-26'
     names:
@@ -1432,63 +1432,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2026':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2026-03-15'
     end_date: '2026-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-05'
     end_date: '2026-04-05'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-06'
     end_date: '2026-04-06'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-24'
     end_date: '2026-05-24'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-25'
     end_date: '2026-05-25'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-08-20'
     end_date: '2026-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-23'
     end_date: '2026-10-23'
     names:
@@ -1496,21 +1496,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-11-01'
     end_date: '2026-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-25'
     end_date: '2026-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-26'
     end_date: '2026-12-26'
     names:
@@ -1518,63 +1518,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2027':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-15'
     end_date: '2027-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-28'
     end_date: '2027-03-28'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-29'
     end_date: '2027-03-29'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-16'
     end_date: '2027-05-16'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-17'
     end_date: '2027-05-17'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-08-20'
     end_date: '2027-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-23'
     end_date: '2027-10-23'
     names:
@@ -1582,21 +1582,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-11-01'
     end_date: '2027-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-25'
     end_date: '2027-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-26'
     end_date: '2027-12-26'
     names:
@@ -1604,63 +1604,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2028':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2028-03-15'
     end_date: '2028-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-16'
     end_date: '2028-04-16'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-17'
     end_date: '2028-04-17'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-04'
     end_date: '2028-06-04'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-05'
     end_date: '2028-06-05'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-08-20'
     end_date: '2028-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-23'
     end_date: '2028-10-23'
     names:
@@ -1668,21 +1668,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-11-01'
     end_date: '2028-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-25'
     end_date: '2028-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-26'
     end_date: '2028-12-26'
     names:
@@ -1690,63 +1690,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2029':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2029-03-15'
     end_date: '2029-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-01'
     end_date: '2029-04-01'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-02'
     end_date: '2029-04-02'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-20'
     end_date: '2029-05-20'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-21'
     end_date: '2029-05-21'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-08-20'
     end_date: '2029-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-23'
     end_date: '2029-10-23'
     names:
@@ -1754,21 +1754,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-11-01'
     end_date: '2029-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-25'
     end_date: '2029-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-26'
     end_date: '2029-12-26'
     names:
@@ -1776,63 +1776,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2030':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2030-03-15'
     end_date: '2030-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-21'
     end_date: '2030-04-21'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-22'
     end_date: '2030-04-22'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-09'
     end_date: '2030-06-09'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-10'
     end_date: '2030-06-10'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-08-20'
     end_date: '2030-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-23'
     end_date: '2030-10-23'
     names:
@@ -1840,21 +1840,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-11-01'
     end_date: '2030-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-25'
     end_date: '2030-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-26'
     end_date: '2030-12-26'
     names:
@@ -1862,63 +1862,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2031':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2031-03-15'
     end_date: '2031-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-13'
     end_date: '2031-04-13'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-14'
     end_date: '2031-04-14'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-01'
     end_date: '2031-06-01'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-02'
     end_date: '2031-06-02'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-08-20'
     end_date: '2031-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-23'
     end_date: '2031-10-23'
     names:
@@ -1926,21 +1926,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-11-01'
     end_date: '2031-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-25'
     end_date: '2031-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-26'
     end_date: '2031-12-26'
     names:
@@ -1948,63 +1948,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2032':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-15'
     end_date: '2032-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-28'
     end_date: '2032-03-28'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-29'
     end_date: '2032-03-29'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-16'
     end_date: '2032-05-16'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-17'
     end_date: '2032-05-17'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-08-20'
     end_date: '2032-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-23'
     end_date: '2032-10-23'
     names:
@@ -2012,21 +2012,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-11-01'
     end_date: '2032-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-25'
     end_date: '2032-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-26'
     end_date: '2032-12-26'
     names:
@@ -2034,63 +2034,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2033':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2033-03-15'
     end_date: '2033-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-17'
     end_date: '2033-04-17'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-18'
     end_date: '2033-04-18'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-05'
     end_date: '2033-06-05'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-06'
     end_date: '2033-06-06'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-08-20'
     end_date: '2033-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-23'
     end_date: '2033-10-23'
     names:
@@ -2098,21 +2098,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-11-01'
     end_date: '2033-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-25'
     end_date: '2033-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-26'
     end_date: '2033-12-26'
     names:
@@ -2120,63 +2120,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2034':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2034-03-15'
     end_date: '2034-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-09'
     end_date: '2034-04-09'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-10'
     end_date: '2034-04-10'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-28'
     end_date: '2034-05-28'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-29'
     end_date: '2034-05-29'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-08-20'
     end_date: '2034-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-23'
     end_date: '2034-10-23'
     names:
@@ -2184,21 +2184,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-11-01'
     end_date: '2034-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-25'
     end_date: '2034-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-26'
     end_date: '2034-12-26'
     names:
@@ -2206,63 +2206,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2035':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-15'
     end_date: '2035-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-25'
     end_date: '2035-03-25'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-26'
     end_date: '2035-03-26'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-13'
     end_date: '2035-05-13'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-14'
     end_date: '2035-05-14'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-08-20'
     end_date: '2035-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-23'
     end_date: '2035-10-23'
     names:
@@ -2270,21 +2270,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-11-01'
     end_date: '2035-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-25'
     end_date: '2035-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-26'
     end_date: '2035-12-26'
     names:
@@ -2292,63 +2292,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2036':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2036-03-15'
     end_date: '2036-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-13'
     end_date: '2036-04-13'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-14'
     end_date: '2036-04-14'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-01'
     end_date: '2036-06-01'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-02'
     end_date: '2036-06-02'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-08-20'
     end_date: '2036-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-23'
     end_date: '2036-10-23'
     names:
@@ -2356,21 +2356,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-11-01'
     end_date: '2036-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-25'
     end_date: '2036-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-26'
     end_date: '2036-12-26'
     names:
@@ -2378,63 +2378,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2037':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2037-03-15'
     end_date: '2037-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-05'
     end_date: '2037-04-05'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-06'
     end_date: '2037-04-06'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-24'
     end_date: '2037-05-24'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-25'
     end_date: '2037-05-25'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-08-20'
     end_date: '2037-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-23'
     end_date: '2037-10-23'
     names:
@@ -2442,21 +2442,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-11-01'
     end_date: '2037-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-25'
     end_date: '2037-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-26'
     end_date: '2037-12-26'
     names:
@@ -2464,63 +2464,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2038':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2038-03-15'
     end_date: '2038-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-25'
     end_date: '2038-04-25'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-26'
     end_date: '2038-04-26'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-13'
     end_date: '2038-06-13'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-14'
     end_date: '2038-06-14'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-08-20'
     end_date: '2038-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-23'
     end_date: '2038-10-23'
     names:
@@ -2528,21 +2528,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-11-01'
     end_date: '2038-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-25'
     end_date: '2038-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-26'
     end_date: '2038-12-26'
     names:
@@ -2550,63 +2550,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2039':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2039-03-15'
     end_date: '2039-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-10'
     end_date: '2039-04-10'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-11'
     end_date: '2039-04-11'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-29'
     end_date: '2039-05-29'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-30'
     end_date: '2039-05-30'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-08-20'
     end_date: '2039-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-23'
     end_date: '2039-10-23'
     names:
@@ -2614,21 +2614,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-11-01'
     end_date: '2039-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-25'
     end_date: '2039-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-26'
     end_date: '2039-12-26'
     names:
@@ -2636,63 +2636,63 @@ name: Hungary (all)
       hu: Karácsony másnapja
 '2040':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       hu: Újév
 - National Day (Anniversary of the Revolution 1848-49):
-    public holiday: true
+    public_holiday: true
     start_date: '2040-03-15'
     end_date: '2040-03-15'
     names:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-01'
     end_date: '2040-04-01'
     names:
       en: Easter Sunday
       hu: Húsvétvasárnap
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-02'
     end_date: '2040-04-02'
     names:
       en: Easter Monday
       hu: Húsvéthétfő
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: Labour Day
       hu: A munka ünnepe
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-20'
     end_date: '2040-05-20'
     names:
       en: Whit Sunday
       hu: Pünkösdvasárnap
 - Whit Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-21'
     end_date: '2040-05-21'
     names:
       en: Whit Monday
       hu: Pünkösdhétfő
 - Saint Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-08-20'
     end_date: '2040-08-20'
     names:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
 - National Day (Proclamation of the Republic / Anniversary of the Revolution 1956):
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-23'
     end_date: '2040-10-23'
     names:
@@ -2700,21 +2700,21 @@ name: Hungary (all)
         1956)
       hu: Nemzeti ünnep
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-11-01'
     end_date: '2040-11-01'
     names:
       en: All Saints' Day
       hu: Mindenszentek
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-25'
     end_date: '2040-12-25'
     names:
       en: Christmas Day
       hu: Karácsony
 - Second Day of Christmas:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-26'
     end_date: '2040-12-26'
     names:

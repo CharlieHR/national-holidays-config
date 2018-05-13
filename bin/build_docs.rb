@@ -63,11 +63,11 @@ class CoverageDoc
           region_name = region_data.delete('name')
 
           public_holidays_latest_year = region_data.keys.select do |year|
-            region_data[year].map(&:values).map(&:first).any? { |d| d['public holiday' ] }
+            region_data[year].map(&:values).map(&:first).any? { |d| d['public_holiday' ] }
           end.map(&:to_i).compact.max&.to_s
 
           non_public_holidays_latest_year = region_data.keys.select do |year|
-            region_data[year].map(&:values).map(&:first).any? { |d| !d['public holiday' ] }
+            region_data[year].map(&:values).map(&:first).any? { |d| !d['public_holiday' ] }
           end.map(&:to_i).compact.max&.to_s
 
           [

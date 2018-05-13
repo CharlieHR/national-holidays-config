@@ -2,21 +2,21 @@
 name: Lithuania (all)
 '2011':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-01-01'
     end_date: '2011-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2011-02-16'
     end_date: '2011-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2011-03-11'
     end_date: '2011-03-11'
     names:
@@ -24,91 +24,91 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-04-24'
     end_date: '2011-04-24'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-04-25'
     end_date: '2011-04-25'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-05-01'
     end_date: '2011-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-05-01'
     end_date: '2011-05-01'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-06-05'
     end_date: '2011-06-05'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2011-06-24'
     end_date: '2011-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-07-06'
     end_date: '2011-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-08-15'
     end_date: '2011-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-10-31'
     end_date: '2011-10-31'
     names:
       en: All Saints' Holiday
       lt: Visų šventųjų atostogų
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-11-01'
     end_date: '2011-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-12-24'
     end_date: '2011-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-12-25'
     end_date: '2011-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-12-26'
     end_date: '2011-12-26'
     names:
@@ -116,21 +116,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2012':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-01-01'
     end_date: '2012-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2012-02-16'
     end_date: '2012-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2012-03-11'
     end_date: '2012-03-11'
     names:
@@ -138,84 +138,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-04-08'
     end_date: '2012-04-08'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-04-09'
     end_date: '2012-04-09'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-05-01'
     end_date: '2012-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-05-06'
     end_date: '2012-05-06'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-06-03'
     end_date: '2012-06-03'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2012-06-24'
     end_date: '2012-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-07-06'
     end_date: '2012-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-08-15'
     end_date: '2012-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-11-01'
     end_date: '2012-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-24'
     end_date: '2012-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-25'
     end_date: '2012-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-26'
     end_date: '2012-12-26'
     names:
@@ -223,21 +223,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2013':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-01-01'
     end_date: '2013-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2013-02-16'
     end_date: '2013-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2013-03-11'
     end_date: '2013-03-11'
     names:
@@ -245,84 +245,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-03-31'
     end_date: '2013-03-31'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-01'
     end_date: '2013-04-01'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-01'
     end_date: '2013-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-05'
     end_date: '2013-05-05'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-06-02'
     end_date: '2013-06-02'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2013-06-24'
     end_date: '2013-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-07-06'
     end_date: '2013-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-08-15'
     end_date: '2013-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-11-01'
     end_date: '2013-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-24'
     end_date: '2013-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-25'
     end_date: '2013-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-26'
     end_date: '2013-12-26'
     names:
@@ -330,21 +330,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2014':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-01-01'
     end_date: '2014-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2014-02-16'
     end_date: '2014-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2014-03-11'
     end_date: '2014-03-11'
     names:
@@ -352,84 +352,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-20'
     end_date: '2014-04-20'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-21'
     end_date: '2014-04-21'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-01'
     end_date: '2014-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-04'
     end_date: '2014-05-04'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-01'
     end_date: '2014-06-01'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-24'
     end_date: '2014-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-07-06'
     end_date: '2014-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-08-15'
     end_date: '2014-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-11-01'
     end_date: '2014-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-24'
     end_date: '2014-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-25'
     end_date: '2014-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-26'
     end_date: '2014-12-26'
     names:
@@ -437,21 +437,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2015':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2015-02-16'
     end_date: '2015-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2015-03-11'
     end_date: '2015-03-11'
     names:
@@ -459,84 +459,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-05'
     end_date: '2015-04-05'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-06'
     end_date: '2015-04-06'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-01'
     end_date: '2015-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-03'
     end_date: '2015-05-03'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-06-07'
     end_date: '2015-06-07'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2015-06-24'
     end_date: '2015-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-07-06'
     end_date: '2015-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-08-15'
     end_date: '2015-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-11-01'
     end_date: '2015-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-24'
     end_date: '2015-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-25'
     end_date: '2015-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-26'
     end_date: '2015-12-26'
     names:
@@ -544,21 +544,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2016':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-16'
     end_date: '2016-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-11'
     end_date: '2016-03-11'
     names:
@@ -566,84 +566,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-27'
     end_date: '2016-03-27'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-28'
     end_date: '2016-03-28'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-06-05'
     end_date: '2016-06-05'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2016-06-24'
     end_date: '2016-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-07-06'
     end_date: '2016-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-08-15'
     end_date: '2016-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-11-01'
     end_date: '2016-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-24'
     end_date: '2016-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-25'
     end_date: '2016-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-26'
     end_date: '2016-12-26'
     names:
@@ -651,21 +651,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2017':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2017-02-16'
     end_date: '2017-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2017-03-11'
     end_date: '2017-03-11'
     names:
@@ -673,84 +673,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-16'
     end_date: '2017-04-16'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-17'
     end_date: '2017-04-17'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-07'
     end_date: '2017-05-07'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-04'
     end_date: '2017-06-04'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-24'
     end_date: '2017-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-07-06'
     end_date: '2017-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-08-15'
     end_date: '2017-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-11-01'
     end_date: '2017-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-24'
     end_date: '2017-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-26'
     end_date: '2017-12-26'
     names:
@@ -758,21 +758,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2018':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-16'
     end_date: '2018-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2018-03-11'
     end_date: '2018-03-11'
     names:
@@ -780,84 +780,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-01'
     end_date: '2018-04-01'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-02'
     end_date: '2018-04-02'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-06'
     end_date: '2018-05-06'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-03'
     end_date: '2018-06-03'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-24'
     end_date: '2018-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-07-06'
     end_date: '2018-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-15'
     end_date: '2018-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-11-01'
     end_date: '2018-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-24'
     end_date: '2018-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-26'
     end_date: '2018-12-26'
     names:
@@ -865,21 +865,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2019':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2019-02-16'
     end_date: '2019-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2019-03-11'
     end_date: '2019-03-11'
     names:
@@ -887,84 +887,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-21'
     end_date: '2019-04-21'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-22'
     end_date: '2019-04-22'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-05'
     end_date: '2019-05-05'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-02'
     end_date: '2019-06-02'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-24'
     end_date: '2019-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-07-06'
     end_date: '2019-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-08-15'
     end_date: '2019-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-11-01'
     end_date: '2019-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-24'
     end_date: '2019-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-26'
     end_date: '2019-12-26'
     names:
@@ -972,21 +972,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2020':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2020-02-16'
     end_date: '2020-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2020-03-11'
     end_date: '2020-03-11'
     names:
@@ -994,84 +994,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-12'
     end_date: '2020-04-12'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-13'
     end_date: '2020-04-13'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-03'
     end_date: '2020-05-03'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-07'
     end_date: '2020-06-07'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-24'
     end_date: '2020-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-07-06'
     end_date: '2020-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-08-15'
     end_date: '2020-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-11-01'
     end_date: '2020-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-24'
     end_date: '2020-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-25'
     end_date: '2020-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-26'
     end_date: '2020-12-26'
     names:
@@ -1079,21 +1079,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2021':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-16'
     end_date: '2021-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2021-03-11'
     end_date: '2021-03-11'
     names:
@@ -1101,84 +1101,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-04'
     end_date: '2021-04-04'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-05'
     end_date: '2021-04-05'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-02'
     end_date: '2021-05-02'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-06-06'
     end_date: '2021-06-06'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2021-06-24'
     end_date: '2021-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-07-06'
     end_date: '2021-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-08-15'
     end_date: '2021-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-11-01'
     end_date: '2021-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-24'
     end_date: '2021-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-25'
     end_date: '2021-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-26'
     end_date: '2021-12-26'
     names:
@@ -1186,21 +1186,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2022':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2022-02-16'
     end_date: '2022-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2022-03-11'
     end_date: '2022-03-11'
     names:
@@ -1208,84 +1208,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-17'
     end_date: '2022-04-17'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-18'
     end_date: '2022-04-18'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-05'
     end_date: '2022-06-05'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-24'
     end_date: '2022-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-07-06'
     end_date: '2022-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-08-15'
     end_date: '2022-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-11-01'
     end_date: '2022-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-24'
     end_date: '2022-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-25'
     end_date: '2022-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-26'
     end_date: '2022-12-26'
     names:
@@ -1293,21 +1293,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2023':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2023-02-16'
     end_date: '2023-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2023-03-11'
     end_date: '2023-03-11'
     names:
@@ -1315,84 +1315,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-09'
     end_date: '2023-04-09'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-10'
     end_date: '2023-04-10'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-07'
     end_date: '2023-05-07'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-06-04'
     end_date: '2023-06-04'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2023-06-24'
     end_date: '2023-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-07-06'
     end_date: '2023-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-08-15'
     end_date: '2023-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-11-01'
     end_date: '2023-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-24'
     end_date: '2023-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-25'
     end_date: '2023-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-26'
     end_date: '2023-12-26'
     names:
@@ -1400,21 +1400,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2024':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-16'
     end_date: '2024-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2024-03-11'
     end_date: '2024-03-11'
     names:
@@ -1422,84 +1422,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-03-31'
     end_date: '2024-03-31'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-01'
     end_date: '2024-04-01'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-05'
     end_date: '2024-05-05'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-06-02'
     end_date: '2024-06-02'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2024-06-24'
     end_date: '2024-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-07-06'
     end_date: '2024-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-08-15'
     end_date: '2024-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-11-01'
     end_date: '2024-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-24'
     end_date: '2024-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-25'
     end_date: '2024-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-26'
     end_date: '2024-12-26'
     names:
@@ -1507,21 +1507,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2025':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2025-02-16'
     end_date: '2025-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2025-03-11'
     end_date: '2025-03-11'
     names:
@@ -1529,84 +1529,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-20'
     end_date: '2025-04-20'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-21'
     end_date: '2025-04-21'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-04'
     end_date: '2025-05-04'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-01'
     end_date: '2025-06-01'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-24'
     end_date: '2025-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-07-06'
     end_date: '2025-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-08-15'
     end_date: '2025-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-11-01'
     end_date: '2025-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-24'
     end_date: '2025-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-25'
     end_date: '2025-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-26'
     end_date: '2025-12-26'
     names:
@@ -1614,21 +1614,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2026':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-16'
     end_date: '2026-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2026-03-11'
     end_date: '2026-03-11'
     names:
@@ -1636,84 +1636,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-05'
     end_date: '2026-04-05'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-06'
     end_date: '2026-04-06'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-03'
     end_date: '2026-05-03'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-06-07'
     end_date: '2026-06-07'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2026-06-24'
     end_date: '2026-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-07-06'
     end_date: '2026-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-08-15'
     end_date: '2026-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-11-01'
     end_date: '2026-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-24'
     end_date: '2026-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-25'
     end_date: '2026-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-26'
     end_date: '2026-12-26'
     names:
@@ -1721,21 +1721,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2027':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-16'
     end_date: '2027-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-11'
     end_date: '2027-03-11'
     names:
@@ -1743,84 +1743,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-28'
     end_date: '2027-03-28'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-29'
     end_date: '2027-03-29'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-02'
     end_date: '2027-05-02'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-06-06'
     end_date: '2027-06-06'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2027-06-24'
     end_date: '2027-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-07-06'
     end_date: '2027-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-08-15'
     end_date: '2027-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-11-01'
     end_date: '2027-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-24'
     end_date: '2027-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-25'
     end_date: '2027-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-26'
     end_date: '2027-12-26'
     names:
@@ -1828,21 +1828,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2028':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2028-02-16'
     end_date: '2028-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2028-03-11'
     end_date: '2028-03-11'
     names:
@@ -1850,84 +1850,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-16'
     end_date: '2028-04-16'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-17'
     end_date: '2028-04-17'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-07'
     end_date: '2028-05-07'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-04'
     end_date: '2028-06-04'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-24'
     end_date: '2028-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-07-06'
     end_date: '2028-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-08-15'
     end_date: '2028-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-11-01'
     end_date: '2028-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-24'
     end_date: '2028-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-25'
     end_date: '2028-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-26'
     end_date: '2028-12-26'
     names:
@@ -1935,21 +1935,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2029':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-16'
     end_date: '2029-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2029-03-11'
     end_date: '2029-03-11'
     names:
@@ -1957,84 +1957,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-01'
     end_date: '2029-04-01'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-02'
     end_date: '2029-04-02'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-06'
     end_date: '2029-05-06'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-06-03'
     end_date: '2029-06-03'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2029-06-24'
     end_date: '2029-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-07-06'
     end_date: '2029-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-08-15'
     end_date: '2029-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-11-01'
     end_date: '2029-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-24'
     end_date: '2029-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-25'
     end_date: '2029-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-26'
     end_date: '2029-12-26'
     names:
@@ -2042,21 +2042,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2030':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2030-02-16'
     end_date: '2030-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2030-03-11'
     end_date: '2030-03-11'
     names:
@@ -2064,84 +2064,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-21'
     end_date: '2030-04-21'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-22'
     end_date: '2030-04-22'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-05-05'
     end_date: '2030-05-05'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-02'
     end_date: '2030-06-02'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-24'
     end_date: '2030-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-07-06'
     end_date: '2030-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-08-15'
     end_date: '2030-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-11-01'
     end_date: '2030-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-24'
     end_date: '2030-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-25'
     end_date: '2030-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-26'
     end_date: '2030-12-26'
     names:
@@ -2149,21 +2149,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2031':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2031-02-16'
     end_date: '2031-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2031-03-11'
     end_date: '2031-03-11'
     names:
@@ -2171,84 +2171,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-13'
     end_date: '2031-04-13'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-14'
     end_date: '2031-04-14'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-04'
     end_date: '2031-05-04'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-01'
     end_date: '2031-06-01'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-24'
     end_date: '2031-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-07-06'
     end_date: '2031-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-08-15'
     end_date: '2031-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-11-01'
     end_date: '2031-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-24'
     end_date: '2031-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-25'
     end_date: '2031-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-26'
     end_date: '2031-12-26'
     names:
@@ -2256,21 +2256,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2032':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-16'
     end_date: '2032-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-11'
     end_date: '2032-03-11'
     names:
@@ -2278,84 +2278,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-28'
     end_date: '2032-03-28'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-29'
     end_date: '2032-03-29'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-02'
     end_date: '2032-05-02'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-06-06'
     end_date: '2032-06-06'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2032-06-24'
     end_date: '2032-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-07-06'
     end_date: '2032-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-08-15'
     end_date: '2032-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-11-01'
     end_date: '2032-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-24'
     end_date: '2032-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-25'
     end_date: '2032-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-26'
     end_date: '2032-12-26'
     names:
@@ -2363,21 +2363,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2033':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2033-02-16'
     end_date: '2033-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2033-03-11'
     end_date: '2033-03-11'
     names:
@@ -2385,84 +2385,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-17'
     end_date: '2033-04-17'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-18'
     end_date: '2033-04-18'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-05'
     end_date: '2033-06-05'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-24'
     end_date: '2033-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-07-06'
     end_date: '2033-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-08-15'
     end_date: '2033-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-11-01'
     end_date: '2033-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-24'
     end_date: '2033-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-25'
     end_date: '2033-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-26'
     end_date: '2033-12-26'
     names:
@@ -2470,21 +2470,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2034':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-16'
     end_date: '2034-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2034-03-11'
     end_date: '2034-03-11'
     names:
@@ -2492,84 +2492,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-09'
     end_date: '2034-04-09'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-10'
     end_date: '2034-04-10'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-07'
     end_date: '2034-05-07'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-06-04'
     end_date: '2034-06-04'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2034-06-24'
     end_date: '2034-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-07-06'
     end_date: '2034-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-08-15'
     end_date: '2034-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-11-01'
     end_date: '2034-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-24'
     end_date: '2034-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-25'
     end_date: '2034-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-26'
     end_date: '2034-12-26'
     names:
@@ -2577,21 +2577,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2035':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-16'
     end_date: '2035-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-11'
     end_date: '2035-03-11'
     names:
@@ -2599,84 +2599,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-25'
     end_date: '2035-03-25'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-26'
     end_date: '2035-03-26'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-06'
     end_date: '2035-05-06'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-06-03'
     end_date: '2035-06-03'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2035-06-24'
     end_date: '2035-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-07-06'
     end_date: '2035-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-08-15'
     end_date: '2035-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-11-01'
     end_date: '2035-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-24'
     end_date: '2035-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-25'
     end_date: '2035-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-26'
     end_date: '2035-12-26'
     names:
@@ -2684,21 +2684,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2036':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2036-02-16'
     end_date: '2036-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2036-03-11'
     end_date: '2036-03-11'
     names:
@@ -2706,84 +2706,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-13'
     end_date: '2036-04-13'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-14'
     end_date: '2036-04-14'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-04'
     end_date: '2036-05-04'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-01'
     end_date: '2036-06-01'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-24'
     end_date: '2036-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-07-06'
     end_date: '2036-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-08-15'
     end_date: '2036-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-11-01'
     end_date: '2036-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-24'
     end_date: '2036-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-25'
     end_date: '2036-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-26'
     end_date: '2036-12-26'
     names:
@@ -2791,21 +2791,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2037':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-16'
     end_date: '2037-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2037-03-11'
     end_date: '2037-03-11'
     names:
@@ -2813,84 +2813,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-05'
     end_date: '2037-04-05'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-06'
     end_date: '2037-04-06'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-03'
     end_date: '2037-05-03'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-06-07'
     end_date: '2037-06-07'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2037-06-24'
     end_date: '2037-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-07-06'
     end_date: '2037-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-08-15'
     end_date: '2037-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-11-01'
     end_date: '2037-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-24'
     end_date: '2037-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-25'
     end_date: '2037-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-26'
     end_date: '2037-12-26'
     names:
@@ -2898,21 +2898,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2038':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2038-02-16'
     end_date: '2038-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2038-03-11'
     end_date: '2038-03-11'
     names:
@@ -2920,84 +2920,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-25'
     end_date: '2038-04-25'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-26'
     end_date: '2038-04-26'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-02'
     end_date: '2038-05-02'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-06'
     end_date: '2038-06-06'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-24'
     end_date: '2038-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-07-06'
     end_date: '2038-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-08-15'
     end_date: '2038-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-11-01'
     end_date: '2038-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-24'
     end_date: '2038-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-25'
     end_date: '2038-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-26'
     end_date: '2038-12-26'
     names:
@@ -3005,21 +3005,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2039':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2039-02-16'
     end_date: '2039-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2039-03-11'
     end_date: '2039-03-11'
     names:
@@ -3027,84 +3027,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-10'
     end_date: '2039-04-10'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-11'
     end_date: '2039-04-11'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-06-05'
     end_date: '2039-06-05'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2039-06-24'
     end_date: '2039-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-07-06'
     end_date: '2039-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-08-15'
     end_date: '2039-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-11-01'
     end_date: '2039-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-24'
     end_date: '2039-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-25'
     end_date: '2039-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-26'
     end_date: '2039-12-26'
     names:
@@ -3112,21 +3112,21 @@ name: Lithuania (all)
       lt: Šv. Kalėdos
 '2040':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       lt: Naujieji metai
 - Day of Re-establishment of the State of Lithuania (1918):
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-16'
     end_date: '2040-02-16'
     names:
       en: Day of Re-establishment of the State of Lithuania (1918)
       lt: Lietuvos valstybės atkūrimo diena
 - Day of Restitution of Independence of Lithuania (from the Soviet Union, 1990):
-    public holiday: true
+    public_holiday: true
     start_date: '2040-03-11'
     end_date: '2040-03-11'
     names:
@@ -3134,84 +3134,84 @@ name: Lithuania (all)
         1990)
       lt: Lietuvos nepriklausomybės atkūrimo diena
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-01'
     end_date: '2040-04-01'
     names:
       en: Easter Sunday
       lt: Velykos
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-02'
     end_date: '2040-04-02'
     names:
       en: Easter Monday
       lt: Velykos
 - Labour Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: Labour Day
       lt: Tarptautinė darbo diena
 - Mother's day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-06'
     end_date: '2040-05-06'
     names:
       en: Mother's day
       lt: Motinos diena
 - Father's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-06-03'
     end_date: '2040-06-03'
     names:
       en: Father's Day
       lt: Tėvo diena
 - St. John's Day (Day of Dew):
-    public holiday: true
+    public_holiday: true
     start_date: '2040-06-24'
     end_date: '2040-06-24'
     names:
       en: St. John's Day (Day of Dew)
       lt: Rasos (Joninės)
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-07-06'
     end_date: '2040-07-06'
     names:
       en: Statehood Day
       lt: Valstybės (Lietuvos karaliaus Mindaugo karūnavimo) diena
 - Assumption Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-08-15'
     end_date: '2040-08-15'
     names:
       en: Assumption Day
       lt: Žolinė (Švč. Mergelės Marijos ėmimo į dangų diena)
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-11-01'
     end_date: '2040-11-01'
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
 - Christmas Eve:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-24'
     end_date: '2040-12-24'
     names:
       en: Christmas Eve
       lt: Šv. Kalėdos
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-25'
     end_date: '2040-12-25'
     names:
       en: Christmas Day
       lt: Šv. Kalėdos
 - St. Stephen's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-26'
     end_date: '2040-12-26'
     names:

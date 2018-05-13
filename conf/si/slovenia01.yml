@@ -2,105 +2,105 @@
 name: Slovenia (all)
 '2011':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-01-01'
     end_date: '2011-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-01-02'
     end_date: '2011-01-02'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-02-08'
     end_date: '2011-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-04-24'
     end_date: '2011-04-24'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-04-25'
     end_date: '2011-04-25'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-04-27'
     end_date: '2011-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-05-01'
     end_date: '2011-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-05-02'
     end_date: '2011-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-06-12'
     end_date: '2011-06-12'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-06-25'
     end_date: '2011-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-08-15'
     end_date: '2011-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-10-31'
     end_date: '2011-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-11-01'
     end_date: '2011-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-12-25'
     end_date: '2011-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2011-12-26'
     end_date: '2011-12-26'
     names:
@@ -108,105 +108,105 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2012':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-01-01'
     end_date: '2012-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-01-02'
     end_date: '2012-01-02'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-02-08'
     end_date: '2012-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-04-08'
     end_date: '2012-04-08'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-04-09'
     end_date: '2012-04-09'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-04-27'
     end_date: '2012-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-05-01'
     end_date: '2012-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-05-02'
     end_date: '2012-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-05-27'
     end_date: '2012-05-27'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-06-25'
     end_date: '2012-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-08-15'
     end_date: '2012-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-10-31'
     end_date: '2012-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-11-01'
     end_date: '2012-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-25'
     end_date: '2012-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2012-12-26'
     end_date: '2012-12-26'
     names:
@@ -214,98 +214,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2013':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-01-01'
     end_date: '2013-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-02-08'
     end_date: '2013-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-03-31'
     end_date: '2013-03-31'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-01'
     end_date: '2013-04-01'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-27'
     end_date: '2013-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-01'
     end_date: '2013-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-02'
     end_date: '2013-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-19'
     end_date: '2013-05-19'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-06-25'
     end_date: '2013-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-08-15'
     end_date: '2013-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-10-31'
     end_date: '2013-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-11-01'
     end_date: '2013-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-25'
     end_date: '2013-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-26'
     end_date: '2013-12-26'
     names:
@@ -313,98 +313,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2014':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-01-01'
     end_date: '2014-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-02-08'
     end_date: '2014-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-20'
     end_date: '2014-04-20'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-21'
     end_date: '2014-04-21'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-27'
     end_date: '2014-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-01'
     end_date: '2014-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-02'
     end_date: '2014-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-08'
     end_date: '2014-06-08'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-25'
     end_date: '2014-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-08-15'
     end_date: '2014-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-10-31'
     end_date: '2014-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-11-01'
     end_date: '2014-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-25'
     end_date: '2014-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-26'
     end_date: '2014-12-26'
     names:
@@ -412,98 +412,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2015':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-02-08'
     end_date: '2015-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-05'
     end_date: '2015-04-05'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-06'
     end_date: '2015-04-06'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-27'
     end_date: '2015-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-01'
     end_date: '2015-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-02'
     end_date: '2015-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-24'
     end_date: '2015-05-24'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-06-25'
     end_date: '2015-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-08-15'
     end_date: '2015-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-10-31'
     end_date: '2015-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-11-01'
     end_date: '2015-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-25'
     end_date: '2015-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-26'
     end_date: '2015-12-26'
     names:
@@ -511,98 +511,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2016':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-08'
     end_date: '2016-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-27'
     end_date: '2016-03-27'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-28'
     end_date: '2016-03-28'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-04-27'
     end_date: '2016-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-02'
     end_date: '2016-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-15'
     end_date: '2016-05-15'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-06-25'
     end_date: '2016-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-08-15'
     end_date: '2016-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-31'
     end_date: '2016-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-11-01'
     end_date: '2016-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-25'
     end_date: '2016-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-26'
     end_date: '2016-12-26'
     names:
@@ -610,98 +610,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2017':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-02-08'
     end_date: '2017-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-16'
     end_date: '2017-04-16'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-17'
     end_date: '2017-04-17'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-27'
     end_date: '2017-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-02'
     end_date: '2017-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-04'
     end_date: '2017-06-04'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-25'
     end_date: '2017-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-08-15'
     end_date: '2017-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-31'
     end_date: '2017-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-11-01'
     end_date: '2017-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-26'
     end_date: '2017-12-26'
     names:
@@ -709,98 +709,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2018':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-08'
     end_date: '2018-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-01'
     end_date: '2018-04-01'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-02'
     end_date: '2018-04-02'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-27'
     end_date: '2018-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-02'
     end_date: '2018-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-20'
     end_date: '2018-05-20'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-25'
     end_date: '2018-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-15'
     end_date: '2018-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-31'
     end_date: '2018-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-11-01'
     end_date: '2018-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-26'
     end_date: '2018-12-26'
     names:
@@ -808,98 +808,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2019':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-02-08'
     end_date: '2019-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-21'
     end_date: '2019-04-21'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-22'
     end_date: '2019-04-22'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-27'
     end_date: '2019-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-02'
     end_date: '2019-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-09'
     end_date: '2019-06-09'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-25'
     end_date: '2019-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-08-15'
     end_date: '2019-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-31'
     end_date: '2019-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-11-01'
     end_date: '2019-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-26'
     end_date: '2019-12-26'
     names:
@@ -907,98 +907,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2020':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-02-08'
     end_date: '2020-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-12'
     end_date: '2020-04-12'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-13'
     end_date: '2020-04-13'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-27'
     end_date: '2020-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-02'
     end_date: '2020-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-31'
     end_date: '2020-05-31'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-25'
     end_date: '2020-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-08-15'
     end_date: '2020-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-31'
     end_date: '2020-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-11-01'
     end_date: '2020-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-25'
     end_date: '2020-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-26'
     end_date: '2020-12-26'
     names:
@@ -1006,98 +1006,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2021':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-08'
     end_date: '2021-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-04'
     end_date: '2021-04-04'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-05'
     end_date: '2021-04-05'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-27'
     end_date: '2021-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-02'
     end_date: '2021-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-23'
     end_date: '2021-05-23'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-06-25'
     end_date: '2021-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-08-15'
     end_date: '2021-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-31'
     end_date: '2021-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-11-01'
     end_date: '2021-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-25'
     end_date: '2021-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-26'
     end_date: '2021-12-26'
     names:
@@ -1105,98 +1105,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2022':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-02-08'
     end_date: '2022-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-17'
     end_date: '2022-04-17'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-18'
     end_date: '2022-04-18'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-27'
     end_date: '2022-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-02'
     end_date: '2022-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-05'
     end_date: '2022-06-05'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-25'
     end_date: '2022-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-08-15'
     end_date: '2022-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-31'
     end_date: '2022-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-11-01'
     end_date: '2022-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-25'
     end_date: '2022-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-26'
     end_date: '2022-12-26'
     names:
@@ -1204,98 +1204,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2023':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-02-08'
     end_date: '2023-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-09'
     end_date: '2023-04-09'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-10'
     end_date: '2023-04-10'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-27'
     end_date: '2023-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-02'
     end_date: '2023-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-28'
     end_date: '2023-05-28'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-06-25'
     end_date: '2023-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-08-15'
     end_date: '2023-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-31'
     end_date: '2023-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-11-01'
     end_date: '2023-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-25'
     end_date: '2023-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-26'
     end_date: '2023-12-26'
     names:
@@ -1303,98 +1303,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2024':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-08'
     end_date: '2024-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-03-31'
     end_date: '2024-03-31'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-01'
     end_date: '2024-04-01'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-27'
     end_date: '2024-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-02'
     end_date: '2024-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-19'
     end_date: '2024-05-19'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-06-25'
     end_date: '2024-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-08-15'
     end_date: '2024-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-31'
     end_date: '2024-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-11-01'
     end_date: '2024-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-25'
     end_date: '2024-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-26'
     end_date: '2024-12-26'
     names:
@@ -1402,98 +1402,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2025':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-02-08'
     end_date: '2025-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-20'
     end_date: '2025-04-20'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-21'
     end_date: '2025-04-21'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-27'
     end_date: '2025-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-02'
     end_date: '2025-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-08'
     end_date: '2025-06-08'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-25'
     end_date: '2025-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-08-15'
     end_date: '2025-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-31'
     end_date: '2025-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-11-01'
     end_date: '2025-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-25'
     end_date: '2025-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-26'
     end_date: '2025-12-26'
     names:
@@ -1501,98 +1501,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2026':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-08'
     end_date: '2026-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-05'
     end_date: '2026-04-05'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-06'
     end_date: '2026-04-06'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-27'
     end_date: '2026-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-02'
     end_date: '2026-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-24'
     end_date: '2026-05-24'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-06-25'
     end_date: '2026-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-08-15'
     end_date: '2026-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-31'
     end_date: '2026-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-11-01'
     end_date: '2026-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-25'
     end_date: '2026-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-26'
     end_date: '2026-12-26'
     names:
@@ -1600,98 +1600,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2027':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-08'
     end_date: '2027-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-28'
     end_date: '2027-03-28'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-29'
     end_date: '2027-03-29'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-04-27'
     end_date: '2027-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-02'
     end_date: '2027-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-16'
     end_date: '2027-05-16'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-06-25'
     end_date: '2027-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-08-15'
     end_date: '2027-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-31'
     end_date: '2027-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-11-01'
     end_date: '2027-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-25'
     end_date: '2027-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-26'
     end_date: '2027-12-26'
     names:
@@ -1699,98 +1699,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2028':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-02-08'
     end_date: '2028-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-16'
     end_date: '2028-04-16'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-17'
     end_date: '2028-04-17'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-27'
     end_date: '2028-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-02'
     end_date: '2028-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-04'
     end_date: '2028-06-04'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-25'
     end_date: '2028-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-08-15'
     end_date: '2028-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-31'
     end_date: '2028-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-11-01'
     end_date: '2028-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-25'
     end_date: '2028-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-26'
     end_date: '2028-12-26'
     names:
@@ -1798,98 +1798,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2029':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-08'
     end_date: '2029-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-01'
     end_date: '2029-04-01'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-02'
     end_date: '2029-04-02'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-27'
     end_date: '2029-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-02'
     end_date: '2029-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-20'
     end_date: '2029-05-20'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-06-25'
     end_date: '2029-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-08-15'
     end_date: '2029-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-31'
     end_date: '2029-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-11-01'
     end_date: '2029-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-25'
     end_date: '2029-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-26'
     end_date: '2029-12-26'
     names:
@@ -1897,98 +1897,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2030':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-02-08'
     end_date: '2030-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-21'
     end_date: '2030-04-21'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-22'
     end_date: '2030-04-22'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-27'
     end_date: '2030-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-05-02'
     end_date: '2030-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-09'
     end_date: '2030-06-09'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-25'
     end_date: '2030-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-08-15'
     end_date: '2030-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-31'
     end_date: '2030-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-11-01'
     end_date: '2030-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-25'
     end_date: '2030-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-26'
     end_date: '2030-12-26'
     names:
@@ -1996,98 +1996,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2031':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-02-08'
     end_date: '2031-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-13'
     end_date: '2031-04-13'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-14'
     end_date: '2031-04-14'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-27'
     end_date: '2031-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-02'
     end_date: '2031-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-01'
     end_date: '2031-06-01'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-25'
     end_date: '2031-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-08-15'
     end_date: '2031-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-31'
     end_date: '2031-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-11-01'
     end_date: '2031-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-25'
     end_date: '2031-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-26'
     end_date: '2031-12-26'
     names:
@@ -2095,98 +2095,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2032':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-08'
     end_date: '2032-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-28'
     end_date: '2032-03-28'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-29'
     end_date: '2032-03-29'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-04-27'
     end_date: '2032-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-02'
     end_date: '2032-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-16'
     end_date: '2032-05-16'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-06-25'
     end_date: '2032-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-08-15'
     end_date: '2032-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-31'
     end_date: '2032-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-11-01'
     end_date: '2032-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-25'
     end_date: '2032-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-26'
     end_date: '2032-12-26'
     names:
@@ -2194,98 +2194,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2033':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-02-08'
     end_date: '2033-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-17'
     end_date: '2033-04-17'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-18'
     end_date: '2033-04-18'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-27'
     end_date: '2033-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-02'
     end_date: '2033-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-05'
     end_date: '2033-06-05'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-25'
     end_date: '2033-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-08-15'
     end_date: '2033-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-31'
     end_date: '2033-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-11-01'
     end_date: '2033-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-25'
     end_date: '2033-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-26'
     end_date: '2033-12-26'
     names:
@@ -2293,98 +2293,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2034':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-08'
     end_date: '2034-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-09'
     end_date: '2034-04-09'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-10'
     end_date: '2034-04-10'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-27'
     end_date: '2034-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-02'
     end_date: '2034-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-28'
     end_date: '2034-05-28'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-06-25'
     end_date: '2034-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-08-15'
     end_date: '2034-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-31'
     end_date: '2034-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-11-01'
     end_date: '2034-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-25'
     end_date: '2034-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-26'
     end_date: '2034-12-26'
     names:
@@ -2392,98 +2392,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2035':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-08'
     end_date: '2035-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-25'
     end_date: '2035-03-25'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-26'
     end_date: '2035-03-26'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-04-27'
     end_date: '2035-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-02'
     end_date: '2035-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-13'
     end_date: '2035-05-13'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-06-25'
     end_date: '2035-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-08-15'
     end_date: '2035-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-31'
     end_date: '2035-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-11-01'
     end_date: '2035-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-25'
     end_date: '2035-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-26'
     end_date: '2035-12-26'
     names:
@@ -2491,98 +2491,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2036':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-02-08'
     end_date: '2036-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-13'
     end_date: '2036-04-13'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-14'
     end_date: '2036-04-14'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-27'
     end_date: '2036-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-02'
     end_date: '2036-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-01'
     end_date: '2036-06-01'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-25'
     end_date: '2036-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-08-15'
     end_date: '2036-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-31'
     end_date: '2036-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-11-01'
     end_date: '2036-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-25'
     end_date: '2036-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-26'
     end_date: '2036-12-26'
     names:
@@ -2590,98 +2590,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2037':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-08'
     end_date: '2037-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-05'
     end_date: '2037-04-05'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-06'
     end_date: '2037-04-06'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-27'
     end_date: '2037-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-02'
     end_date: '2037-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-24'
     end_date: '2037-05-24'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-06-25'
     end_date: '2037-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-08-15'
     end_date: '2037-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-31'
     end_date: '2037-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-11-01'
     end_date: '2037-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-25'
     end_date: '2037-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-26'
     end_date: '2037-12-26'
     names:
@@ -2689,98 +2689,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2038':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-02-08'
     end_date: '2038-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-25'
     end_date: '2038-04-25'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-26'
     end_date: '2038-04-26'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-27'
     end_date: '2038-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-02'
     end_date: '2038-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-13'
     end_date: '2038-06-13'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-25'
     end_date: '2038-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-08-15'
     end_date: '2038-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-31'
     end_date: '2038-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-11-01'
     end_date: '2038-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-25'
     end_date: '2038-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-26'
     end_date: '2038-12-26'
     names:
@@ -2788,98 +2788,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2039':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-02-08'
     end_date: '2039-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-10'
     end_date: '2039-04-10'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-11'
     end_date: '2039-04-11'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-27'
     end_date: '2039-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-02'
     end_date: '2039-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-29'
     end_date: '2039-05-29'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-06-25'
     end_date: '2039-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-08-15'
     end_date: '2039-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-31'
     end_date: '2039-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-11-01'
     end_date: '2039-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-25'
     end_date: '2039-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-26'
     end_date: '2039-12-26'
     names:
@@ -2887,98 +2887,98 @@ name: Slovenia (all)
       sl: Dan samostojnosti in enotnosti
 '2040':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       sl: Novo leto
 - Prešeren Day, the Slovenian Cultural Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-08'
     end_date: '2040-02-08'
     names:
       en: Prešeren Day, the Slovenian Cultural Holiday
       sl: Prešernov dan, slovenski kulturni praznik
 - Easter Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-01'
     end_date: '2040-04-01'
     names:
       en: Easter Sunday
       sl: Velikonočna nedelja
 - Easter Monday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-02'
     end_date: '2040-04-02'
     names:
       en: Easter Monday
       sl: Velikonočni ponedeljek
 - Day of Uprising Against Occupation:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-27'
     end_date: '2040-04-27'
     names:
       en: Day of Uprising Against Occupation
       sl: Dan upora proti okupatorju
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: May Day
       sl: Praznik dela
 - May Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-02'
     end_date: '2040-05-02'
     names:
       en: May Day
       sl: Praznik dela
 - Whit Sunday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-20'
     end_date: '2040-05-20'
     names:
       en: Whit Sunday
       sl: Binkoštna nedelja
 - Statehood Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-06-25'
     end_date: '2040-06-25'
     names:
       en: Statehood Day
       sl: Dan državnosti
 - Assumption of Mary:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-08-15'
     end_date: '2040-08-15'
     names:
       en: Assumption of Mary
       sl: Marijino vnebovzetje (veliki šmaren)
 - Reformation Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-31'
     end_date: '2040-10-31'
     names:
       en: Reformation Day
       sl: Dan reformacije
 - All Saints' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-11-01'
     end_date: '2040-11-01'
     names:
       en: All Saints' Day
       sl: Dan spomina na mrtve
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-25'
     end_date: '2040-12-25'
     names:
       en: Christmas Day
       sl: Božič
 - Independence and Unity Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-26'
     end_date: '2040-12-26'
     names:

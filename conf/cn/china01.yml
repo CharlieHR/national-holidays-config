@@ -2,203 +2,203 @@
 name: China (all)
 '2013':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-01-01'
     end_date: '2013-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-01-02'
     end_date: '2013-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-01-03'
     end_date: '2013-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2013-02-09'
     end_date: '2013-02-09'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2013-02-10'
     end_date: '2013-02-10'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-02-11'
     end_date: '2013-02-11'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-02-12'
     end_date: '2013-02-12'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-02-13'
     end_date: '2013-02-13'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-02-14'
     end_date: '2013-02-14'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-02-15'
     end_date: '2013-02-15'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-04'
     end_date: '2013-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-05'
     end_date: '2013-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-06'
     end_date: '2013-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-29'
     end_date: '2013-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-30'
     end_date: '2013-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-01'
     end_date: '2013-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-06-10'
     end_date: '2013-06-10'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-06-11'
     end_date: '2013-06-11'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-06-12'
     end_date: '2013-06-12'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-09-19'
     end_date: '2013-09-19'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-09-20'
     end_date: '2013-09-20'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-09-21'
     end_date: '2013-09-21'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-10-01'
     end_date: '2013-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-10-02'
     end_date: '2013-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-10-03'
     end_date: '2013-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-10-04'
     end_date: '2013-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-10-05'
     end_date: '2013-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-10-06'
     end_date: '2013-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-10-07'
     end_date: '2013-10-07'
     names:
@@ -206,189 +206,189 @@ name: China (all)
       zh: 国庆节
 '2014':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-01-01'
     end_date: '2014-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2014-01-31'
     end_date: '2014-01-31'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-02-01'
     end_date: '2014-02-01'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-02-02'
     end_date: '2014-02-02'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-02-03'
     end_date: '2014-02-03'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-02-04'
     end_date: '2014-02-04'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-02-05'
     end_date: '2014-02-05'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-02-06'
     end_date: '2014-02-06'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-05'
     end_date: '2014-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-06'
     end_date: '2014-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-07'
     end_date: '2014-04-07'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-01'
     end_date: '2014-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-02'
     end_date: '2014-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-03'
     end_date: '2014-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-31'
     end_date: '2014-05-31'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-01'
     end_date: '2014-06-01'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-02'
     end_date: '2014-06-02'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-09-06'
     end_date: '2014-09-06'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-09-07'
     end_date: '2014-09-07'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-09-08'
     end_date: '2014-09-08'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-10-01'
     end_date: '2014-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-10-02'
     end_date: '2014-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-10-03'
     end_date: '2014-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-10-04'
     end_date: '2014-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-10-05'
     end_date: '2014-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-10-06'
     end_date: '2014-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-10-07'
     end_date: '2014-10-07'
     names:
@@ -396,133 +396,133 @@ name: China (all)
       zh: 国庆节
 '2015':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-01-02'
     end_date: '2015-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-01-03'
     end_date: '2015-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2015-02-18'
     end_date: '2015-02-18'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2015-02-19'
     end_date: '2015-02-19'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-02-20'
     end_date: '2015-02-20'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-02-21'
     end_date: '2015-02-21'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-02-22'
     end_date: '2015-02-22'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-02-23'
     end_date: '2015-02-23'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-02-24'
     end_date: '2015-02-24'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-05'
     end_date: '2015-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-06'
     end_date: '2015-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-01'
     end_date: '2015-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-02'
     end_date: '2015-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-03'
     end_date: '2015-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-06-20'
     end_date: '2015-06-20'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-06-21'
     end_date: '2015-06-21'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-06-22'
     end_date: '2015-06-22'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - 70 Year Anniversary of the Chinese people’s Resistance against Japan and the Global Victory over Fascism:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-09-03'
     end_date: '2015-09-03'
     names:
@@ -530,7 +530,7 @@ name: China (all)
         the Global Victory over Fascism
       zh: 抗战胜利70周年纪念活动
 - 70 Year Anniversary of the Chinese people’s Resistance against Japan and the Global Victory over Fascism:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-09-04'
     end_date: '2015-09-04'
     names:
@@ -538,7 +538,7 @@ name: China (all)
         the Global Victory over Fascism
       zh: 抗战胜利70周年纪念活动
 - 70 Year Anniversary of the Chinese people’s Resistance against Japan and the Global Victory over Fascism:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-09-05'
     end_date: '2015-09-05'
     names:
@@ -546,56 +546,56 @@ name: China (all)
         the Global Victory over Fascism
       zh: 抗战胜利70周年纪念活动
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-09-27'
     end_date: '2015-09-27'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-10-01'
     end_date: '2015-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-10-02'
     end_date: '2015-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-10-03'
     end_date: '2015-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-10-04'
     end_date: '2015-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-10-05'
     end_date: '2015-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-10-06'
     end_date: '2015-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-10-07'
     end_date: '2015-10-07'
     names:
@@ -603,203 +603,203 @@ name: China (all)
       zh: 国庆节
 '2016':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-01-02'
     end_date: '2016-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-01-03'
     end_date: '2016-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-07'
     end_date: '2016-02-07'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-08'
     end_date: '2016-02-08'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-09'
     end_date: '2016-02-09'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-10'
     end_date: '2016-02-10'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-11'
     end_date: '2016-02-11'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-12'
     end_date: '2016-02-12'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-02-13'
     end_date: '2016-02-13'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-04-02'
     end_date: '2016-04-02'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-04-03'
     end_date: '2016-04-03'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-04-04'
     end_date: '2016-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-04-30'
     end_date: '2016-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-02'
     end_date: '2016-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-06-09'
     end_date: '2016-06-09'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-06-10'
     end_date: '2016-06-10'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-06-11'
     end_date: '2016-06-11'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-09-15'
     end_date: '2016-09-15'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-09-16'
     end_date: '2016-09-16'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-09-17'
     end_date: '2016-09-17'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-01'
     end_date: '2016-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-02'
     end_date: '2016-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-03'
     end_date: '2016-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-04'
     end_date: '2016-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-05'
     end_date: '2016-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-06'
     end_date: '2016-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-10-07'
     end_date: '2016-10-07'
     names:
@@ -807,203 +807,203 @@ name: China (all)
       zh: 国庆节
 '2017':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-02'
     end_date: '2017-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-03'
     end_date: '2017-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-27'
     end_date: '2017-01-27'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-28'
     end_date: '2017-01-28'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-29'
     end_date: '2017-01-29'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-30'
     end_date: '2017-01-30'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-31'
     end_date: '2017-01-31'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-02-01'
     end_date: '2017-02-01'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-02-02'
     end_date: '2017-02-02'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-04'
     end_date: '2017-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-05'
     end_date: '2017-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-06'
     end_date: '2017-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-29'
     end_date: '2017-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-30'
     end_date: '2017-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-28'
     end_date: '2017-05-28'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-29'
     end_date: '2017-05-29'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-30'
     end_date: '2017-05-30'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-01'
     end_date: '2017-10-01'
     names:
       en: National Day
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-02'
     end_date: '2017-10-02'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-02'
     end_date: '2017-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-03'
     end_date: '2017-10-03'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-03'
     end_date: '2017-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-04'
     end_date: '2017-10-04'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-04'
     end_date: '2017-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-05'
     end_date: '2017-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-06'
     end_date: '2017-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-10-07'
     end_date: '2017-10-07'
     names:
@@ -1011,203 +1011,203 @@ name: China (all)
       zh: 国庆节
 '2018':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-02'
     end_date: '2018-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-03'
     end_date: '2018-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-15'
     end_date: '2018-02-15'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-16'
     end_date: '2018-02-16'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-17'
     end_date: '2018-02-17'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-18'
     end_date: '2018-02-18'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-19'
     end_date: '2018-02-19'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-20'
     end_date: '2018-02-20'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-02-21'
     end_date: '2018-02-21'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-04'
     end_date: '2018-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-05'
     end_date: '2018-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-06'
     end_date: '2018-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-29'
     end_date: '2018-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-30'
     end_date: '2018-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-16'
     end_date: '2018-06-16'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-17'
     end_date: '2018-06-17'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-18'
     end_date: '2018-06-18'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-09-22'
     end_date: '2018-09-22'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-09-23'
     end_date: '2018-09-23'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-09-24'
     end_date: '2018-09-24'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-01'
     end_date: '2018-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-02'
     end_date: '2018-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-03'
     end_date: '2018-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-04'
     end_date: '2018-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-05'
     end_date: '2018-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-06'
     end_date: '2018-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-10-07'
     end_date: '2018-10-07'
     names:
@@ -1215,203 +1215,203 @@ name: China (all)
       zh: 国庆节
 '2019':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-02'
     end_date: '2019-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-03'
     end_date: '2019-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2019-02-04'
     end_date: '2019-02-04'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2019-02-05'
     end_date: '2019-02-05'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-02-06'
     end_date: '2019-02-06'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-02-07'
     end_date: '2019-02-07'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-02-08'
     end_date: '2019-02-08'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-02-09'
     end_date: '2019-02-09'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-02-10'
     end_date: '2019-02-10'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-04'
     end_date: '2019-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-05'
     end_date: '2019-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-06'
     end_date: '2019-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-29'
     end_date: '2019-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-30'
     end_date: '2019-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-07'
     end_date: '2019-06-07'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-08'
     end_date: '2019-06-08'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-09'
     end_date: '2019-06-09'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-09-13'
     end_date: '2019-09-13'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-09-14'
     end_date: '2019-09-14'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-09-15'
     end_date: '2019-09-15'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-01'
     end_date: '2019-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-02'
     end_date: '2019-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-03'
     end_date: '2019-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-04'
     end_date: '2019-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-05'
     end_date: '2019-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-06'
     end_date: '2019-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-10-07'
     end_date: '2019-10-07'
     names:
@@ -1419,203 +1419,203 @@ name: China (all)
       zh: 国庆节
 '2020':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-02'
     end_date: '2020-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-03'
     end_date: '2020-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-24'
     end_date: '2020-01-24'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-25'
     end_date: '2020-01-25'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-26'
     end_date: '2020-01-26'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-27'
     end_date: '2020-01-27'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-28'
     end_date: '2020-01-28'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-29'
     end_date: '2020-01-29'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-30'
     end_date: '2020-01-30'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-04'
     end_date: '2020-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-05'
     end_date: '2020-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-06'
     end_date: '2020-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-02'
     end_date: '2020-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-03'
     end_date: '2020-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-25'
     end_date: '2020-06-25'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-26'
     end_date: '2020-06-26'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-27'
     end_date: '2020-06-27'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-01'
     end_date: '2020-10-01'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-01'
     end_date: '2020-10-01'
     names:
       en: National Day
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-02'
     end_date: '2020-10-02'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-02'
     end_date: '2020-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-03'
     end_date: '2020-10-03'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-03'
     end_date: '2020-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-04'
     end_date: '2020-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-05'
     end_date: '2020-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-06'
     end_date: '2020-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-10-07'
     end_date: '2020-10-07'
     names:
@@ -1623,203 +1623,203 @@ name: China (all)
       zh: 国庆节
 '2021':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-01-02'
     end_date: '2021-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-01-03'
     end_date: '2021-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-11'
     end_date: '2021-02-11'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-12'
     end_date: '2021-02-12'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-13'
     end_date: '2021-02-13'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-14'
     end_date: '2021-02-14'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-15'
     end_date: '2021-02-15'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-16'
     end_date: '2021-02-16'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-02-17'
     end_date: '2021-02-17'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-04'
     end_date: '2021-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-05'
     end_date: '2021-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-06'
     end_date: '2021-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-02'
     end_date: '2021-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-03'
     end_date: '2021-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-06-12'
     end_date: '2021-06-12'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-06-13'
     end_date: '2021-06-13'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-06-14'
     end_date: '2021-06-14'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-09-19'
     end_date: '2021-09-19'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-09-20'
     end_date: '2021-09-20'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-09-21'
     end_date: '2021-09-21'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-01'
     end_date: '2021-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-02'
     end_date: '2021-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-03'
     end_date: '2021-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-04'
     end_date: '2021-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-05'
     end_date: '2021-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-06'
     end_date: '2021-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-10-07'
     end_date: '2021-10-07'
     names:
@@ -1827,203 +1827,203 @@ name: China (all)
       zh: 国庆节
 '2022':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-01-02'
     end_date: '2022-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-01-03'
     end_date: '2022-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2022-01-31'
     end_date: '2022-01-31'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2022-02-01'
     end_date: '2022-02-01'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-02-02'
     end_date: '2022-02-02'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-02-03'
     end_date: '2022-02-03'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-02-04'
     end_date: '2022-02-04'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-02-05'
     end_date: '2022-02-05'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-02-06'
     end_date: '2022-02-06'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-04'
     end_date: '2022-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-05'
     end_date: '2022-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-06'
     end_date: '2022-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-30'
     end_date: '2022-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-02'
     end_date: '2022-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-03'
     end_date: '2022-06-03'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-04'
     end_date: '2022-06-04'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-05'
     end_date: '2022-06-05'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-09-10'
     end_date: '2022-09-10'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-09-11'
     end_date: '2022-09-11'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-09-12'
     end_date: '2022-09-12'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-01'
     end_date: '2022-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-02'
     end_date: '2022-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-03'
     end_date: '2022-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-04'
     end_date: '2022-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-05'
     end_date: '2022-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-06'
     end_date: '2022-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-10-07'
     end_date: '2022-10-07'
     names:
@@ -2031,203 +2031,203 @@ name: China (all)
       zh: 国庆节
 '2023':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-02'
     end_date: '2023-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-03'
     end_date: '2023-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-21'
     end_date: '2023-01-21'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-22'
     end_date: '2023-01-22'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-23'
     end_date: '2023-01-23'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-24'
     end_date: '2023-01-24'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-25'
     end_date: '2023-01-25'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-26'
     end_date: '2023-01-26'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-27'
     end_date: '2023-01-27'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-04'
     end_date: '2023-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-05'
     end_date: '2023-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-06'
     end_date: '2023-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-29'
     end_date: '2023-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-30'
     end_date: '2023-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-06-22'
     end_date: '2023-06-22'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-06-23'
     end_date: '2023-06-23'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-06-24'
     end_date: '2023-06-24'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-09-29'
     end_date: '2023-09-29'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-09-30'
     end_date: '2023-09-30'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-01'
     end_date: '2023-10-01'
     names:
       en: National Day
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-01'
     end_date: '2023-10-01'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-02'
     end_date: '2023-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-03'
     end_date: '2023-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-04'
     end_date: '2023-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-05'
     end_date: '2023-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-06'
     end_date: '2023-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-10-07'
     end_date: '2023-10-07'
     names:
@@ -2235,203 +2235,203 @@ name: China (all)
       zh: 国庆节
 '2024':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-01-02'
     end_date: '2024-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-01-03'
     end_date: '2024-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-09'
     end_date: '2024-02-09'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-10'
     end_date: '2024-02-10'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-11'
     end_date: '2024-02-11'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-12'
     end_date: '2024-02-12'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-13'
     end_date: '2024-02-13'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-14'
     end_date: '2024-02-14'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-02-15'
     end_date: '2024-02-15'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-04'
     end_date: '2024-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-05'
     end_date: '2024-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-06'
     end_date: '2024-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-29'
     end_date: '2024-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-30'
     end_date: '2024-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-06-08'
     end_date: '2024-06-08'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-06-09'
     end_date: '2024-06-09'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-06-10'
     end_date: '2024-06-10'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-09-15'
     end_date: '2024-09-15'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-09-16'
     end_date: '2024-09-16'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-09-17'
     end_date: '2024-09-17'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-01'
     end_date: '2024-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-02'
     end_date: '2024-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-03'
     end_date: '2024-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-04'
     end_date: '2024-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-05'
     end_date: '2024-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-06'
     end_date: '2024-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-10-07'
     end_date: '2024-10-07'
     names:
@@ -2439,203 +2439,203 @@ name: China (all)
       zh: 国庆节
 '2025':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-02'
     end_date: '2025-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-03'
     end_date: '2025-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-28'
     end_date: '2025-01-28'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-29'
     end_date: '2025-01-29'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-30'
     end_date: '2025-01-30'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-31'
     end_date: '2025-01-31'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-02-01'
     end_date: '2025-02-01'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-02-02'
     end_date: '2025-02-02'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-02-03'
     end_date: '2025-02-03'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-04'
     end_date: '2025-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-05'
     end_date: '2025-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-06'
     end_date: '2025-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-02'
     end_date: '2025-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-03'
     end_date: '2025-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-31'
     end_date: '2025-05-31'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-01'
     end_date: '2025-06-01'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-02'
     end_date: '2025-06-02'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-01'
     end_date: '2025-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-02'
     end_date: '2025-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-03'
     end_date: '2025-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-04'
     end_date: '2025-10-04'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-04'
     end_date: '2025-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-05'
     end_date: '2025-10-05'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-05'
     end_date: '2025-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-06'
     end_date: '2025-10-06'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-06'
     end_date: '2025-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-10-07'
     end_date: '2025-10-07'
     names:
@@ -2643,203 +2643,203 @@ name: China (all)
       zh: 国庆节
 '2026':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-01-02'
     end_date: '2026-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-01-03'
     end_date: '2026-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-16'
     end_date: '2026-02-16'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-17'
     end_date: '2026-02-17'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-18'
     end_date: '2026-02-18'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-19'
     end_date: '2026-02-19'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-20'
     end_date: '2026-02-20'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-21'
     end_date: '2026-02-21'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-02-22'
     end_date: '2026-02-22'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-04'
     end_date: '2026-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-05'
     end_date: '2026-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-06'
     end_date: '2026-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-02'
     end_date: '2026-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-03'
     end_date: '2026-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-06-19'
     end_date: '2026-06-19'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-06-20'
     end_date: '2026-06-20'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-06-21'
     end_date: '2026-06-21'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-09-25'
     end_date: '2026-09-25'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-09-26'
     end_date: '2026-09-26'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-09-27'
     end_date: '2026-09-27'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-01'
     end_date: '2026-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-02'
     end_date: '2026-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-03'
     end_date: '2026-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-04'
     end_date: '2026-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-05'
     end_date: '2026-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-06'
     end_date: '2026-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-10-07'
     end_date: '2026-10-07'
     names:
@@ -2847,203 +2847,203 @@ name: China (all)
       zh: 国庆节
 '2027':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-01-02'
     end_date: '2027-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-01-03'
     end_date: '2027-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-05'
     end_date: '2027-02-05'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-06'
     end_date: '2027-02-06'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-07'
     end_date: '2027-02-07'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-08'
     end_date: '2027-02-08'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-09'
     end_date: '2027-02-09'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-10'
     end_date: '2027-02-10'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-02-11'
     end_date: '2027-02-11'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-04-04'
     end_date: '2027-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-04-05'
     end_date: '2027-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-04-06'
     end_date: '2027-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-02'
     end_date: '2027-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-03'
     end_date: '2027-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-06-07'
     end_date: '2027-06-07'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-06-08'
     end_date: '2027-06-08'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-06-09'
     end_date: '2027-06-09'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-09-13'
     end_date: '2027-09-13'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-09-14'
     end_date: '2027-09-14'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-09-15'
     end_date: '2027-09-15'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-01'
     end_date: '2027-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-02'
     end_date: '2027-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-03'
     end_date: '2027-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-04'
     end_date: '2027-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-05'
     end_date: '2027-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-06'
     end_date: '2027-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-10-07'
     end_date: '2027-10-07'
     names:
@@ -3051,203 +3051,203 @@ name: China (all)
       zh: 国庆节
 '2028':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-02'
     end_date: '2028-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-03'
     end_date: '2028-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-25'
     end_date: '2028-01-25'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-26'
     end_date: '2028-01-26'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-27'
     end_date: '2028-01-27'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-28'
     end_date: '2028-01-28'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-29'
     end_date: '2028-01-29'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-30'
     end_date: '2028-01-30'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-31'
     end_date: '2028-01-31'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-04'
     end_date: '2028-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-05'
     end_date: '2028-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-06'
     end_date: '2028-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-29'
     end_date: '2028-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-30'
     end_date: '2028-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-27'
     end_date: '2028-05-27'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-28'
     end_date: '2028-05-28'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-29'
     end_date: '2028-05-29'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-01'
     end_date: '2028-10-01'
     names:
       en: National Day
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-01'
     end_date: '2028-10-01'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-02'
     end_date: '2028-10-02'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-02'
     end_date: '2028-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-03'
     end_date: '2028-10-03'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-03'
     end_date: '2028-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-04'
     end_date: '2028-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-05'
     end_date: '2028-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-06'
     end_date: '2028-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-10-07'
     end_date: '2028-10-07'
     names:
@@ -3255,203 +3255,203 @@ name: China (all)
       zh: 国庆节
 '2029':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-01-02'
     end_date: '2029-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-01-03'
     end_date: '2029-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-12'
     end_date: '2029-02-12'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-13'
     end_date: '2029-02-13'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-14'
     end_date: '2029-02-14'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-15'
     end_date: '2029-02-15'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-16'
     end_date: '2029-02-16'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-17'
     end_date: '2029-02-17'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-02-18'
     end_date: '2029-02-18'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-04'
     end_date: '2029-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-05'
     end_date: '2029-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-06'
     end_date: '2029-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-29'
     end_date: '2029-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-30'
     end_date: '2029-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-06-16'
     end_date: '2029-06-16'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-06-17'
     end_date: '2029-06-17'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-06-18'
     end_date: '2029-06-18'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-09-22'
     end_date: '2029-09-22'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-09-23'
     end_date: '2029-09-23'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-09-24'
     end_date: '2029-09-24'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-01'
     end_date: '2029-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-02'
     end_date: '2029-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-03'
     end_date: '2029-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-04'
     end_date: '2029-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-05'
     end_date: '2029-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-06'
     end_date: '2029-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-10-07'
     end_date: '2029-10-07'
     names:
@@ -3459,203 +3459,203 @@ name: China (all)
       zh: 国庆节
 '2030':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-01-02'
     end_date: '2030-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-01-03'
     end_date: '2030-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2030-02-02'
     end_date: '2030-02-02'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2030-02-03'
     end_date: '2030-02-03'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-02-04'
     end_date: '2030-02-04'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-02-05'
     end_date: '2030-02-05'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-02-06'
     end_date: '2030-02-06'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-02-07'
     end_date: '2030-02-07'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-02-08'
     end_date: '2030-02-08'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-04'
     end_date: '2030-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-05'
     end_date: '2030-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-06'
     end_date: '2030-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-29'
     end_date: '2030-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-30'
     end_date: '2030-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-03'
     end_date: '2030-06-03'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-04'
     end_date: '2030-06-04'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-05'
     end_date: '2030-06-05'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-09-12'
     end_date: '2030-09-12'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-09-13'
     end_date: '2030-09-13'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-09-14'
     end_date: '2030-09-14'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-01'
     end_date: '2030-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-02'
     end_date: '2030-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-03'
     end_date: '2030-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-04'
     end_date: '2030-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-05'
     end_date: '2030-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-06'
     end_date: '2030-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-10-07'
     end_date: '2030-10-07'
     names:
@@ -3663,203 +3663,203 @@ name: China (all)
       zh: 国庆节
 '2031':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-02'
     end_date: '2031-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-03'
     end_date: '2031-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-22'
     end_date: '2031-01-22'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-23'
     end_date: '2031-01-23'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-24'
     end_date: '2031-01-24'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-25'
     end_date: '2031-01-25'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-26'
     end_date: '2031-01-26'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-27'
     end_date: '2031-01-27'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-28'
     end_date: '2031-01-28'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-04'
     end_date: '2031-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-05'
     end_date: '2031-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-06'
     end_date: '2031-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-02'
     end_date: '2031-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-03'
     end_date: '2031-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-22'
     end_date: '2031-06-22'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-23'
     end_date: '2031-06-23'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-24'
     end_date: '2031-06-24'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-09-29'
     end_date: '2031-09-29'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-09-30'
     end_date: '2031-09-30'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-01'
     end_date: '2031-10-01'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-01'
     end_date: '2031-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-02'
     end_date: '2031-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-03'
     end_date: '2031-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-04'
     end_date: '2031-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-05'
     end_date: '2031-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-06'
     end_date: '2031-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-10-07'
     end_date: '2031-10-07'
     names:
@@ -3867,203 +3867,203 @@ name: China (all)
       zh: 国庆节
 '2032':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-01-02'
     end_date: '2032-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-01-03'
     end_date: '2032-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-10'
     end_date: '2032-02-10'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-11'
     end_date: '2032-02-11'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-12'
     end_date: '2032-02-12'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-13'
     end_date: '2032-02-13'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-14'
     end_date: '2032-02-14'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-15'
     end_date: '2032-02-15'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-02-16'
     end_date: '2032-02-16'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-04-04'
     end_date: '2032-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-04-05'
     end_date: '2032-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-04-06'
     end_date: '2032-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-02'
     end_date: '2032-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-03'
     end_date: '2032-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-06-12'
     end_date: '2032-06-12'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-06-13'
     end_date: '2032-06-13'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-06-14'
     end_date: '2032-06-14'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-09-18'
     end_date: '2032-09-18'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-09-19'
     end_date: '2032-09-19'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-09-20'
     end_date: '2032-09-20'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-01'
     end_date: '2032-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-02'
     end_date: '2032-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-03'
     end_date: '2032-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-04'
     end_date: '2032-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-05'
     end_date: '2032-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-06'
     end_date: '2032-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-10-07'
     end_date: '2032-10-07'
     names:
@@ -4071,203 +4071,203 @@ name: China (all)
       zh: 国庆节
 '2033':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-02'
     end_date: '2033-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-03'
     end_date: '2033-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-30'
     end_date: '2033-01-30'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-31'
     end_date: '2033-01-31'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-02-01'
     end_date: '2033-02-01'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-02-02'
     end_date: '2033-02-02'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-02-03'
     end_date: '2033-02-03'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-02-04'
     end_date: '2033-02-04'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-02-05'
     end_date: '2033-02-05'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-04'
     end_date: '2033-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-05'
     end_date: '2033-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-06'
     end_date: '2033-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-30'
     end_date: '2033-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-02'
     end_date: '2033-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-30'
     end_date: '2033-05-30'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-31'
     end_date: '2033-05-31'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-01'
     end_date: '2033-06-01'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-09-08'
     end_date: '2033-09-08'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-09-09'
     end_date: '2033-09-09'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-09-10'
     end_date: '2033-09-10'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-01'
     end_date: '2033-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-02'
     end_date: '2033-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-03'
     end_date: '2033-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-04'
     end_date: '2033-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-05'
     end_date: '2033-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-06'
     end_date: '2033-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-10-07'
     end_date: '2033-10-07'
     names:
@@ -4275,203 +4275,203 @@ name: China (all)
       zh: 国庆节
 '2034':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-01-02'
     end_date: '2034-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-01-03'
     end_date: '2034-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-18'
     end_date: '2034-02-18'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-19'
     end_date: '2034-02-19'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-20'
     end_date: '2034-02-20'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-21'
     end_date: '2034-02-21'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-22'
     end_date: '2034-02-22'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-23'
     end_date: '2034-02-23'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-02-24'
     end_date: '2034-02-24'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-04'
     end_date: '2034-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-05'
     end_date: '2034-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-06'
     end_date: '2034-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-29'
     end_date: '2034-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-30'
     end_date: '2034-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-06-18'
     end_date: '2034-06-18'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-06-19'
     end_date: '2034-06-19'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-06-20'
     end_date: '2034-06-20'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-09-25'
     end_date: '2034-09-25'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-09-26'
     end_date: '2034-09-26'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-09-27'
     end_date: '2034-09-27'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-01'
     end_date: '2034-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-02'
     end_date: '2034-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-03'
     end_date: '2034-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-04'
     end_date: '2034-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-05'
     end_date: '2034-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-06'
     end_date: '2034-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-10-07'
     end_date: '2034-10-07'
     names:
@@ -4479,203 +4479,203 @@ name: China (all)
       zh: 国庆节
 '2035':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-01-02'
     end_date: '2035-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-01-03'
     end_date: '2035-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-07'
     end_date: '2035-02-07'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-08'
     end_date: '2035-02-08'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-09'
     end_date: '2035-02-09'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-10'
     end_date: '2035-02-10'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-11'
     end_date: '2035-02-11'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-12'
     end_date: '2035-02-12'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-02-13'
     end_date: '2035-02-13'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-04-04'
     end_date: '2035-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-04-05'
     end_date: '2035-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-04-06'
     end_date: '2035-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-04-29'
     end_date: '2035-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-04-30'
     end_date: '2035-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-06-09'
     end_date: '2035-06-09'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-06-10'
     end_date: '2035-06-10'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-06-11'
     end_date: '2035-06-11'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-09-15'
     end_date: '2035-09-15'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-09-16'
     end_date: '2035-09-16'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-09-17'
     end_date: '2035-09-17'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-01'
     end_date: '2035-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-02'
     end_date: '2035-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-03'
     end_date: '2035-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-04'
     end_date: '2035-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-05'
     end_date: '2035-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-06'
     end_date: '2035-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-10-07'
     end_date: '2035-10-07'
     names:
@@ -4683,203 +4683,203 @@ name: China (all)
       zh: 国庆节
 '2036':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-02'
     end_date: '2036-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-03'
     end_date: '2036-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-27'
     end_date: '2036-01-27'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-28'
     end_date: '2036-01-28'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-29'
     end_date: '2036-01-29'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-30'
     end_date: '2036-01-30'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-31'
     end_date: '2036-01-31'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-02-01'
     end_date: '2036-02-01'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-02-02'
     end_date: '2036-02-02'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-04'
     end_date: '2036-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-05'
     end_date: '2036-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-06'
     end_date: '2036-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-02'
     end_date: '2036-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-03'
     end_date: '2036-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-30'
     end_date: '2036-05-30'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-31'
     end_date: '2036-05-31'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-01'
     end_date: '2036-06-01'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-01'
     end_date: '2036-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-02'
     end_date: '2036-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-03'
     end_date: '2036-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-04'
     end_date: '2036-10-04'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-04'
     end_date: '2036-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-05'
     end_date: '2036-10-05'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-05'
     end_date: '2036-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-06'
     end_date: '2036-10-06'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-06'
     end_date: '2036-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-10-07'
     end_date: '2036-10-07'
     names:
@@ -4887,203 +4887,203 @@ name: China (all)
       zh: 国庆节
 '2037':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-01-02'
     end_date: '2037-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-01-03'
     end_date: '2037-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-14'
     end_date: '2037-02-14'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-15'
     end_date: '2037-02-15'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-16'
     end_date: '2037-02-16'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-17'
     end_date: '2037-02-17'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-18'
     end_date: '2037-02-18'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-19'
     end_date: '2037-02-19'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-02-20'
     end_date: '2037-02-20'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-04'
     end_date: '2037-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-05'
     end_date: '2037-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-06'
     end_date: '2037-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-02'
     end_date: '2037-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-03'
     end_date: '2037-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-06-18'
     end_date: '2037-06-18'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-06-19'
     end_date: '2037-06-19'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-06-20'
     end_date: '2037-06-20'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-09-24'
     end_date: '2037-09-24'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-09-25'
     end_date: '2037-09-25'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-09-26'
     end_date: '2037-09-26'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-01'
     end_date: '2037-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-02'
     end_date: '2037-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-03'
     end_date: '2037-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-04'
     end_date: '2037-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-05'
     end_date: '2037-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-06'
     end_date: '2037-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-10-07'
     end_date: '2037-10-07'
     names:
@@ -5091,203 +5091,203 @@ name: China (all)
       zh: 国庆节
 '2038':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-01-02'
     end_date: '2038-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-01-03'
     end_date: '2038-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2038-02-03'
     end_date: '2038-02-03'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2038-02-04'
     end_date: '2038-02-04'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-02-05'
     end_date: '2038-02-05'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-02-06'
     end_date: '2038-02-06'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-02-07'
     end_date: '2038-02-07'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-02-08'
     end_date: '2038-02-08'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-02-09'
     end_date: '2038-02-09'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-04'
     end_date: '2038-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-05'
     end_date: '2038-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-06'
     end_date: '2038-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-02'
     end_date: '2038-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-03'
     end_date: '2038-05-03'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-05'
     end_date: '2038-06-05'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-06'
     end_date: '2038-06-06'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-07'
     end_date: '2038-06-07'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-09-11'
     end_date: '2038-09-11'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-09-12'
     end_date: '2038-09-12'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-09-13'
     end_date: '2038-09-13'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-01'
     end_date: '2038-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-02'
     end_date: '2038-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-03'
     end_date: '2038-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-04'
     end_date: '2038-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-05'
     end_date: '2038-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-06'
     end_date: '2038-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-10-07'
     end_date: '2038-10-07'
     names:
@@ -5295,203 +5295,203 @@ name: China (all)
       zh: 国庆节
 '2039':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-02'
     end_date: '2039-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-03'
     end_date: '2039-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-23'
     end_date: '2039-01-23'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-24'
     end_date: '2039-01-24'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-25'
     end_date: '2039-01-25'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-26'
     end_date: '2039-01-26'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-27'
     end_date: '2039-01-27'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-28'
     end_date: '2039-01-28'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-29'
     end_date: '2039-01-29'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-04'
     end_date: '2039-04-04'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-05'
     end_date: '2039-04-05'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-06'
     end_date: '2039-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-30'
     end_date: '2039-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-02'
     end_date: '2039-05-02'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-27'
     end_date: '2039-05-27'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-28'
     end_date: '2039-05-28'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-29'
     end_date: '2039-05-29'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-01'
     end_date: '2039-10-01'
     names:
       en: National Day
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-01'
     end_date: '2039-10-01'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-02'
     end_date: '2039-10-02'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-02'
     end_date: '2039-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-03'
     end_date: '2039-10-03'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-03'
     end_date: '2039-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-04'
     end_date: '2039-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-05'
     end_date: '2039-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-06'
     end_date: '2039-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-10-07'
     end_date: '2039-10-07'
     names:
@@ -5499,203 +5499,203 @@ name: China (all)
       zh: 国庆节
 '2040':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-01-02'
     end_date: '2040-01-02'
     names:
       en: New Year Holiday
       zh: 元旦
 - New Year Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-01-03'
     end_date: '2040-01-03'
     names:
       en: New Year Holiday
       zh: 元旦
 - Spring Festival (Chinese New Year's Eve):
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-11'
     end_date: '2040-02-11'
     names:
       en: Spring Festival (Chinese New Year's Eve)
       zh: 春节
 - Spring Festival (Chinese New Year):
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-12'
     end_date: '2040-02-12'
     names:
       en: Spring Festival (Chinese New Year)
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-13'
     end_date: '2040-02-13'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-14'
     end_date: '2040-02-14'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-15'
     end_date: '2040-02-15'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-16'
     end_date: '2040-02-16'
     names:
       en: Spring Festival
       zh: 春节
 - Spring Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-02-17'
     end_date: '2040-02-17'
     names:
       en: Spring Festival
       zh: 春节
 - Tomb Sweeping Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-04'
     end_date: '2040-04-04'
     names:
       en: Tomb Sweeping Day
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-05'
     end_date: '2040-04-05'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Tomb Sweeping Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-06'
     end_date: '2040-04-06'
     names:
       en: Tomb Sweeping Day Holiday
       zh: 清明节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-29'
     end_date: '2040-04-29'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-30'
     end_date: '2040-04-30'
     names:
       en: Labor Day Holiday
       zh: 劳动节
 - Labor Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: Labor Day
       zh: 劳动节
 - Dragon Boat Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-06-14'
     end_date: '2040-06-14'
     names:
       en: Dragon Boat Festival
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-06-15'
     end_date: '2040-06-15'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Dragon Boat Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-06-16'
     end_date: '2040-06-16'
     names:
       en: Dragon Boat Festival Holiday
       zh: 端午节
 - Mid-Autumn Festival:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-09-20'
     end_date: '2040-09-20'
     names:
       en: Mid-Autumn Festival
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-09-21'
     end_date: '2040-09-21'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - Mid-Autumn Festival Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-09-22'
     end_date: '2040-09-22'
     names:
       en: Mid-Autumn Festival Holiday
       zh: 中秋节
 - National Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-01'
     end_date: '2040-10-01'
     names:
       en: National Day
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-02'
     end_date: '2040-10-02'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-03'
     end_date: '2040-10-03'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-04'
     end_date: '2040-10-04'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-05'
     end_date: '2040-10-05'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-06'
     end_date: '2040-10-06'
     names:
       en: National Day Holiday
       zh: 国庆节
 - National Day Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-10-07'
     end_date: '2040-10-07'
     names:

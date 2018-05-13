@@ -2,91 +2,91 @@
 name: South Africa (all)
 '2013':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-01-01'
     end_date: '2013-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-03-21'
     end_date: '2013-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-03-29'
     end_date: '2013-03-29'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-01'
     end_date: '2013-04-01'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-04-27'
     end_date: '2013-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-05-01'
     end_date: '2013-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-06-16'
     end_date: '2013-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-06-17'
     end_date: '2013-06-17'
     names:
       en: Public holiday
       af: Public holiday
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-08-09'
     end_date: '2013-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-09-24'
     end_date: '2013-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-16'
     end_date: '2013-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-25'
     end_date: '2013-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2013-12-26'
     end_date: '2013-12-26'
     names:
@@ -94,98 +94,98 @@ name: South Africa (all)
       af: Day of Goodwill
 '2014':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-01-01'
     end_date: '2014-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-03-21'
     end_date: '2014-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-18'
     end_date: '2014-04-18'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-21'
     end_date: '2014-04-21'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-27'
     end_date: '2014-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-04-28'
     end_date: '2014-04-28'
     names:
       en: Public holiday
       af: Public holiday
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-01'
     end_date: '2014-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Election Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-05-07'
     end_date: '2014-05-07'
     names:
       en: Election Day
       af: Election Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-06-16'
     end_date: '2014-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-08-09'
     end_date: '2014-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-09-24'
     end_date: '2014-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-16'
     end_date: '2014-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-25'
     end_date: '2014-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2014-12-26'
     end_date: '2014-12-26'
     names:
@@ -193,91 +193,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2015':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-03-21'
     end_date: '2015-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-03'
     end_date: '2015-04-03'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-06'
     end_date: '2015-04-06'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-04-27'
     end_date: '2015-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-05-01'
     end_date: '2015-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-06-16'
     end_date: '2015-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-08-09'
     end_date: '2015-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-08-10'
     end_date: '2015-08-10'
     names:
       en: Public holiday
       af: Public holiday
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-09-24'
     end_date: '2015-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-16'
     end_date: '2015-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-25'
     end_date: '2015-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2015-12-26'
     end_date: '2015-12-26'
     names:
@@ -285,105 +285,105 @@ name: South Africa (all)
       af: Day of Goodwill
 '2016':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-21'
     end_date: '2016-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-25'
     end_date: '2016-03-25'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-03-28'
     end_date: '2016-03-28'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-04-27'
     end_date: '2016-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-05-02'
     end_date: '2016-05-02'
     names:
       en: Public holiday
       af: Public holiday
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-06-16'
     end_date: '2016-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - Local Government Election Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-08-03'
     end_date: '2016-08-03'
     names:
       en: Local Government Election Day
       af: Local Government Election Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-08-09'
     end_date: '2016-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-09-24'
     end_date: '2016-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-16'
     end_date: '2016-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-25'
     end_date: '2016-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-26'
     end_date: '2016-12-26'
     names:
       en: Day of Goodwill
       af: Day of Goodwill
 - Additional Christmas Holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2016-12-27'
     end_date: '2016-12-27'
     names:
@@ -391,98 +391,98 @@ name: South Africa (all)
       af: Additional Christmas Holiday
 '2017':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-01-02'
     end_date: '2017-01-02'
     names:
       en: Public holiday
       af: Public holiday
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-03-21'
     end_date: '2017-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-17'
     end_date: '2017-04-17'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-04-27'
     end_date: '2017-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-06-16'
     end_date: '2017-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-08-09'
     end_date: '2017-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-09-24'
     end_date: '2017-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-09-25'
     end_date: '2017-09-25'
     names:
       en: Public holiday
       af: Public holiday
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-16'
     end_date: '2017-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2017-12-26'
     end_date: '2017-12-26'
     names:
@@ -490,91 +490,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2018':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-03-21'
     end_date: '2018-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-02'
     end_date: '2018-04-02'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-04-27'
     end_date: '2018-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-06-16'
     end_date: '2018-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-08-09'
     end_date: '2018-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-09-24'
     end_date: '2018-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-16'
     end_date: '2018-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-17'
     end_date: '2018-12-17'
     names:
       en: Public holiday
       af: Public holiday
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2018-12-26'
     end_date: '2018-12-26'
     names:
@@ -582,91 +582,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2019':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-03-21'
     end_date: '2019-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-19'
     end_date: '2019-04-19'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-22'
     end_date: '2019-04-22'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-04-27'
     end_date: '2019-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-16'
     end_date: '2019-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-06-17'
     end_date: '2019-06-17'
     names:
       en: Public holiday
       af: Public holiday
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-08-09'
     end_date: '2019-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-09-24'
     end_date: '2019-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-16'
     end_date: '2019-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2019-12-26'
     end_date: '2019-12-26'
     names:
@@ -674,91 +674,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2020':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-03-21'
     end_date: '2020-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-10'
     end_date: '2020-04-10'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-13'
     end_date: '2020-04-13'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-04-27'
     end_date: '2020-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-06-16'
     end_date: '2020-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-08-09'
     end_date: '2020-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-08-10'
     end_date: '2020-08-10'
     names:
       en: Public holiday
       af: Public holiday
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-09-24'
     end_date: '2020-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-16'
     end_date: '2020-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-25'
     end_date: '2020-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2020-12-26'
     end_date: '2020-12-26'
     names:
@@ -766,98 +766,98 @@ name: South Africa (all)
       af: Day of Goodwill
 '2021':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-03-21'
     end_date: '2021-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-03-22'
     end_date: '2021-03-22'
     names:
       en: Public holiday
       af: Public holiday
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-02'
     end_date: '2021-04-02'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-05'
     end_date: '2021-04-05'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-04-27'
     end_date: '2021-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-06-16'
     end_date: '2021-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-08-09'
     end_date: '2021-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-09-24'
     end_date: '2021-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-16'
     end_date: '2021-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-25'
     end_date: '2021-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-26'
     end_date: '2021-12-26'
     names:
       en: Day of Goodwill
       af: Day of Goodwill
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2021-12-27'
     end_date: '2021-12-27'
     names:
@@ -865,91 +865,91 @@ name: South Africa (all)
       af: Public holiday
 '2022':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-03-21'
     end_date: '2022-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-15'
     end_date: '2022-04-15'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-18'
     end_date: '2022-04-18'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-04-27'
     end_date: '2022-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-05-02'
     end_date: '2022-05-02'
     names:
       en: Public holiday
       af: Public holiday
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-06-16'
     end_date: '2022-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-08-09'
     end_date: '2022-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-09-24'
     end_date: '2022-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-16'
     end_date: '2022-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-25'
     end_date: '2022-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2022-12-26'
     end_date: '2022-12-26'
     names:
@@ -957,98 +957,98 @@ name: South Africa (all)
       af: Day of Goodwill
 '2023':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-01-02'
     end_date: '2023-01-02'
     names:
       en: Public holiday
       af: Public holiday
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-03-21'
     end_date: '2023-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-07'
     end_date: '2023-04-07'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-10'
     end_date: '2023-04-10'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-04-27'
     end_date: '2023-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-06-16'
     end_date: '2023-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-08-09'
     end_date: '2023-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-09-24'
     end_date: '2023-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-09-25'
     end_date: '2023-09-25'
     names:
       en: Public holiday
       af: Public holiday
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-16'
     end_date: '2023-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-25'
     end_date: '2023-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2023-12-26'
     end_date: '2023-12-26'
     names:
@@ -1056,91 +1056,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2024':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-03-21'
     end_date: '2024-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-03-29'
     end_date: '2024-03-29'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-01'
     end_date: '2024-04-01'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-04-27'
     end_date: '2024-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-06-16'
     end_date: '2024-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-06-17'
     end_date: '2024-06-17'
     names:
       en: Public holiday
       af: Public holiday
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-08-09'
     end_date: '2024-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-09-24'
     end_date: '2024-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-16'
     end_date: '2024-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-25'
     end_date: '2024-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2024-12-26'
     end_date: '2024-12-26'
     names:
@@ -1148,91 +1148,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2025':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-03-21'
     end_date: '2025-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-18'
     end_date: '2025-04-18'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-21'
     end_date: '2025-04-21'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-27'
     end_date: '2025-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-04-28'
     end_date: '2025-04-28'
     names:
       en: Public holiday
       af: Public holiday
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-06-16'
     end_date: '2025-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-08-09'
     end_date: '2025-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-09-24'
     end_date: '2025-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-16'
     end_date: '2025-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-25'
     end_date: '2025-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2025-12-26'
     end_date: '2025-12-26'
     names:
@@ -1240,91 +1240,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2026':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-03-21'
     end_date: '2026-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-03'
     end_date: '2026-04-03'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-06'
     end_date: '2026-04-06'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-04-27'
     end_date: '2026-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-06-16'
     end_date: '2026-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-08-09'
     end_date: '2026-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-08-10'
     end_date: '2026-08-10'
     names:
       en: Public holiday
       af: Public holiday
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-09-24'
     end_date: '2026-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-16'
     end_date: '2026-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-25'
     end_date: '2026-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2026-12-26'
     end_date: '2026-12-26'
     names:
@@ -1332,98 +1332,98 @@ name: South Africa (all)
       af: Day of Goodwill
 '2027':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-21'
     end_date: '2027-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-22'
     end_date: '2027-03-22'
     names:
       en: Public holiday
       af: Public holiday
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-26'
     end_date: '2027-03-26'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-03-29'
     end_date: '2027-03-29'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-04-27'
     end_date: '2027-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-06-16'
     end_date: '2027-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-08-09'
     end_date: '2027-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-09-24'
     end_date: '2027-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-16'
     end_date: '2027-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-25'
     end_date: '2027-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-26'
     end_date: '2027-12-26'
     names:
       en: Day of Goodwill
       af: Day of Goodwill
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2027-12-27'
     end_date: '2027-12-27'
     names:
@@ -1431,91 +1431,91 @@ name: South Africa (all)
       af: Public holiday
 '2028':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-03-21'
     end_date: '2028-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-14'
     end_date: '2028-04-14'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-17'
     end_date: '2028-04-17'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-04-27'
     end_date: '2028-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-06-16'
     end_date: '2028-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-08-09'
     end_date: '2028-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-09-24'
     end_date: '2028-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-09-25'
     end_date: '2028-09-25'
     names:
       en: Public holiday
       af: Public holiday
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-16'
     end_date: '2028-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-25'
     end_date: '2028-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2028-12-26'
     end_date: '2028-12-26'
     names:
@@ -1523,91 +1523,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2029':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-03-21'
     end_date: '2029-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-03-30'
     end_date: '2029-03-30'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-02'
     end_date: '2029-04-02'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-04-27'
     end_date: '2029-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-06-16'
     end_date: '2029-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-08-09'
     end_date: '2029-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-09-24'
     end_date: '2029-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-16'
     end_date: '2029-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-17'
     end_date: '2029-12-17'
     names:
       en: Public holiday
       af: Public holiday
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-25'
     end_date: '2029-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2029-12-26'
     end_date: '2029-12-26'
     names:
@@ -1615,91 +1615,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2030':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-03-21'
     end_date: '2030-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-19'
     end_date: '2030-04-19'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-22'
     end_date: '2030-04-22'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-04-27'
     end_date: '2030-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-16'
     end_date: '2030-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-06-17'
     end_date: '2030-06-17'
     names:
       en: Public holiday
       af: Public holiday
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-08-09'
     end_date: '2030-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-09-24'
     end_date: '2030-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-16'
     end_date: '2030-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-25'
     end_date: '2030-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2030-12-26'
     end_date: '2030-12-26'
     names:
@@ -1707,91 +1707,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2031':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-03-21'
     end_date: '2031-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-11'
     end_date: '2031-04-11'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-14'
     end_date: '2031-04-14'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-27'
     end_date: '2031-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-04-28'
     end_date: '2031-04-28'
     names:
       en: Public holiday
       af: Public holiday
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-06-16'
     end_date: '2031-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-08-09'
     end_date: '2031-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-09-24'
     end_date: '2031-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-16'
     end_date: '2031-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-25'
     end_date: '2031-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2031-12-26'
     end_date: '2031-12-26'
     names:
@@ -1799,98 +1799,98 @@ name: South Africa (all)
       af: Day of Goodwill
 '2032':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-21'
     end_date: '2032-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-22'
     end_date: '2032-03-22'
     names:
       en: Public holiday
       af: Public holiday
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-26'
     end_date: '2032-03-26'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-03-29'
     end_date: '2032-03-29'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-04-27'
     end_date: '2032-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-06-16'
     end_date: '2032-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-08-09'
     end_date: '2032-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-09-24'
     end_date: '2032-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-16'
     end_date: '2032-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-25'
     end_date: '2032-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-26'
     end_date: '2032-12-26'
     names:
       en: Day of Goodwill
       af: Day of Goodwill
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2032-12-27'
     end_date: '2032-12-27'
     names:
@@ -1898,91 +1898,91 @@ name: South Africa (all)
       af: Public holiday
 '2033':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-03-21'
     end_date: '2033-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-15'
     end_date: '2033-04-15'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-18'
     end_date: '2033-04-18'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-04-27'
     end_date: '2033-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-05-02'
     end_date: '2033-05-02'
     names:
       en: Public holiday
       af: Public holiday
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-06-16'
     end_date: '2033-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-08-09'
     end_date: '2033-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-09-24'
     end_date: '2033-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-16'
     end_date: '2033-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-25'
     end_date: '2033-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2033-12-26'
     end_date: '2033-12-26'
     names:
@@ -1990,98 +1990,98 @@ name: South Africa (all)
       af: Day of Goodwill
 '2034':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-01-02'
     end_date: '2034-01-02'
     names:
       en: Public holiday
       af: Public holiday
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-03-21'
     end_date: '2034-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-07'
     end_date: '2034-04-07'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-10'
     end_date: '2034-04-10'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-04-27'
     end_date: '2034-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-06-16'
     end_date: '2034-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-08-09'
     end_date: '2034-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-09-24'
     end_date: '2034-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-09-25'
     end_date: '2034-09-25'
     names:
       en: Public holiday
       af: Public holiday
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-16'
     end_date: '2034-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-25'
     end_date: '2034-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2034-12-26'
     end_date: '2034-12-26'
     names:
@@ -2089,91 +2089,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2035':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-21'
     end_date: '2035-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-23'
     end_date: '2035-03-23'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-03-26'
     end_date: '2035-03-26'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-04-27'
     end_date: '2035-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-06-16'
     end_date: '2035-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-08-09'
     end_date: '2035-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-09-24'
     end_date: '2035-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-16'
     end_date: '2035-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-17'
     end_date: '2035-12-17'
     names:
       en: Public holiday
       af: Public holiday
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-25'
     end_date: '2035-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2035-12-26'
     end_date: '2035-12-26'
     names:
@@ -2181,91 +2181,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2036':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-03-21'
     end_date: '2036-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-11'
     end_date: '2036-04-11'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-14'
     end_date: '2036-04-14'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-27'
     end_date: '2036-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-04-28'
     end_date: '2036-04-28'
     names:
       en: Public holiday
       af: Public holiday
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-06-16'
     end_date: '2036-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-08-09'
     end_date: '2036-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-09-24'
     end_date: '2036-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-16'
     end_date: '2036-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-25'
     end_date: '2036-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2036-12-26'
     end_date: '2036-12-26'
     names:
@@ -2273,91 +2273,91 @@ name: South Africa (all)
       af: Day of Goodwill
 '2037':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-03-21'
     end_date: '2037-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-03'
     end_date: '2037-04-03'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-06'
     end_date: '2037-04-06'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-04-27'
     end_date: '2037-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-06-16'
     end_date: '2037-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-08-09'
     end_date: '2037-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-08-10'
     end_date: '2037-08-10'
     names:
       en: Public holiday
       af: Public holiday
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-09-24'
     end_date: '2037-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-16'
     end_date: '2037-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-25'
     end_date: '2037-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2037-12-26'
     end_date: '2037-12-26'
     names:
@@ -2365,98 +2365,98 @@ name: South Africa (all)
       af: Day of Goodwill
 '2038':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-03-21'
     end_date: '2038-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-03-22'
     end_date: '2038-03-22'
     names:
       en: Public holiday
       af: Public holiday
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-23'
     end_date: '2038-04-23'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-26'
     end_date: '2038-04-26'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-04-27'
     end_date: '2038-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-06-16'
     end_date: '2038-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-08-09'
     end_date: '2038-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-09-24'
     end_date: '2038-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-16'
     end_date: '2038-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-25'
     end_date: '2038-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-26'
     end_date: '2038-12-26'
     names:
       en: Day of Goodwill
       af: Day of Goodwill
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2038-12-27'
     end_date: '2038-12-27'
     names:
@@ -2464,91 +2464,91 @@ name: South Africa (all)
       af: Public holiday
 '2039':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-03-21'
     end_date: '2039-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-08'
     end_date: '2039-04-08'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-11'
     end_date: '2039-04-11'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-04-27'
     end_date: '2039-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-05-02'
     end_date: '2039-05-02'
     names:
       en: Public holiday
       af: Public holiday
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-06-16'
     end_date: '2039-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-08-09'
     end_date: '2039-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-09-24'
     end_date: '2039-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-16'
     end_date: '2039-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-25'
     end_date: '2039-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2039-12-26'
     end_date: '2039-12-26'
     names:
@@ -2556,98 +2556,98 @@ name: South Africa (all)
       af: Day of Goodwill
 '2040':
 - New Year's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       af: New Year's Day
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-01-02'
     end_date: '2040-01-02'
     names:
       en: Public holiday
       af: Public holiday
 - Human Rights Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-03-21'
     end_date: '2040-03-21'
     names:
       en: Human Rights Day
       af: Human Rights Day
 - Good Friday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-03-30'
     end_date: '2040-03-30'
     names:
       en: Good Friday
       af: Good Friday
 - Family Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-02'
     end_date: '2040-04-02'
     names:
       en: Family Day
       af: Family Day
 - Freedom Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-04-27'
     end_date: '2040-04-27'
     names:
       en: Freedom Day
       af: Freedom Day
 - Workers' Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: Workers' Day
       af: Workers' Day
 - Youth Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-06-16'
     end_date: '2040-06-16'
     names:
       en: Youth Day
       af: Youth Day
 - National Women's Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-08-09'
     end_date: '2040-08-09'
     names:
       en: National Women's Day
       af: National Women's Day
 - Heritage Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-09-24'
     end_date: '2040-09-24'
     names:
       en: Heritage Day
       af: Heritage Day
 - Day of Reconciliation:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-16'
     end_date: '2040-12-16'
     names:
       en: Day of Reconciliation
       af: Day of Reconciliation
 - Public holiday:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-17'
     end_date: '2040-12-17'
     names:
       en: Public holiday
       af: Public holiday
 - Christmas Day:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-25'
     end_date: '2040-12-25'
     names:
       en: Christmas Day
       af: Christmas Day
 - Day of Goodwill:
-    public holiday: true
+    public_holiday: true
     start_date: '2040-12-26'
     end_date: '2040-12-26'
     names:
