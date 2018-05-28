@@ -60,14 +60,15 @@ class CoverageDoc
         Dir.glob('*.yml').map do |filename|
           region_data = YAML.load(File.read(filename))
 
-          region_name = region_data.delete('name')
+          region_name = region_data.fetch('name')
+          region_years = region_data.fetch('years')
 
-          public_holidays_latest_year = region_data.keys.select do |year|
-            region_data[year].map(&:values).map(&:first).any? { |d| d['public_holiday' ] }
+          public_holidays_latest_year = region_years.keys.select do |year|
+            region_years[year].any? { |d| d['public_holiday' ] }
           end.map(&:to_i).compact.max&.to_s
 
-          non_public_holidays_latest_year = region_data.keys.select do |year|
-            region_data[year].map(&:values).map(&:first).any? { |d| !d['public_holiday' ] }
+          non_public_holidays_latest_year = region_years.keys.select do |year|
+            region_years[year].any? { |d| !d['public_holiday' ] }
           end.map(&:to_i).compact.max&.to_s
 
           [
@@ -75,9 +76,9 @@ class CoverageDoc
             country.name,
             region_name,
             public_holidays_latest_year || '-',
-            public_holidays_latest_year ? region_data[public_holidays_latest_year].first.keys.count : '-',
+            public_holidays_latest_year ? region_years[public_holidays_latest_year].count : '-',
             non_public_holidays_latest_year || '-',
-            non_public_holidays_latest_year ? region_data[non_public_holidays_latest_year].first.keys.count : '-',
+            non_public_holidays_latest_year ? region_years[non_public_holidays_latest_year].count : '-',
           ]
         end
       end
