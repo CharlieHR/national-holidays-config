@@ -1,123 +1,104 @@
 ---
 name: Isle of Man
-'2017':
-- New Year's Day:
-    public_holiday: true
+years:
+  '2017':
+  - public_holiday: true
     start_date: '2017-01-02'
     end_date: '2017-01-02'
     names:
       en: New Year's Day
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
-- Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-17'
     end_date: '2017-04-17'
     names:
       en: Easter Monday
-- Early May Bank Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Early May Bank Holiday
-- Late May Bank Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-29'
     end_date: '2017-05-29'
     names:
       en: Late May Bank Holiday
-- T.T. Bank Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-09'
     end_date: '2017-06-09'
     names:
       en: T.T. Bank Holiday
-- Tynwald Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-07-05'
     end_date: '2017-07-05'
     names:
       en: Tynwald Day
-- Summer Bank Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-08-28'
     end_date: '2017-08-28'
     names:
       en: Summer Bank Holiday
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
-- Boxing Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-26'
     end_date: '2017-12-26'
     names:
       en: Boxing Day
-'2018':
-- New Year's Day:
-    public_holiday: true
+  '2018':
+  - public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
-- Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-04-02'
     end_date: '2018-04-02'
     names:
       en: Easter Monday
-- Early May Bank Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-07'
     end_date: '2018-05-07'
     names:
       en: Early May Bank Holiday
-- Late May Bank Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-28'
     end_date: '2018-05-28'
     names:
       en: Late May Bank Holiday
-- T.T. Bank Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-08'
     end_date: '2018-06-08'
     names:
       en: T.T. Bank Holiday
-- Tynwald Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-07-05'
     end_date: '2018-07-05'
     names:
       en: Tynwald Day
-- Summer Bank Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-08-27'
     end_date: '2018-08-27'
     names:
       en: Summer Bank Holiday
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
       en: Christmas Day
-- Boxing Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-26'
     end_date: '2018-12-26'
     names:

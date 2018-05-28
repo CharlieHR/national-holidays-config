@@ -1,3362 +1,2887 @@
 ---
 name: Japan (all)
-'2011':
-- New Year's Day:
-    public_holiday: true
+years:
+  '2011':
+  - public_holiday: true
     start_date: '2011-01-01'
     end_date: '2011-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-01-10'
     end_date: '2011-01-10'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-02-11'
     end_date: '2011-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-03-21'
     end_date: '2011-03-21'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-04-29'
     end_date: '2011-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-05-03'
     end_date: '2011-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-05-04'
     end_date: '2011-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-05-05'
     end_date: '2011-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-07-18'
     end_date: '2011-07-18'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-09-19'
     end_date: '2011-09-19'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-09-23'
     end_date: '2011-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-10-10'
     end_date: '2011-10-10'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-11-03'
     end_date: '2011-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-11-23'
     end_date: '2011-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-12-23'
     end_date: '2011-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2012':
-- New Year's Day:
-    public_holiday: true
+  '2012':
+  - public_holiday: true
     start_date: '2012-01-02'
     end_date: '2012-01-02'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-01-09'
     end_date: '2012-01-09'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-02-11'
     end_date: '2012-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-03-20'
     end_date: '2012-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-04-30'
     end_date: '2012-04-30'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-05-03'
     end_date: '2012-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-05-04'
     end_date: '2012-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-05-05'
     end_date: '2012-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-07-16'
     end_date: '2012-07-16'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-09-17'
     end_date: '2012-09-17'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-09-22'
     end_date: '2012-09-22'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-10-08'
     end_date: '2012-10-08'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-11-03'
     end_date: '2012-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-11-23'
     end_date: '2012-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-12-24'
     end_date: '2012-12-24'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2013':
-- New Year's Day:
-    public_holiday: true
+  '2013':
+  - public_holiday: true
     start_date: '2013-01-01'
     end_date: '2013-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-01-14'
     end_date: '2013-01-14'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-02-11'
     end_date: '2013-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-03-20'
     end_date: '2013-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-04-29'
     end_date: '2013-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-05-03'
     end_date: '2013-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-05-04'
     end_date: '2013-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-05-06'
     end_date: '2013-05-06'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-07-15'
     end_date: '2013-07-15'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-09-16'
     end_date: '2013-09-16'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-09-23'
     end_date: '2013-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-10-14'
     end_date: '2013-10-14'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-11-04'
     end_date: '2013-11-04'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-11-23'
     end_date: '2013-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-12-23'
     end_date: '2013-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2014':
-- New Year's Day:
-    public_holiday: true
+  '2014':
+  - public_holiday: true
     start_date: '2014-01-01'
     end_date: '2014-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-01-13'
     end_date: '2014-01-13'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-02-11'
     end_date: '2014-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-03-21'
     end_date: '2014-03-21'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-04-29'
     end_date: '2014-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-05-03'
     end_date: '2014-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-05-05'
     end_date: '2014-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-05-06'
     end_date: '2014-05-06'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-07-21'
     end_date: '2014-07-21'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-09-15'
     end_date: '2014-09-15'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-09-23'
     end_date: '2014-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-10-13'
     end_date: '2014-10-13'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-11-03'
     end_date: '2014-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-11-24'
     end_date: '2014-11-24'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-12-23'
     end_date: '2014-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2015':
-- New Year's Day:
-    public_holiday: true
+  '2015':
+  - public_holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-01-12'
     end_date: '2015-01-12'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-02-11'
     end_date: '2015-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-03-21'
     end_date: '2015-03-21'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-04-29'
     end_date: '2015-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-05-04'
     end_date: '2015-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-05-05'
     end_date: '2015-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-05-06'
     end_date: '2015-05-06'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-07-20'
     end_date: '2015-07-20'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-09-21'
     end_date: '2015-09-21'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Holiday by Law:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-09-22'
     end_date: '2015-09-22'
     names:
       en: Holiday by Law
       ja: 国民の休日 Kyujitsu
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-09-23'
     end_date: '2015-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-10-12'
     end_date: '2015-10-12'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-11-03'
     end_date: '2015-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-11-23'
     end_date: '2015-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-12-23'
     end_date: '2015-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2016':
-- New Year's Day:
-    public_holiday: true
+  '2016':
+  - public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-01-11'
     end_date: '2016-01-11'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-02-11'
     end_date: '2016-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-03-21'
     end_date: '2016-03-21'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-04-29'
     end_date: '2016-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-03'
     end_date: '2016-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-04'
     end_date: '2016-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-05'
     end_date: '2016-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-07-18'
     end_date: '2016-07-18'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-08-11'
     end_date: '2016-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-09-19'
     end_date: '2016-09-19'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-09-23'
     end_date: '2016-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-10-10'
     end_date: '2016-10-10'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-11-03'
     end_date: '2016-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-11-23'
     end_date: '2016-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-12-23'
     end_date: '2016-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2017':
-- New Year's Day:
-    public_holiday: true
+  '2017':
+  - public_holiday: true
     start_date: '2017-01-02'
     end_date: '2017-01-02'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-01-09'
     end_date: '2017-01-09'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-02-11'
     end_date: '2017-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-03-20'
     end_date: '2017-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-29'
     end_date: '2017-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-03'
     end_date: '2017-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-04'
     end_date: '2017-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-05'
     end_date: '2017-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-07-17'
     end_date: '2017-07-17'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-08-11'
     end_date: '2017-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-18'
     end_date: '2017-09-18'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-23'
     end_date: '2017-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-10-09'
     end_date: '2017-10-09'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-11-03'
     end_date: '2017-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-11-23'
     end_date: '2017-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-23'
     end_date: '2017-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2018':
-- New Year's Day:
-    public_holiday: true
+  '2018':
+  - public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-01-08'
     end_date: '2018-01-08'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-02-12'
     end_date: '2018-02-12'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-21'
     end_date: '2018-03-21'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-04-30'
     end_date: '2018-04-30'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-03'
     end_date: '2018-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-04'
     end_date: '2018-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-05'
     end_date: '2018-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-07-16'
     end_date: '2018-07-16'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-08-11'
     end_date: '2018-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-09-17'
     end_date: '2018-09-17'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-09-24'
     end_date: '2018-09-24'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-10-08'
     end_date: '2018-10-08'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-03'
     end_date: '2018-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-23'
     end_date: '2018-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-24'
     end_date: '2018-12-24'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2019':
-- New Year's Day:
-    public_holiday: true
+  '2019':
+  - public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-01-14'
     end_date: '2019-01-14'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-02-11'
     end_date: '2019-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-03-21'
     end_date: '2019-03-21'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-29'
     end_date: '2019-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-05-03'
     end_date: '2019-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-05-04'
     end_date: '2019-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-05-06'
     end_date: '2019-05-06'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-07-15'
     end_date: '2019-07-15'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-08-12'
     end_date: '2019-08-12'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-09-16'
     end_date: '2019-09-16'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-09-23'
     end_date: '2019-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-10-14'
     end_date: '2019-10-14'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-11-04'
     end_date: '2019-11-04'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-11-23'
     end_date: '2019-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-12-23'
     end_date: '2019-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2020':
-- New Year's Day:
-    public_holiday: true
+  '2020':
+  - public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-01-13'
     end_date: '2020-01-13'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-02-11'
     end_date: '2020-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-03-20'
     end_date: '2020-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-29'
     end_date: '2020-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-05-04'
     end_date: '2020-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-05-05'
     end_date: '2020-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-05-06'
     end_date: '2020-05-06'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-07-20'
     end_date: '2020-07-20'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-08-11'
     end_date: '2020-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-09-21'
     end_date: '2020-09-21'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-09-22'
     end_date: '2020-09-22'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-10-12'
     end_date: '2020-10-12'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-11-03'
     end_date: '2020-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-11-23'
     end_date: '2020-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-12-23'
     end_date: '2020-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2021':
-- New Year's Day:
-    public_holiday: true
+  '2021':
+  - public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-01-11'
     end_date: '2021-01-11'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-02-11'
     end_date: '2021-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-03-20'
     end_date: '2021-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-04-29'
     end_date: '2021-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-03'
     end_date: '2021-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-04'
     end_date: '2021-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-05'
     end_date: '2021-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-07-19'
     end_date: '2021-07-19'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-08-11'
     end_date: '2021-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-09-20'
     end_date: '2021-09-20'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-09-23'
     end_date: '2021-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-10-11'
     end_date: '2021-10-11'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-11-03'
     end_date: '2021-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-11-23'
     end_date: '2021-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-12-23'
     end_date: '2021-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2022':
-- New Year's Day:
-    public_holiday: true
+  '2022':
+  - public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-01-10'
     end_date: '2022-01-10'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-02-11'
     end_date: '2022-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-03-21'
     end_date: '2022-03-21'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-29'
     end_date: '2022-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-05-03'
     end_date: '2022-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-05-04'
     end_date: '2022-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-05-05'
     end_date: '2022-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-07-18'
     end_date: '2022-07-18'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-08-11'
     end_date: '2022-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-09-19'
     end_date: '2022-09-19'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-09-23'
     end_date: '2022-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-10-10'
     end_date: '2022-10-10'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-11-03'
     end_date: '2022-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-11-23'
     end_date: '2022-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-12-23'
     end_date: '2022-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2023':
-- New Year's Day:
-    public_holiday: true
+  '2023':
+  - public_holiday: true
     start_date: '2023-01-02'
     end_date: '2023-01-02'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-01-09'
     end_date: '2023-01-09'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-02-11'
     end_date: '2023-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-03-21'
     end_date: '2023-03-21'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-29'
     end_date: '2023-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-05-03'
     end_date: '2023-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-05-04'
     end_date: '2023-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-05-05'
     end_date: '2023-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-07-17'
     end_date: '2023-07-17'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-08-11'
     end_date: '2023-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-09-18'
     end_date: '2023-09-18'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-09-23'
     end_date: '2023-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-10-09'
     end_date: '2023-10-09'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-11-03'
     end_date: '2023-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-11-23'
     end_date: '2023-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-12-23'
     end_date: '2023-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2024':
-- New Year's Day:
-    public_holiday: true
+  '2024':
+  - public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-01-08'
     end_date: '2024-01-08'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-02-12'
     end_date: '2024-02-12'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-03-20'
     end_date: '2024-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-04-29'
     end_date: '2024-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-03'
     end_date: '2024-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-04'
     end_date: '2024-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-06'
     end_date: '2024-05-06'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-07-15'
     end_date: '2024-07-15'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-08-12'
     end_date: '2024-08-12'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-09-16'
     end_date: '2024-09-16'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-09-23'
     end_date: '2024-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-10-14'
     end_date: '2024-10-14'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-11-04'
     end_date: '2024-11-04'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-11-23'
     end_date: '2024-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-12-23'
     end_date: '2024-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2025':
-- New Year's Day:
-    public_holiday: true
+  '2025':
+  - public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-01-13'
     end_date: '2025-01-13'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-02-11'
     end_date: '2025-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-03-20'
     end_date: '2025-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-29'
     end_date: '2025-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-05-03'
     end_date: '2025-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-05-05'
     end_date: '2025-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-05-06'
     end_date: '2025-05-06'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-07-21'
     end_date: '2025-07-21'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-08-11'
     end_date: '2025-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-09-15'
     end_date: '2025-09-15'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-09-23'
     end_date: '2025-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-10-13'
     end_date: '2025-10-13'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-11-03'
     end_date: '2025-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-11-24'
     end_date: '2025-11-24'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-12-23'
     end_date: '2025-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2026':
-- New Year's Day:
-    public_holiday: true
+  '2026':
+  - public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-01-12'
     end_date: '2026-01-12'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-02-11'
     end_date: '2026-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-03-20'
     end_date: '2026-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-04-29'
     end_date: '2026-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-05-04'
     end_date: '2026-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-05-05'
     end_date: '2026-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-05-06'
     end_date: '2026-05-06'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-07-20'
     end_date: '2026-07-20'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-08-11'
     end_date: '2026-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-09-21'
     end_date: '2026-09-21'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-09-23'
     end_date: '2026-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-10-12'
     end_date: '2026-10-12'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-11-03'
     end_date: '2026-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-11-23'
     end_date: '2026-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-12-23'
     end_date: '2026-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2027':
-- New Year's Day:
-    public_holiday: true
+  '2027':
+  - public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-01-11'
     end_date: '2027-01-11'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-02-11'
     end_date: '2027-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-03-22'
     end_date: '2027-03-22'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-04-29'
     end_date: '2027-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-03'
     end_date: '2027-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-04'
     end_date: '2027-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-05'
     end_date: '2027-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-07-19'
     end_date: '2027-07-19'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-08-11'
     end_date: '2027-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-09-20'
     end_date: '2027-09-20'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-09-23'
     end_date: '2027-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-10-11'
     end_date: '2027-10-11'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-11-03'
     end_date: '2027-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-11-23'
     end_date: '2027-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-12-23'
     end_date: '2027-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2028':
-- New Year's Day:
-    public_holiday: true
+  '2028':
+  - public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-01-10'
     end_date: '2028-01-10'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-02-11'
     end_date: '2028-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-03-20'
     end_date: '2028-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-29'
     end_date: '2028-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-05-03'
     end_date: '2028-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-05-04'
     end_date: '2028-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-05-05'
     end_date: '2028-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-07-17'
     end_date: '2028-07-17'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-08-11'
     end_date: '2028-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-09-18'
     end_date: '2028-09-18'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-09-22'
     end_date: '2028-09-22'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-10-09'
     end_date: '2028-10-09'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-11-03'
     end_date: '2028-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-11-23'
     end_date: '2028-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-12-23'
     end_date: '2028-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2029':
-- New Year's Day:
-    public_holiday: true
+  '2029':
+  - public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-01-08'
     end_date: '2029-01-08'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-02-12'
     end_date: '2029-02-12'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-03-20'
     end_date: '2029-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-04-30'
     end_date: '2029-04-30'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-05-03'
     end_date: '2029-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-05-04'
     end_date: '2029-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-05-05'
     end_date: '2029-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-07-16'
     end_date: '2029-07-16'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-08-11'
     end_date: '2029-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-09-17'
     end_date: '2029-09-17'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-09-24'
     end_date: '2029-09-24'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-10-08'
     end_date: '2029-10-08'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-11-03'
     end_date: '2029-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-11-23'
     end_date: '2029-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-12-24'
     end_date: '2029-12-24'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2030':
-- New Year's Day:
-    public_holiday: true
+  '2030':
+  - public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-01-14'
     end_date: '2030-01-14'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-02-11'
     end_date: '2030-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-03-20'
     end_date: '2030-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-29'
     end_date: '2030-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-05-03'
     end_date: '2030-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-05-04'
     end_date: '2030-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-05-06'
     end_date: '2030-05-06'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-07-15'
     end_date: '2030-07-15'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-08-12'
     end_date: '2030-08-12'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-09-16'
     end_date: '2030-09-16'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-09-23'
     end_date: '2030-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-10-14'
     end_date: '2030-10-14'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-11-04'
     end_date: '2030-11-04'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-11-23'
     end_date: '2030-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-12-23'
     end_date: '2030-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2031':
-- New Year's Day:
-    public_holiday: true
+  '2031':
+  - public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-01-13'
     end_date: '2031-01-13'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-02-11'
     end_date: '2031-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-03-20'
     end_date: '2031-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-29'
     end_date: '2031-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-05-03'
     end_date: '2031-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-05-05'
     end_date: '2031-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-05-06'
     end_date: '2031-05-06'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-07-21'
     end_date: '2031-07-21'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-08-11'
     end_date: '2031-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-09-15'
     end_date: '2031-09-15'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-09-23'
     end_date: '2031-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-10-13'
     end_date: '2031-10-13'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-11-03'
     end_date: '2031-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-11-24'
     end_date: '2031-11-24'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-12-23'
     end_date: '2031-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2032':
-- New Year's Day:
-    public_holiday: true
+  '2032':
+  - public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-01-12'
     end_date: '2032-01-12'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-02-11'
     end_date: '2032-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-03-20'
     end_date: '2032-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-04-29'
     end_date: '2032-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-03'
     end_date: '2032-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-04'
     end_date: '2032-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-05'
     end_date: '2032-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-07-19'
     end_date: '2032-07-19'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-08-11'
     end_date: '2032-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-09-20'
     end_date: '2032-09-20'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-09-23'
     end_date: '2032-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-10-11'
     end_date: '2032-10-11'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-11-03'
     end_date: '2032-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-11-23'
     end_date: '2032-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-12-23'
     end_date: '2032-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2033':
-- New Year's Day:
-    public_holiday: true
+  '2033':
+  - public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-01-10'
     end_date: '2033-01-10'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-02-11'
     end_date: '2033-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-03-21'
     end_date: '2033-03-21'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-29'
     end_date: '2033-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-05-03'
     end_date: '2033-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-05-04'
     end_date: '2033-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-05-05'
     end_date: '2033-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-07-18'
     end_date: '2033-07-18'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-08-11'
     end_date: '2033-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-09-19'
     end_date: '2033-09-19'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-09-23'
     end_date: '2033-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-10-10'
     end_date: '2033-10-10'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-11-03'
     end_date: '2033-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-11-23'
     end_date: '2033-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-12-23'
     end_date: '2033-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2034':
-- New Year's Day:
-    public_holiday: true
+  '2034':
+  - public_holiday: true
     start_date: '2034-01-02'
     end_date: '2034-01-02'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-01-09'
     end_date: '2034-01-09'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-02-11'
     end_date: '2034-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-03-20'
     end_date: '2034-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-29'
     end_date: '2034-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-05-03'
     end_date: '2034-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-05-04'
     end_date: '2034-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-05-05'
     end_date: '2034-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-07-17'
     end_date: '2034-07-17'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-08-11'
     end_date: '2034-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-09-18'
     end_date: '2034-09-18'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-09-23'
     end_date: '2034-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-10-09'
     end_date: '2034-10-09'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-11-03'
     end_date: '2034-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-11-23'
     end_date: '2034-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-12-23'
     end_date: '2034-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2035':
-- New Year's Day:
-    public_holiday: true
+  '2035':
+  - public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-01-08'
     end_date: '2035-01-08'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-02-12'
     end_date: '2035-02-12'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-03-20'
     end_date: '2035-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-04-30'
     end_date: '2035-04-30'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-05-03'
     end_date: '2035-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-05-04'
     end_date: '2035-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-05-05'
     end_date: '2035-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-07-16'
     end_date: '2035-07-16'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-08-11'
     end_date: '2035-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-09-17'
     end_date: '2035-09-17'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-09-24'
     end_date: '2035-09-24'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-10-08'
     end_date: '2035-10-08'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-11-03'
     end_date: '2035-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-11-23'
     end_date: '2035-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-12-24'
     end_date: '2035-12-24'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2036':
-- New Year's Day:
-    public_holiday: true
+  '2036':
+  - public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-01-14'
     end_date: '2036-01-14'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-02-11'
     end_date: '2036-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-03-20'
     end_date: '2036-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-29'
     end_date: '2036-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-05-03'
     end_date: '2036-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-05-05'
     end_date: '2036-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-05-06'
     end_date: '2036-05-06'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-07-21'
     end_date: '2036-07-21'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-08-11'
     end_date: '2036-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-09-15'
     end_date: '2036-09-15'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-09-23'
     end_date: '2036-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-10-13'
     end_date: '2036-10-13'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-11-03'
     end_date: '2036-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-11-24'
     end_date: '2036-11-24'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-12-23'
     end_date: '2036-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2037':
-- New Year's Day:
-    public_holiday: true
+  '2037':
+  - public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-01-12'
     end_date: '2037-01-12'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-02-11'
     end_date: '2037-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-03-20'
     end_date: '2037-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-04-29'
     end_date: '2037-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-05-04'
     end_date: '2037-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-05-05'
     end_date: '2037-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-05-06'
     end_date: '2037-05-06'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-07-20'
     end_date: '2037-07-20'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-08-11'
     end_date: '2037-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-09-21'
     end_date: '2037-09-21'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-09-23'
     end_date: '2037-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-10-12'
     end_date: '2037-10-12'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-11-03'
     end_date: '2037-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-11-23'
     end_date: '2037-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-12-23'
     end_date: '2037-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2038':
-- New Year's Day:
-    public_holiday: true
+  '2038':
+  - public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-01-11'
     end_date: '2038-01-11'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-02-11'
     end_date: '2038-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-03-20'
     end_date: '2038-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-29'
     end_date: '2038-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-05-03'
     end_date: '2038-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-05-04'
     end_date: '2038-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-05-05'
     end_date: '2038-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-07-19'
     end_date: '2038-07-19'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-08-11'
     end_date: '2038-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-09-20'
     end_date: '2038-09-20'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-09-23'
     end_date: '2038-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-10-11'
     end_date: '2038-10-11'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-11-03'
     end_date: '2038-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-11-23'
     end_date: '2038-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-12-23'
     end_date: '2038-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2039':
-- New Year's Day:
-    public_holiday: true
+  '2039':
+  - public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-01-10'
     end_date: '2039-01-10'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-02-11'
     end_date: '2039-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-03-21'
     end_date: '2039-03-21'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-29'
     end_date: '2039-04-29'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-05-03'
     end_date: '2039-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-05-04'
     end_date: '2039-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-05-05'
     end_date: '2039-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-07-18'
     end_date: '2039-07-18'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-08-11'
     end_date: '2039-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-09-19'
     end_date: '2039-09-19'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-09-23'
     end_date: '2039-09-23'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-10-10'
     end_date: '2039-10-10'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-11-03'
     end_date: '2039-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-11-23'
     end_date: '2039-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-12-23'
     end_date: '2039-12-23'
     names:
       en: The Emperor's Birthday
       ja: 天皇誕生日 Tennō Tanjōbi
-'2040':
-- New Year's Day:
-    public_holiday: true
+  '2040':
+  - public_holiday: true
     start_date: '2040-01-02'
     end_date: '2040-01-02'
     names:
       en: New Year's Day
       ja: 元日 Ganjitsu
-- Coming of Age Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-01-09'
     end_date: '2040-01-09'
     names:
       en: Coming of Age Day
       ja: 成人の日 Seijin no Hi
-- Foundation Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-02-11'
     end_date: '2040-02-11'
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
-- Vernal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-03-20'
     end_date: '2040-03-20'
     names:
       en: Vernal Equinox Day
       ja: 春分の日 Shunbun no Hi
-- Shōwa Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-04-30'
     end_date: '2040-04-30'
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
-- Constitution Memorial Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-03'
     end_date: '2040-05-03'
     names:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
-- Greenery Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-04'
     end_date: '2040-05-04'
     names:
       en: Greenery Day
       ja: みどりの日 Midori no Hi
-- Children's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-05'
     end_date: '2040-05-05'
     names:
       en: Children's Day
       ja: こどもの日 Kodomo no Hi
-- Marine Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-07-16'
     end_date: '2040-07-16'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
-- Mountain Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-08-11'
     end_date: '2040-08-11'
     names:
       en: Mountain Day
       ja: 山の日 Yama no Hi
-- Respect-for-the-Aged Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-09-17'
     end_date: '2040-09-17'
     names:
       en: Respect-for-the-Aged Day
       ja: 敬老の日 Keirō no Hi
-- Autumnal Equinox Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-09-24'
     end_date: '2040-09-24'
     names:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
-- Health and Sports Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-10-08'
     end_date: '2040-10-08'
     names:
       en: Health and Sports Day
       ja: 体育の日 Taiiku no Hi
-- Culture Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-11-03'
     end_date: '2040-11-03'
     names:
       en: Culture Day
       ja: 文化の日 Bunka no Hi
-- Labour Thanksgiving Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-11-23'
     end_date: '2040-11-23'
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-- The Emperor's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-12-24'
     end_date: '2040-12-24'
     names:

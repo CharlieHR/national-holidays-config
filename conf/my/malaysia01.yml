@@ -1,170 +1,147 @@
 ---
 name: Malaysia (all)
-'2017':
-- Chinese New Year:
-    public_holiday: true
+years:
+  '2017':
+  - public_holiday: true
     start_date: '2017-01-28'
     end_date: '2017-01-28'
     names:
       en: Chinese New Year
       ms: Chinese New Year
-- Labour Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day
       ms: Labour Day
-- Wesak Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-10'
     end_date: '2017-05-10'
     names:
       en: Wesak Day
       ms: Wesak Day
-- Birthday of SPB Yang di Pertuan Agong:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-03'
     end_date: '2017-06-03'
     names:
       en: Birthday of SPB Yang di Pertuan Agong
       ms: Birthday of SPB Yang di Pertuan Agong
-- Hari Raya Aidilfitri:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-25'
     end_date: '2017-06-25'
     names:
       en: Hari Raya Aidilfitri
       ms: Hari Raya Aidilfitri
-- Hari Raya Aidilfitri Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-26'
     end_date: '2017-06-26'
     names:
       en: Hari Raya Aidilfitri Holiday
       ms: Hari Raya Aidilfitri Holiday
-- National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-08-31'
     end_date: '2017-08-31'
     names:
       en: National Day
       ms: National Day
-- Hari Raya Haji:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-01'
     end_date: '2017-09-01'
     names:
       en: Hari Raya Haji
       ms: Hari Raya Haji
-- Malaysia Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-16'
     end_date: '2017-09-16'
     names:
       en: Malaysia Day
       ms: Malaysia Day
-- Awal Muharram:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-22'
     end_date: '2017-09-22'
     names:
       en: Awal Muharram
       ms: Awal Muharram
-- Mawlid:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-01'
     end_date: '2017-12-01'
     names:
       en: Mawlid
       ms: Mawlid
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
       ms: Christmas Day
-- Chinese New Year:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-02-16'
     end_date: '2017-02-16'
     names:
       en: Chinese New Year
       ms: Chinese New Year
-'2018':
-- Labour Day:
-    public_holiday: true
+  '2018':
+  - public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day
       ms: Labour Day
-- Wesak Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-29'
     end_date: '2018-05-29'
     names:
       en: Wesak Day
       ms: Wesak Day
-- Birthday of SPB Yang di Pertuan Agong:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-02'
     end_date: '2018-06-02'
     names:
       en: Birthday of SPB Yang di Pertuan Agong
       ms: Birthday of SPB Yang di Pertuan Agong
-- Hari Raya Puasa:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-15'
     end_date: '2018-06-15'
     names:
       en: Hari Raya Puasa
       ms: Hari Raya Puasa
-- Hari Raya Puasa Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-16'
     end_date: '2018-06-16'
     names:
       en: Hari Raya Puasa Holiday
       ms: Hari Raya Puasa Holiday
-- National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-08-31'
     end_date: '2018-08-31'
     names:
       en: National Day
       ms: National Day
-- Awal Muharram:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-09-11'
     end_date: '2018-09-11'
     names:
       en: Awal Muharram
       ms: Awal Muharram
-- Malaysia Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-09-16'
     end_date: '2018-09-16'
     names:
       en: Malaysia Day
       ms: Malaysia Day
-- Hari Raya Haji:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-09-21'
     end_date: '2018-09-21'
     names:
       en: Hari Raya Haji
       ms: Hari Raya Haji
-- Maulidur Rasul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-20'
     end_date: '2018-11-20'
     names:
       en: Maulidur Rasul
       ms: Maulidur Rasul
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:

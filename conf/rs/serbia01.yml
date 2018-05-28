@@ -1,2564 +1,2203 @@
 ---
 name: Serbia (all)
-'2011':
-- New Year's Day:
-    public_holiday: true
+years:
+  '2011':
+  - public_holiday: true
     start_date: '2011-01-01'
     end_date: '2011-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-01-02'
     end_date: '2011-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-01-03'
     end_date: '2011-01-03'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-01-07'
     end_date: '2011-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-02-15'
     end_date: '2011-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-04-22'
     end_date: '2011-04-22'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-04-24'
     end_date: '2011-04-24'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-04-25'
     end_date: '2011-04-25'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-05-01'
     end_date: '2011-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-05-02'
     end_date: '2011-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2011-05-03'
     end_date: '2011-05-03'
     names:
       en: May Day Holiday
       sr: Praznik rada
-'2012':
-- New Year's Day:
-    public_holiday: true
+  '2012':
+  - public_holiday: true
     start_date: '2012-01-01'
     end_date: '2012-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-01-02'
     end_date: '2012-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-01-03'
     end_date: '2012-01-03'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-01-07'
     end_date: '2012-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-02-15'
     end_date: '2012-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-02-16'
     end_date: '2012-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-02-17'
     end_date: '2012-02-17'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-04-13'
     end_date: '2012-04-13'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-04-15'
     end_date: '2012-04-15'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-04-16'
     end_date: '2012-04-16'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-05-01'
     end_date: '2012-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-05-02'
     end_date: '2012-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-11-11'
     end_date: '2012-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-- Armistice Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2012-11-12'
     end_date: '2012-11-12'
     names:
       en: Armistice Day Holiday
       sr: Dan primirja
-'2013':
-- New Year's Day:
-    public_holiday: true
+  '2013':
+  - public_holiday: true
     start_date: '2013-01-01'
     end_date: '2013-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-01-02'
     end_date: '2013-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-01-07'
     end_date: '2013-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Orthodox New Year:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-01-14'
     end_date: '2013-01-14'
     names:
       en: Orthodox New Year
       sr: Srpska nova godina
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-02-15'
     end_date: '2013-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-02-16'
     end_date: '2013-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-05-01'
     end_date: '2013-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-05-02'
     end_date: '2013-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-05-03'
     end_date: '2013-05-03'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-05-05'
     end_date: '2013-05-05'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-05-06'
     end_date: '2013-05-06'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2013-11-11'
     end_date: '2013-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2014':
-- New Year's Day:
-    public_holiday: true
+  '2014':
+  - public_holiday: true
     start_date: '2014-01-01'
     end_date: '2014-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-01-02'
     end_date: '2014-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-01-07'
     end_date: '2014-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-02-15'
     end_date: '2014-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-02-16'
     end_date: '2014-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-02-17'
     end_date: '2014-02-17'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-04-18'
     end_date: '2014-04-18'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-04-20'
     end_date: '2014-04-20'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-04-21'
     end_date: '2014-04-21'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-05-01'
     end_date: '2014-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-05-02'
     end_date: '2014-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-11-11'
     end_date: '2014-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2015':
-- New Year's Day:
-    public_holiday: true
+  '2015':
+  - public_holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-01-02'
     end_date: '2015-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-01-07'
     end_date: '2015-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-02-15'
     end_date: '2015-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-02-16'
     end_date: '2015-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-02-17'
     end_date: '2015-02-17'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-04-10'
     end_date: '2015-04-10'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-04-12'
     end_date: '2015-04-12'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-04-13'
     end_date: '2015-04-13'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-05-01'
     end_date: '2015-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-05-02'
     end_date: '2015-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-11-11'
     end_date: '2015-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2016':
-- New Year's Day:
-    public_holiday: true
+  '2016':
+  - public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-01-02'
     end_date: '2016-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-01-07'
     end_date: '2016-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-02-15'
     end_date: '2016-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-02-16'
     end_date: '2016-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-04-29'
     end_date: '2016-04-29'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-02'
     end_date: '2016-05-02'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-02'
     end_date: '2016-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-03'
     end_date: '2016-05-03'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-11-11'
     end_date: '2016-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2017':
-- New Year's Day:
-    public_holiday: true
+  '2017':
+  - public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-01-02'
     end_date: '2017-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-01-03'
     end_date: '2017-01-03'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-01-07'
     end_date: '2017-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-02-15'
     end_date: '2017-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-02-16'
     end_date: '2017-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-16'
     end_date: '2017-04-16'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-17'
     end_date: '2017-04-17'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-02'
     end_date: '2017-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-11-11'
     end_date: '2017-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2018':
-- New Year's Day:
-    public_holiday: true
+  '2018':
+  - public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-01-02'
     end_date: '2018-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-01-07'
     end_date: '2018-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-02-15'
     end_date: '2018-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-02-16'
     end_date: '2018-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-04-06'
     end_date: '2018-04-06'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-04-08'
     end_date: '2018-04-08'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-04-09'
     end_date: '2018-04-09'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-02'
     end_date: '2018-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-11'
     end_date: '2018-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-- Armistice Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-12'
     end_date: '2018-11-12'
     names:
       en: Armistice Day Holiday
       sr: Dan primirja
-'2019':
-- New Year's Day:
-    public_holiday: true
+  '2019':
+  - public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-01-02'
     end_date: '2019-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-01-07'
     end_date: '2019-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-02-15'
     end_date: '2019-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-02-16'
     end_date: '2019-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-26'
     end_date: '2019-04-26'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-28'
     end_date: '2019-04-28'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-29'
     end_date: '2019-04-29'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-05-02'
     end_date: '2019-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-11-11'
     end_date: '2019-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2020':
-- New Year's Day:
-    public_holiday: true
+  '2020':
+  - public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-01-02'
     end_date: '2020-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-01-07'
     end_date: '2020-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-02-15'
     end_date: '2020-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-02-16'
     end_date: '2020-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-02-17'
     end_date: '2020-02-17'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-17'
     end_date: '2020-04-17'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-19'
     end_date: '2020-04-19'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-20'
     end_date: '2020-04-20'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-05-02'
     end_date: '2020-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-11-11'
     end_date: '2020-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2021':
-- New Year's Day:
-    public_holiday: true
+  '2021':
+  - public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-01-02'
     end_date: '2021-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-01-07'
     end_date: '2021-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-02-15'
     end_date: '2021-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-02-16'
     end_date: '2021-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-04-30'
     end_date: '2021-04-30'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-02'
     end_date: '2021-05-02'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-02'
     end_date: '2021-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-03'
     end_date: '2021-05-03'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-03'
     end_date: '2021-05-03'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-11-11'
     end_date: '2021-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2022':
-- New Year's Day:
-    public_holiday: true
+  '2022':
+  - public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-01-02'
     end_date: '2022-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-01-03'
     end_date: '2022-01-03'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-01-07'
     end_date: '2022-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-02-15'
     end_date: '2022-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-02-16'
     end_date: '2022-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-22'
     end_date: '2022-04-22'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-24'
     end_date: '2022-04-24'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-25'
     end_date: '2022-04-25'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-05-02'
     end_date: '2022-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-05-03'
     end_date: '2022-05-03'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-11-11'
     end_date: '2022-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2023':
-- New Year's Day:
-    public_holiday: true
+  '2023':
+  - public_holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-01-02'
     end_date: '2023-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-01-03'
     end_date: '2023-01-03'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-01-07'
     end_date: '2023-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-02-15'
     end_date: '2023-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-02-16'
     end_date: '2023-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-14'
     end_date: '2023-04-14'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-16'
     end_date: '2023-04-16'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-17'
     end_date: '2023-04-17'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-05-02'
     end_date: '2023-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-11-11'
     end_date: '2023-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2024':
-- New Year's Day:
-    public_holiday: true
+  '2024':
+  - public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-01-02'
     end_date: '2024-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-01-07'
     end_date: '2024-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-02-15'
     end_date: '2024-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-02-16'
     end_date: '2024-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-02'
     end_date: '2024-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-03'
     end_date: '2024-05-03'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-05'
     end_date: '2024-05-05'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-06'
     end_date: '2024-05-06'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-11-11'
     end_date: '2024-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2025':
-- New Year's Day:
-    public_holiday: true
+  '2025':
+  - public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-01-02'
     end_date: '2025-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-01-07'
     end_date: '2025-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-02-15'
     end_date: '2025-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-02-16'
     end_date: '2025-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-02-17'
     end_date: '2025-02-17'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-18'
     end_date: '2025-04-18'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-20'
     end_date: '2025-04-20'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-21'
     end_date: '2025-04-21'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-05-02'
     end_date: '2025-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-11-11'
     end_date: '2025-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2026':
-- New Year's Day:
-    public_holiday: true
+  '2026':
+  - public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-01-02'
     end_date: '2026-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-01-07'
     end_date: '2026-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-02-15'
     end_date: '2026-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-02-16'
     end_date: '2026-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-02-17'
     end_date: '2026-02-17'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-04-10'
     end_date: '2026-04-10'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-04-12'
     end_date: '2026-04-12'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-04-13'
     end_date: '2026-04-13'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-05-02'
     end_date: '2026-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-11-11'
     end_date: '2026-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2027':
-- New Year's Day:
-    public_holiday: true
+  '2027':
+  - public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-01-02'
     end_date: '2027-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-01-07'
     end_date: '2027-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-02-15'
     end_date: '2027-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-02-16'
     end_date: '2027-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-04-30'
     end_date: '2027-04-30'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-02'
     end_date: '2027-05-02'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-02'
     end_date: '2027-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-03'
     end_date: '2027-05-03'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-03'
     end_date: '2027-05-03'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-11-11'
     end_date: '2027-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2028':
-- New Year's Day:
-    public_holiday: true
+  '2028':
+  - public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-01-02'
     end_date: '2028-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-01-03'
     end_date: '2028-01-03'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-01-07'
     end_date: '2028-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-02-15'
     end_date: '2028-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-02-16'
     end_date: '2028-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-14'
     end_date: '2028-04-14'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-16'
     end_date: '2028-04-16'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-17'
     end_date: '2028-04-17'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-05-02'
     end_date: '2028-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-11-11'
     end_date: '2028-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2029':
-- New Year's Day:
-    public_holiday: true
+  '2029':
+  - public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-01-02'
     end_date: '2029-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-01-07'
     end_date: '2029-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-02-15'
     end_date: '2029-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-02-16'
     end_date: '2029-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-04-06'
     end_date: '2029-04-06'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-04-08'
     end_date: '2029-04-08'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-04-09'
     end_date: '2029-04-09'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-05-02'
     end_date: '2029-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-11-11'
     end_date: '2029-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-- Armistice Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-11-12'
     end_date: '2029-11-12'
     names:
       en: Armistice Day Holiday
       sr: Dan primirja
-'2030':
-- New Year's Day:
-    public_holiday: true
+  '2030':
+  - public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-01-02'
     end_date: '2030-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-01-07'
     end_date: '2030-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-02-15'
     end_date: '2030-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-02-16'
     end_date: '2030-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-26'
     end_date: '2030-04-26'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-28'
     end_date: '2030-04-28'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-29'
     end_date: '2030-04-29'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-05-02'
     end_date: '2030-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-11-11'
     end_date: '2030-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2031':
-- New Year's Day:
-    public_holiday: true
+  '2031':
+  - public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-01-02'
     end_date: '2031-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-01-07'
     end_date: '2031-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-02-15'
     end_date: '2031-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-02-16'
     end_date: '2031-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-02-17'
     end_date: '2031-02-17'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-11'
     end_date: '2031-04-11'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-13'
     end_date: '2031-04-13'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-14'
     end_date: '2031-04-14'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-05-02'
     end_date: '2031-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-11-11'
     end_date: '2031-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2032':
-- New Year's Day:
-    public_holiday: true
+  '2032':
+  - public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-01-02'
     end_date: '2032-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-01-07'
     end_date: '2032-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-02-15'
     end_date: '2032-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-02-16'
     end_date: '2032-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-02-17'
     end_date: '2032-02-17'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-04-30'
     end_date: '2032-04-30'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-02'
     end_date: '2032-05-02'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-02'
     end_date: '2032-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-03'
     end_date: '2032-05-03'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-03'
     end_date: '2032-05-03'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-11-11'
     end_date: '2032-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2033':
-- New Year's Day:
-    public_holiday: true
+  '2033':
+  - public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-01-02'
     end_date: '2033-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-01-03'
     end_date: '2033-01-03'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-01-07'
     end_date: '2033-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-02-15'
     end_date: '2033-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-02-16'
     end_date: '2033-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-22'
     end_date: '2033-04-22'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-24'
     end_date: '2033-04-24'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-25'
     end_date: '2033-04-25'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-05-02'
     end_date: '2033-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-05-03'
     end_date: '2033-05-03'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-11-11'
     end_date: '2033-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2034':
-- New Year's Day:
-    public_holiday: true
+  '2034':
+  - public_holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-01-02'
     end_date: '2034-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-01-03'
     end_date: '2034-01-03'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-01-07'
     end_date: '2034-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-02-15'
     end_date: '2034-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-02-16'
     end_date: '2034-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-07'
     end_date: '2034-04-07'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-09'
     end_date: '2034-04-09'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-10'
     end_date: '2034-04-10'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-05-02'
     end_date: '2034-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-11-11'
     end_date: '2034-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2035':
-- New Year's Day:
-    public_holiday: true
+  '2035':
+  - public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-01-02'
     end_date: '2035-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-01-07'
     end_date: '2035-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-02-15'
     end_date: '2035-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-02-16'
     end_date: '2035-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-04-27'
     end_date: '2035-04-27'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-04-29'
     end_date: '2035-04-29'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-04-30'
     end_date: '2035-04-30'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-05-02'
     end_date: '2035-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-11-11'
     end_date: '2035-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-- Armistice Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-11-12'
     end_date: '2035-11-12'
     names:
       en: Armistice Day Holiday
       sr: Dan primirja
-'2036':
-- New Year's Day:
-    public_holiday: true
+  '2036':
+  - public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-01-02'
     end_date: '2036-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-01-07'
     end_date: '2036-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-02-15'
     end_date: '2036-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-02-16'
     end_date: '2036-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-18'
     end_date: '2036-04-18'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-20'
     end_date: '2036-04-20'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-21'
     end_date: '2036-04-21'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-05-02'
     end_date: '2036-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-11-11'
     end_date: '2036-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2037':
-- New Year's Day:
-    public_holiday: true
+  '2037':
+  - public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-01-02'
     end_date: '2037-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-01-07'
     end_date: '2037-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-02-15'
     end_date: '2037-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-02-16'
     end_date: '2037-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-02-17'
     end_date: '2037-02-17'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-04-03'
     end_date: '2037-04-03'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-04-05'
     end_date: '2037-04-05'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-04-06'
     end_date: '2037-04-06'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-05-02'
     end_date: '2037-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-11-11'
     end_date: '2037-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2038':
-- New Year's Day:
-    public_holiday: true
+  '2038':
+  - public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-01-02'
     end_date: '2038-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-01-07'
     end_date: '2038-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-02-15'
     end_date: '2038-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-02-16'
     end_date: '2038-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-23'
     end_date: '2038-04-23'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-25'
     end_date: '2038-04-25'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-26'
     end_date: '2038-04-26'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-05-02'
     end_date: '2038-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-05-03'
     end_date: '2038-05-03'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-11-11'
     end_date: '2038-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2039':
-- New Year's Day:
-    public_holiday: true
+  '2039':
+  - public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-01-02'
     end_date: '2039-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-01-03'
     end_date: '2039-01-03'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-01-07'
     end_date: '2039-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-02-15'
     end_date: '2039-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-02-16'
     end_date: '2039-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-15'
     end_date: '2039-04-15'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-17'
     end_date: '2039-04-17'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-18'
     end_date: '2039-04-18'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-05-02'
     end_date: '2039-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-05-03'
     end_date: '2039-05-03'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-11-11'
     end_date: '2039-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-'2040':
-- New Year's Day:
-    public_holiday: true
+  '2040':
+  - public_holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-01-02'
     end_date: '2040-01-02'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- New Year's Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-01-03'
     end_date: '2040-01-03'
     names:
       en: New Year's Day Holiday
       sr: Nova Godina
-- Orthodox Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-01-07'
     end_date: '2040-01-07'
     names:
       en: Orthodox Christmas Day
       sr: Božić
-- Serbia National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-02-15'
     end_date: '2040-02-15'
     names:
       en: Serbia National Day
       sr: Dan državnosti Srbije
-- Serbia National Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-02-16'
     end_date: '2040-02-16'
     names:
       en: Serbia National Day Holiday
       sr: Dan državnosti Srbije
-- May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: May Day
       sr: Praznik rada
-- May Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-02'
     end_date: '2040-05-02'
     names:
       en: May Day Holiday
       sr: Praznik rada
-- Orthodox Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-04'
     end_date: '2040-05-04'
     names:
       en: Orthodox Good Friday
       sr: Veliki petak
-- Orthodox Easter:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-06'
     end_date: '2040-05-06'
     names:
       en: Orthodox Easter
       sr: Vaskrs
-- Orthodox Easter Monday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-07'
     end_date: '2040-05-07'
     names:
       en: Orthodox Easter Monday
       sr: Vaskrsni ponedeljak
-- Armistice Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-11-11'
     end_date: '2040-11-11'
     names:
       en: Armistice Day
       sr: Dan primirja
-- Armistice Day Holiday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-11-12'
     end_date: '2040-11-12'
     names:

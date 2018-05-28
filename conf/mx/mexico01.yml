@@ -1,1945 +1,1672 @@
 ---
 name: Mexico (all)
-'2014':
-- New Year's Day:
-    public_holiday: true
+years:
+  '2014':
+  - public_holiday: true
     start_date: '2014-01-01'
     end_date: '2014-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-02-03'
     end_date: '2014-02-03'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-03-17'
     end_date: '2014-03-17'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-04-17'
     end_date: '2014-04-17'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-04-18'
     end_date: '2014-04-18'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-04-20'
     end_date: '2014-04-20'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-05-01'
     end_date: '2014-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-09-16'
     end_date: '2014-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-11-17'
     end_date: '2014-11-17'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2014-12-25'
     end_date: '2014-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2015':
-- New Year's Day:
-    public_holiday: true
+  '2015':
+  - public_holiday: true
     start_date: '2015-01-01'
     end_date: '2015-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-02-02'
     end_date: '2015-02-02'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-03-16'
     end_date: '2015-03-16'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-04-02'
     end_date: '2015-04-02'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-04-03'
     end_date: '2015-04-03'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-04-05'
     end_date: '2015-04-05'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-05-01'
     end_date: '2015-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-09-16'
     end_date: '2015-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-11-16'
     end_date: '2015-11-16'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2015-12-25'
     end_date: '2015-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2016':
-- New Year's Day:
-    public_holiday: true
+  '2016':
+  - public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-02-01'
     end_date: '2016-02-01'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-03-21'
     end_date: '2016-03-21'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-03-24'
     end_date: '2016-03-24'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-03-25'
     end_date: '2016-03-25'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-03-27'
     end_date: '2016-03-27'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-09-16'
     end_date: '2016-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-11-21'
     end_date: '2016-11-21'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-12-25'
     end_date: '2016-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2017':
-- New Year's Day:
-    public_holiday: true
+  '2017':
+  - public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-02-06'
     end_date: '2017-02-06'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-03-20'
     end_date: '2017-03-20'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-13'
     end_date: '2017-04-13'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-16'
     end_date: '2017-04-16'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-16'
     end_date: '2017-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-11-20'
     end_date: '2017-11-20'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2018':
-- New Year's Day:
-    public_holiday: true
+  '2018':
+  - public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-02-05'
     end_date: '2018-02-05'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-19'
     end_date: '2018-03-19'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-29'
     end_date: '2018-03-29'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-04-01'
     end_date: '2018-04-01'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-09-16'
     end_date: '2018-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-19'
     end_date: '2018-11-19'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Change of Federal Government:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-01'
     end_date: '2018-12-01'
     names:
       en: Change of Federal Government
       es: Transmisión del Poder Ejecutivo Federal
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2019':
-- New Year's Day:
-    public_holiday: true
+  '2019':
+  - public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-02-04'
     end_date: '2019-02-04'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-03-18'
     end_date: '2019-03-18'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-18'
     end_date: '2019-04-18'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-19'
     end_date: '2019-04-19'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-21'
     end_date: '2019-04-21'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-09-16'
     end_date: '2019-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-11-18'
     end_date: '2019-11-18'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2020':
-- New Year's Day:
-    public_holiday: true
+  '2020':
+  - public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-02-03'
     end_date: '2020-02-03'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-03-16'
     end_date: '2020-03-16'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-09'
     end_date: '2020-04-09'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-10'
     end_date: '2020-04-10'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-12'
     end_date: '2020-04-12'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-09-16'
     end_date: '2020-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-11-16'
     end_date: '2020-11-16'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-12-25'
     end_date: '2020-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2021':
-- New Year's Day:
-    public_holiday: true
+  '2021':
+  - public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-02-01'
     end_date: '2021-02-01'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-03-15'
     end_date: '2021-03-15'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-04-01'
     end_date: '2021-04-01'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-04-02'
     end_date: '2021-04-02'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-04-04'
     end_date: '2021-04-04'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-09-16'
     end_date: '2021-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-11-15'
     end_date: '2021-11-15'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-12-25'
     end_date: '2021-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2022':
-- New Year's Day:
-    public_holiday: true
+  '2022':
+  - public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-02-07'
     end_date: '2022-02-07'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-03-21'
     end_date: '2022-03-21'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-14'
     end_date: '2022-04-14'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-15'
     end_date: '2022-04-15'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-17'
     end_date: '2022-04-17'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-09-16'
     end_date: '2022-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-11-21'
     end_date: '2022-11-21'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-12-25'
     end_date: '2022-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2023':
-- New Year's Day:
-    public_holiday: true
+  '2023':
+  - public_holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-02-06'
     end_date: '2023-02-06'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-03-20'
     end_date: '2023-03-20'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-06'
     end_date: '2023-04-06'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-07'
     end_date: '2023-04-07'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-09'
     end_date: '2023-04-09'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-09-16'
     end_date: '2023-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-11-20'
     end_date: '2023-11-20'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-12-25'
     end_date: '2023-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2024':
-- New Year's Day:
-    public_holiday: true
+  '2024':
+  - public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-02-05'
     end_date: '2024-02-05'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-03-18'
     end_date: '2024-03-18'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-03-28'
     end_date: '2024-03-28'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-03-29'
     end_date: '2024-03-29'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-03-31'
     end_date: '2024-03-31'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-09-16'
     end_date: '2024-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-11-18'
     end_date: '2024-11-18'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Change of Federal Government:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-12-01'
     end_date: '2024-12-01'
     names:
       en: Change of Federal Government
       es: Transmisión del Poder Ejecutivo Federal
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-12-25'
     end_date: '2024-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2025':
-- New Year's Day:
-    public_holiday: true
+  '2025':
+  - public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-02-03'
     end_date: '2025-02-03'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-03-17'
     end_date: '2025-03-17'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-17'
     end_date: '2025-04-17'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-18'
     end_date: '2025-04-18'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-20'
     end_date: '2025-04-20'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-09-16'
     end_date: '2025-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-11-17'
     end_date: '2025-11-17'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-12-25'
     end_date: '2025-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2026':
-- New Year's Day:
-    public_holiday: true
+  '2026':
+  - public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-02-02'
     end_date: '2026-02-02'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-03-16'
     end_date: '2026-03-16'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-04-02'
     end_date: '2026-04-02'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-04-03'
     end_date: '2026-04-03'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-04-05'
     end_date: '2026-04-05'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-09-16'
     end_date: '2026-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-11-16'
     end_date: '2026-11-16'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-12-25'
     end_date: '2026-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2027':
-- New Year's Day:
-    public_holiday: true
+  '2027':
+  - public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-02-01'
     end_date: '2027-02-01'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-03-15'
     end_date: '2027-03-15'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-03-25'
     end_date: '2027-03-25'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-03-26'
     end_date: '2027-03-26'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-03-28'
     end_date: '2027-03-28'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-09-16'
     end_date: '2027-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-11-15'
     end_date: '2027-11-15'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-12-25'
     end_date: '2027-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2028':
-- New Year's Day:
-    public_holiday: true
+  '2028':
+  - public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-02-07'
     end_date: '2028-02-07'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-03-20'
     end_date: '2028-03-20'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-13'
     end_date: '2028-04-13'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-14'
     end_date: '2028-04-14'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-16'
     end_date: '2028-04-16'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-09-16'
     end_date: '2028-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-11-20'
     end_date: '2028-11-20'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-12-25'
     end_date: '2028-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2029':
-- New Year's Day:
-    public_holiday: true
+  '2029':
+  - public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-02-05'
     end_date: '2029-02-05'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-03-19'
     end_date: '2029-03-19'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-03-29'
     end_date: '2029-03-29'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-03-30'
     end_date: '2029-03-30'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-04-01'
     end_date: '2029-04-01'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-09-16'
     end_date: '2029-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-11-19'
     end_date: '2029-11-19'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-12-25'
     end_date: '2029-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2030':
-- New Year's Day:
-    public_holiday: true
+  '2030':
+  - public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-02-04'
     end_date: '2030-02-04'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-03-18'
     end_date: '2030-03-18'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-18'
     end_date: '2030-04-18'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-19'
     end_date: '2030-04-19'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-21'
     end_date: '2030-04-21'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-09-16'
     end_date: '2030-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-11-18'
     end_date: '2030-11-18'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Change of Federal Government:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-12-01'
     end_date: '2030-12-01'
     names:
       en: Change of Federal Government
       es: Transmisión del Poder Ejecutivo Federal
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-12-25'
     end_date: '2030-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2031':
-- New Year's Day:
-    public_holiday: true
+  '2031':
+  - public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-02-03'
     end_date: '2031-02-03'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-03-17'
     end_date: '2031-03-17'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-10'
     end_date: '2031-04-10'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-11'
     end_date: '2031-04-11'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-13'
     end_date: '2031-04-13'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-09-16'
     end_date: '2031-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-11-17'
     end_date: '2031-11-17'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-12-25'
     end_date: '2031-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2032':
-- New Year's Day:
-    public_holiday: true
+  '2032':
+  - public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-02-02'
     end_date: '2032-02-02'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-03-15'
     end_date: '2032-03-15'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-03-25'
     end_date: '2032-03-25'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-03-26'
     end_date: '2032-03-26'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-03-28'
     end_date: '2032-03-28'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-09-16'
     end_date: '2032-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-11-15'
     end_date: '2032-11-15'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-12-25'
     end_date: '2032-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2033':
-- New Year's Day:
-    public_holiday: true
+  '2033':
+  - public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-02-07'
     end_date: '2033-02-07'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-03-21'
     end_date: '2033-03-21'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-14'
     end_date: '2033-04-14'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-15'
     end_date: '2033-04-15'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-17'
     end_date: '2033-04-17'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-09-16'
     end_date: '2033-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-11-21'
     end_date: '2033-11-21'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-12-25'
     end_date: '2033-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2034':
-- New Year's Day:
-    public_holiday: true
+  '2034':
+  - public_holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-02-06'
     end_date: '2034-02-06'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-03-20'
     end_date: '2034-03-20'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-06'
     end_date: '2034-04-06'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-07'
     end_date: '2034-04-07'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-09'
     end_date: '2034-04-09'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-09-16'
     end_date: '2034-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-11-20'
     end_date: '2034-11-20'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-12-25'
     end_date: '2034-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2035':
-- New Year's Day:
-    public_holiday: true
+  '2035':
+  - public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-02-05'
     end_date: '2035-02-05'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-03-19'
     end_date: '2035-03-19'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-03-22'
     end_date: '2035-03-22'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-03-23'
     end_date: '2035-03-23'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-03-25'
     end_date: '2035-03-25'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-09-16'
     end_date: '2035-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-11-19'
     end_date: '2035-11-19'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-12-25'
     end_date: '2035-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2036':
-- New Year's Day:
-    public_holiday: true
+  '2036':
+  - public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-02-04'
     end_date: '2036-02-04'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-03-17'
     end_date: '2036-03-17'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-10'
     end_date: '2036-04-10'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-11'
     end_date: '2036-04-11'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-13'
     end_date: '2036-04-13'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-09-16'
     end_date: '2036-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-11-17'
     end_date: '2036-11-17'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Change of Federal Government:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-12-01'
     end_date: '2036-12-01'
     names:
       en: Change of Federal Government
       es: Transmisión del Poder Ejecutivo Federal
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-12-25'
     end_date: '2036-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2037':
-- New Year's Day:
-    public_holiday: true
+  '2037':
+  - public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-02-02'
     end_date: '2037-02-02'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-03-16'
     end_date: '2037-03-16'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-04-02'
     end_date: '2037-04-02'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-04-03'
     end_date: '2037-04-03'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-04-05'
     end_date: '2037-04-05'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-09-16'
     end_date: '2037-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-11-16'
     end_date: '2037-11-16'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-12-25'
     end_date: '2037-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2038':
-- New Year's Day:
-    public_holiday: true
+  '2038':
+  - public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-02-01'
     end_date: '2038-02-01'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-03-15'
     end_date: '2038-03-15'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-22'
     end_date: '2038-04-22'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-23'
     end_date: '2038-04-23'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-25'
     end_date: '2038-04-25'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-09-16'
     end_date: '2038-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-11-15'
     end_date: '2038-11-15'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-12-25'
     end_date: '2038-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2039':
-- New Year's Day:
-    public_holiday: true
+  '2039':
+  - public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-02-07'
     end_date: '2039-02-07'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-03-21'
     end_date: '2039-03-21'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-07'
     end_date: '2039-04-07'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-08'
     end_date: '2039-04-08'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-10'
     end_date: '2039-04-10'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-09-16'
     end_date: '2039-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-11-21'
     end_date: '2039-11-21'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-12-25'
     end_date: '2039-12-25'
     names:
       en: Christmas Day
       es: Día de Navidad
-'2040':
-- New Year's Day:
-    public_holiday: true
+  '2040':
+  - public_holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Constitution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-02-06'
     end_date: '2040-02-06'
     names:
       en: Constitution Day
       es: Día de la Constitución Mexicana
-- Benito Juárez's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-03-19'
     end_date: '2040-03-19'
     names:
       en: Benito Juárez's Birthday
       es: Natalicio de Benito Juárez
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-03-29'
     end_date: '2040-03-29'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-03-30'
     end_date: '2040-03-30'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-04-01'
     end_date: '2040-04-01'
     names:
       en: Easter Sunday
       es: Domingo de Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-09-16'
     end_date: '2040-09-16'
     names:
       en: Independence Day
       es: Día de la Independencia
-- Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-11-19'
     end_date: '2040-11-19'
     names:
       en: Revolution Day
       es: Revolución Mexicana
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-12-25'
     end_date: '2040-12-25'
     names:

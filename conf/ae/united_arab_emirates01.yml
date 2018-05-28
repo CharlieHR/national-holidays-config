@@ -1,184 +1,159 @@
 ---
 name: United Arab Emirates (all)
-'2017':
-- New Year's Day:
-    public_holiday: true
+years:
+  '2017':
+  - public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       ar: New Year's Day
-- Leilat al-Meiraj (The Prophet's Ascension):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-24'
     end_date: '2017-04-24'
     names:
       en: Leilat al-Meiraj (The Prophet's Ascension)
       ar: Leilat al-Meiraj (The Prophet's Ascension)
-- Ramadan begins:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-25'
     end_date: '2017-05-25'
     names:
       en: Ramadan begins
       ar: Ramadan begins
-- Eid-al-Fitr (End of Ramadan):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-25'
     end_date: '2017-06-25'
     names:
       en: Eid-al-Fitr (End of Ramadan)
       ar: Eid-al-Fitr (End of Ramadan)
-- Eid-al-Fitr Holiday 1:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-27'
     end_date: '2017-06-27'
     names:
       en: Eid-al-Fitr Holiday 1
       ar: Eid-al-Fitr Holiday 1
-- Eid-al-Fitr Holiday 2:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-28'
     end_date: '2017-06-28'
     names:
       en: Eid-al-Fitr Holiday 2
       ar: Eid-al-Fitr Holiday 2
-- Arafat (Haj) Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-08-31'
     end_date: '2017-08-31'
     names:
       en: Arafat (Haj) Day
       ar: Arafat (Haj) Day
-- Eid-al-Adha (Feast of Sacrifice):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-01'
     end_date: '2017-09-01'
     names:
       en: Eid-al-Adha (Feast of Sacrifice)
       ar: Eid-al-Adha (Feast of Sacrifice)
-- Eid-al-Adha Holiday 1:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-02'
     end_date: '2017-09-02'
     names:
       en: Eid-al-Adha Holiday 1
       ar: Eid-al-Adha Holiday 1
-- Eid-al-Adha Holiday 2:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-03'
     end_date: '2017-09-03'
     names:
       en: Eid-al-Adha Holiday 2
       ar: Eid-al-Adha Holiday 2
-- Al-Hijra (Islamic New Year):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-21'
     end_date: '2017-09-21'
     names:
       en: Al-Hijra (Islamic New Year)
       ar: Al-Hijra (Islamic New Year)
-- Mouloud (The Prophet's Birthday):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-11-30'
     end_date: '2017-11-30'
     names:
       en: Mouloud (The Prophet's Birthday)
       ar: Mouloud (The Prophet's Birthday)
-- Commemoration Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-11-30'
     end_date: '2017-11-30'
     names:
       en: Commemoration Day
       ar: Commemoration Day
-- National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-02'
     end_date: '2017-12-02'
     names:
       en: National Day
       ar: National Day
-'2018':
-- New Year's Day:
-    public_holiday: true
+  '2018':
+  - public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       ar: New Year's Day
-- Ascension day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-04-13'
     end_date: '2018-04-13'
     names:
       en: Ascension day
       ar: Al Isra'a Wal Mi'raj
-- Eid Al Fitr:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-14'
     end_date: '2018-06-14'
     names:
       en: Eid Al Fitr
       ar: Eid Al Fitr
-- Eid Al Fitr:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-15'
     end_date: '2018-06-15'
     names:
       en: Eid Al Fitr
       ar: Eid Al Fitr
-- Eid Al Fitr:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-16'
     end_date: '2018-06-16'
     names:
       en: Eid Al Fitr
       ar: Eid Al Fitr
-- Arafat Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-08-20'
     end_date: '2018-08-20'
     names:
       en: Arafat Day
       ar: Arafat Day
-- Eid Al Adha:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-08-21'
     end_date: '2018-08-21'
     names:
       en: Eid Al Adha
       ar: Eid Al Adha
-- Eid Al Adha:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-08-22'
     end_date: '2018-08-22'
     names:
       en: Eid Al Adha
       ar: Eid Al Adha
-- Islamic New Year:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-09-11'
     end_date: '2018-09-11'
     names:
       en: Islamic New Year
       ar: Al Hijri
-- Prophet Mohammed's Birthday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-19'
     end_date: '2018-11-19'
     names:
       en: Prophet Mohammed's Birthday
       ar: Milad Un Nab
-- Commemoration Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-30'
     end_date: '2018-11-30'
     names:
       en: Commemoration Day
       ar: Commemoration Day
-- UAE National Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-02'
     end_date: '2018-12-02'
     names:

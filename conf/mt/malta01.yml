@@ -1,198 +1,171 @@
 ---
 name: Malta (all)
-'2017':
-- New Year's Day:
-    public_holiday: true
+years:
+  '2017':
+  - public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       mt: New Year's Day
-- Feast of Saint Paul's Shipwreck:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-02-10'
     end_date: '2017-02-10'
     names:
       en: Feast of Saint Paul's Shipwreck
       mt: Feast of Saint Paul's Shipwreck
-- Feast of Saint Joseph:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-03-19'
     end_date: '2017-03-19'
     names:
       en: Feast of Saint Joseph
       mt: Feast of Saint Joseph
-- Freedom Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-03-31'
     end_date: '2017-03-31'
     names:
       en: Freedom Day
       mt: Freedom Day
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
       mt: Good Friday
-- Labour Day/May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labour Day/May Day
       mt: Labour Day/May Day
-- Sette Giugno:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-07'
     end_date: '2017-06-07'
     names:
       en: Sette Giugno
       mt: Sette Giugno
-- Feast of Saints Peter and Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-29'
     end_date: '2017-06-29'
     names:
       en: Feast of Saints Peter and Paul
       mt: Feast of Saints Peter and Paul
-- The Feast of Mary's Assumption:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-08-15'
     end_date: '2017-08-15'
     names:
       en: The Feast of Mary's Assumption
       mt: The Feast of Mary's Assumption
-- The Feast of Our Lady of Victories:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-08'
     end_date: '2017-09-08'
     names:
       en: The Feast of Our Lady of Victories
       mt: The Feast of Our Lady of Victories
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-09-21'
     end_date: '2017-09-21'
     names:
       en: Independence Day
       mt: Independence Day
-- Feast of the Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-08'
     end_date: '2017-12-08'
     names:
       en: Feast of the Immaculate Conception
       mt: Feast of the Immaculate Conception
-- Republic Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-13'
     end_date: '2017-12-13'
     names:
       en: Republic Day
       mt: Republic Day
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
       mt: Christmas Day
-'2018':
-- New Year's Day:
-    public_holiday: true
+  '2018':
+  - public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       mt: New Year's Day
-- Feast of Saint Paul's Shipwreck:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-02-10'
     end_date: '2018-02-10'
     names:
       en: Feast of Saint Paul's Shipwreck
       mt: Feast of Saint Paul's Shipwreck
-- Feast of Saint Joseph:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-19'
     end_date: '2018-03-19'
     names:
       en: Feast of Saint Joseph
       mt: Feast of Saint Joseph
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       mt: Good Friday
-- Freedom Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-31'
     end_date: '2018-03-31'
     names:
       en: Freedom Day
       mt: Freedom Day
-- Labour Day/May Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labour Day/May Day
       mt: Labour Day/May Day
-- Sette Giugno:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-07'
     end_date: '2018-06-07'
     names:
       en: Sette Giugno
       mt: Sette Giugno
-- Feast of Saints Peter and Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-29'
     end_date: '2018-06-29'
     names:
       en: Feast of Saints Peter and Paul
       mt: Feast of Saints Peter and Paul
-- The Feast of Mary's Assumption:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-08-15'
     end_date: '2018-08-15'
     names:
       en: The Feast of Mary's Assumption
       mt: The Feast of Mary's Assumption
-- The Feast of Our Lady of Victories:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-09-08'
     end_date: '2018-09-08'
     names:
       en: The Feast of Our Lady of Victories
       mt: The Feast of Our Lady of Victories
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-09-21'
     end_date: '2018-09-21'
     names:
       en: Independence Day
       mt: Independence Day
-- Feast of the Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-08'
     end_date: '2018-12-08'
     names:
       en: Feast of the Immaculate Conception
       mt: Feast of the Immaculate Conception
-- Republic Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-13'
     end_date: '2018-12-13'
     names:
       en: Republic Day
       mt: Republic Day
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:

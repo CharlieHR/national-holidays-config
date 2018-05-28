@@ -1,3525 +1,3026 @@
 ---
 name: Colombia (all)
-'2016':
-- New Year's Day:
-    public_holiday: true
+years:
+  '2016':
+  - public_holiday: true
     start_date: '2016-01-01'
     end_date: '2016-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-01-11'
     end_date: '2016-01-11'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-03-20'
     end_date: '2016-03-20'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-03-21'
     end_date: '2016-03-21'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-03-24'
     end_date: '2016-03-24'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-03-25'
     end_date: '2016-03-25'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-03-27'
     end_date: '2016-03-27'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-01'
     end_date: '2016-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-09'
     end_date: '2016-05-09'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-05-30'
     end_date: '2016-05-30'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-06-06'
     end_date: '2016-06-06'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-07-04'
     end_date: '2016-07-04'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-07-20'
     end_date: '2016-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-08-07'
     end_date: '2016-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-08-15'
     end_date: '2016-08-15'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-10-17'
     end_date: '2016-10-17'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-11-07'
     end_date: '2016-11-07'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-11-14'
     end_date: '2016-11-14'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-12-08'
     end_date: '2016-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2016-12-25'
     end_date: '2016-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2017':
-- New Year's Day:
-    public_holiday: true
+  '2017':
+  - public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-01-09'
     end_date: '2017-01-09'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-03-20'
     end_date: '2017-03-20'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-09'
     end_date: '2017-04-09'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-13'
     end_date: '2017-04-13'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-14'
     end_date: '2017-04-14'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-16'
     end_date: '2017-04-16'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-29'
     end_date: '2017-05-29'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-19'
     end_date: '2017-06-19'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-06-26'
     end_date: '2017-06-26'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-07-03'
     end_date: '2017-07-03'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-07-20'
     end_date: '2017-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-08-07'
     end_date: '2017-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-08-21'
     end_date: '2017-08-21'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-10-16'
     end_date: '2017-10-16'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-11-06'
     end_date: '2017-11-06'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-11-13'
     end_date: '2017-11-13'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-08'
     end_date: '2017-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2018':
-- New Year's Day:
-    public_holiday: true
+  '2018':
+  - public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-01-08'
     end_date: '2018-01-08'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-19'
     end_date: '2018-03-19'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-25'
     end_date: '2018-03-25'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-29'
     end_date: '2018-03-29'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-30'
     end_date: '2018-03-30'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-04-01'
     end_date: '2018-04-01'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-14'
     end_date: '2018-05-14'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-04'
     end_date: '2018-06-04'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-06-11'
     end_date: '2018-06-11'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-07-02'
     end_date: '2018-07-02'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-07-20'
     end_date: '2018-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-08-07'
     end_date: '2018-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-08-20'
     end_date: '2018-08-20'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-10-15'
     end_date: '2018-10-15'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-05'
     end_date: '2018-11-05'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-12'
     end_date: '2018-11-12'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-08'
     end_date: '2018-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2019':
-- New Year's Day:
-    public_holiday: true
+  '2019':
+  - public_holiday: true
     start_date: '2019-01-01'
     end_date: '2019-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-01-07'
     end_date: '2019-01-07'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-03-25'
     end_date: '2019-03-25'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-14'
     end_date: '2019-04-14'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-18'
     end_date: '2019-04-18'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-19'
     end_date: '2019-04-19'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-04-21'
     end_date: '2019-04-21'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-06-03'
     end_date: '2019-06-03'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-06-24'
     end_date: '2019-06-24'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-07-01'
     end_date: '2019-07-01'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-07-01'
     end_date: '2019-07-01'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-07-20'
     end_date: '2019-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-08-07'
     end_date: '2019-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-08-19'
     end_date: '2019-08-19'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-10-14'
     end_date: '2019-10-14'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-11-04'
     end_date: '2019-11-04'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-11-11'
     end_date: '2019-11-11'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-12-08'
     end_date: '2019-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2019-12-25'
     end_date: '2019-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2020':
-- New Year's Day:
-    public_holiday: true
+  '2020':
+  - public_holiday: true
     start_date: '2020-01-01'
     end_date: '2020-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-01-06'
     end_date: '2020-01-06'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-03-23'
     end_date: '2020-03-23'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-05'
     end_date: '2020-04-05'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-09'
     end_date: '2020-04-09'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-10'
     end_date: '2020-04-10'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-04-12'
     end_date: '2020-04-12'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-05-01'
     end_date: '2020-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-05-25'
     end_date: '2020-05-25'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-06-15'
     end_date: '2020-06-15'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-06-22'
     end_date: '2020-06-22'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-06-29'
     end_date: '2020-06-29'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-07-20'
     end_date: '2020-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-08-07'
     end_date: '2020-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-08-17'
     end_date: '2020-08-17'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-10-12'
     end_date: '2020-10-12'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-11-02'
     end_date: '2020-11-02'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-11-16'
     end_date: '2020-11-16'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-12-08'
     end_date: '2020-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2020-12-25'
     end_date: '2020-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2021':
-- New Year's Day:
-    public_holiday: true
+  '2021':
+  - public_holiday: true
     start_date: '2021-01-01'
     end_date: '2021-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-01-11'
     end_date: '2021-01-11'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-03-22'
     end_date: '2021-03-22'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-03-28'
     end_date: '2021-03-28'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-04-01'
     end_date: '2021-04-01'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-04-02'
     end_date: '2021-04-02'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-04-04'
     end_date: '2021-04-04'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-01'
     end_date: '2021-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-05-17'
     end_date: '2021-05-17'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-06-07'
     end_date: '2021-06-07'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-06-14'
     end_date: '2021-06-14'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-07-05'
     end_date: '2021-07-05'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-07-20'
     end_date: '2021-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-08-07'
     end_date: '2021-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-08-16'
     end_date: '2021-08-16'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-10-18'
     end_date: '2021-10-18'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-11-01'
     end_date: '2021-11-01'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-11-15'
     end_date: '2021-11-15'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-12-08'
     end_date: '2021-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2021-12-25'
     end_date: '2021-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2022':
-- New Year's Day:
-    public_holiday: true
+  '2022':
+  - public_holiday: true
     start_date: '2022-01-01'
     end_date: '2022-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-01-10'
     end_date: '2022-01-10'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-03-21'
     end_date: '2022-03-21'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-10'
     end_date: '2022-04-10'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-14'
     end_date: '2022-04-14'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-15'
     end_date: '2022-04-15'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-04-17'
     end_date: '2022-04-17'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-05-01'
     end_date: '2022-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-05-30'
     end_date: '2022-05-30'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-06-20'
     end_date: '2022-06-20'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-06-27'
     end_date: '2022-06-27'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-07-04'
     end_date: '2022-07-04'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-07-20'
     end_date: '2022-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-08-07'
     end_date: '2022-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-08-15'
     end_date: '2022-08-15'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-10-17'
     end_date: '2022-10-17'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-11-07'
     end_date: '2022-11-07'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-11-14'
     end_date: '2022-11-14'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-12-08'
     end_date: '2022-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2022-12-25'
     end_date: '2022-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2023':
-- New Year's Day:
-    public_holiday: true
+  '2023':
+  - public_holiday: true
     start_date: '2023-01-01'
     end_date: '2023-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-01-09'
     end_date: '2023-01-09'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-03-20'
     end_date: '2023-03-20'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-02'
     end_date: '2023-04-02'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-06'
     end_date: '2023-04-06'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-07'
     end_date: '2023-04-07'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-04-09'
     end_date: '2023-04-09'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-05-01'
     end_date: '2023-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-05-22'
     end_date: '2023-05-22'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-06-12'
     end_date: '2023-06-12'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-06-19'
     end_date: '2023-06-19'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-07-03'
     end_date: '2023-07-03'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-07-20'
     end_date: '2023-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-08-07'
     end_date: '2023-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-08-21'
     end_date: '2023-08-21'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-10-16'
     end_date: '2023-10-16'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-11-06'
     end_date: '2023-11-06'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-11-13'
     end_date: '2023-11-13'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-12-08'
     end_date: '2023-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2023-12-25'
     end_date: '2023-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2024':
-- New Year's Day:
-    public_holiday: true
+  '2024':
+  - public_holiday: true
     start_date: '2024-01-01'
     end_date: '2024-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-01-08'
     end_date: '2024-01-08'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-03-24'
     end_date: '2024-03-24'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-03-25'
     end_date: '2024-03-25'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-03-28'
     end_date: '2024-03-28'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-03-29'
     end_date: '2024-03-29'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-03-31'
     end_date: '2024-03-31'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-05-13'
     end_date: '2024-05-13'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-06-03'
     end_date: '2024-06-03'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-06-10'
     end_date: '2024-06-10'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-07-01'
     end_date: '2024-07-01'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-07-20'
     end_date: '2024-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-08-07'
     end_date: '2024-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-08-19'
     end_date: '2024-08-19'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-10-14'
     end_date: '2024-10-14'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-11-04'
     end_date: '2024-11-04'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-11-11'
     end_date: '2024-11-11'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-12-08'
     end_date: '2024-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2024-12-25'
     end_date: '2024-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2025':
-- New Year's Day:
-    public_holiday: true
+  '2025':
+  - public_holiday: true
     start_date: '2025-01-01'
     end_date: '2025-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-01-06'
     end_date: '2025-01-06'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-03-24'
     end_date: '2025-03-24'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-13'
     end_date: '2025-04-13'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-17'
     end_date: '2025-04-17'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-18'
     end_date: '2025-04-18'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-04-20'
     end_date: '2025-04-20'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-05-01'
     end_date: '2025-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-06-02'
     end_date: '2025-06-02'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-06-23'
     end_date: '2025-06-23'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-06-30'
     end_date: '2025-06-30'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-06-30'
     end_date: '2025-06-30'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-07-20'
     end_date: '2025-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-08-07'
     end_date: '2025-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-08-18'
     end_date: '2025-08-18'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-10-13'
     end_date: '2025-10-13'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-11-03'
     end_date: '2025-11-03'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-11-17'
     end_date: '2025-11-17'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-12-08'
     end_date: '2025-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2025-12-25'
     end_date: '2025-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2026':
-- New Year's Day:
-    public_holiday: true
+  '2026':
+  - public_holiday: true
     start_date: '2026-01-01'
     end_date: '2026-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-01-12'
     end_date: '2026-01-12'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-03-23'
     end_date: '2026-03-23'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-03-29'
     end_date: '2026-03-29'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-04-02'
     end_date: '2026-04-02'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-04-03'
     end_date: '2026-04-03'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-04-05'
     end_date: '2026-04-05'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-05-18'
     end_date: '2026-05-18'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-06-08'
     end_date: '2026-06-08'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-06-15'
     end_date: '2026-06-15'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-06-29'
     end_date: '2026-06-29'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-07-20'
     end_date: '2026-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-08-07'
     end_date: '2026-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-08-17'
     end_date: '2026-08-17'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-10-12'
     end_date: '2026-10-12'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-11-02'
     end_date: '2026-11-02'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-11-16'
     end_date: '2026-11-16'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-12-08'
     end_date: '2026-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2026-12-25'
     end_date: '2026-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2027':
-- New Year's Day:
-    public_holiday: true
+  '2027':
+  - public_holiday: true
     start_date: '2027-01-01'
     end_date: '2027-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-01-11'
     end_date: '2027-01-11'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-03-21'
     end_date: '2027-03-21'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-03-22'
     end_date: '2027-03-22'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-03-25'
     end_date: '2027-03-25'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-03-26'
     end_date: '2027-03-26'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-03-28'
     end_date: '2027-03-28'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-01'
     end_date: '2027-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-10'
     end_date: '2027-05-10'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-05-31'
     end_date: '2027-05-31'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-06-07'
     end_date: '2027-06-07'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-07-05'
     end_date: '2027-07-05'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-07-20'
     end_date: '2027-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-08-07'
     end_date: '2027-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-08-16'
     end_date: '2027-08-16'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-10-18'
     end_date: '2027-10-18'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-11-01'
     end_date: '2027-11-01'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-11-15'
     end_date: '2027-11-15'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-12-08'
     end_date: '2027-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2027-12-25'
     end_date: '2027-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2028':
-- New Year's Day:
-    public_holiday: true
+  '2028':
+  - public_holiday: true
     start_date: '2028-01-01'
     end_date: '2028-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-01-10'
     end_date: '2028-01-10'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-03-20'
     end_date: '2028-03-20'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-09'
     end_date: '2028-04-09'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-13'
     end_date: '2028-04-13'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-14'
     end_date: '2028-04-14'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-04-16'
     end_date: '2028-04-16'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-05-29'
     end_date: '2028-05-29'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-06-19'
     end_date: '2028-06-19'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-06-26'
     end_date: '2028-06-26'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-07-03'
     end_date: '2028-07-03'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-07-20'
     end_date: '2028-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-08-07'
     end_date: '2028-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-08-21'
     end_date: '2028-08-21'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-10-16'
     end_date: '2028-10-16'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-11-06'
     end_date: '2028-11-06'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-11-13'
     end_date: '2028-11-13'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-12-08'
     end_date: '2028-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2028-12-25'
     end_date: '2028-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2029':
-- New Year's Day:
-    public_holiday: true
+  '2029':
+  - public_holiday: true
     start_date: '2029-01-01'
     end_date: '2029-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-01-08'
     end_date: '2029-01-08'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-03-19'
     end_date: '2029-03-19'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-03-25'
     end_date: '2029-03-25'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-03-29'
     end_date: '2029-03-29'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-03-30'
     end_date: '2029-03-30'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-04-01'
     end_date: '2029-04-01'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-05-01'
     end_date: '2029-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-05-14'
     end_date: '2029-05-14'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-06-04'
     end_date: '2029-06-04'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-06-11'
     end_date: '2029-06-11'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-07-02'
     end_date: '2029-07-02'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-07-20'
     end_date: '2029-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-08-07'
     end_date: '2029-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-08-20'
     end_date: '2029-08-20'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-10-15'
     end_date: '2029-10-15'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-11-05'
     end_date: '2029-11-05'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-11-12'
     end_date: '2029-11-12'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-12-08'
     end_date: '2029-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2029-12-25'
     end_date: '2029-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2030':
-- New Year's Day:
-    public_holiday: true
+  '2030':
+  - public_holiday: true
     start_date: '2030-01-01'
     end_date: '2030-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-01-07'
     end_date: '2030-01-07'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-03-25'
     end_date: '2030-03-25'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-14'
     end_date: '2030-04-14'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-18'
     end_date: '2030-04-18'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-19'
     end_date: '2030-04-19'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-04-21'
     end_date: '2030-04-21'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-06-03'
     end_date: '2030-06-03'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-06-24'
     end_date: '2030-06-24'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-07-01'
     end_date: '2030-07-01'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-07-01'
     end_date: '2030-07-01'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-07-20'
     end_date: '2030-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-08-07'
     end_date: '2030-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-08-19'
     end_date: '2030-08-19'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-10-14'
     end_date: '2030-10-14'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-11-04'
     end_date: '2030-11-04'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-11-11'
     end_date: '2030-11-11'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-12-08'
     end_date: '2030-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2030-12-25'
     end_date: '2030-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2031':
-- New Year's Day:
-    public_holiday: true
+  '2031':
+  - public_holiday: true
     start_date: '2031-01-01'
     end_date: '2031-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-01-06'
     end_date: '2031-01-06'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-03-24'
     end_date: '2031-03-24'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-06'
     end_date: '2031-04-06'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-10'
     end_date: '2031-04-10'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-11'
     end_date: '2031-04-11'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-04-13'
     end_date: '2031-04-13'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-05-01'
     end_date: '2031-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-05-26'
     end_date: '2031-05-26'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-06-16'
     end_date: '2031-06-16'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-06-23'
     end_date: '2031-06-23'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-06-30'
     end_date: '2031-06-30'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-07-20'
     end_date: '2031-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-08-07'
     end_date: '2031-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-08-18'
     end_date: '2031-08-18'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-10-13'
     end_date: '2031-10-13'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-11-03'
     end_date: '2031-11-03'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-11-17'
     end_date: '2031-11-17'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-12-08'
     end_date: '2031-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2031-12-25'
     end_date: '2031-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2032':
-- New Year's Day:
-    public_holiday: true
+  '2032':
+  - public_holiday: true
     start_date: '2032-01-01'
     end_date: '2032-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-01-12'
     end_date: '2032-01-12'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-03-21'
     end_date: '2032-03-21'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-03-22'
     end_date: '2032-03-22'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-03-25'
     end_date: '2032-03-25'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-03-26'
     end_date: '2032-03-26'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-03-28'
     end_date: '2032-03-28'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-01'
     end_date: '2032-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-10'
     end_date: '2032-05-10'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-05-31'
     end_date: '2032-05-31'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-06-07'
     end_date: '2032-06-07'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-07-05'
     end_date: '2032-07-05'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-07-20'
     end_date: '2032-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-08-07'
     end_date: '2032-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-08-16'
     end_date: '2032-08-16'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-10-18'
     end_date: '2032-10-18'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-11-01'
     end_date: '2032-11-01'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-11-15'
     end_date: '2032-11-15'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-12-08'
     end_date: '2032-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2032-12-25'
     end_date: '2032-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2033':
-- New Year's Day:
-    public_holiday: true
+  '2033':
+  - public_holiday: true
     start_date: '2033-01-01'
     end_date: '2033-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-01-10'
     end_date: '2033-01-10'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-03-21'
     end_date: '2033-03-21'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-10'
     end_date: '2033-04-10'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-14'
     end_date: '2033-04-14'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-15'
     end_date: '2033-04-15'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-04-17'
     end_date: '2033-04-17'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-05-01'
     end_date: '2033-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-05-30'
     end_date: '2033-05-30'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-06-20'
     end_date: '2033-06-20'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-06-27'
     end_date: '2033-06-27'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-07-04'
     end_date: '2033-07-04'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-07-20'
     end_date: '2033-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-08-07'
     end_date: '2033-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-08-15'
     end_date: '2033-08-15'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-10-17'
     end_date: '2033-10-17'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-11-07'
     end_date: '2033-11-07'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-11-14'
     end_date: '2033-11-14'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-12-08'
     end_date: '2033-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2033-12-25'
     end_date: '2033-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2034':
-- New Year's Day:
-    public_holiday: true
+  '2034':
+  - public_holiday: true
     start_date: '2034-01-01'
     end_date: '2034-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-01-09'
     end_date: '2034-01-09'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-03-20'
     end_date: '2034-03-20'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-02'
     end_date: '2034-04-02'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-06'
     end_date: '2034-04-06'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-07'
     end_date: '2034-04-07'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-04-09'
     end_date: '2034-04-09'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-05-22'
     end_date: '2034-05-22'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-06-12'
     end_date: '2034-06-12'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-06-19'
     end_date: '2034-06-19'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-07-03'
     end_date: '2034-07-03'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-07-20'
     end_date: '2034-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-08-07'
     end_date: '2034-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-08-21'
     end_date: '2034-08-21'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-10-16'
     end_date: '2034-10-16'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-11-06'
     end_date: '2034-11-06'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-11-13'
     end_date: '2034-11-13'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-12-08'
     end_date: '2034-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2034-12-25'
     end_date: '2034-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2035':
-- New Year's Day:
-    public_holiday: true
+  '2035':
+  - public_holiday: true
     start_date: '2035-01-01'
     end_date: '2035-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-01-08'
     end_date: '2035-01-08'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-03-18'
     end_date: '2035-03-18'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-03-19'
     end_date: '2035-03-19'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-03-22'
     end_date: '2035-03-22'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-03-23'
     end_date: '2035-03-23'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-03-25'
     end_date: '2035-03-25'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-05-01'
     end_date: '2035-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-05-07'
     end_date: '2035-05-07'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-05-28'
     end_date: '2035-05-28'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-06-04'
     end_date: '2035-06-04'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-07-02'
     end_date: '2035-07-02'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-07-20'
     end_date: '2035-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-08-07'
     end_date: '2035-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-08-20'
     end_date: '2035-08-20'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-10-15'
     end_date: '2035-10-15'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-11-05'
     end_date: '2035-11-05'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-11-12'
     end_date: '2035-11-12'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-12-08'
     end_date: '2035-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2035-12-25'
     end_date: '2035-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2036':
-- New Year's Day:
-    public_holiday: true
+  '2036':
+  - public_holiday: true
     start_date: '2036-01-01'
     end_date: '2036-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-01-07'
     end_date: '2036-01-07'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-03-24'
     end_date: '2036-03-24'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-06'
     end_date: '2036-04-06'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-10'
     end_date: '2036-04-10'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-11'
     end_date: '2036-04-11'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-04-13'
     end_date: '2036-04-13'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-05-26'
     end_date: '2036-05-26'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-06-16'
     end_date: '2036-06-16'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-06-23'
     end_date: '2036-06-23'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-06-30'
     end_date: '2036-06-30'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-07-20'
     end_date: '2036-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-08-07'
     end_date: '2036-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-08-18'
     end_date: '2036-08-18'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-10-13'
     end_date: '2036-10-13'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-11-03'
     end_date: '2036-11-03'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-11-17'
     end_date: '2036-11-17'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-12-08'
     end_date: '2036-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2036-12-25'
     end_date: '2036-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2037':
-- New Year's Day:
-    public_holiday: true
+  '2037':
+  - public_holiday: true
     start_date: '2037-01-01'
     end_date: '2037-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-01-12'
     end_date: '2037-01-12'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-03-23'
     end_date: '2037-03-23'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-03-29'
     end_date: '2037-03-29'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-04-02'
     end_date: '2037-04-02'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-04-03'
     end_date: '2037-04-03'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-04-05'
     end_date: '2037-04-05'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-05-01'
     end_date: '2037-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-05-18'
     end_date: '2037-05-18'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-06-08'
     end_date: '2037-06-08'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-06-15'
     end_date: '2037-06-15'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-06-29'
     end_date: '2037-06-29'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-07-20'
     end_date: '2037-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-08-07'
     end_date: '2037-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-08-17'
     end_date: '2037-08-17'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-10-12'
     end_date: '2037-10-12'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-11-02'
     end_date: '2037-11-02'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-11-16'
     end_date: '2037-11-16'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-12-08'
     end_date: '2037-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2037-12-25'
     end_date: '2037-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2038':
-- New Year's Day:
-    public_holiday: true
+  '2038':
+  - public_holiday: true
     start_date: '2038-01-01'
     end_date: '2038-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-01-11'
     end_date: '2038-01-11'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-03-22'
     end_date: '2038-03-22'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-18'
     end_date: '2038-04-18'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-22'
     end_date: '2038-04-22'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-23'
     end_date: '2038-04-23'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-04-25'
     end_date: '2038-04-25'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-05-01'
     end_date: '2038-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-06-07'
     end_date: '2038-06-07'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-06-28'
     end_date: '2038-06-28'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-07-05'
     end_date: '2038-07-05'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-07-05'
     end_date: '2038-07-05'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-07-20'
     end_date: '2038-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-08-07'
     end_date: '2038-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-08-16'
     end_date: '2038-08-16'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-10-18'
     end_date: '2038-10-18'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-11-01'
     end_date: '2038-11-01'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-11-15'
     end_date: '2038-11-15'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-12-08'
     end_date: '2038-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2038-12-25'
     end_date: '2038-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2039':
-- New Year's Day:
-    public_holiday: true
+  '2039':
+  - public_holiday: true
     start_date: '2039-01-01'
     end_date: '2039-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-01-10'
     end_date: '2039-01-10'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-03-21'
     end_date: '2039-03-21'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-03'
     end_date: '2039-04-03'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-07'
     end_date: '2039-04-07'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-08'
     end_date: '2039-04-08'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-04-10'
     end_date: '2039-04-10'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-05-01'
     end_date: '2039-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-05-23'
     end_date: '2039-05-23'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-06-13'
     end_date: '2039-06-13'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-06-20'
     end_date: '2039-06-20'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-07-04'
     end_date: '2039-07-04'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-07-20'
     end_date: '2039-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-08-07'
     end_date: '2039-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-08-15'
     end_date: '2039-08-15'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-10-17'
     end_date: '2039-10-17'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-11-07'
     end_date: '2039-11-07'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-11-14'
     end_date: '2039-11-14'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-12-08'
     end_date: '2039-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2039-12-25'
     end_date: '2039-12-25'
     names:
       en: Christmas Day
       es: Navidad
-'2040':
-- New Year's Day:
-    public_holiday: true
+  '2040':
+  - public_holiday: true
     start_date: '2040-01-01'
     end_date: '2040-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
-- Epiphany:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-01-09'
     end_date: '2040-01-09'
     names:
       en: Epiphany
       es: Día de los Reyes Magos
-- Saint Joseph's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-03-19'
     end_date: '2040-03-19'
     names:
       en: Saint Joseph's Day
       es: Día de San José
-- Palm Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-03-25'
     end_date: '2040-03-25'
     names:
       en: Palm Sunday
       es: Domingo de Ramos
-- Maundy Thursday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-03-29'
     end_date: '2040-03-29'
     names:
       en: Maundy Thursday
       es: Jueves Santo
-- Good Friday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-03-30'
     end_date: '2040-03-30'
     names:
       en: Good Friday
       es: Viernes Santo
-- Easter Sunday:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-04-01'
     end_date: '2040-04-01'
     names:
       en: Easter Sunday
       es: Domingo de Pascuas o Resurrección
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
     names:
       en: Labor Day
       es: Día del Trabajo
-- Ascension of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-05-14'
     end_date: '2040-05-14'
     names:
       en: Ascension of Jesus
       es: Día de la Ascensión
-- Corpus Christi:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-06-04'
     end_date: '2040-06-04'
     names:
       en: Corpus Christi
       es: Corpus Christi
-- The Sacred Heart of Jesus:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-06-11'
     end_date: '2040-06-11'
     names:
       en: The Sacred Heart of Jesus
       es: Sagrado Corazón de Jesús
-- Saint Peter and Saint Paul:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-07-02'
     end_date: '2040-07-02'
     names:
       en: Saint Peter and Saint Paul
       es: San Pedro y San Pablo
-- Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-07-20'
     end_date: '2040-07-20'
     names:
       en: Independence Day
       es: Declaracion de la Independencia de Colombia
-- Battle of Boyacá:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-08-07'
     end_date: '2040-08-07'
     names:
       en: Battle of Boyacá
       es: Batalla de Boyacá
-- The Assumption of Mary:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-08-20'
     end_date: '2040-08-20'
     names:
       en: The Assumption of Mary
       es: Asunción de la Virgen
-- Columbus Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-10-15'
     end_date: '2040-10-15'
     names:
       en: Columbus Day
       es: Día de la Raza
-- All Saints’ Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-11-05'
     end_date: '2040-11-05'
     names:
       en: All Saints’ Day
       es: Día de todos los Santos
-- Cartagena Independence Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-11-12'
     end_date: '2040-11-12'
     names:
       en: Cartagena Independence Day
       es: Independencia de Cartagena
-- The Immaculate Conception:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-12-08'
     end_date: '2040-12-08'
     names:
       en: The Immaculate Conception
       es: Día de la Inmaculada Concepción
-- Christmas Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2040-12-25'
     end_date: '2040-12-25'
     names:

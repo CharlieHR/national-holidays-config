@@ -1,128 +1,111 @@
 ---
 name: Belarus
-'2017':
-- New Year's Day:
-    public_holiday: true
+years:
+  '2017':
+  - public_holiday: true
     start_date: '2017-01-01'
     end_date: '2017-01-01'
     names:
       en: New Year's Day
       be: New Year's Day
-- Christmas (Orthodox):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-01-07'
     end_date: '2017-01-07'
     names:
       en: Christmas (Orthodox)
       be: Christmas (Orthodox)
-- Women's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-03-08'
     end_date: '2017-03-08'
     names:
       en: Women's Day
       be: Women's Day
-- Radonitsa:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-04-25'
     end_date: '2017-04-25'
     names:
       en: Radonitsa
       be: Radonitsa
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-01'
     end_date: '2017-05-01'
     names:
       en: Labor Day
       be: Labor Day
-- Victory Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-05-09'
     end_date: '2017-05-09'
     names:
       en: Victory Day
       be: Victory Day
-- Independence Day of the Republic of Belarus (Republic Day):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-07-03'
     end_date: '2017-07-03'
     names:
       en: Independence Day of the Republic of Belarus (Republic Day)
       be: Independence Day of the Republic of Belarus (Republic Day)
-- October Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-11-07'
     end_date: '2017-11-07'
     names:
       en: October Revolution Day
       be: October Revolution Day
-- Christmas (Catholic):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2017-12-25'
     end_date: '2017-12-25'
     names:
       en: Christmas (Catholic)
       be: Christmas (Catholic)
-'2018':
-- New Year's Day:
-    public_holiday: true
+  '2018':
+  - public_holiday: true
     start_date: '2018-01-01'
     end_date: '2018-01-01'
     names:
       en: New Year's Day
       be: New Year's Day
-- Christmas (Orthodox):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-01-07'
     end_date: '2018-01-07'
     names:
       en: Christmas (Orthodox)
       be: Christmas (Orthodox)
-- Women's Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-03-08'
     end_date: '2018-03-08'
     names:
       en: Women's Day
       be: Women's Day
-- Radonitsa:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-04-17'
     end_date: '2018-04-17'
     names:
       en: Radonitsa
       be: Radonitsa
-- Labor Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-01'
     end_date: '2018-05-01'
     names:
       en: Labor Day
       be: Labor Day
-- Victory Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-05-09'
     end_date: '2018-05-09'
     names:
       en: Victory Day
       be: Victory Day
-- Independence Day of the Republic of Belarus (Republic Day):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-07-03'
     end_date: '2018-07-03'
     names:
       en: Independence Day of the Republic of Belarus (Republic Day)
       be: Independence Day of the Republic of Belarus (Republic Day)
-- October Revolution Day:
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-11-07'
     end_date: '2018-11-07'
     names:
       en: October Revolution Day
       be: October Revolution Day
-- Christmas (Catholic):
-    public_holiday: true
+  - public_holiday: true
     start_date: '2018-12-25'
     end_date: '2018-12-25'
     names:
