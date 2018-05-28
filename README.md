@@ -26,7 +26,7 @@ This repository ships with a test suite written in Ruby using MiniTest. To run t
 
     $ gem install bundler
     $ bundle install
-    $ ruby -Ilib:test test/minitest/test_minitest_test.rb
+    $ bundle exec rake test
 
 ## Coverage
 
