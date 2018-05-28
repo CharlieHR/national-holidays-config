@@ -18,7 +18,7 @@ Countries are given as ISO 3166-1 alpha-2 country codes, for example `gb`.
 
 Regions can be given any meaningful name in ASCII, for example `united_kingdom01`.
 
-Languages are given as ISO 639-1 codes, eg. `en-gb`.
+Languages are given as ISO 639-1 codes, eg. `en`.
 
 ## Tests
 
