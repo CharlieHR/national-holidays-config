@@ -30,6 +30,8 @@ This repository ships with a test suite written in Ruby using MiniTest. To run t
 
 ## Coverage
 
+View the current coverage in [docs/coverage.md](docs/coverage.md).
+
 The repository started out with the configuration from [neosepulveda/national_holidays](https://github.com/neosepulveda/national_holidays) which has 71 countries' public holidays stored inside Ruby code.
 
 ## How to contribute
