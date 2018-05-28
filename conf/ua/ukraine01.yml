@@ -340,13 +340,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2018-05-02'
-    end_date: '2018-05-02'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2018-05-09'
@@ -429,13 +422,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2019-05-01'
     end_date: '2019-05-01'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2019-05-02'
-    end_date: '2019-05-02'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
@@ -524,13 +510,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2020-05-04'
-    end_date: '2020-05-04'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2020-05-11'
@@ -613,13 +592,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2021-05-03'
     end_date: '2021-05-03'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2021-05-04'
-    end_date: '2021-05-04'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
@@ -708,13 +680,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2022-05-03'
-    end_date: '2022-05-03'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2022-05-09'
@@ -800,13 +765,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2023-05-02'
-    end_date: '2023-05-02'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2023-05-09'
@@ -875,13 +833,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2024-05-01'
     end_date: '2024-05-01'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2024-05-02'
-    end_date: '2024-05-02'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
@@ -984,13 +935,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2025-05-02'
-    end_date: '2025-05-02'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2025-05-09'
@@ -1073,13 +1017,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2026-05-01'
     end_date: '2026-05-01'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2026-05-04'
-    end_date: '2026-05-04'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
@@ -1168,13 +1105,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2027-05-04'
-    end_date: '2027-05-04'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2027-05-10'
@@ -1257,13 +1187,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2028-05-01'
     end_date: '2028-05-01'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2028-05-02'
-    end_date: '2028-05-02'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
@@ -1352,13 +1275,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2029-05-02'
-    end_date: '2029-05-02'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2029-05-09'
@@ -1441,13 +1357,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2030-05-01'
     end_date: '2030-05-01'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2030-05-02'
-    end_date: '2030-05-02'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
@@ -1536,13 +1445,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2031-05-02'
-    end_date: '2031-05-02'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2031-05-09'
@@ -1625,13 +1527,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2032-05-03'
     end_date: '2032-05-03'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2032-05-04'
-    end_date: '2032-05-04'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
@@ -1720,13 +1615,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2033-05-03'
-    end_date: '2033-05-03'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2033-05-09'
@@ -1809,13 +1697,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2034-05-01'
     end_date: '2034-05-01'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2034-05-02'
-    end_date: '2034-05-02'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
@@ -1904,13 +1785,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2035-05-02'
-    end_date: '2035-05-02'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2035-05-09'
@@ -1993,13 +1867,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2036-05-01'
     end_date: '2036-05-01'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2036-05-02'
-    end_date: '2036-05-02'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
@@ -2088,13 +1955,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2037-05-04'
-    end_date: '2037-05-04'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2037-05-11'
@@ -2177,13 +2037,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2038-05-03'
     end_date: '2038-05-03'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2038-05-04'
-    end_date: '2038-05-04'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
@@ -2272,13 +2125,6 @@ name: Ukraine (all)
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2039-05-03'
-    end_date: '2039-05-03'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
 - Victory Day:
     public_holiday: true
     start_date: '2039-05-09'
@@ -2347,13 +2193,6 @@ name: Ukraine (all)
     public_holiday: true
     start_date: '2040-05-01'
     end_date: '2040-05-01'
-    names:
-      en: Labor Day
-      uk: День праці (День міжнародної солідарності трудящих)
-- Labor Day:
-    public_holiday: true
-    start_date: '2040-05-02'
-    end_date: '2040-05-02'
     names:
       en: Labor Day
       uk: День праці (День міжнародної солідарності трудящих)
