@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 require 'national_holidays'
 require 'countries'
@@ -12,7 +13,7 @@ Dir.chdir config_directory do
     country_config = holidays.country(country_name)
 
     country_name = 'united arab emirates' if country_name == 'dubai'
-    country_name.gsub!(/_/, ' ')
+    country_name.tr!('_', ' ')
     country = ISO3166::Country.find_country_by_name(country_name)
     country_code = country.alpha2.downcase
     local_language_code = country.languages.first
@@ -23,7 +24,7 @@ Dir.chdir config_directory do
       country_config.regions.each do |region_config|
         config = {
           'name' => region_config.region_name,
-          'years' => {},
+          'years' => {}
         }
 
         region_config.regional_national_holidays.each do |national_holiday|

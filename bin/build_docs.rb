@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
 
 require 'yaml'
 require 'countries'
@@ -25,7 +26,7 @@ class CoverageDoc
 
   def header
     [].tap do |header|
-      header << "# Coverage"
+      header << '# Coverage'
       header << "Last updated #{Date.today}."
     end.join("\n\n")
   end
@@ -35,8 +36,24 @@ class CoverageDoc
   end
 
   def table
+    table_data.map { |a| "| #{a.join(' | ')} |" }.join("\n")
+  end
+
+  def table_header
+    [
+      'Flag',
+      'Country',
+      'Region',
+      'Latest Public Holidays Year',
+      'Known Public Holidays',
+      'Latest Non-public Holidays Year',
+      'Known Non-public Holidays'
+    ]
+  end
+
+  def table_data
     [].tap do |table|
-      table << ['Flag', 'Country', 'Region', 'Latest Public Holidays Year', 'Known Public Holidays', 'Latest Non-public Holidays Year', 'Known Non-public Holidays']
+      table << table_header
 
       table << table.first.map { |s| s.gsub(/./, '-') }
 
@@ -47,28 +64,28 @@ class CoverageDoc
           end
         end
       end
-    end.map { |a| "| #{a.join(' | ')} |" }.join("\n")
+    end
   end
 
   def country_rows(country)
     @total_countries += 1
     alpha2 = country.alpha2.downcase
 
-    if Dir.exists?(alpha2)
+    if Dir.exist?(alpha2)
       @covered_countries += 1
       Dir.chdir(alpha2) do
         Dir.glob('*.yml').map do |filename|
-          region_data = YAML.load(File.read(filename))
+          region_data = YAML.safe_load(File.read(filename))
 
           region_name = region_data.fetch('name')
           region_years = region_data.fetch('years')
 
           public_holidays_latest_year = region_years.keys.select do |year|
-            region_years[year].any? { |d| d['public_holiday' ] }
+            region_years[year].any? { |d| d['public_holiday'] }
           end.map(&:to_i).compact.max&.to_s
 
           non_public_holidays_latest_year = region_years.keys.select do |year|
-            region_years[year].any? { |d| !d['public_holiday' ] }
+            region_years[year].any? { |d| !d['public_holiday'] }
           end.map(&:to_i).compact.max&.to_s
 
           [
@@ -78,7 +95,7 @@ class CoverageDoc
             public_holidays_latest_year || '-',
             public_holidays_latest_year ? region_years[public_holidays_latest_year].count : '-',
             non_public_holidays_latest_year || '-',
-            non_public_holidays_latest_year ? region_years[non_public_holidays_latest_year].count : '-',
+            non_public_holidays_latest_year ? region_years[non_public_holidays_latest_year].count : '-'
           ]
         end
       end

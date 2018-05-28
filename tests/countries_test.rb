@@ -1,7 +1,9 @@
-require "minitest/autorun"
-require "./tests/helper"
+# frozen_string_literal: true
 
-describe "Countries" do
+require 'minitest/autorun'
+require './tests/helper'
+
+describe 'Countries' do
   describe 'must not have any countries which are not ISO 3166-1' do
     Dir.chdir(TestUtils.config_directory) do
       Dir.glob('*').each do |country_name|
