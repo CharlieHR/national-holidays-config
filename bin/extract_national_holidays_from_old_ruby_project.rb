@@ -13,7 +13,7 @@ Dir.chdir config_directory do
     country_config = holidays.country(country_name)
 
     country_name = 'united arab emirates' if country_name == 'dubai'
-    country_name.tr!('_', ' ')
+    country_name = country_name.tr('_', ' ')
     country = ISO3166::Country.find_country_by_name(country_name)
     country_code = country.alpha2.downcase
     local_language_code = country.languages.first
