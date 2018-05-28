@@ -41,7 +41,7 @@ class CoverageDoc
       table << table.first.map { |s| s.gsub(/./, '-') }
 
       Dir.chdir(config_directory) do
-        ISO3166::Country.all.map do |country|
+        ISO3166::Country.all.sort_by(&:name).map do |country|
           country_rows(country).each do |row|
             table << row
           end
