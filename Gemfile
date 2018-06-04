@@ -8,3 +8,7 @@ group :development, :test do
   gem 'minitest'
   gem 'rake'
 end
+
+group :development do
+  gem 'rubocop'
+end
