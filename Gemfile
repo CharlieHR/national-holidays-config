@@ -3,8 +3,8 @@
 source 'https://rubygems.org'
 
 group :development, :test do
-  gem 'date'
   gem 'countries'
+  gem 'date'
   gem 'minitest'
   gem 'rake'
 end

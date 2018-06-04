@@ -20,7 +20,7 @@ describe 'Countries' do
         Dir.chdir(country_name) do
           regions = Dir.glob('*.yml')
 
-          if regions.length > 0
+          if regions.length.positive?
             it "#{country_name} has #{regions.length} region#{regions.length > 1 ? 's' : ''} regions" do
               pass
             end
@@ -40,7 +40,7 @@ describe 'Countries' do
         Dir.chdir(country_name) do
           regions = Dir.glob('*.yml')
 
-          if regions.length > 0
+          if regions.length.positive?
             it "#{country_name} has #{regions.length} region#{regions.length > 1 ? 's' : ''}" do
               pass
             end

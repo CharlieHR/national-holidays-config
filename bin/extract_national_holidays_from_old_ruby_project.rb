@@ -31,7 +31,8 @@ Dir.chdir config_directory do
           year = national_holiday.start_date.year.to_s
 
           if national_holiday.start_date != national_holiday.end_date
-            abort "Holiday #{[country_code, region_code, national_holiday.english_name].join(' > ')} has a different start and end date"
+            route = [country_code, region_code, national_holiday.english_name].join(' > ')
+            abort "Holiday #{route} has a different start and end date"
           end
 
           config['years'][year] ||= []
