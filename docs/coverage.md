@@ -16,14 +16,14 @@ Last updated 2018-06-04.
 | 🇦🇷 | Argentina | Argentina (all) | 2018 | 17 | - | - |
 | 🇦🇲 | Armenia | No Data | - | - | - | - |
 | 🇦🇼 | Aruba | No Data | - | - | - | - |
+| 🇦🇺 | Australia | Australian Capital Territory | 2040 | 14 | - | - |
+| 🇦🇺 | Australia | Queensland | 2040 | 12 | - | - |
 | 🇦🇺 | Australia | New South Wales | 2040 | 13 | - | - |
 | 🇦🇺 | Australia | Northern Territory | 2040 | 17 | - | - |
+| 🇦🇺 | Australia | South Australia | 2040 | 14 | - | - |
+| 🇦🇺 | Australia | Tasmania | 2040 | 12 | - | - |
 | 🇦🇺 | Australia | Victoria | 2040 | 13 | - | - |
 | 🇦🇺 | Australia | Western Australia | 2040 | 11 | - | - |
-| 🇦🇺 | Australia | Queensland | 2040 | 12 | - | - |
-| 🇦🇺 | Australia | Tasmania | 2040 | 12 | - | - |
-| 🇦🇺 | Australia | Australian Capital Territory | 2040 | 14 | - | - |
-| 🇦🇺 | Australia | South Australia | 2040 | 14 | - | - |
 | 🇦🇹 | Austria | Austria (all) | 2040 | 13 | - | - |
 | 🇦🇿 | Azerbaijan | No Data | - | - | - | - |
 | 🇧🇸 | Bahamas | No Data | - | - | - | - |
@@ -50,19 +50,19 @@ Last updated 2018-06-04.
 | 🇨🇻 | Cabo Verde | No Data | - | - | - | - |
 | 🇰🇭 | Cambodia | No Data | - | - | - | - |
 | 🇨🇲 | Cameroon | No Data | - | - | - | - |
-| 🇨🇦 | Canada | Nova Scotia | 2040 | 10 | - | - |
-| 🇨🇦 | Canada | British Columbia | 2040 | 10 | - | - |
 | 🇨🇦 | Canada | Newfoundland and Labrador5 | 2040 | 13 | - | - |
-| 🇨🇦 | Canada | Northwest Territories | 2040 | 10 | - | - |
-| 🇨🇦 | Canada | Prince Edward Island | 2040 | 11 | - | - |
-| 🇨🇦 | Canada | Yukon | 2040 | 9 | - | - |
-| 🇨🇦 | Canada | Nunavut | 2040 | 10 | - | - |
-| 🇨🇦 | Canada | Saskatchewan | 2040 | 10 | - | - |
+| 🇨🇦 | Canada | Alberta | 2040 | 12 | - | - |
+| 🇨🇦 | Canada | British Columbia | 2040 | 10 | - | - |
 | 🇨🇦 | Canada | Manitoba | 2040 | 12 | - | - |
 | 🇨🇦 | Canada | New Brunswick | 2040 | 10 | - | - |
-| 🇨🇦 | Canada | Quebec | 2040 | 10 | - | - |
-| 🇨🇦 | Canada | Alberta | 2040 | 12 | - | - |
+| 🇨🇦 | Canada | Northwest Territories | 2040 | 10 | - | - |
+| 🇨🇦 | Canada | Nova Scotia | 2040 | 10 | - | - |
+| 🇨🇦 | Canada | Nunavut | 2040 | 10 | - | - |
 | 🇨🇦 | Canada | Ontario | 2040 | 12 | - | - |
+| 🇨🇦 | Canada | Prince Edward Island | 2040 | 11 | - | - |
+| 🇨🇦 | Canada | Quebec | 2040 | 10 | - | - |
+| 🇨🇦 | Canada | Saskatchewan | 2040 | 10 | - | - |
+| 🇨🇦 | Canada | Yukon | 2040 | 9 | - | - |
 | 🇰🇾 | Cayman Islands | No Data | - | - | - | - |
 | 🇨🇫 | Central African Republic | No Data | - | - | - | - |
 | 🇹🇩 | Chad | No Data | - | - | - | - |
@@ -97,29 +97,29 @@ Last updated 2018-06-04.
 | 🇫🇴 | Faroe Islands | No Data | - | - | - | - |
 | 🇫🇯 | Fiji | No Data | - | - | - | - |
 | 🇫🇮 | Finland | Finland (all) | 2040 | 15 | - | - |
+| 🇫🇷 | France | Alsace | 2040 | 13 | - | - |
 | 🇫🇷 | France | Moselle | 2040 | 13 | - | - |
 | 🇫🇷 | France | Metropolitan | 2018 | 11 | - | - |
-| 🇫🇷 | France | Alsace | 2040 | 13 | - | - |
 | 🇬🇫 | French Guiana | No Data | - | - | - | - |
 | 🇵🇫 | French Polynesia | No Data | - | - | - | - |
 | 🇹🇫 | French Southern Territories | No Data | - | - | - | - |
 | 🇬🇦 | Gabon | No Data | - | - | - | - |
 | 🇬🇲 | Gambia | No Data | - | - | - | - |
 | 🇬🇪 | Georgia | No Data | - | - | - | - |
-| 🇩🇪 | Germany | Saarland | 2040 | 12 | - | - |
-| 🇩🇪 | Germany | Thuringia | 2040 | 11 | - | - |
+| 🇩🇪 | Germany | Baden Wurttemberg | 2040 | 12 | - | - |
+| 🇩🇪 | Germany | Bavaria | 2040 | 14 | - | - |
+| 🇩🇪 | Germany | Berlin | 2040 | 9 | - | - |
+| 🇩🇪 | Germany | Brandenburg | 2040 | 10 | - | - |
+| 🇩🇪 | Germany | Bremen | 2040 | 9 | - | - |
 | 🇩🇪 | Germany | Hamburg | 2040 | 9 | - | - |
+| 🇩🇪 | Germany | Hesse | 2040 | 10 | - | - |
+| 🇩🇪 | Germany | Mecklenburg Vorpommern | 2040 | 10 | - | - |
 | 🇩🇪 | Germany | Lower Saxony | 2040 | 9 | - | - |
 | 🇩🇪 | Germany | North Rhine Westphalia | 2040 | 11 | - | - |
-| 🇩🇪 | Germany | Berlin | 2040 | 9 | - | - |
-| 🇩🇪 | Germany | Baden Wurttemberg | 2040 | 12 | - | - |
-| 🇩🇪 | Germany | Mecklenburg Vorpommern | 2040 | 10 | - | - |
-| 🇩🇪 | Germany | Hesse | 2040 | 10 | - | - |
-| 🇩🇪 | Germany | Bremen | 2040 | 9 | - | - |
-| 🇩🇪 | Germany | Schleswig Holstein | 2040 | 9 | - | - |
-| 🇩🇪 | Germany | Brandenburg | 2040 | 10 | - | - |
-| 🇩🇪 | Germany | Bavaria | 2040 | 14 | - | - |
 | 🇩🇪 | Germany | Rhineland Palatinate | 2040 | 11 | - | - |
+| 🇩🇪 | Germany | Saarland | 2040 | 12 | - | - |
+| 🇩🇪 | Germany | Schleswig Holstein | 2040 | 9 | - | - |
+| 🇩🇪 | Germany | Thuringia | 2040 | 11 | - | - |
 | 🇬🇭 | Ghana | No Data | - | - | - | - |
 | 🇬🇮 | Gibraltar | No Data | - | - | - | - |
 | 🇬🇷 | Greece | Greece (all) | 2018 | 13 | - | - |
@@ -195,18 +195,18 @@ Last updated 2018-06-04.
 | 🇳🇵 | Nepal | No Data | - | - | - | - |
 | 🇳🇱 | Netherlands | Netherlands (all) | 2040 | 10 | - | - |
 | 🇳🇨 | New Caledonia | No Data | - | - | - | - |
-| 🇳🇿 | New Zealand | Chatham Islands | 2040 | 11 | - | - |
-| 🇳🇿 | New Zealand | Otago | 2040 | 11 | - | - |
-| 🇳🇿 | New Zealand | Wellington | 2040 | 11 | - | - |
-| 🇳🇿 | New Zealand | Marlborough | 2040 | 11 | - | - |
 | 🇳🇿 | New Zealand | Auckland | 2040 | 11 | - | - |
-| 🇳🇿 | New Zealand | Hawke's Bay | 2040 | 11 | - | - |
-| 🇳🇿 | New Zealand | Westland | 2040 | 11 | - | - |
-| 🇳🇿 | New Zealand | Southland | 2040 | 11 | - | - |
 | 🇳🇿 | New Zealand | Taranaki | 2040 | 11 | - | - |
+| 🇳🇿 | New Zealand | Westland | 2040 | 11 | - | - |
 | 🇳🇿 | New Zealand | Canterbury | 2040 | 11 | - | - |
+| 🇳🇿 | New Zealand | Chatham Islands | 2040 | 11 | - | - |
+| 🇳🇿 | New Zealand | Hawke's Bay | 2040 | 11 | - | - |
+| 🇳🇿 | New Zealand | Marlborough | 2040 | 11 | - | - |
 | 🇳🇿 | New Zealand | Nelson | 2040 | 11 | - | - |
+| 🇳🇿 | New Zealand | Otago | 2040 | 11 | - | - |
 | 🇳🇿 | New Zealand | South Canterbury | 2040 | 11 | - | - |
+| 🇳🇿 | New Zealand | Southland | 2040 | 11 | - | - |
+| 🇳🇿 | New Zealand | Wellington | 2040 | 11 | - | - |
 | 🇳🇮 | Nicaragua | No Data | - | - | - | - |
 | 🇳🇪 | Niger | No Data | - | - | - | - |
 | 🇳🇬 | Nigeria | Nigeria (all) | 2018 | 13 | - | - |
@@ -256,11 +256,11 @@ Last updated 2018-06-04.
 | 🇿🇦 | South Africa | South Africa (all) | 2040 | 14 | - | - |
 | 🇬🇸 | South Georgia and the South Sandwich Islands | No Data | - | - | - | - |
 | 🇸🇸 | South Sudan | No Data | - | - | - | - |
+| 🇪🇸 | Spain | Comunidad de Madrid | 2020 | 11 | - | - |
+| 🇪🇸 | Spain | Catalunya | 2020 | 13 | - | - |
+| 🇪🇸 | Spain | Andalucía | 2020 | 14 | - | - |
 | 🇪🇸 | Spain | Comunidad Valenciana | 2020 | 14 | - | - |
 | 🇪🇸 | Spain | Sevilla | 2019 | 14 | - | - |
-| 🇪🇸 | Spain | Comunidad de Madrid | 2020 | 11 | - | - |
-| 🇪🇸 | Spain | Andalucía | 2020 | 14 | - | - |
-| 🇪🇸 | Spain | Catalunya | 2020 | 13 | - | - |
 | 🇪🇸 | Spain | Bilbao | 2017 | 15 | - | - |
 | 🇪🇸 | Spain | Baleares | 2018 | 13 | - | - |
 | 🇱🇰 | Sri Lanka | No Data | - | - | - | - |
@@ -289,62 +289,62 @@ Last updated 2018-06-04.
 | 🇺🇦 | Ukraine | Ukraine (all) | 2040 | 12 | - | - |
 | 🇦🇪 | United Arab Emirates | Dubai (all) | 2017 | 14 | - | - |
 | 🇦🇪 | United Arab Emirates | United Arab Emirates (all) | 2018 | 12 | - | - |
-| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Wales | 2040 | 8 | - | - |
-| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Northern Ireland | 2034 | 9 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | England | 2040 | 8 | - | - |
+| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Wales | 2040 | 8 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Scotland | 2034 | 8 | - | - |
+| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Northern Ireland | 2034 | 9 | - | - |
 | 🇺🇲 | United States Minor Outlying Islands | No Data | - | - | - | - |
-| 🇺🇸 | United States of America | Massachusetts | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | South Dakota | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | District Of Columbia | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | New Jersey | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Connecticut | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Wyoming | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | South Carolina | 2040 | 13 | - | - |
-| 🇺🇸 | United States of America | Colorado | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Idaho | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | California | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Nebraska | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Utah | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Delaware | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Illinois | 2040 | 13 | - | - |
-| 🇺🇸 | United States of America | Tennessee | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Mississippi | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Indiana | 2040 | 14 | - | - |
-| 🇺🇸 | United States of America | Washington | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | North Carolina | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Missouri | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Oregon | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | Ohio | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Wisconsin | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | Georgia | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Oklahoma | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | New Hampshire | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Rhode Island | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | Arizona | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Virginia | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Louisiana | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Alaska | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Michigan | 2040 | 13 | - | - |
-| 🇺🇸 | United States of America | West Virginia | 2040 | 16 | - | - |
-| 🇺🇸 | United States of America | Texas | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Montana | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Kansas | 2040 | 9 | - | - |
 | 🇺🇸 | United States of America | Alabama | 2040 | 13 | - | - |
-| 🇺🇸 | United States of America | New York | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Minnesota | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | North Dakota | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | New Mexico | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Kentucky | 2040 | 13 | - | - |
-| 🇺🇸 | United States of America | Maine | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Florida | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | Vermont | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Alaska | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Arizona | 2040 | 10 | - | - |
 | 🇺🇸 | United States of America | Arkansas | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Maryland | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Nevada | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Pennsylvania | 2040 | 14 | - | - |
+| 🇺🇸 | United States of America | California | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Colorado | 2040 | 10 | - | - |
+| 🇺🇸 | United States of America | Connecticut | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | Delaware | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | District Of Columbia | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Florida | 2040 | 9 | - | - |
+| 🇺🇸 | United States of America | Georgia | 2040 | 12 | - | - |
 | 🇺🇸 | United States of America | Hawaii | 2040 | 14 | - | - |
+| 🇺🇸 | United States of America | Idaho | 2040 | 10 | - | - |
+| 🇺🇸 | United States of America | Illinois | 2040 | 13 | - | - |
+| 🇺🇸 | United States of America | Indiana | 2040 | 14 | - | - |
 | 🇺🇸 | United States of America | Iowa | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Kansas | 2040 | 9 | - | - |
+| 🇺🇸 | United States of America | Kentucky | 2040 | 13 | - | - |
+| 🇺🇸 | United States of America | Louisiana | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | Maine | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | Maryland | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Massachusetts | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Michigan | 2040 | 13 | - | - |
+| 🇺🇸 | United States of America | Minnesota | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Mississippi | 2040 | 10 | - | - |
+| 🇺🇸 | United States of America | Missouri | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | Montana | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Nebraska | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | Nevada | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | New Hampshire | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | New Jersey | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | New Mexico | 2040 | 10 | - | - |
+| 🇺🇸 | United States of America | New York | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | North Carolina | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | North Dakota | 2040 | 10 | - | - |
+| 🇺🇸 | United States of America | Ohio | 2040 | 10 | - | - |
+| 🇺🇸 | United States of America | Oklahoma | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Oregon | 2040 | 9 | - | - |
+| 🇺🇸 | United States of America | Pennsylvania | 2040 | 14 | - | - |
+| 🇺🇸 | United States of America | Rhode Island | 2040 | 9 | - | - |
+| 🇺🇸 | United States of America | South Carolina | 2040 | 13 | - | - |
+| 🇺🇸 | United States of America | South Dakota | 2040 | 10 | - | - |
+| 🇺🇸 | United States of America | Tennessee | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Texas | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | Utah | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Vermont | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | Virginia | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | Washington | 2040 | 10 | - | - |
+| 🇺🇸 | United States of America | West Virginia | 2040 | 16 | - | - |
+| 🇺🇸 | United States of America | Wisconsin | 2040 | 9 | - | - |
+| 🇺🇸 | United States of America | Wyoming | 2040 | 9 | - | - |
 | 🇺🇾 | Uruguay | Uruguay (all) | 2018 | 15 | - | - |
 | 🇺🇿 | Uzbekistan | No Data | - | - | - | - |
 | 🇻🇺 | Vanuatu | No Data | - | - | - | - |

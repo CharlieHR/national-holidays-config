@@ -75,7 +75,7 @@ class CoverageDoc
     if Dir.exist?(alpha2)
       @covered_countries += 1
       Dir.chdir(alpha2) do
-        Dir.glob('*.yml').map do |filename|
+        Dir.glob('*.yml').sort.map do |filename|
           region_data = YAML.safe_load(File.read(filename))
 
           region_name = region_data.fetch('name')
