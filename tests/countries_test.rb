@@ -13,4 +13,24 @@ describe 'Countries' do
       end
     end
   end
+
+  describe 'all countries have at least one region' do
+    Dir.chdir(TestUtils.config_directory) do
+      Dir.glob('*').each do |country_name|
+        Dir.chdir(country_name) do
+          regions = Dir.glob('*.yml')
+
+          if regions.length > 0
+            it "#{country_name} has #{regions.length} region#{regions.length > 1 ? 's' : ''} regions" do
+              pass
+            end
+          else
+            it "#{country_name} has no regions" do
+              flunk
+            end
+          end
+        end
+      end
+    end
+  end
 end
