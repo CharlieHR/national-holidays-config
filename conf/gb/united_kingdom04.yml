@@ -3,1140 +3,917 @@ name: Northern Ireland
 years:
   '2011':
   - public_holiday: true
-    start_date: '2011-01-03'
-    end_date: '2011-01-03'
+    date: '2011-01-03'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2011-03-17'
-    end_date: '2011-03-17'
+    date: '2011-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2011-04-25'
-    end_date: '2011-04-25'
+    date: '2011-04-25'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2011-04-29'
-    end_date: '2011-04-29'
+    date: '2011-04-29'
     names:
       en: Royal Wedding Day
   - public_holiday: true
-    start_date: '2011-05-02'
-    end_date: '2011-05-02'
+    date: '2011-05-02'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2011-05-30'
-    end_date: '2011-05-30'
+    date: '2011-05-30'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2011-07-12'
-    end_date: '2011-07-12'
+    date: '2011-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2011-08-29'
-    end_date: '2011-08-29'
+    date: '2011-08-29'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2011-12-26'
-    end_date: '2011-12-26'
+    date: '2011-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2011-12-27'
-    end_date: '2011-12-27'
+    date: '2011-12-27'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2011-07-12'
-    end_date: '2011-07-12'
+    date: '2011-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2011-03-17'
-    end_date: '2011-03-17'
+    date: '2011-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2011-07-14'
-    end_date: '2011-07-14'
+    date: '2011-07-14'
     names:
       en: Battle of the Boyne
   '2012':
   - public_holiday: true
-    start_date: '2012-01-02'
-    end_date: '2012-01-02'
+    date: '2012-01-02'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2012-03-19'
-    end_date: '2012-03-19'
+    date: '2012-03-19'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2012-04-09'
-    end_date: '2012-04-09'
+    date: '2012-04-09'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2012-05-07'
-    end_date: '2012-05-07'
+    date: '2012-05-07'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2012-06-04'
-    end_date: '2012-06-04'
+    date: '2012-06-04'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2012-06-05'
-    end_date: '2012-06-05'
+    date: '2012-06-05'
     names:
       en: Queen's Diamond Jubilee
   - public_holiday: true
-    start_date: '2012-07-12'
-    end_date: '2012-07-12'
+    date: '2012-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2012-08-27'
-    end_date: '2012-08-27'
+    date: '2012-08-27'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2012-12-25'
-    end_date: '2012-12-25'
+    date: '2012-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2012-12-26'
-    end_date: '2012-12-26'
+    date: '2012-12-26'
     names:
       en: Boxing Day
   '2013':
   - public_holiday: true
-    start_date: '2013-01-01'
-    end_date: '2013-01-01'
+    date: '2013-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2013-03-18'
-    end_date: '2013-03-18'
+    date: '2013-03-18'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2013-04-01'
-    end_date: '2013-04-01'
+    date: '2013-04-01'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2013-05-06'
-    end_date: '2013-05-06'
+    date: '2013-05-06'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2013-05-27'
-    end_date: '2013-05-27'
+    date: '2013-05-27'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2013-07-12'
-    end_date: '2013-07-12'
+    date: '2013-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2013-08-26'
-    end_date: '2013-08-26'
+    date: '2013-08-26'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2013-12-25'
-    end_date: '2013-12-25'
+    date: '2013-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2013-12-26'
-    end_date: '2013-12-26'
+    date: '2013-12-26'
     names:
       en: Boxing Day
   '2014':
   - public_holiday: true
-    start_date: '2014-01-01'
-    end_date: '2014-01-01'
+    date: '2014-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2014-03-17'
-    end_date: '2014-03-17'
+    date: '2014-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2014-04-21'
-    end_date: '2014-04-21'
+    date: '2014-04-21'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2014-05-05'
-    end_date: '2014-05-05'
+    date: '2014-05-05'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2014-05-26'
-    end_date: '2014-05-26'
+    date: '2014-05-26'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2014-07-14'
-    end_date: '2014-07-14'
+    date: '2014-07-14'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2014-08-25'
-    end_date: '2014-08-25'
+    date: '2014-08-25'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2014-12-25'
-    end_date: '2014-12-25'
+    date: '2014-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2014-12-26'
-    end_date: '2014-12-26'
+    date: '2014-12-26'
     names:
       en: Boxing Day
   '2015':
   - public_holiday: true
-    start_date: '2015-01-01'
-    end_date: '2015-01-01'
+    date: '2015-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2015-03-17'
-    end_date: '2015-03-17'
+    date: '2015-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2015-04-06'
-    end_date: '2015-04-06'
+    date: '2015-04-06'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2015-05-04'
-    end_date: '2015-05-04'
+    date: '2015-05-04'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2015-05-25'
-    end_date: '2015-05-25'
+    date: '2015-05-25'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2015-07-13'
-    end_date: '2015-07-13'
+    date: '2015-07-13'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2015-08-31'
-    end_date: '2015-08-31'
+    date: '2015-08-31'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2015-12-25'
-    end_date: '2015-12-25'
+    date: '2015-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2015-12-28'
-    end_date: '2015-12-28'
+    date: '2015-12-28'
     names:
       en: Boxing Day
   '2016':
   - public_holiday: true
-    start_date: '2016-01-01'
-    end_date: '2016-01-01'
+    date: '2016-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2016-03-17'
-    end_date: '2016-03-17'
+    date: '2016-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2016-03-28'
-    end_date: '2016-03-28'
+    date: '2016-03-28'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2016-05-02'
-    end_date: '2016-05-02'
+    date: '2016-05-02'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2016-05-30'
-    end_date: '2016-05-30'
+    date: '2016-05-30'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2016-07-12'
-    end_date: '2016-07-12'
+    date: '2016-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2016-08-29'
-    end_date: '2016-08-29'
+    date: '2016-08-29'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2016-12-26'
-    end_date: '2016-12-26'
+    date: '2016-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2016-12-27'
-    end_date: '2016-12-27'
+    date: '2016-12-27'
     names:
       en: Christmas Day
   '2017':
   - public_holiday: true
-    start_date: '2017-01-02'
-    end_date: '2017-01-02'
+    date: '2017-01-02'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2017-03-17'
-    end_date: '2017-03-17'
+    date: '2017-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2017-04-17'
-    end_date: '2017-04-17'
+    date: '2017-04-17'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2017-05-29'
-    end_date: '2017-05-29'
+    date: '2017-05-29'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2017-07-12'
-    end_date: '2017-07-12'
+    date: '2017-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2017-08-28'
-    end_date: '2017-08-28'
+    date: '2017-08-28'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2017-12-26'
-    end_date: '2017-12-26'
+    date: '2017-12-26'
     names:
       en: Boxing Day
   '2018':
   - public_holiday: true
-    start_date: '2018-01-01'
-    end_date: '2018-01-01'
+    date: '2018-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2018-03-19'
-    end_date: '2018-03-19'
+    date: '2018-03-19'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2018-03-30'
-    end_date: '2018-03-30'
+    date: '2018-03-30'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2018-04-02'
-    end_date: '2018-04-02'
+    date: '2018-04-02'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2018-05-07'
-    end_date: '2018-05-07'
+    date: '2018-05-07'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2018-05-28'
-    end_date: '2018-05-28'
+    date: '2018-05-28'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2018-07-12'
-    end_date: '2018-07-12'
+    date: '2018-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2018-08-27'
-    end_date: '2018-08-27'
+    date: '2018-08-27'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2018-12-26'
-    end_date: '2018-12-26'
+    date: '2018-12-26'
     names:
       en: Boxing Day
   '2019':
   - public_holiday: true
-    start_date: '2019-01-01'
-    end_date: '2019-01-01'
+    date: '2019-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2019-03-18'
-    end_date: '2019-03-18'
+    date: '2019-03-18'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2019-04-19'
-    end_date: '2019-04-19'
+    date: '2019-04-19'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2019-04-22'
-    end_date: '2019-04-22'
+    date: '2019-04-22'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2019-05-06'
-    end_date: '2019-05-06'
+    date: '2019-05-06'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2019-05-27'
-    end_date: '2019-05-27'
+    date: '2019-05-27'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2019-07-12'
-    end_date: '2019-07-12'
+    date: '2019-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2019-08-26'
-    end_date: '2019-08-26'
+    date: '2019-08-26'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2019-12-25'
-    end_date: '2019-12-25'
+    date: '2019-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2019-12-26'
-    end_date: '2019-12-26'
+    date: '2019-12-26'
     names:
       en: Boxing Day
   '2020':
   - public_holiday: true
-    start_date: '2020-01-01'
-    end_date: '2020-01-01'
+    date: '2020-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2020-03-17'
-    end_date: '2020-03-17'
+    date: '2020-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2020-04-13'
-    end_date: '2020-04-13'
+    date: '2020-04-13'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2020-05-04'
-    end_date: '2020-05-04'
+    date: '2020-05-04'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2020-05-25'
-    end_date: '2020-05-25'
+    date: '2020-05-25'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2020-07-13'
-    end_date: '2020-07-13'
+    date: '2020-07-13'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2020-08-31'
-    end_date: '2020-08-31'
+    date: '2020-08-31'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2020-12-25'
-    end_date: '2020-12-25'
+    date: '2020-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2020-12-28'
-    end_date: '2020-12-28'
+    date: '2020-12-28'
     names:
       en: Boxing Day
   '2021':
   - public_holiday: true
-    start_date: '2021-01-01'
-    end_date: '2021-01-01'
+    date: '2021-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2021-03-17'
-    end_date: '2021-03-17'
+    date: '2021-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2021-04-05'
-    end_date: '2021-04-05'
+    date: '2021-04-05'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2021-05-03'
-    end_date: '2021-05-03'
+    date: '2021-05-03'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2021-05-31'
-    end_date: '2021-05-31'
+    date: '2021-05-31'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2021-07-12'
-    end_date: '2021-07-12'
+    date: '2021-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2021-08-30'
-    end_date: '2021-08-30'
+    date: '2021-08-30'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2021-12-27'
-    end_date: '2021-12-27'
+    date: '2021-12-27'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2021-12-28'
-    end_date: '2021-12-28'
+    date: '2021-12-28'
     names:
       en: Christmas Day
   '2022':
   - public_holiday: true
-    start_date: '2022-01-03'
-    end_date: '2022-01-03'
+    date: '2022-01-03'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2022-03-17'
-    end_date: '2022-03-17'
+    date: '2022-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2022-04-18'
-    end_date: '2022-04-18'
+    date: '2022-04-18'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2022-05-02'
-    end_date: '2022-05-02'
+    date: '2022-05-02'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2022-05-30'
-    end_date: '2022-05-30'
+    date: '2022-05-30'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2022-07-12'
-    end_date: '2022-07-12'
+    date: '2022-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2022-08-29'
-    end_date: '2022-08-29'
+    date: '2022-08-29'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2022-12-26'
-    end_date: '2022-12-26'
+    date: '2022-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2022-12-27'
-    end_date: '2022-12-27'
+    date: '2022-12-27'
     names:
       en: Christmas Day
   '2023':
   - public_holiday: true
-    start_date: '2023-01-02'
-    end_date: '2023-01-02'
+    date: '2023-01-02'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2023-03-17'
-    end_date: '2023-03-17'
+    date: '2023-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2023-04-10'
-    end_date: '2023-04-10'
+    date: '2023-04-10'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2023-05-01'
-    end_date: '2023-05-01'
+    date: '2023-05-01'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2023-05-29'
-    end_date: '2023-05-29'
+    date: '2023-05-29'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2023-07-12'
-    end_date: '2023-07-12'
+    date: '2023-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2023-08-28'
-    end_date: '2023-08-28'
+    date: '2023-08-28'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2023-12-25'
-    end_date: '2023-12-25'
+    date: '2023-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2023-12-26'
-    end_date: '2023-12-26'
+    date: '2023-12-26'
     names:
       en: Boxing Day
   '2024':
   - public_holiday: true
-    start_date: '2024-01-01'
-    end_date: '2024-01-01'
+    date: '2024-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2024-03-18'
-    end_date: '2024-03-18'
+    date: '2024-03-18'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2024-04-01'
-    end_date: '2024-04-01'
+    date: '2024-04-01'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2024-05-06'
-    end_date: '2024-05-06'
+    date: '2024-05-06'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2024-05-27'
-    end_date: '2024-05-27'
+    date: '2024-05-27'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2024-07-12'
-    end_date: '2024-07-12'
+    date: '2024-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2024-08-26'
-    end_date: '2024-08-26'
+    date: '2024-08-26'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2024-12-25'
-    end_date: '2024-12-25'
+    date: '2024-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2024-12-26'
-    end_date: '2024-12-26'
+    date: '2024-12-26'
     names:
       en: Boxing Day
   '2025':
   - public_holiday: true
-    start_date: '2025-01-01'
-    end_date: '2025-01-01'
+    date: '2025-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2025-03-17'
-    end_date: '2025-03-17'
+    date: '2025-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2025-04-18'
-    end_date: '2025-04-18'
+    date: '2025-04-18'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2025-04-21'
-    end_date: '2025-04-21'
+    date: '2025-04-21'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2025-05-05'
-    end_date: '2025-05-05'
+    date: '2025-05-05'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2025-05-26'
-    end_date: '2025-05-26'
+    date: '2025-05-26'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2025-07-14'
-    end_date: '2025-07-14'
+    date: '2025-07-14'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2025-08-25'
-    end_date: '2025-08-25'
+    date: '2025-08-25'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2025-12-25'
-    end_date: '2025-12-25'
+    date: '2025-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2025-12-26'
-    end_date: '2025-12-26'
+    date: '2025-12-26'
     names:
       en: Boxing Day
   '2026':
   - public_holiday: true
-    start_date: '2026-01-01'
-    end_date: '2026-01-01'
+    date: '2026-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2026-03-17'
-    end_date: '2026-03-17'
+    date: '2026-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2026-04-06'
-    end_date: '2026-04-06'
+    date: '2026-04-06'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2026-05-04'
-    end_date: '2026-05-04'
+    date: '2026-05-04'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2026-05-25'
-    end_date: '2026-05-25'
+    date: '2026-05-25'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2026-07-13'
-    end_date: '2026-07-13'
+    date: '2026-07-13'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2026-08-31'
-    end_date: '2026-08-31'
+    date: '2026-08-31'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2026-12-25'
-    end_date: '2026-12-25'
+    date: '2026-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2026-12-28'
-    end_date: '2026-12-28'
+    date: '2026-12-28'
     names:
       en: Boxing Day
   '2027':
   - public_holiday: true
-    start_date: '2027-01-01'
-    end_date: '2027-01-01'
+    date: '2027-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2027-03-17'
-    end_date: '2027-03-17'
+    date: '2027-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2027-03-29'
-    end_date: '2027-03-29'
+    date: '2027-03-29'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2027-05-03'
-    end_date: '2027-05-03'
+    date: '2027-05-03'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2027-05-31'
-    end_date: '2027-05-31'
+    date: '2027-05-31'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2027-08-30'
-    end_date: '2027-08-30'
+    date: '2027-08-30'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2027-12-27'
-    end_date: '2027-12-27'
+    date: '2027-12-27'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2027-12-28'
-    end_date: '2027-12-28'
+    date: '2027-12-28'
     names:
       en: Christmas Day
   '2028':
   - public_holiday: true
-    start_date: '2028-01-03'
-    end_date: '2028-01-03'
+    date: '2028-01-03'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2028-03-17'
-    end_date: '2028-03-17'
+    date: '2028-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2028-04-17'
-    end_date: '2028-04-17'
+    date: '2028-04-17'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2028-05-01'
-    end_date: '2028-05-01'
+    date: '2028-05-01'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2028-05-29'
-    end_date: '2028-05-29'
+    date: '2028-05-29'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2028-07-12'
-    end_date: '2028-07-12'
+    date: '2028-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2028-08-28'
-    end_date: '2028-08-28'
+    date: '2028-08-28'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2028-12-25'
-    end_date: '2028-12-25'
+    date: '2028-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2028-12-26'
-    end_date: '2028-12-26'
+    date: '2028-12-26'
     names:
       en: Boxing Day
   '2029':
   - public_holiday: true
-    start_date: '2029-01-01'
-    end_date: '2029-01-01'
+    date: '2029-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2029-03-19'
-    end_date: '2029-03-19'
+    date: '2029-03-19'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2029-04-02'
-    end_date: '2029-04-02'
+    date: '2029-04-02'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2029-05-07'
-    end_date: '2029-05-07'
+    date: '2029-05-07'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2029-05-28'
-    end_date: '2029-05-28'
+    date: '2029-05-28'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2029-07-12'
-    end_date: '2029-07-12'
+    date: '2029-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2029-08-27'
-    end_date: '2029-08-27'
+    date: '2029-08-27'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2029-12-25'
-    end_date: '2029-12-25'
+    date: '2029-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2029-12-26'
-    end_date: '2029-12-26'
+    date: '2029-12-26'
     names:
       en: Boxing Day
   '2030':
   - public_holiday: true
-    start_date: '2030-01-01'
-    end_date: '2030-01-01'
+    date: '2030-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2030-03-18'
-    end_date: '2030-03-18'
+    date: '2030-03-18'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2030-04-22'
-    end_date: '2030-04-22'
+    date: '2030-04-22'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2030-05-06'
-    end_date: '2030-05-06'
+    date: '2030-05-06'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2030-05-27'
-    end_date: '2030-05-27'
+    date: '2030-05-27'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2030-07-12'
-    end_date: '2030-07-12'
+    date: '2030-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2030-08-26'
-    end_date: '2030-08-26'
+    date: '2030-08-26'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2030-12-25'
-    end_date: '2030-12-25'
+    date: '2030-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2030-12-26'
-    end_date: '2030-12-26'
+    date: '2030-12-26'
     names:
       en: Boxing Day
   '2031':
   - public_holiday: true
-    start_date: '2031-01-01'
-    end_date: '2031-01-01'
+    date: '2031-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2031-04-11'
-    end_date: '2031-04-11'
+    date: '2031-04-11'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2031-04-14'
-    end_date: '2031-04-14'
+    date: '2031-04-14'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2031-05-05'
-    end_date: '2031-05-05'
+    date: '2031-05-05'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2031-05-26'
-    end_date: '2031-05-26'
+    date: '2031-05-26'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2031-08-25'
-    end_date: '2031-08-25'
+    date: '2031-08-25'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2031-12-25'
-    end_date: '2031-12-25'
+    date: '2031-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2031-12-26'
-    end_date: '2031-12-26'
+    date: '2031-12-26'
     names:
       en: Boxing Day
   '2032':
   - public_holiday: true
-    start_date: '2032-01-01'
-    end_date: '2032-01-01'
+    date: '2032-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2032-03-17'
-    end_date: '2032-03-17'
+    date: '2032-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2032-03-29'
-    end_date: '2032-03-29'
+    date: '2032-03-29'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2032-05-03'
-    end_date: '2032-05-03'
+    date: '2032-05-03'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2032-05-31'
-    end_date: '2032-05-31'
+    date: '2032-05-31'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2032-07-12'
-    end_date: '2032-07-12'
+    date: '2032-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2032-08-30'
-    end_date: '2032-08-30'
+    date: '2032-08-30'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2032-12-27'
-    end_date: '2032-12-27'
+    date: '2032-12-27'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2032-12-28'
-    end_date: '2032-12-28'
+    date: '2032-12-28'
     names:
       en: Christmas Day
   '2033':
   - public_holiday: true
-    start_date: '2033-01-03'
-    end_date: '2033-01-03'
+    date: '2033-01-03'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2033-03-17'
-    end_date: '2033-03-17'
+    date: '2033-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2033-04-18'
-    end_date: '2033-04-18'
+    date: '2033-04-18'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2033-05-02'
-    end_date: '2033-05-02'
+    date: '2033-05-02'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2033-05-30'
-    end_date: '2033-05-30'
+    date: '2033-05-30'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2033-07-12'
-    end_date: '2033-07-12'
+    date: '2033-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2033-08-29'
-    end_date: '2033-08-29'
+    date: '2033-08-29'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2033-12-26'
-    end_date: '2033-12-26'
+    date: '2033-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2033-12-27'
-    end_date: '2033-12-27'
+    date: '2033-12-27'
     names:
       en: Christmas Day
   '2034':
   - public_holiday: true
-    start_date: '2034-01-02'
-    end_date: '2034-01-02'
+    date: '2034-01-02'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2034-03-17'
-    end_date: '2034-03-17'
+    date: '2034-03-17'
     names:
       en: St. Patrick's Day
   - public_holiday: true
-    start_date: '2034-04-10'
-    end_date: '2034-04-10'
+    date: '2034-04-10'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2034-05-01'
-    end_date: '2034-05-01'
+    date: '2034-05-01'
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    start_date: '2034-05-29'
-    end_date: '2034-05-29'
+    date: '2034-05-29'
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    start_date: '2034-07-12'
-    end_date: '2034-07-12'
+    date: '2034-07-12'
     names:
       en: Battle of the Boyne
   - public_holiday: true
-    start_date: '2034-08-28'
-    end_date: '2034-08-28'
+    date: '2034-08-28'
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    start_date: '2034-12-25'
-    end_date: '2034-12-25'
+    date: '2034-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2034-12-26'
-    end_date: '2034-12-26'
+    date: '2034-12-26'
     names:
       en: Boxing Day

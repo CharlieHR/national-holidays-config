@@ -3,74 +3,62 @@ name: Macedonia, Republic of (all)
 years:
   '2018':
   - public_holiday: true
-    start_date: '2018-01-01'
-    end_date: '2018-01-01'
+    date: '2018-01-01'
     names:
       en: New Year's Day
       mk: New Year's Day
   - public_holiday: true
-    start_date: '2018-01-07'
-    end_date: '2018-01-07'
+    date: '2018-01-07'
     names:
       en: Orthodox Christmas Day
       mk: Orthodox Christmas Day
   - public_holiday: true
-    start_date: '2018-04-08'
-    end_date: '2018-04-08'
+    date: '2018-04-08'
     names:
       en: Orthodox Easter Day
       mk: Orthodox Easter Day
   - public_holiday: true
-    start_date: '2018-04-09'
-    end_date: '2018-04-09'
+    date: '2018-04-09'
     names:
       en: Orthodox Easter Monday
       mk: Orthodox Easter Monday
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: Labour Day
       mk: Labour Day
   - public_holiday: true
-    start_date: '2018-05-24'
-    end_date: '2018-05-24'
+    date: '2018-05-24'
     names:
       en: St. Cyril and St. Methodius
       mk: St. Cyril and St. Methodius
   - public_holiday: true
-    start_date: '2018-06-15'
-    end_date: '2018-06-15'
+    date: '2018-06-15'
     names:
       en: End of Ramadan
       mk: Eid Al Fitr
   - public_holiday: true
-    start_date: '2018-08-02'
-    end_date: '2018-08-02'
+    date: '2018-08-02'
     names:
       en: Ilinden Uprising Day
       mk: Ilinden Uprising Day
   - public_holiday: true
-    start_date: '2018-09-08'
-    end_date: '2018-09-08'
+    date: '2018-09-08'
     names:
       en: Independence Day
       mk: Independence Day
   - public_holiday: true
-    start_date: '2018-10-11'
-    end_date: '2018-10-11'
+    date: '2018-10-11'
     names:
       en: People's Uprising Against Fascism
       mk: People's Uprising Against Fascism
   - public_holiday: true
-    start_date: '2018-10-23'
-    end_date: '2018-10-23'
+    date: '2018-10-23'
     names:
       en: Revolutionary Struggle Day
       mk: Revolutionary Struggle Day
   - public_holiday: true
-    start_date: '2018-12-08'
-    end_date: '2018-12-08'
+    date: '2018-12-08'
     names:
       en: St. Clement of Ohrid Day
       mk: St. Clement of Ohrid Day

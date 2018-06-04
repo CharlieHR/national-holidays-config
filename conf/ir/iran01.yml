@@ -3,261 +3,218 @@ name: Iran (all)
 years:
   '2017':
   - public_holiday: true
-    start_date: '2017-02-11'
-    end_date: '2017-02-11'
+    date: '2017-02-11'
     names:
       en: Revolution Day
       fa: Revolution Day
   - public_holiday: true
-    start_date: '2017-03-02'
-    end_date: '2017-03-02'
+    date: '2017-03-02'
     names:
       en: Martyrdom of Fatima
       fa: Martyrdom of Fatima
   - public_holiday: true
-    start_date: '2017-03-19'
-    end_date: '2017-03-19'
+    date: '2017-03-19'
     names:
       en: Oil Nationalization Day
       fa: Oil Nationalization Day
   - public_holiday: true
-    start_date: '2017-03-21'
-    end_date: '2017-03-21'
+    date: '2017-03-21'
     names:
       en: Norooz (Persian New Year)
       fa: Norooz (Persian New Year)
   - public_holiday: true
-    start_date: '2017-03-22'
-    end_date: '2017-03-22'
+    date: '2017-03-22'
     names:
       en: Norooz Holiday
       fa: Norooz Holiday
   - public_holiday: true
-    start_date: '2017-03-23'
-    end_date: '2017-03-23'
+    date: '2017-03-23'
     names:
       en: Norooz Holiday
       fa: Norooz Holiday
   - public_holiday: true
-    start_date: '2017-03-24'
-    end_date: '2017-03-24'
+    date: '2017-03-24'
     names:
       en: Norooz Holiday
       fa: Norooz Holiday
   - public_holiday: true
-    start_date: '2017-04-01'
-    end_date: '2017-04-01'
+    date: '2017-04-01'
     names:
       en: Islamic Republic Day
       fa: Islamic Republic Day
   - public_holiday: true
-    start_date: '2017-04-02'
-    end_date: '2017-04-02'
+    date: '2017-04-02'
     names:
       en: Nature Day
       fa: Nature Day
   - public_holiday: true
-    start_date: '2017-04-10'
-    end_date: '2017-04-10'
+    date: '2017-04-10'
     names:
       en: Birthday of Imam Ali
       fa: Birthday of Imam Ali
   - public_holiday: true
-    start_date: '2017-04-24'
-    end_date: '2017-04-24'
+    date: '2017-04-24'
     names:
       en: Prophet's Ascension
       fa: Prophet's Ascension
   - public_holiday: true
-    start_date: '2017-05-12'
-    end_date: '2017-05-12'
+    date: '2017-05-12'
     names:
       en: Imam Mahdi's birthday
       fa: Imam Mahdi's birthday
   - public_holiday: true
-    start_date: '2017-06-04'
-    end_date: '2017-06-04'
+    date: '2017-06-04'
     names:
       en: Anniversary of Khomeini's Death
       fa: Anniversary of Khomeini's Death
   - public_holiday: true
-    start_date: '2017-06-05'
-    end_date: '2017-06-05'
+    date: '2017-06-05'
     names:
       en: Revolt of Khordad 15
       fa: Revolt of Khordad 15
   - public_holiday: true
-    start_date: '2017-06-16'
-    end_date: '2017-06-16'
+    date: '2017-06-16'
     names:
       en: Martyrdom of Imam Ali
       fa: Martyrdom of Imam Ali
   - public_holiday: true
-    start_date: '2017-06-26'
-    end_date: '2017-06-26'
+    date: '2017-06-26'
     names:
       en: Eid-e-Fetr (End of Ramadan)
       fa: Eid-e-Fetr (End of Ramadan)
   - public_holiday: true
-    start_date: '2017-06-27'
-    end_date: '2017-06-27'
+    date: '2017-06-27'
     names:
       en: Eid-e-Fetr (Additional Holiday)
       fa: Eid-e-Fetr (Additional Holiday)
   - public_holiday: true
-    start_date: '2017-07-20'
-    end_date: '2017-07-20'
+    date: '2017-07-20'
     names:
       en: Martyrdom of Imam Sadeq
       fa: Martyrdom of Imam Sadeq
   - public_holiday: true
-    start_date: '2017-09-02'
-    end_date: '2017-09-02'
+    date: '2017-09-02'
     names:
       en: Eid-e-Ghorban (Feast of Sacrifice)
       fa: Eid-e-Ghorban (Feast of Sacrifice)
   - public_holiday: true
-    start_date: '2017-09-10'
-    end_date: '2017-09-10'
+    date: '2017-09-10'
     names:
       en: Eid-al-Ghadir
       fa: Eid-al-Ghadir
   - public_holiday: true
-    start_date: '2017-09-30'
-    end_date: '2017-09-30'
+    date: '2017-09-30'
     names:
       en: Tassoua
       fa: Tassoua
   - public_holiday: true
-    start_date: '2017-10-01'
-    end_date: '2017-10-01'
+    date: '2017-10-01'
     names:
       en: Ashura
       fa: Ashura
   - public_holiday: true
-    start_date: '2017-11-10'
-    end_date: '2017-11-10'
+    date: '2017-11-10'
     names:
       en: Arbaeen
       fa: Arbaeen
   - public_holiday: true
-    start_date: '2017-11-17'
-    end_date: '2017-11-17'
+    date: '2017-11-17'
     names:
       en: Demise of Prophet Muhammad and Martyrdom of Imam Hassan
       fa: Demise of Prophet Muhammad and Martyrdom of Imam Hassan
   - public_holiday: true
-    start_date: '2017-11-18'
-    end_date: '2017-11-18'
+    date: '2017-11-18'
     names:
       en: Martyrdom of Imam Reza
       fa: Martyrdom of Imam Reza
   - public_holiday: true
-    start_date: '2017-12-06'
-    end_date: '2017-12-06'
+    date: '2017-12-06'
     names:
       en: Birthday of Prophet Muhammad and Imam Sadeq
       fa: Birthday of Prophet Muhammad and Imam Sadeq
   '2018':
   - public_holiday: true
-    start_date: '2018-02-11'
-    end_date: '2018-02-11'
+    date: '2018-02-11'
     names:
       en: Revolution Day
       fa: Revolution Day
   - public_holiday: true
-    start_date: '2018-02-19'
-    end_date: '2018-02-19'
+    date: '2018-02-19'
     names:
       en: Martyrdom of Fatima
       fa: Martyrdom of Fatima
   - public_holiday: true
-    start_date: '2018-03-30'
-    end_date: '2018-03-30'
+    date: '2018-03-30'
     names:
       en: Birthday of Imam Ali
       fa: Birthday of Imam Ali
   - public_holiday: true
-    start_date: '2018-04-13'
-    end_date: '2018-04-13'
+    date: '2018-04-13'
     names:
       en: Prophet's Ascension
       fa: Prophet's Ascension
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: Imam Mahdi's birthday
       fa: Imam Mahdi's birthday
   - public_holiday: true
-    start_date: '2018-06-05'
-    end_date: '2018-06-05'
+    date: '2018-06-05'
     names:
       en: Martyrdom of Imam Ali
       fa: Martyrdom of Imam Ali
   - public_holiday: true
-    start_date: '2018-06-15'
-    end_date: '2018-06-15'
+    date: '2018-06-15'
     names:
       en: Eid-e-Fetr (End of Ramadan)
       fa: Eid-e-Fetr (End of Ramadan)
   - public_holiday: true
-    start_date: '2018-05-16'
-    end_date: '2018-05-16'
+    date: '2018-05-16'
     names:
       en: Eid-e-Fetr (Additional Holiday)
       fa: Eid-e-Fetr (Additional Holiday)
   - public_holiday: true
-    start_date: '2018-07-09'
-    end_date: '2018-07-09'
+    date: '2018-07-09'
     names:
       en: Martyrdom of Imam Sadeq
       fa: Martyrdom of Imam Sadeq
   - public_holiday: true
-    start_date: '2018-08-22'
-    end_date: '2018-08-22'
+    date: '2018-08-22'
     names:
       en: Eid-e-Ghorban (Feast of Sacrifice)
       fa: Eid-e-Ghorban (Feast of Sacrifice)
   - public_holiday: true
-    start_date: '2018-08-30'
-    end_date: '2018-08-30'
+    date: '2018-08-30'
     names:
       en: Eid-al-Ghadir
       fa: Eid-al-Ghadir
   - public_holiday: true
-    start_date: '2018-09-20'
-    end_date: '2018-09-20'
+    date: '2018-09-20'
     names:
       en: Tassoua
       fa: Tassoua
   - public_holiday: true
-    start_date: '2018-09-21'
-    end_date: '2018-09-21'
+    date: '2018-09-21'
     names:
       en: Ashura
       fa: Ashura
   - public_holiday: true
-    start_date: '2018-10-31'
-    end_date: '2018-10-31'
+    date: '2018-10-31'
     names:
       en: Arbaeen
       fa: Arbaeen
   - public_holiday: true
-    start_date: '2018-11-08'
-    end_date: '2018-11-08'
+    date: '2018-11-08'
     names:
       en: Demise of Prophet Muhammad and Martyrdom of Imam Hassan
       fa: Demise of Prophet Muhammad and Martyrdom of Imam Hassan
   - public_holiday: true
-    start_date: '2018-11-09'
-    end_date: '2018-11-09'
+    date: '2018-11-09'
     names:
       en: Martyrdom of Imam Reza
       fa: Martyrdom of Imam Reza
   - public_holiday: true
-    start_date: '2018-11-26'
-    end_date: '2018-11-26'
+    date: '2018-11-26'
     names:
       en: Birthday of Prophet Muhammad and Imam Sadeq
       fa: Birthday of Prophet Muhammad and Imam Sadeq

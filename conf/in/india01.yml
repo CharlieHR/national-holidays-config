@@ -3,286 +3,241 @@ name: India (all)
 years:
   '2016':
   - public_holiday: true
-    start_date: '2016-01-26'
-    end_date: '2016-01-26'
+    date: '2016-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2016-08-15'
-    end_date: '2016-08-15'
+    date: '2016-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2016-10-02'
-    end_date: '2016-10-02'
+    date: '2016-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2017':
   - public_holiday: true
-    start_date: '2017-01-26'
-    end_date: '2017-01-26'
+    date: '2017-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2017-08-15'
-    end_date: '2017-08-15'
+    date: '2017-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2017-10-02'
-    end_date: '2017-10-02'
+    date: '2017-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2018':
   - public_holiday: true
-    start_date: '2018-01-26'
-    end_date: '2018-01-26'
+    date: '2018-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2018-08-15'
-    end_date: '2018-08-15'
+    date: '2018-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2018-10-02'
-    end_date: '2018-10-02'
+    date: '2018-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2019':
   - public_holiday: true
-    start_date: '2019-01-26'
-    end_date: '2019-01-26'
+    date: '2019-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2019-08-15'
-    end_date: '2019-08-15'
+    date: '2019-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2019-10-02'
-    end_date: '2019-10-02'
+    date: '2019-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2020':
   - public_holiday: true
-    start_date: '2020-01-26'
-    end_date: '2020-01-26'
+    date: '2020-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2020-08-15'
-    end_date: '2020-08-15'
+    date: '2020-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2020-10-02'
-    end_date: '2020-10-02'
+    date: '2020-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2021':
   - public_holiday: true
-    start_date: '2021-01-26'
-    end_date: '2021-01-26'
+    date: '2021-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2021-08-15'
-    end_date: '2021-08-15'
+    date: '2021-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2021-10-02'
-    end_date: '2021-10-02'
+    date: '2021-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2022':
   - public_holiday: true
-    start_date: '2022-01-26'
-    end_date: '2022-01-26'
+    date: '2022-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2022-08-15'
-    end_date: '2022-08-15'
+    date: '2022-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2022-10-02'
-    end_date: '2022-10-02'
+    date: '2022-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2023':
   - public_holiday: true
-    start_date: '2023-01-26'
-    end_date: '2023-01-26'
+    date: '2023-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2023-08-15'
-    end_date: '2023-08-15'
+    date: '2023-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2023-10-02'
-    end_date: '2023-10-02'
+    date: '2023-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2024':
   - public_holiday: true
-    start_date: '2024-01-26'
-    end_date: '2024-01-26'
+    date: '2024-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2024-08-15'
-    end_date: '2024-08-15'
+    date: '2024-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2024-10-02'
-    end_date: '2024-10-02'
+    date: '2024-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2025':
   - public_holiday: true
-    start_date: '2025-01-26'
-    end_date: '2025-01-26'
+    date: '2025-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2025-08-15'
-    end_date: '2025-08-15'
+    date: '2025-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2025-10-02'
-    end_date: '2025-10-02'
+    date: '2025-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2026':
   - public_holiday: true
-    start_date: '2026-01-26'
-    end_date: '2026-01-26'
+    date: '2026-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2026-08-15'
-    end_date: '2026-08-15'
+    date: '2026-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2026-10-02'
-    end_date: '2026-10-02'
+    date: '2026-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2027':
   - public_holiday: true
-    start_date: '2027-01-26'
-    end_date: '2027-01-26'
+    date: '2027-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2027-08-15'
-    end_date: '2027-08-15'
+    date: '2027-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2027-10-02'
-    end_date: '2027-10-02'
+    date: '2027-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2028':
   - public_holiday: true
-    start_date: '2028-01-26'
-    end_date: '2028-01-26'
+    date: '2028-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2028-08-15'
-    end_date: '2028-08-15'
+    date: '2028-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2028-10-02'
-    end_date: '2028-10-02'
+    date: '2028-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2029':
   - public_holiday: true
-    start_date: '2029-01-26'
-    end_date: '2029-01-26'
+    date: '2029-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2029-08-15'
-    end_date: '2029-08-15'
+    date: '2029-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2029-10-02'
-    end_date: '2029-10-02'
+    date: '2029-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti
   '2030':
   - public_holiday: true
-    start_date: '2030-01-26'
-    end_date: '2030-01-26'
+    date: '2030-01-26'
     names:
       en: Republic Day
       hi: Republic Day
   - public_holiday: true
-    start_date: '2030-08-15'
-    end_date: '2030-08-15'
+    date: '2030-08-15'
     names:
       en: Independence Day
       hi: Independence Day
   - public_holiday: true
-    start_date: '2030-10-02'
-    end_date: '2030-10-02'
+    date: '2030-10-02'
     names:
       en: Gandhi Jayanti
       hi: Gandhi Jayanti

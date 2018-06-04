@@ -1,0 +1,79 @@
+---
+name: Taiwan (all)
+years:
+  '2018':
+  - public_holiday: true
+    date: '2018-01-01'
+    names:
+      en: New Year's Day
+      zh: New Year's Day
+  - public_holiday: true
+    date: '2018-02-15'
+    names:
+      en: Chinese New Year Eve
+      zh: Chinese New Year Eve
+  - public_holiday: true
+    date: '2018-02-16'
+    names:
+      en: Chinese New Year
+      zh: Chinese New Year
+  - public_holiday: true
+    date: '2018-02-17'
+    names:
+      en: Chinese New Year Holiday
+      zh: Chinese New Year Holiday
+  - public_holiday: true
+    date: '2018-02-18'
+    names:
+      en: Chinese New Year Holiday
+      zh: Chinese New Year Holiday
+  - public_holiday: true
+    date: '2018-02-19'
+    names:
+      en: Chinese New Year Holiday
+      zh: Chinese New Year Holiday
+  - public_holiday: true
+    date: '2018-02-20'
+    names:
+      en: Chinese New Year Holiday
+      zh: Chinese New Year Holiday
+  - public_holiday: true
+    date: '2018-02-28'
+    names:
+      en: Peace Memorial Day
+      zh: Peace Memorial Day
+  - public_holiday: true
+    date: '2018-04-04'
+    names:
+      en: Children's Day
+      zh: Childrens Day
+  - public_holiday: true
+    date: '2018-04-05'
+    names:
+      en: Tomb Sweeping Day
+      zh: Tomb Sweeping Day
+  - public_holiday: true
+    date: '2018-04-06'
+    names:
+      en: Tomb Sweeping Day Holiday
+      zh: Tomb Sweeping Day Holiday
+  - public_holiday: true
+    date: '2018-06-18'
+    names:
+      en: Tuen Ng Festival
+      zh: Dragon Boat Festival
+  - public_holiday: true
+    date: '2018-09-24'
+    names:
+      en: Mid Autumn Festival
+      zh: Mid Autumn Festival
+  - public_holiday: true
+    date: '2018-10-10'
+    names:
+      en: National Day
+      zh: National Day
+  - public_holiday: true
+    date: '2018-12-31'
+    names:
+      en: Republic Day Holiday
+      zh: Republic Day Holiday

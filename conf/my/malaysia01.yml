@@ -3,147 +3,123 @@ name: Malaysia (all)
 years:
   '2017':
   - public_holiday: true
-    start_date: '2017-01-28'
-    end_date: '2017-01-28'
+    date: '2017-01-28'
     names:
       en: Chinese New Year
       ms: Chinese New Year
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: Labour Day
       ms: Labour Day
   - public_holiday: true
-    start_date: '2017-05-10'
-    end_date: '2017-05-10'
+    date: '2017-05-10'
     names:
       en: Wesak Day
       ms: Wesak Day
   - public_holiday: true
-    start_date: '2017-06-03'
-    end_date: '2017-06-03'
+    date: '2017-06-03'
     names:
       en: Birthday of SPB Yang di Pertuan Agong
       ms: Birthday of SPB Yang di Pertuan Agong
   - public_holiday: true
-    start_date: '2017-06-25'
-    end_date: '2017-06-25'
+    date: '2017-06-25'
     names:
       en: Hari Raya Aidilfitri
       ms: Hari Raya Aidilfitri
   - public_holiday: true
-    start_date: '2017-06-26'
-    end_date: '2017-06-26'
+    date: '2017-06-26'
     names:
       en: Hari Raya Aidilfitri Holiday
       ms: Hari Raya Aidilfitri Holiday
   - public_holiday: true
-    start_date: '2017-08-31'
-    end_date: '2017-08-31'
+    date: '2017-08-31'
     names:
       en: National Day
       ms: National Day
   - public_holiday: true
-    start_date: '2017-09-01'
-    end_date: '2017-09-01'
+    date: '2017-09-01'
     names:
       en: Hari Raya Haji
       ms: Hari Raya Haji
   - public_holiday: true
-    start_date: '2017-09-16'
-    end_date: '2017-09-16'
+    date: '2017-09-16'
     names:
       en: Malaysia Day
       ms: Malaysia Day
   - public_holiday: true
-    start_date: '2017-09-22'
-    end_date: '2017-09-22'
+    date: '2017-09-22'
     names:
       en: Awal Muharram
       ms: Awal Muharram
   - public_holiday: true
-    start_date: '2017-12-01'
-    end_date: '2017-12-01'
+    date: '2017-12-01'
     names:
       en: Mawlid
       ms: Mawlid
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
       ms: Christmas Day
   - public_holiday: true
-    start_date: '2017-02-16'
-    end_date: '2017-02-16'
+    date: '2017-02-16'
     names:
       en: Chinese New Year
       ms: Chinese New Year
   '2018':
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: Labour Day
       ms: Labour Day
   - public_holiday: true
-    start_date: '2018-05-29'
-    end_date: '2018-05-29'
+    date: '2018-05-29'
     names:
       en: Wesak Day
       ms: Wesak Day
   - public_holiday: true
-    start_date: '2018-06-02'
-    end_date: '2018-06-02'
+    date: '2018-06-02'
     names:
       en: Birthday of SPB Yang di Pertuan Agong
       ms: Birthday of SPB Yang di Pertuan Agong
   - public_holiday: true
-    start_date: '2018-06-15'
-    end_date: '2018-06-15'
+    date: '2018-06-15'
     names:
       en: Hari Raya Puasa
       ms: Hari Raya Puasa
   - public_holiday: true
-    start_date: '2018-06-16'
-    end_date: '2018-06-16'
+    date: '2018-06-16'
     names:
       en: Hari Raya Puasa Holiday
       ms: Hari Raya Puasa Holiday
   - public_holiday: true
-    start_date: '2018-08-31'
-    end_date: '2018-08-31'
+    date: '2018-08-31'
     names:
       en: National Day
       ms: National Day
   - public_holiday: true
-    start_date: '2018-09-11'
-    end_date: '2018-09-11'
+    date: '2018-09-11'
     names:
       en: Awal Muharram
       ms: Awal Muharram
   - public_holiday: true
-    start_date: '2018-09-16'
-    end_date: '2018-09-16'
+    date: '2018-09-16'
     names:
       en: Malaysia Day
       ms: Malaysia Day
   - public_holiday: true
-    start_date: '2018-09-21'
-    end_date: '2018-09-21'
+    date: '2018-09-21'
     names:
       en: Hari Raya Haji
       ms: Hari Raya Haji
   - public_holiday: true
-    start_date: '2018-11-20'
-    end_date: '2018-11-20'
+    date: '2018-11-20'
     names:
       en: Maulidur Rasul
       ms: Maulidur Rasul
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas Day
       ms: Christmas Day

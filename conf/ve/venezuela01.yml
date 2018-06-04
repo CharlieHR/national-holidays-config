@@ -3,159 +3,133 @@ name: Venezuela
 years:
   '2017':
   - public_holiday: true
-    start_date: '2017-01-01'
-    end_date: '2017-01-01'
+    date: '2017-01-01'
     names:
       en: New Year's Day
       es: New Year's Day
   - public_holiday: true
-    start_date: '2017-02-27'
-    end_date: '2017-02-27'
+    date: '2017-02-27'
     names:
       en: Carnival
       es: Carnival
   - public_holiday: true
-    start_date: '2017-02-28'
-    end_date: '2017-02-28'
+    date: '2017-02-28'
     names:
       en: Carnival
       es: Carnival
   - public_holiday: true
-    start_date: '2017-04-13'
-    end_date: '2017-04-13'
+    date: '2017-04-13'
     names:
       en: Maundy Thursday
       es: Maundy Thursday
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Good Friday
       es: Good Friday
   - public_holiday: true
-    start_date: '2017-04-19'
-    end_date: '2017-04-19'
+    date: '2017-04-19'
     names:
       en: Declaration of Independence
       es: Declaration of Independence
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: Labor Day
       es: Labor Day
   - public_holiday: true
-    start_date: '2017-06-24'
-    end_date: '2017-06-24'
+    date: '2017-06-24'
     names:
       en: Battle of Carabobo
       es: Battle of Carabobo
   - public_holiday: true
-    start_date: '2017-07-05'
-    end_date: '2017-07-05'
+    date: '2017-07-05'
     names:
       en: Independence Day
       es: Independence Day
   - public_holiday: true
-    start_date: '2017-07-24'
-    end_date: '2017-07-24'
+    date: '2017-07-24'
     names:
       en: Simon Bolivar's Day
       es: Simon Bolivar's Day
   - public_holiday: true
-    start_date: '2017-12-24'
-    end_date: '2017-12-24'
+    date: '2017-12-24'
     names:
       en: Christmas Eve
       es: Christmas Eve
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
       es: Christmas Day
   - public_holiday: true
-    start_date: '2017-12-31'
-    end_date: '2017-12-31'
+    date: '2017-12-31'
     names:
       en: Christmas Eve
       es: Christmas Eve
   '2018':
   - public_holiday: true
-    start_date: '2018-01-01'
-    end_date: '2018-01-01'
+    date: '2018-01-01'
     names:
       en: New Year's Day
       es: New Year's Day
   - public_holiday: true
-    start_date: '2018-02-12'
-    end_date: '2018-02-12'
+    date: '2018-02-12'
     names:
       en: Carnival
       es: Carnival
   - public_holiday: true
-    start_date: '2018-02-13'
-    end_date: '2018-02-13'
+    date: '2018-02-13'
     names:
       en: Carnival
       es: Carnival
   - public_holiday: true
-    start_date: '2018-03-29'
-    end_date: '2018-03-29'
+    date: '2018-03-29'
     names:
       en: Maundy Thursday
       es: Maundy Thursday
   - public_holiday: true
-    start_date: '2018-03-30'
-    end_date: '2018-03-30'
+    date: '2018-03-30'
     names:
       en: Good Friday
       es: Good Friday
   - public_holiday: true
-    start_date: '2018-04-19'
-    end_date: '2018-04-19'
+    date: '2018-04-19'
     names:
       en: Declaration of Independence
       es: Declaration of Independence
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: Labor Day
       es: Labor Day
   - public_holiday: true
-    start_date: '2018-06-24'
-    end_date: '2018-06-24'
+    date: '2018-06-24'
     names:
       en: Battle of Carabobo
       es: Battle of Carabobo
   - public_holiday: true
-    start_date: '2018-07-05'
-    end_date: '2018-07-05'
+    date: '2018-07-05'
     names:
       en: Independence Day
       es: Independence Day
   - public_holiday: true
-    start_date: '2018-07-24'
-    end_date: '2018-07-24'
+    date: '2018-07-24'
     names:
       en: Simon Bolivar's Day
       es: Simon Bolivar's Day
   - public_holiday: true
-    start_date: '2018-12-24'
-    end_date: '2018-12-24'
+    date: '2018-12-24'
     names:
       en: Christmas Eve
       es: Christmas Eve
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas Day
       es: Christmas Day
   - public_holiday: true
-    start_date: '2018-12-31'
-    end_date: '2018-12-31'
+    date: '2018-12-31'
     names:
       en: Christmas Eve
       es: Christmas Eve

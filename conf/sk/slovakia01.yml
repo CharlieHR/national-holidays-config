@@ -3,2731 +3,2281 @@ name: Slovakia (all)
 years:
   '2011':
   - public_holiday: true
-    start_date: '2011-01-01'
-    end_date: '2011-01-01'
+    date: '2011-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2011-01-06'
-    end_date: '2011-01-06'
+    date: '2011-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2011-04-22'
-    end_date: '2011-04-22'
+    date: '2011-04-22'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2011-04-25'
-    end_date: '2011-04-25'
+    date: '2011-04-25'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2011-05-01'
-    end_date: '2011-05-01'
+    date: '2011-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2011-05-08'
-    end_date: '2011-05-08'
+    date: '2011-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2011-07-05'
-    end_date: '2011-07-05'
+    date: '2011-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2011-08-29'
-    end_date: '2011-08-29'
+    date: '2011-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2011-09-01'
-    end_date: '2011-09-01'
+    date: '2011-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2011-09-15'
-    end_date: '2011-09-15'
+    date: '2011-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2011-11-01'
-    end_date: '2011-11-01'
+    date: '2011-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2011-11-17'
-    end_date: '2011-11-17'
+    date: '2011-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2011-12-24'
-    end_date: '2011-12-24'
+    date: '2011-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2011-12-25'
-    end_date: '2011-12-25'
+    date: '2011-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2011-12-26'
-    end_date: '2011-12-26'
+    date: '2011-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2012':
   - public_holiday: true
-    start_date: '2012-01-01'
-    end_date: '2012-01-01'
+    date: '2012-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2012-01-06'
-    end_date: '2012-01-06'
+    date: '2012-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2012-04-06'
-    end_date: '2012-04-06'
+    date: '2012-04-06'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2012-04-09'
-    end_date: '2012-04-09'
+    date: '2012-04-09'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2012-05-01'
-    end_date: '2012-05-01'
+    date: '2012-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2012-05-08'
-    end_date: '2012-05-08'
+    date: '2012-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2012-07-05'
-    end_date: '2012-07-05'
+    date: '2012-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2012-08-29'
-    end_date: '2012-08-29'
+    date: '2012-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2012-09-01'
-    end_date: '2012-09-01'
+    date: '2012-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2012-09-15'
-    end_date: '2012-09-15'
+    date: '2012-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2012-11-01'
-    end_date: '2012-11-01'
+    date: '2012-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2012-11-17'
-    end_date: '2012-11-17'
+    date: '2012-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2012-12-24'
-    end_date: '2012-12-24'
+    date: '2012-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2012-12-25'
-    end_date: '2012-12-25'
+    date: '2012-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2012-12-26'
-    end_date: '2012-12-26'
+    date: '2012-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2013':
   - public_holiday: true
-    start_date: '2013-01-01'
-    end_date: '2013-01-01'
+    date: '2013-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2013-01-06'
-    end_date: '2013-01-06'
+    date: '2013-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2013-03-29'
-    end_date: '2013-03-29'
+    date: '2013-03-29'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2013-04-01'
-    end_date: '2013-04-01'
+    date: '2013-04-01'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2013-05-01'
-    end_date: '2013-05-01'
+    date: '2013-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2013-05-08'
-    end_date: '2013-05-08'
+    date: '2013-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2013-07-05'
-    end_date: '2013-07-05'
+    date: '2013-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2013-08-29'
-    end_date: '2013-08-29'
+    date: '2013-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2013-09-01'
-    end_date: '2013-09-01'
+    date: '2013-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2013-09-15'
-    end_date: '2013-09-15'
+    date: '2013-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2013-11-01'
-    end_date: '2013-11-01'
+    date: '2013-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2013-11-17'
-    end_date: '2013-11-17'
+    date: '2013-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2013-12-24'
-    end_date: '2013-12-24'
+    date: '2013-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2013-12-25'
-    end_date: '2013-12-25'
+    date: '2013-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2013-12-26'
-    end_date: '2013-12-26'
+    date: '2013-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2014':
   - public_holiday: true
-    start_date: '2014-01-01'
-    end_date: '2014-01-01'
+    date: '2014-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2014-01-06'
-    end_date: '2014-01-06'
+    date: '2014-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2014-04-18'
-    end_date: '2014-04-18'
+    date: '2014-04-18'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2014-04-21'
-    end_date: '2014-04-21'
+    date: '2014-04-21'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2014-05-01'
-    end_date: '2014-05-01'
+    date: '2014-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2014-05-08'
-    end_date: '2014-05-08'
+    date: '2014-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2014-07-05'
-    end_date: '2014-07-05'
+    date: '2014-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2014-08-29'
-    end_date: '2014-08-29'
+    date: '2014-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2014-09-01'
-    end_date: '2014-09-01'
+    date: '2014-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2014-09-15'
-    end_date: '2014-09-15'
+    date: '2014-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2014-11-01'
-    end_date: '2014-11-01'
+    date: '2014-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2014-11-17'
-    end_date: '2014-11-17'
+    date: '2014-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2014-12-24'
-    end_date: '2014-12-24'
+    date: '2014-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2014-12-25'
-    end_date: '2014-12-25'
+    date: '2014-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2014-12-26'
-    end_date: '2014-12-26'
+    date: '2014-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2015':
   - public_holiday: true
-    start_date: '2015-01-01'
-    end_date: '2015-01-01'
+    date: '2015-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2015-01-06'
-    end_date: '2015-01-06'
+    date: '2015-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2015-04-03'
-    end_date: '2015-04-03'
+    date: '2015-04-03'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2015-04-06'
-    end_date: '2015-04-06'
+    date: '2015-04-06'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2015-05-01'
-    end_date: '2015-05-01'
+    date: '2015-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2015-05-08'
-    end_date: '2015-05-08'
+    date: '2015-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2015-07-05'
-    end_date: '2015-07-05'
+    date: '2015-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2015-08-29'
-    end_date: '2015-08-29'
+    date: '2015-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2015-09-01'
-    end_date: '2015-09-01'
+    date: '2015-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2015-09-15'
-    end_date: '2015-09-15'
+    date: '2015-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2015-11-01'
-    end_date: '2015-11-01'
+    date: '2015-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2015-11-17'
-    end_date: '2015-11-17'
+    date: '2015-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2015-12-24'
-    end_date: '2015-12-24'
+    date: '2015-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2015-12-25'
-    end_date: '2015-12-25'
+    date: '2015-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2015-12-26'
-    end_date: '2015-12-26'
+    date: '2015-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2016':
   - public_holiday: true
-    start_date: '2016-01-01'
-    end_date: '2016-01-01'
+    date: '2016-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2016-01-06'
-    end_date: '2016-01-06'
+    date: '2016-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2016-03-25'
-    end_date: '2016-03-25'
+    date: '2016-03-25'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2016-03-28'
-    end_date: '2016-03-28'
+    date: '2016-03-28'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2016-05-01'
-    end_date: '2016-05-01'
+    date: '2016-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2016-05-08'
-    end_date: '2016-05-08'
+    date: '2016-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2016-07-05'
-    end_date: '2016-07-05'
+    date: '2016-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2016-08-29'
-    end_date: '2016-08-29'
+    date: '2016-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2016-09-01'
-    end_date: '2016-09-01'
+    date: '2016-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2016-09-15'
-    end_date: '2016-09-15'
+    date: '2016-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2016-11-01'
-    end_date: '2016-11-01'
+    date: '2016-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2016-11-17'
-    end_date: '2016-11-17'
+    date: '2016-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2016-12-24'
-    end_date: '2016-12-24'
+    date: '2016-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2016-12-25'
-    end_date: '2016-12-25'
+    date: '2016-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2016-12-26'
-    end_date: '2016-12-26'
+    date: '2016-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2017':
   - public_holiday: true
-    start_date: '2017-01-01'
-    end_date: '2017-01-01'
+    date: '2017-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2017-01-06'
-    end_date: '2017-01-06'
+    date: '2017-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2017-04-17'
-    end_date: '2017-04-17'
+    date: '2017-04-17'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2017-05-08'
-    end_date: '2017-05-08'
+    date: '2017-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2017-07-05'
-    end_date: '2017-07-05'
+    date: '2017-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2017-08-29'
-    end_date: '2017-08-29'
+    date: '2017-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2017-09-01'
-    end_date: '2017-09-01'
+    date: '2017-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2017-09-15'
-    end_date: '2017-09-15'
+    date: '2017-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2017-11-01'
-    end_date: '2017-11-01'
+    date: '2017-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2017-11-17'
-    end_date: '2017-11-17'
+    date: '2017-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2017-12-24'
-    end_date: '2017-12-24'
+    date: '2017-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2017-12-26'
-    end_date: '2017-12-26'
+    date: '2017-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2018':
   - public_holiday: true
-    start_date: '2018-01-01'
-    end_date: '2018-01-01'
+    date: '2018-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2018-01-06'
-    end_date: '2018-01-06'
+    date: '2018-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2018-03-30'
-    end_date: '2018-03-30'
+    date: '2018-03-30'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2018-04-02'
-    end_date: '2018-04-02'
+    date: '2018-04-02'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2018-05-08'
-    end_date: '2018-05-08'
+    date: '2018-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2018-07-05'
-    end_date: '2018-07-05'
+    date: '2018-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2018-08-29'
-    end_date: '2018-08-29'
+    date: '2018-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2018-09-01'
-    end_date: '2018-09-01'
+    date: '2018-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2018-09-15'
-    end_date: '2018-09-15'
+    date: '2018-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2018-11-01'
-    end_date: '2018-11-01'
+    date: '2018-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2018-11-17'
-    end_date: '2018-11-17'
+    date: '2018-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2018-12-24'
-    end_date: '2018-12-24'
+    date: '2018-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2018-12-26'
-    end_date: '2018-12-26'
+    date: '2018-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2019':
   - public_holiday: true
-    start_date: '2019-01-01'
-    end_date: '2019-01-01'
+    date: '2019-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2019-01-06'
-    end_date: '2019-01-06'
+    date: '2019-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2019-04-19'
-    end_date: '2019-04-19'
+    date: '2019-04-19'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2019-04-22'
-    end_date: '2019-04-22'
+    date: '2019-04-22'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2019-05-01'
-    end_date: '2019-05-01'
+    date: '2019-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2019-05-08'
-    end_date: '2019-05-08'
+    date: '2019-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2019-07-05'
-    end_date: '2019-07-05'
+    date: '2019-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2019-08-29'
-    end_date: '2019-08-29'
+    date: '2019-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2019-09-01'
-    end_date: '2019-09-01'
+    date: '2019-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2019-09-15'
-    end_date: '2019-09-15'
+    date: '2019-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2019-11-01'
-    end_date: '2019-11-01'
+    date: '2019-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2019-11-17'
-    end_date: '2019-11-17'
+    date: '2019-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2019-12-24'
-    end_date: '2019-12-24'
+    date: '2019-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2019-12-25'
-    end_date: '2019-12-25'
+    date: '2019-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2019-12-26'
-    end_date: '2019-12-26'
+    date: '2019-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2020':
   - public_holiday: true
-    start_date: '2020-01-01'
-    end_date: '2020-01-01'
+    date: '2020-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2020-01-06'
-    end_date: '2020-01-06'
+    date: '2020-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2020-04-10'
-    end_date: '2020-04-10'
+    date: '2020-04-10'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2020-04-13'
-    end_date: '2020-04-13'
+    date: '2020-04-13'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2020-05-01'
-    end_date: '2020-05-01'
+    date: '2020-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2020-05-08'
-    end_date: '2020-05-08'
+    date: '2020-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2020-07-05'
-    end_date: '2020-07-05'
+    date: '2020-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2020-08-29'
-    end_date: '2020-08-29'
+    date: '2020-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2020-09-01'
-    end_date: '2020-09-01'
+    date: '2020-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2020-09-15'
-    end_date: '2020-09-15'
+    date: '2020-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2020-11-01'
-    end_date: '2020-11-01'
+    date: '2020-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2020-11-17'
-    end_date: '2020-11-17'
+    date: '2020-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2020-12-24'
-    end_date: '2020-12-24'
+    date: '2020-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2020-12-25'
-    end_date: '2020-12-25'
+    date: '2020-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2020-12-26'
-    end_date: '2020-12-26'
+    date: '2020-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2021':
   - public_holiday: true
-    start_date: '2021-01-01'
-    end_date: '2021-01-01'
+    date: '2021-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2021-01-06'
-    end_date: '2021-01-06'
+    date: '2021-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2021-04-02'
-    end_date: '2021-04-02'
+    date: '2021-04-02'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2021-04-05'
-    end_date: '2021-04-05'
+    date: '2021-04-05'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2021-05-01'
-    end_date: '2021-05-01'
+    date: '2021-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2021-05-08'
-    end_date: '2021-05-08'
+    date: '2021-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2021-07-05'
-    end_date: '2021-07-05'
+    date: '2021-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2021-08-29'
-    end_date: '2021-08-29'
+    date: '2021-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2021-09-01'
-    end_date: '2021-09-01'
+    date: '2021-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2021-09-15'
-    end_date: '2021-09-15'
+    date: '2021-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2021-11-01'
-    end_date: '2021-11-01'
+    date: '2021-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2021-11-17'
-    end_date: '2021-11-17'
+    date: '2021-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2021-12-24'
-    end_date: '2021-12-24'
+    date: '2021-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2021-12-25'
-    end_date: '2021-12-25'
+    date: '2021-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2021-12-26'
-    end_date: '2021-12-26'
+    date: '2021-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2022':
   - public_holiday: true
-    start_date: '2022-01-01'
-    end_date: '2022-01-01'
+    date: '2022-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2022-01-06'
-    end_date: '2022-01-06'
+    date: '2022-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2022-04-15'
-    end_date: '2022-04-15'
+    date: '2022-04-15'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2022-04-18'
-    end_date: '2022-04-18'
+    date: '2022-04-18'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2022-05-01'
-    end_date: '2022-05-01'
+    date: '2022-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2022-05-08'
-    end_date: '2022-05-08'
+    date: '2022-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2022-07-05'
-    end_date: '2022-07-05'
+    date: '2022-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2022-08-29'
-    end_date: '2022-08-29'
+    date: '2022-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2022-09-01'
-    end_date: '2022-09-01'
+    date: '2022-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2022-09-15'
-    end_date: '2022-09-15'
+    date: '2022-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2022-11-01'
-    end_date: '2022-11-01'
+    date: '2022-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2022-11-17'
-    end_date: '2022-11-17'
+    date: '2022-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2022-12-24'
-    end_date: '2022-12-24'
+    date: '2022-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2022-12-25'
-    end_date: '2022-12-25'
+    date: '2022-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2022-12-26'
-    end_date: '2022-12-26'
+    date: '2022-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2023':
   - public_holiday: true
-    start_date: '2023-01-01'
-    end_date: '2023-01-01'
+    date: '2023-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2023-01-06'
-    end_date: '2023-01-06'
+    date: '2023-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2023-04-07'
-    end_date: '2023-04-07'
+    date: '2023-04-07'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2023-04-10'
-    end_date: '2023-04-10'
+    date: '2023-04-10'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2023-05-01'
-    end_date: '2023-05-01'
+    date: '2023-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2023-05-08'
-    end_date: '2023-05-08'
+    date: '2023-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2023-07-05'
-    end_date: '2023-07-05'
+    date: '2023-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2023-08-29'
-    end_date: '2023-08-29'
+    date: '2023-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2023-09-01'
-    end_date: '2023-09-01'
+    date: '2023-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2023-09-15'
-    end_date: '2023-09-15'
+    date: '2023-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2023-11-01'
-    end_date: '2023-11-01'
+    date: '2023-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2023-11-17'
-    end_date: '2023-11-17'
+    date: '2023-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2023-12-24'
-    end_date: '2023-12-24'
+    date: '2023-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2023-12-25'
-    end_date: '2023-12-25'
+    date: '2023-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2023-12-26'
-    end_date: '2023-12-26'
+    date: '2023-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2024':
   - public_holiday: true
-    start_date: '2024-01-01'
-    end_date: '2024-01-01'
+    date: '2024-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2024-01-06'
-    end_date: '2024-01-06'
+    date: '2024-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2024-03-29'
-    end_date: '2024-03-29'
+    date: '2024-03-29'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2024-04-01'
-    end_date: '2024-04-01'
+    date: '2024-04-01'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2024-05-01'
-    end_date: '2024-05-01'
+    date: '2024-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2024-05-08'
-    end_date: '2024-05-08'
+    date: '2024-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2024-07-05'
-    end_date: '2024-07-05'
+    date: '2024-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2024-08-29'
-    end_date: '2024-08-29'
+    date: '2024-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2024-09-01'
-    end_date: '2024-09-01'
+    date: '2024-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2024-09-15'
-    end_date: '2024-09-15'
+    date: '2024-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2024-11-01'
-    end_date: '2024-11-01'
+    date: '2024-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2024-11-17'
-    end_date: '2024-11-17'
+    date: '2024-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2024-12-24'
-    end_date: '2024-12-24'
+    date: '2024-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2024-12-25'
-    end_date: '2024-12-25'
+    date: '2024-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2024-12-26'
-    end_date: '2024-12-26'
+    date: '2024-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2025':
   - public_holiday: true
-    start_date: '2025-01-01'
-    end_date: '2025-01-01'
+    date: '2025-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2025-01-06'
-    end_date: '2025-01-06'
+    date: '2025-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2025-04-18'
-    end_date: '2025-04-18'
+    date: '2025-04-18'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2025-04-21'
-    end_date: '2025-04-21'
+    date: '2025-04-21'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2025-05-01'
-    end_date: '2025-05-01'
+    date: '2025-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2025-05-08'
-    end_date: '2025-05-08'
+    date: '2025-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2025-07-05'
-    end_date: '2025-07-05'
+    date: '2025-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2025-08-29'
-    end_date: '2025-08-29'
+    date: '2025-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2025-09-01'
-    end_date: '2025-09-01'
+    date: '2025-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2025-09-15'
-    end_date: '2025-09-15'
+    date: '2025-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2025-11-01'
-    end_date: '2025-11-01'
+    date: '2025-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2025-11-17'
-    end_date: '2025-11-17'
+    date: '2025-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2025-12-24'
-    end_date: '2025-12-24'
+    date: '2025-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2025-12-25'
-    end_date: '2025-12-25'
+    date: '2025-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2025-12-26'
-    end_date: '2025-12-26'
+    date: '2025-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2026':
   - public_holiday: true
-    start_date: '2026-01-01'
-    end_date: '2026-01-01'
+    date: '2026-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2026-01-06'
-    end_date: '2026-01-06'
+    date: '2026-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2026-04-03'
-    end_date: '2026-04-03'
+    date: '2026-04-03'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2026-04-06'
-    end_date: '2026-04-06'
+    date: '2026-04-06'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2026-05-01'
-    end_date: '2026-05-01'
+    date: '2026-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2026-05-08'
-    end_date: '2026-05-08'
+    date: '2026-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2026-07-05'
-    end_date: '2026-07-05'
+    date: '2026-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2026-08-29'
-    end_date: '2026-08-29'
+    date: '2026-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2026-09-01'
-    end_date: '2026-09-01'
+    date: '2026-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2026-09-15'
-    end_date: '2026-09-15'
+    date: '2026-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2026-11-01'
-    end_date: '2026-11-01'
+    date: '2026-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2026-11-17'
-    end_date: '2026-11-17'
+    date: '2026-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2026-12-24'
-    end_date: '2026-12-24'
+    date: '2026-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2026-12-25'
-    end_date: '2026-12-25'
+    date: '2026-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2026-12-26'
-    end_date: '2026-12-26'
+    date: '2026-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2027':
   - public_holiday: true
-    start_date: '2027-01-01'
-    end_date: '2027-01-01'
+    date: '2027-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2027-01-06'
-    end_date: '2027-01-06'
+    date: '2027-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2027-03-26'
-    end_date: '2027-03-26'
+    date: '2027-03-26'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2027-03-29'
-    end_date: '2027-03-29'
+    date: '2027-03-29'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2027-05-01'
-    end_date: '2027-05-01'
+    date: '2027-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2027-05-08'
-    end_date: '2027-05-08'
+    date: '2027-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2027-07-05'
-    end_date: '2027-07-05'
+    date: '2027-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2027-08-29'
-    end_date: '2027-08-29'
+    date: '2027-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2027-09-01'
-    end_date: '2027-09-01'
+    date: '2027-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2027-09-15'
-    end_date: '2027-09-15'
+    date: '2027-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2027-11-01'
-    end_date: '2027-11-01'
+    date: '2027-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2027-11-17'
-    end_date: '2027-11-17'
+    date: '2027-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2027-12-24'
-    end_date: '2027-12-24'
+    date: '2027-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2027-12-25'
-    end_date: '2027-12-25'
+    date: '2027-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2027-12-26'
-    end_date: '2027-12-26'
+    date: '2027-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2028':
   - public_holiday: true
-    start_date: '2028-01-01'
-    end_date: '2028-01-01'
+    date: '2028-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2028-01-06'
-    end_date: '2028-01-06'
+    date: '2028-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2028-04-14'
-    end_date: '2028-04-14'
+    date: '2028-04-14'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2028-04-17'
-    end_date: '2028-04-17'
+    date: '2028-04-17'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2028-05-01'
-    end_date: '2028-05-01'
+    date: '2028-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2028-05-08'
-    end_date: '2028-05-08'
+    date: '2028-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2028-07-05'
-    end_date: '2028-07-05'
+    date: '2028-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2028-08-29'
-    end_date: '2028-08-29'
+    date: '2028-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2028-09-01'
-    end_date: '2028-09-01'
+    date: '2028-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2028-09-15'
-    end_date: '2028-09-15'
+    date: '2028-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2028-11-01'
-    end_date: '2028-11-01'
+    date: '2028-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2028-11-17'
-    end_date: '2028-11-17'
+    date: '2028-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2028-12-24'
-    end_date: '2028-12-24'
+    date: '2028-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2028-12-25'
-    end_date: '2028-12-25'
+    date: '2028-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2028-12-26'
-    end_date: '2028-12-26'
+    date: '2028-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2029':
   - public_holiday: true
-    start_date: '2029-01-01'
-    end_date: '2029-01-01'
+    date: '2029-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2029-01-06'
-    end_date: '2029-01-06'
+    date: '2029-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2029-03-30'
-    end_date: '2029-03-30'
+    date: '2029-03-30'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2029-04-02'
-    end_date: '2029-04-02'
+    date: '2029-04-02'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2029-05-01'
-    end_date: '2029-05-01'
+    date: '2029-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2029-05-08'
-    end_date: '2029-05-08'
+    date: '2029-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2029-07-05'
-    end_date: '2029-07-05'
+    date: '2029-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2029-08-29'
-    end_date: '2029-08-29'
+    date: '2029-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2029-09-01'
-    end_date: '2029-09-01'
+    date: '2029-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2029-09-15'
-    end_date: '2029-09-15'
+    date: '2029-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2029-11-01'
-    end_date: '2029-11-01'
+    date: '2029-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2029-11-17'
-    end_date: '2029-11-17'
+    date: '2029-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2029-12-24'
-    end_date: '2029-12-24'
+    date: '2029-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2029-12-25'
-    end_date: '2029-12-25'
+    date: '2029-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2029-12-26'
-    end_date: '2029-12-26'
+    date: '2029-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2030':
   - public_holiday: true
-    start_date: '2030-01-01'
-    end_date: '2030-01-01'
+    date: '2030-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2030-01-06'
-    end_date: '2030-01-06'
+    date: '2030-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2030-04-19'
-    end_date: '2030-04-19'
+    date: '2030-04-19'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2030-04-22'
-    end_date: '2030-04-22'
+    date: '2030-04-22'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2030-05-01'
-    end_date: '2030-05-01'
+    date: '2030-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2030-05-08'
-    end_date: '2030-05-08'
+    date: '2030-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2030-07-05'
-    end_date: '2030-07-05'
+    date: '2030-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2030-08-29'
-    end_date: '2030-08-29'
+    date: '2030-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2030-09-01'
-    end_date: '2030-09-01'
+    date: '2030-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2030-09-15'
-    end_date: '2030-09-15'
+    date: '2030-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2030-11-01'
-    end_date: '2030-11-01'
+    date: '2030-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2030-11-17'
-    end_date: '2030-11-17'
+    date: '2030-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2030-12-24'
-    end_date: '2030-12-24'
+    date: '2030-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2030-12-25'
-    end_date: '2030-12-25'
+    date: '2030-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2030-12-26'
-    end_date: '2030-12-26'
+    date: '2030-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2031':
   - public_holiday: true
-    start_date: '2031-01-01'
-    end_date: '2031-01-01'
+    date: '2031-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2031-01-06'
-    end_date: '2031-01-06'
+    date: '2031-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2031-04-11'
-    end_date: '2031-04-11'
+    date: '2031-04-11'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2031-04-14'
-    end_date: '2031-04-14'
+    date: '2031-04-14'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2031-05-01'
-    end_date: '2031-05-01'
+    date: '2031-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2031-05-08'
-    end_date: '2031-05-08'
+    date: '2031-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2031-07-05'
-    end_date: '2031-07-05'
+    date: '2031-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2031-08-29'
-    end_date: '2031-08-29'
+    date: '2031-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2031-09-01'
-    end_date: '2031-09-01'
+    date: '2031-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2031-09-15'
-    end_date: '2031-09-15'
+    date: '2031-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2031-11-01'
-    end_date: '2031-11-01'
+    date: '2031-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2031-11-17'
-    end_date: '2031-11-17'
+    date: '2031-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2031-12-24'
-    end_date: '2031-12-24'
+    date: '2031-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2031-12-25'
-    end_date: '2031-12-25'
+    date: '2031-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2031-12-26'
-    end_date: '2031-12-26'
+    date: '2031-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2032':
   - public_holiday: true
-    start_date: '2032-01-01'
-    end_date: '2032-01-01'
+    date: '2032-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2032-01-06'
-    end_date: '2032-01-06'
+    date: '2032-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2032-03-26'
-    end_date: '2032-03-26'
+    date: '2032-03-26'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2032-03-29'
-    end_date: '2032-03-29'
+    date: '2032-03-29'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2032-05-01'
-    end_date: '2032-05-01'
+    date: '2032-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2032-05-08'
-    end_date: '2032-05-08'
+    date: '2032-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2032-07-05'
-    end_date: '2032-07-05'
+    date: '2032-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2032-08-29'
-    end_date: '2032-08-29'
+    date: '2032-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2032-09-01'
-    end_date: '2032-09-01'
+    date: '2032-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2032-09-15'
-    end_date: '2032-09-15'
+    date: '2032-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2032-11-01'
-    end_date: '2032-11-01'
+    date: '2032-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2032-11-17'
-    end_date: '2032-11-17'
+    date: '2032-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2032-12-24'
-    end_date: '2032-12-24'
+    date: '2032-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2032-12-25'
-    end_date: '2032-12-25'
+    date: '2032-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2032-12-26'
-    end_date: '2032-12-26'
+    date: '2032-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2033':
   - public_holiday: true
-    start_date: '2033-01-01'
-    end_date: '2033-01-01'
+    date: '2033-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2033-01-06'
-    end_date: '2033-01-06'
+    date: '2033-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2033-04-15'
-    end_date: '2033-04-15'
+    date: '2033-04-15'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2033-04-18'
-    end_date: '2033-04-18'
+    date: '2033-04-18'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2033-05-01'
-    end_date: '2033-05-01'
+    date: '2033-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2033-05-08'
-    end_date: '2033-05-08'
+    date: '2033-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2033-07-05'
-    end_date: '2033-07-05'
+    date: '2033-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2033-08-29'
-    end_date: '2033-08-29'
+    date: '2033-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2033-09-01'
-    end_date: '2033-09-01'
+    date: '2033-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2033-09-15'
-    end_date: '2033-09-15'
+    date: '2033-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2033-11-01'
-    end_date: '2033-11-01'
+    date: '2033-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2033-11-17'
-    end_date: '2033-11-17'
+    date: '2033-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2033-12-24'
-    end_date: '2033-12-24'
+    date: '2033-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2033-12-25'
-    end_date: '2033-12-25'
+    date: '2033-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2033-12-26'
-    end_date: '2033-12-26'
+    date: '2033-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2034':
   - public_holiday: true
-    start_date: '2034-01-01'
-    end_date: '2034-01-01'
+    date: '2034-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2034-01-06'
-    end_date: '2034-01-06'
+    date: '2034-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2034-04-07'
-    end_date: '2034-04-07'
+    date: '2034-04-07'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2034-04-10'
-    end_date: '2034-04-10'
+    date: '2034-04-10'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2034-05-01'
-    end_date: '2034-05-01'
+    date: '2034-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2034-05-08'
-    end_date: '2034-05-08'
+    date: '2034-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2034-07-05'
-    end_date: '2034-07-05'
+    date: '2034-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2034-08-29'
-    end_date: '2034-08-29'
+    date: '2034-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2034-09-01'
-    end_date: '2034-09-01'
+    date: '2034-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2034-09-15'
-    end_date: '2034-09-15'
+    date: '2034-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2034-11-01'
-    end_date: '2034-11-01'
+    date: '2034-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2034-11-17'
-    end_date: '2034-11-17'
+    date: '2034-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2034-12-24'
-    end_date: '2034-12-24'
+    date: '2034-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2034-12-25'
-    end_date: '2034-12-25'
+    date: '2034-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2034-12-26'
-    end_date: '2034-12-26'
+    date: '2034-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2035':
   - public_holiday: true
-    start_date: '2035-01-01'
-    end_date: '2035-01-01'
+    date: '2035-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2035-01-06'
-    end_date: '2035-01-06'
+    date: '2035-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2035-03-23'
-    end_date: '2035-03-23'
+    date: '2035-03-23'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2035-03-26'
-    end_date: '2035-03-26'
+    date: '2035-03-26'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2035-05-01'
-    end_date: '2035-05-01'
+    date: '2035-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2035-05-08'
-    end_date: '2035-05-08'
+    date: '2035-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2035-07-05'
-    end_date: '2035-07-05'
+    date: '2035-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2035-08-29'
-    end_date: '2035-08-29'
+    date: '2035-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2035-09-01'
-    end_date: '2035-09-01'
+    date: '2035-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2035-09-15'
-    end_date: '2035-09-15'
+    date: '2035-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2035-11-01'
-    end_date: '2035-11-01'
+    date: '2035-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2035-11-17'
-    end_date: '2035-11-17'
+    date: '2035-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2035-12-24'
-    end_date: '2035-12-24'
+    date: '2035-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2035-12-25'
-    end_date: '2035-12-25'
+    date: '2035-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2035-12-26'
-    end_date: '2035-12-26'
+    date: '2035-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2036':
   - public_holiday: true
-    start_date: '2036-01-01'
-    end_date: '2036-01-01'
+    date: '2036-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2036-01-06'
-    end_date: '2036-01-06'
+    date: '2036-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2036-04-11'
-    end_date: '2036-04-11'
+    date: '2036-04-11'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2036-04-14'
-    end_date: '2036-04-14'
+    date: '2036-04-14'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2036-05-01'
-    end_date: '2036-05-01'
+    date: '2036-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2036-05-08'
-    end_date: '2036-05-08'
+    date: '2036-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2036-07-05'
-    end_date: '2036-07-05'
+    date: '2036-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2036-08-29'
-    end_date: '2036-08-29'
+    date: '2036-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2036-09-01'
-    end_date: '2036-09-01'
+    date: '2036-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2036-09-15'
-    end_date: '2036-09-15'
+    date: '2036-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2036-11-01'
-    end_date: '2036-11-01'
+    date: '2036-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2036-11-17'
-    end_date: '2036-11-17'
+    date: '2036-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2036-12-24'
-    end_date: '2036-12-24'
+    date: '2036-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2036-12-25'
-    end_date: '2036-12-25'
+    date: '2036-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2036-12-26'
-    end_date: '2036-12-26'
+    date: '2036-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2037':
   - public_holiday: true
-    start_date: '2037-01-01'
-    end_date: '2037-01-01'
+    date: '2037-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2037-01-06'
-    end_date: '2037-01-06'
+    date: '2037-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2037-04-03'
-    end_date: '2037-04-03'
+    date: '2037-04-03'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2037-04-06'
-    end_date: '2037-04-06'
+    date: '2037-04-06'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2037-05-01'
-    end_date: '2037-05-01'
+    date: '2037-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2037-05-08'
-    end_date: '2037-05-08'
+    date: '2037-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2037-07-05'
-    end_date: '2037-07-05'
+    date: '2037-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2037-08-29'
-    end_date: '2037-08-29'
+    date: '2037-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2037-09-01'
-    end_date: '2037-09-01'
+    date: '2037-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2037-09-15'
-    end_date: '2037-09-15'
+    date: '2037-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2037-11-01'
-    end_date: '2037-11-01'
+    date: '2037-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2037-11-17'
-    end_date: '2037-11-17'
+    date: '2037-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2037-12-24'
-    end_date: '2037-12-24'
+    date: '2037-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2037-12-25'
-    end_date: '2037-12-25'
+    date: '2037-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2037-12-26'
-    end_date: '2037-12-26'
+    date: '2037-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2038':
   - public_holiday: true
-    start_date: '2038-01-01'
-    end_date: '2038-01-01'
+    date: '2038-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2038-01-06'
-    end_date: '2038-01-06'
+    date: '2038-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2038-04-23'
-    end_date: '2038-04-23'
+    date: '2038-04-23'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2038-04-26'
-    end_date: '2038-04-26'
+    date: '2038-04-26'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2038-05-01'
-    end_date: '2038-05-01'
+    date: '2038-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2038-05-08'
-    end_date: '2038-05-08'
+    date: '2038-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2038-07-05'
-    end_date: '2038-07-05'
+    date: '2038-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2038-08-29'
-    end_date: '2038-08-29'
+    date: '2038-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2038-09-01'
-    end_date: '2038-09-01'
+    date: '2038-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2038-09-15'
-    end_date: '2038-09-15'
+    date: '2038-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2038-11-01'
-    end_date: '2038-11-01'
+    date: '2038-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2038-11-17'
-    end_date: '2038-11-17'
+    date: '2038-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2038-12-24'
-    end_date: '2038-12-24'
+    date: '2038-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2038-12-25'
-    end_date: '2038-12-25'
+    date: '2038-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2038-12-26'
-    end_date: '2038-12-26'
+    date: '2038-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2039':
   - public_holiday: true
-    start_date: '2039-01-01'
-    end_date: '2039-01-01'
+    date: '2039-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2039-01-06'
-    end_date: '2039-01-06'
+    date: '2039-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2039-04-08'
-    end_date: '2039-04-08'
+    date: '2039-04-08'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2039-04-11'
-    end_date: '2039-04-11'
+    date: '2039-04-11'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2039-05-01'
-    end_date: '2039-05-01'
+    date: '2039-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2039-05-08'
-    end_date: '2039-05-08'
+    date: '2039-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2039-07-05'
-    end_date: '2039-07-05'
+    date: '2039-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2039-08-29'
-    end_date: '2039-08-29'
+    date: '2039-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2039-09-01'
-    end_date: '2039-09-01'
+    date: '2039-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2039-09-15'
-    end_date: '2039-09-15'
+    date: '2039-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2039-11-01'
-    end_date: '2039-11-01'
+    date: '2039-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2039-11-17'
-    end_date: '2039-11-17'
+    date: '2039-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2039-12-24'
-    end_date: '2039-12-24'
+    date: '2039-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2039-12-25'
-    end_date: '2039-12-25'
+    date: '2039-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2039-12-26'
-    end_date: '2039-12-26'
+    date: '2039-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný
   '2040':
   - public_holiday: true
-    start_date: '2040-01-01'
-    end_date: '2040-01-01'
+    date: '2040-01-01'
     names:
       en: Day of the Establishment of the Slovak Republic
       sk: Deň vzniku Slovenskej republiky
   - public_holiday: true
-    start_date: '2040-01-06'
-    end_date: '2040-01-06'
+    date: '2040-01-06'
     names:
       en: Epiphany (The Three Magi and Christmas Day of Orthododox Christians)
       sk: Zjavenie Pána (Traja králi a vianočný sviatok pravoslávnych kresťanov)
   - public_holiday: true
-    start_date: '2040-03-30'
-    end_date: '2040-03-30'
+    date: '2040-03-30'
     names:
       en: Good Friday
       sk: Veľký piatok
   - public_holiday: true
-    start_date: '2040-04-02'
-    end_date: '2040-04-02'
+    date: '2040-04-02'
     names:
       en: Easter Monday
       sk: Veľkonočný pondelok
   - public_holiday: true
-    start_date: '2040-05-01'
-    end_date: '2040-05-01'
+    date: '2040-05-01'
     names:
       en: International Workers' Day
       sk: Sviatok práce
   - public_holiday: true
-    start_date: '2040-05-08'
-    end_date: '2040-05-08'
+    date: '2040-05-08'
     names:
       en: Day of Victory over Fascism
       sk: Deň víťazstva nad fašizmom
   - public_holiday: true
-    start_date: '2040-07-05'
-    end_date: '2040-07-05'
+    date: '2040-07-05'
     names:
       en: St. Cyril and Methodius Day
       sk: Sviatok svätého Cyrila a svätého Metoda
   - public_holiday: true
-    start_date: '2040-08-29'
-    end_date: '2040-08-29'
+    date: '2040-08-29'
     names:
       en: Slovak National Uprising Anniversary
       sk: Výročie Slovenského národného povstania
   - public_holiday: true
-    start_date: '2040-09-01'
-    end_date: '2040-09-01'
+    date: '2040-09-01'
     names:
       en: Day of the Constitution of the Slovak Republic
       sk: Deň Ústavy Slovenskej republiky
   - public_holiday: true
-    start_date: '2040-09-15'
-    end_date: '2040-09-15'
+    date: '2040-09-15'
     names:
       en: Day of Blessed Virgin Mary, Patron Saint of Slovakia
       sk: Sedembolestná Panna Mária
   - public_holiday: true
-    start_date: '2040-11-01'
-    end_date: '2040-11-01'
+    date: '2040-11-01'
     names:
       en: All Saints’ Day
       sk: Sviatok všetkých svätých
   - public_holiday: true
-    start_date: '2040-11-17'
-    end_date: '2040-11-17'
+    date: '2040-11-17'
     names:
       en: Struggle for Freedom and Democracy Day
       sk: Deň boja za slobodu a demokraciu
   - public_holiday: true
-    start_date: '2040-12-24'
-    end_date: '2040-12-24'
+    date: '2040-12-24'
     names:
       en: Christmas Eve
       sk: Štedrý deň
   - public_holiday: true
-    start_date: '2040-12-25'
-    end_date: '2040-12-25'
+    date: '2040-12-25'
     names:
       en: Christmas Day
       sk: Prvý sviatok vianočný
   - public_holiday: true
-    start_date: '2040-12-26'
-    end_date: '2040-12-26'
+    date: '2040-12-26'
     names:
       en: St. Stephen's Day
       sk: Druhý sviatok vianočný

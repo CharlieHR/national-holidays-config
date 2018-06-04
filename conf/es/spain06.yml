@@ -3,92 +3,77 @@ name: Bilbao
 years:
   '2017':
   - public_holiday: true
-    start_date: '2017-01-01'
-    end_date: '2017-01-01'
+    date: '2017-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
   - public_holiday: true
-    start_date: '2017-01-06'
-    end_date: '2017-01-06'
+    date: '2017-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
   - public_holiday: true
-    start_date: '2017-04-13'
-    end_date: '2017-04-13'
+    date: '2017-04-13'
     names:
       en: Good Thursday
       es: Jueves Santo
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Good Friday
       es: Viernes Santo
   - public_holiday: true
-    start_date: '2017-04-17'
-    end_date: '2017-04-17'
+    date: '2017-04-17'
     names:
       en: Good Monday
       es: Lunes de Pascua
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
   - public_holiday: true
-    start_date: '2017-07-25'
-    end_date: '2017-07-25'
+    date: '2017-07-25'
     names:
       en: Santiago Apóstol
       es: Santiago Apóstol
   - public_holiday: true
-    start_date: '2017-07-31'
-    end_date: '2017-07-31'
+    date: '2017-07-31'
     names:
       en: St. Ignacio
       es: San Ignacio
   - public_holiday: true
-    start_date: '2017-08-15'
-    end_date: '2017-08-15'
+    date: '2017-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
   - public_holiday: true
-    start_date: '2017-08-25'
-    end_date: '2017-08-25'
+    date: '2017-08-25'
     names:
       en: Friday of the Great Week
       es: Viernes de la Semana Grande
   - public_holiday: true
-    start_date: '2017-10-12'
-    end_date: '2017-10-12'
+    date: '2017-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
   - public_holiday: true
-    start_date: '2017-11-01'
-    end_date: '2017-11-01'
+    date: '2017-11-01'
     names:
       en: All Saints
       es: Todos los Santos
   - public_holiday: true
-    start_date: '2017-12-06'
-    end_date: '2017-12-06'
+    date: '2017-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
   - public_holiday: true
-    start_date: '2017-12-08'
-    end_date: '2017-12-08'
+    date: '2017-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
       es: Dia de Navidad

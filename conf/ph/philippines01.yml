@@ -1,0 +1,94 @@
+---
+name: Philippines (all)
+years:
+  '2018':
+  - public_holiday: true
+    date: '2018-01-01'
+    names:
+      en: New Year's Day
+      tl: New Year's Day
+  - public_holiday: true
+    date: '2018-02-16'
+    names:
+      en: Chinese New Year
+      tl: Chinese New Year
+  - public_holiday: true
+    date: '2018-02-25'
+    names:
+      en: EDSA People Power Revolution Anniversary
+      tl: EDSA People Power Revolution Anniversary
+  - public_holiday: true
+    date: '2018-03-29'
+    names:
+      en: Maundy Thursday
+      tl: Maundy Thursday
+  - public_holiday: true
+    date: '2018-03-30'
+    names:
+      en: Good Friday
+      tl: Good Friday
+  - public_holiday: true
+    date: '2018-03-31'
+    names:
+      en: Black Saturday
+      tl: Black Saturday
+  - public_holiday: true
+    date: '2018-04-09'
+    names:
+      en: Araw ng Kagitingan
+      tl: Araw ng Kagitingan
+  - public_holiday: true
+    date: '2018-05-01'
+    names:
+      en: Labor Day
+      tl: Labour Day
+  - public_holiday: true
+    date: '2018-06-12'
+    names:
+      en: Independence Day
+      tl: Independence Day
+  - public_holiday: true
+    date: '2018-08-21'
+    names:
+      en: Ninoy Aquino Day
+      tl: Ninoy Aquino Day
+  - public_holiday: true
+    date: '2018-08-27'
+    names:
+      en: National Heroes Day
+      tl: National Heroes Day
+  - public_holiday: true
+    date: '2018-11-01'
+    names:
+      en: All Saints Day
+      tl: All Saints Day
+  - public_holiday: true
+    date: '2018-11-02'
+    names:
+      en: Non-working day
+      tl: Non-working day
+  - public_holiday: true
+    date: '2018-11-30'
+    names:
+      en: Bonifacio Day
+      tl: Bonifacio Day
+  - public_holiday: true
+    date: '2018-12-24'
+    names:
+      en: Non-working day
+      tl: Non-working day
+  - public_holiday: true
+    date: '2018-12-25'
+    names:
+      en: Christmas Day
+      tl: Christmas Day
+  - public_holiday: true
+    date: '2018-12-30'
+    names:
+      en: Rizal Day
+      tl: Rizal Day
+  - public_holiday: true
+    date: '2018-12-31'
+    names:
+      en: Last Day of the Year
+      tl: Last Day of the Year

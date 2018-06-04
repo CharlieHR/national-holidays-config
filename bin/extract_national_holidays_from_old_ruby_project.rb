@@ -29,11 +29,15 @@ Dir.chdir config_directory do
 
         region_config.regional_national_holidays.each do |national_holiday|
           year = national_holiday.start_date.year.to_s
+
+          if national_holiday.start_date != national_holiday.end_date
+            abort "Holiday #{[country_code, region_code, national_holiday.english_name].join(' > ')} has a different start and end date"
+          end
+
           config['years'][year] ||= []
           config['years'][year] << {
             'public_holiday' => true,
-            'start_date' => national_holiday.start_date.strftime('%Y-%m-%d'),
-            'end_date' => national_holiday.end_date.strftime('%Y-%m-%d'),
+            'date' => national_holiday.start_date.strftime('%Y-%m-%d'),
             'names' => {
               'en' => national_holiday.english_name,
               local_language_code => national_holiday.local_name

@@ -3,511 +3,427 @@ name: Andalucía
 years:
   '2015':
   - public_holiday: true
-    start_date: '2015-01-01'
-    end_date: '2015-01-01'
+    date: '2015-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
   - public_holiday: true
-    start_date: '2015-01-06'
-    end_date: '2015-01-06'
+    date: '2015-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
   - public_holiday: true
-    start_date: '2015-02-28'
-    end_date: '2015-02-28'
+    date: '2015-02-28'
     names:
       en: Andalucia's Day
       es: Día de Andalucía
   - public_holiday: true
-    start_date: '2015-04-02'
-    end_date: '2015-04-02'
+    date: '2015-04-02'
     names:
       en: Good Thursday
       es: Jueves Santo
   - public_holiday: true
-    start_date: '2015-04-03'
-    end_date: '2015-04-03'
+    date: '2015-04-03'
     names:
       en: Good Friday
       es: Viernes Santo
   - public_holiday: true
-    start_date: '2015-04-06'
-    end_date: '2015-04-06'
+    date: '2015-04-06'
     names:
       en: Good Monday
       es: Lunes de Pascua
   - public_holiday: true
-    start_date: '2015-05-01'
-    end_date: '2015-05-01'
+    date: '2015-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
   - public_holiday: true
-    start_date: '2015-06-24'
-    end_date: '2015-06-24'
+    date: '2015-06-24'
     names:
       en: St. Joseph's
       es: San Juan
   - public_holiday: true
-    start_date: '2015-08-15'
-    end_date: '2015-08-15'
+    date: '2015-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
   - public_holiday: true
-    start_date: '2015-10-12'
-    end_date: '2015-10-12'
+    date: '2015-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
   - public_holiday: true
-    start_date: '2015-11-01'
-    end_date: '2015-11-01'
+    date: '2015-11-01'
     names:
       en: All Saints
       es: Todos los Santos
   - public_holiday: true
-    start_date: '2015-12-06'
-    end_date: '2015-12-06'
+    date: '2015-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
   - public_holiday: true
-    start_date: '2015-12-08'
-    end_date: '2015-12-08'
+    date: '2015-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
   - public_holiday: true
-    start_date: '2015-12-25'
-    end_date: '2015-12-25'
+    date: '2015-12-25'
     names:
       en: Christmas Day
       es: Dia de Navidad
   '2016':
   - public_holiday: true
-    start_date: '2016-01-01'
-    end_date: '2016-01-01'
+    date: '2016-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
   - public_holiday: true
-    start_date: '2016-01-06'
-    end_date: '2016-01-06'
+    date: '2016-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
   - public_holiday: true
-    start_date: '2016-02-29'
-    end_date: '2016-02-29'
+    date: '2016-02-29'
     names:
       en: Andalucia's Day
       es: Día de Andalucía
   - public_holiday: true
-    start_date: '2016-03-24'
-    end_date: '2016-03-24'
+    date: '2016-03-24'
     names:
       en: Good Thursday
       es: Jueves Santo
   - public_holiday: true
-    start_date: '2016-03-25'
-    end_date: '2016-03-25'
+    date: '2016-03-25'
     names:
       en: Good Friday
       es: Viernes Santo
   - public_holiday: true
-    start_date: '2016-03-28'
-    end_date: '2016-03-28'
+    date: '2016-03-28'
     names:
       en: Good Monday
       es: Lunes de Pascua
   - public_holiday: true
-    start_date: '2016-05-02'
-    end_date: '2016-05-02'
+    date: '2016-05-02'
     names:
       en: Labour Day
       es: Día del trabajo
   - public_holiday: true
-    start_date: '2016-06-24'
-    end_date: '2016-06-24'
+    date: '2016-06-24'
     names:
       en: St. Joseph's Day
       es: San Juan
   - public_holiday: true
-    start_date: '2016-08-15'
-    end_date: '2016-08-15'
+    date: '2016-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
   - public_holiday: true
-    start_date: '2016-10-12'
-    end_date: '2016-10-12'
+    date: '2016-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
   - public_holiday: true
-    start_date: '2016-11-01'
-    end_date: '2016-11-01'
+    date: '2016-11-01'
     names:
       en: All Saints
       es: Todos los Santos
   - public_holiday: true
-    start_date: '2016-12-06'
-    end_date: '2016-12-06'
+    date: '2016-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
   - public_holiday: true
-    start_date: '2016-12-08'
-    end_date: '2016-12-08'
+    date: '2016-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
   - public_holiday: true
-    start_date: '2016-12-26'
-    end_date: '2016-12-26'
+    date: '2016-12-26'
     names:
       en: Christmas Day
       es: Dia de Navidad
   '2017':
   - public_holiday: true
-    start_date: '2017-01-01'
-    end_date: '2017-01-01'
+    date: '2017-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
   - public_holiday: true
-    start_date: '2017-01-06'
-    end_date: '2017-01-06'
+    date: '2017-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
   - public_holiday: true
-    start_date: '2017-02-28'
-    end_date: '2017-02-28'
+    date: '2017-02-28'
     names:
       en: Andalucia's Day
       es: Día de Andalucía
   - public_holiday: true
-    start_date: '2017-04-13'
-    end_date: '2017-04-13'
+    date: '2017-04-13'
     names:
       en: Good Thursday
       es: Jueves Santo
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Good Friday
       es: Viernes Santo
   - public_holiday: true
-    start_date: '2017-04-17'
-    end_date: '2017-04-17'
+    date: '2017-04-17'
     names:
       en: Good Monday
       es: Lunes de Pascua
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
   - public_holiday: true
-    start_date: '2017-06-24'
-    end_date: '2017-06-24'
+    date: '2017-06-24'
     names:
       en: St. Joseph's Day
       es: San Juan
   - public_holiday: true
-    start_date: '2017-08-15'
-    end_date: '2017-08-15'
+    date: '2017-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
   - public_holiday: true
-    start_date: '2017-10-12'
-    end_date: '2017-10-12'
+    date: '2017-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
   - public_holiday: true
-    start_date: '2017-11-01'
-    end_date: '2017-11-01'
+    date: '2017-11-01'
     names:
       en: All Saints
       es: Todos los Santos
   - public_holiday: true
-    start_date: '2017-12-06'
-    end_date: '2017-12-06'
+    date: '2017-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
   - public_holiday: true
-    start_date: '2017-12-08'
-    end_date: '2017-12-08'
+    date: '2017-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
       es: Dia de Navidad
   '2018':
   - public_holiday: true
-    start_date: '2018-01-01'
-    end_date: '2018-01-01'
+    date: '2018-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
   - public_holiday: true
-    start_date: '2018-01-06'
-    end_date: '2018-01-06'
+    date: '2018-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
   - public_holiday: true
-    start_date: '2018-02-28'
-    end_date: '2018-02-28'
+    date: '2018-02-28'
     names:
       en: Andalucia's Day
       es: Día de Andalucía
   - public_holiday: true
-    start_date: '2018-03-29'
-    end_date: '2018-03-29'
+    date: '2018-03-29'
     names:
       en: Good Thursday
       es: Jueves Santo
   - public_holiday: true
-    start_date: '2018-03-30'
-    end_date: '2018-03-30'
+    date: '2018-03-30'
     names:
       en: Good Friday
       es: Viernes Santo
   - public_holiday: true
-    start_date: '2018-04-02'
-    end_date: '2018-04-02'
+    date: '2018-04-02'
     names:
       en: Good Monday
       es: Lunes de Pascua
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
   - public_holiday: true
-    start_date: '2018-06-25'
-    end_date: '2018-06-25'
+    date: '2018-06-25'
     names:
       en: St. Joseph's Day
       es: San Juan
   - public_holiday: true
-    start_date: '2018-08-15'
-    end_date: '2018-08-15'
+    date: '2018-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
   - public_holiday: true
-    start_date: '2018-10-12'
-    end_date: '2018-10-12'
+    date: '2018-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
   - public_holiday: true
-    start_date: '2018-11-01'
-    end_date: '2018-11-01'
+    date: '2018-11-01'
     names:
       en: All Saints
       es: Todos los Santos
   - public_holiday: true
-    start_date: '2018-12-06'
-    end_date: '2018-12-06'
+    date: '2018-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
   - public_holiday: true
-    start_date: '2018-12-08'
-    end_date: '2018-12-08'
+    date: '2018-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas Day
       es: Dia de Navidad
   '2019':
   - public_holiday: true
-    start_date: '2019-01-01'
-    end_date: '2019-01-01'
+    date: '2019-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
   - public_holiday: true
-    start_date: '2019-01-06'
-    end_date: '2019-01-06'
+    date: '2019-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
   - public_holiday: true
-    start_date: '2019-02-28'
-    end_date: '2019-02-28'
+    date: '2019-02-28'
     names:
       en: Andalucia's Day
       es: Día de Andalucía
   - public_holiday: true
-    start_date: '2019-04-18'
-    end_date: '2019-04-18'
+    date: '2019-04-18'
     names:
       en: Good Thursday
       es: Jueves Santo
   - public_holiday: true
-    start_date: '2019-04-19'
-    end_date: '2019-04-19'
+    date: '2019-04-19'
     names:
       en: Good Friday
       es: Viernes Santo
   - public_holiday: true
-    start_date: '2019-04-22'
-    end_date: '2019-04-22'
+    date: '2019-04-22'
     names:
       en: Good Monday
       es: Lunes de Pascua
   - public_holiday: true
-    start_date: '2019-05-01'
-    end_date: '2019-05-01'
+    date: '2019-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
   - public_holiday: true
-    start_date: '2019-06-24'
-    end_date: '2019-06-24'
+    date: '2019-06-24'
     names:
       en: St. Joseph's Day
       es: San Juan
   - public_holiday: true
-    start_date: '2019-08-15'
-    end_date: '2019-08-15'
+    date: '2019-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
   - public_holiday: true
-    start_date: '2019-10-12'
-    end_date: '2019-10-12'
+    date: '2019-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
   - public_holiday: true
-    start_date: '2019-11-01'
-    end_date: '2019-11-01'
+    date: '2019-11-01'
     names:
       en: All Saints
       es: Todos los Santos
   - public_holiday: true
-    start_date: '2019-12-06'
-    end_date: '2019-12-06'
+    date: '2019-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
   - public_holiday: true
-    start_date: '2019-12-08'
-    end_date: '2019-12-08'
+    date: '2019-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
   - public_holiday: true
-    start_date: '2019-12-25'
-    end_date: '2019-12-25'
+    date: '2019-12-25'
     names:
       en: Christmas Day
       es: Dia de Navidad
   '2020':
   - public_holiday: true
-    start_date: '2020-01-01'
-    end_date: '2020-01-01'
+    date: '2020-01-01'
     names:
       en: New Year's Day
       es: Año Nuevo
   - public_holiday: true
-    start_date: '2020-01-06'
-    end_date: '2020-01-06'
+    date: '2020-01-06'
     names:
       en: Lord's Epiphany
       es: Epifanía del Señor
   - public_holiday: true
-    start_date: '2020-02-28'
-    end_date: '2020-02-28'
+    date: '2020-02-28'
     names:
       en: Andalucia's Day
       es: Día de Andalucía
   - public_holiday: true
-    start_date: '2020-04-09'
-    end_date: '2020-04-09'
+    date: '2020-04-09'
     names:
       en: Good Thursday
       es: Jueves Santo
   - public_holiday: true
-    start_date: '2020-04-10'
-    end_date: '2020-04-10'
+    date: '2020-04-10'
     names:
       en: Good Friday
       es: Viernes Santo
   - public_holiday: true
-    start_date: '2020-04-13'
-    end_date: '2020-04-13'
+    date: '2020-04-13'
     names:
       en: Good Monday
       es: Lunes de Pascua
   - public_holiday: true
-    start_date: '2020-05-01'
-    end_date: '2020-05-01'
+    date: '2020-05-01'
     names:
       en: Labour Day
       es: Día del trabajo
   - public_holiday: true
-    start_date: '2020-06-24'
-    end_date: '2020-06-24'
+    date: '2020-06-24'
     names:
       en: St. Joseph's Day
       es: San Juan
   - public_holiday: true
-    start_date: '2020-08-15'
-    end_date: '2020-08-15'
+    date: '2020-08-15'
     names:
       en: Assumption of Mary
       es: Asunción de la Virgen
   - public_holiday: true
-    start_date: '2020-10-12'
-    end_date: '2020-10-12'
+    date: '2020-10-12'
     names:
       en: National Day of Spain
       es: Fiesta Nacional de España
   - public_holiday: true
-    start_date: '2020-11-01'
-    end_date: '2020-11-01'
+    date: '2020-11-01'
     names:
       en: All Saints
       es: Todos los Santos
   - public_holiday: true
-    start_date: '2020-12-06'
-    end_date: '2020-12-06'
+    date: '2020-12-06'
     names:
       en: Spanish Contitution's Day
       es: Día de la Constitución Española
   - public_holiday: true
-    start_date: '2020-12-08'
-    end_date: '2020-12-08'
+    date: '2020-12-08'
     names:
       en: Immaculate Conception Day
       es: Immaculada Concepción
   - public_holiday: true
-    start_date: '2020-12-25'
-    end_date: '2020-12-25'
+    date: '2020-12-25'
     names:
       en: Christmas Day
       es: Dia de Navidad

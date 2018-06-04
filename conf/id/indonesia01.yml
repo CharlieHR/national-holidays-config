@@ -3,195 +3,163 @@ name: Indonesia
 years:
   '2017':
   - public_holiday: true
-    start_date: '2017-01-01'
-    end_date: '2017-01-01'
+    date: '2017-01-01'
     names:
       en: New Year's Day
       id: New Year's Day
   - public_holiday: true
-    start_date: '2017-01-28'
-    end_date: '2017-01-28'
+    date: '2017-01-28'
     names:
       en: Chinese New Year
       id: Chinese New Year
   - public_holiday: true
-    start_date: '2017-03-28'
-    end_date: '2017-03-28'
+    date: '2017-03-28'
     names:
       en: Balinese New Year
       id: Balinese New Year
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Good Friday
       id: Good Friday
   - public_holiday: true
-    start_date: '2017-04-24'
-    end_date: '2017-04-24'
+    date: '2017-04-24'
     names:
       en: The Prophet's Ascension
       id: The Prophet's Ascension
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: Labor Day
       id: Labor Day
   - public_holiday: true
-    start_date: '2017-05-11'
-    end_date: '2017-05-11'
+    date: '2017-05-11'
     names:
       en: Buddha's Birthday
       id: Buddha's Birthday
   - public_holiday: true
-    start_date: '2017-05-25'
-    end_date: '2017-05-25'
+    date: '2017-05-25'
     names:
       en: Ascension of Jesus Christ
       id: Ascension of Jesus Christ
   - public_holiday: true
-    start_date: '2017-06-01'
-    end_date: '2017-06-01'
+    date: '2017-06-01'
     names:
       en: Pancasila Day
       id: Pancasila Day
   - public_holiday: true
-    start_date: '2017-06-25'
-    end_date: '2017-06-25'
+    date: '2017-06-25'
     names:
       en: Eid al-Fitr
       id: Eid al-Fitr
   - public_holiday: true
-    start_date: '2017-06-26'
-    end_date: '2017-06-26'
+    date: '2017-06-26'
     names:
       en: Eid al-Fitr Holiday
       id: Eid al-Fitr Holiday
   - public_holiday: true
-    start_date: '2017-08-17'
-    end_date: '2017-08-17'
+    date: '2017-08-17'
     names:
       en: Independence Day
       id: Independence Day
   - public_holiday: true
-    start_date: '2017-09-01'
-    end_date: '2017-09-01'
+    date: '2017-09-01'
     names:
       en: Eid al-Adha
       id: Eid al-Adha
   - public_holiday: true
-    start_date: '2017-09-21'
-    end_date: '2017-09-21'
+    date: '2017-09-21'
     names:
       en: Islamic New Year
       id: Islamic New Year
   - public_holiday: true
-    start_date: '2017-12-01'
-    end_date: '2017-12-01'
+    date: '2017-12-01'
     names:
       en: Prophet's Birthday
       id: Prophet's Birthday
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas
       id: Christmas
   '2018':
   - public_holiday: true
-    start_date: '2018-01-01'
-    end_date: '2018-01-01'
+    date: '2018-01-01'
     names:
       en: New Year's Day
       id: New Year's Day
   - public_holiday: true
-    start_date: '2018-02-16'
-    end_date: '2018-02-16'
+    date: '2018-02-16'
     names:
       en: Chinese New Year
       id: Chinese New Year
   - public_holiday: true
-    start_date: '2018-03-17'
-    end_date: '2018-03-17'
+    date: '2018-03-17'
     names:
       en: Balinese New Year
       id: Balinese New Year
   - public_holiday: true
-    start_date: '2018-03-30'
-    end_date: '2018-03-30'
+    date: '2018-03-30'
     names:
       en: Good Friday
       id: Good Friday
   - public_holiday: true
-    start_date: '2018-04-13'
-    end_date: '2018-04-13'
+    date: '2018-04-13'
     names:
       en: The Prophet's Ascension
       id: The Prophet's Ascension
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: Labor Day
       id: Labor Day
   - public_holiday: true
-    start_date: '2018-05-10'
-    end_date: '2018-05-10'
+    date: '2018-05-10'
     names:
       en: Ascension of Jesus Christ
       id: Ascension of Jesus Christ
   - public_holiday: true
-    start_date: '2018-05-29'
-    end_date: '2018-05-29'
+    date: '2018-05-29'
     names:
       en: Buddha's Birthday
       id: Buddha's Birthday
   - public_holiday: true
-    start_date: '2018-06-01'
-    end_date: '2018-06-01'
+    date: '2018-06-01'
     names:
       en: Pancasila Day
       id: Pancasila Day
   - public_holiday: true
-    start_date: '2018-06-15'
-    end_date: '2018-06-15'
+    date: '2018-06-15'
     names:
       en: Eid al-Fitr
       id: Eid al-Fitr
   - public_holiday: true
-    start_date: '2018-06-16'
-    end_date: '2018-06-16'
+    date: '2018-06-16'
     names:
       en: Eid al-Fitr Holiday
       id: Eid al-Fitr Holiday
   - public_holiday: true
-    start_date: '2018-08-17'
-    end_date: '2018-08-17'
+    date: '2018-08-17'
     names:
       en: Independence Day
       id: Independence Day
   - public_holiday: true
-    start_date: '2018-08-22'
-    end_date: '2018-08-22'
+    date: '2018-08-22'
     names:
       en: Eid al-Adha
       id: Eid al-Adha
   - public_holiday: true
-    start_date: '2018-09-11'
-    end_date: '2018-09-11'
+    date: '2018-09-11'
     names:
       en: Islamic New Year
       id: Islamic New Year
   - public_holiday: true
-    start_date: '2018-11-20'
-    end_date: '2018-11-20'
+    date: '2018-11-20'
     names:
       en: Prophet's Birthday
       id: Prophet's Birthday
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas
       id: Christmas

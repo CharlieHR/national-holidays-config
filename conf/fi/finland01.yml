@@ -3,2731 +3,2281 @@ name: Finland (all)
 years:
   '2011':
   - public_holiday: true
-    start_date: '2011-01-01'
-    end_date: '2011-01-01'
+    date: '2011-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2011-01-06'
-    end_date: '2011-01-06'
+    date: '2011-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2011-04-22'
-    end_date: '2011-04-22'
+    date: '2011-04-22'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2011-04-24'
-    end_date: '2011-04-24'
+    date: '2011-04-24'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2011-04-25'
-    end_date: '2011-04-25'
+    date: '2011-04-25'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2011-05-01'
-    end_date: '2011-05-01'
+    date: '2011-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2011-06-02'
-    end_date: '2011-06-02'
+    date: '2011-06-02'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2011-06-12'
-    end_date: '2011-06-12'
+    date: '2011-06-12'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2011-06-24'
-    end_date: '2011-06-24'
+    date: '2011-06-24'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2011-06-25'
-    end_date: '2011-06-25'
+    date: '2011-06-25'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2011-11-05'
-    end_date: '2011-11-05'
+    date: '2011-11-05'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2011-12-06'
-    end_date: '2011-12-06'
+    date: '2011-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2011-12-24'
-    end_date: '2011-12-24'
+    date: '2011-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2011-12-25'
-    end_date: '2011-12-25'
+    date: '2011-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2011-12-26'
-    end_date: '2011-12-26'
+    date: '2011-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2012':
   - public_holiday: true
-    start_date: '2012-01-01'
-    end_date: '2012-01-01'
+    date: '2012-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2012-01-06'
-    end_date: '2012-01-06'
+    date: '2012-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2012-04-06'
-    end_date: '2012-04-06'
+    date: '2012-04-06'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2012-04-08'
-    end_date: '2012-04-08'
+    date: '2012-04-08'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2012-04-09'
-    end_date: '2012-04-09'
+    date: '2012-04-09'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2012-05-01'
-    end_date: '2012-05-01'
+    date: '2012-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2012-05-17'
-    end_date: '2012-05-17'
+    date: '2012-05-17'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2012-05-27'
-    end_date: '2012-05-27'
+    date: '2012-05-27'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2012-06-22'
-    end_date: '2012-06-22'
+    date: '2012-06-22'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2012-06-23'
-    end_date: '2012-06-23'
+    date: '2012-06-23'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2012-11-03'
-    end_date: '2012-11-03'
+    date: '2012-11-03'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2012-12-06'
-    end_date: '2012-12-06'
+    date: '2012-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2012-12-24'
-    end_date: '2012-12-24'
+    date: '2012-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2012-12-25'
-    end_date: '2012-12-25'
+    date: '2012-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2012-12-26'
-    end_date: '2012-12-26'
+    date: '2012-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2013':
   - public_holiday: true
-    start_date: '2013-01-01'
-    end_date: '2013-01-01'
+    date: '2013-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2013-01-06'
-    end_date: '2013-01-06'
+    date: '2013-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2013-03-29'
-    end_date: '2013-03-29'
+    date: '2013-03-29'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2013-03-31'
-    end_date: '2013-03-31'
+    date: '2013-03-31'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2013-04-01'
-    end_date: '2013-04-01'
+    date: '2013-04-01'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2013-05-01'
-    end_date: '2013-05-01'
+    date: '2013-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2013-05-09'
-    end_date: '2013-05-09'
+    date: '2013-05-09'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2013-05-19'
-    end_date: '2013-05-19'
+    date: '2013-05-19'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2013-06-21'
-    end_date: '2013-06-21'
+    date: '2013-06-21'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2013-06-22'
-    end_date: '2013-06-22'
+    date: '2013-06-22'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2013-11-02'
-    end_date: '2013-11-02'
+    date: '2013-11-02'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2013-12-06'
-    end_date: '2013-12-06'
+    date: '2013-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2013-12-24'
-    end_date: '2013-12-24'
+    date: '2013-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2013-12-25'
-    end_date: '2013-12-25'
+    date: '2013-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2013-12-26'
-    end_date: '2013-12-26'
+    date: '2013-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2014':
   - public_holiday: true
-    start_date: '2014-01-01'
-    end_date: '2014-01-01'
+    date: '2014-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2014-01-06'
-    end_date: '2014-01-06'
+    date: '2014-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2014-04-18'
-    end_date: '2014-04-18'
+    date: '2014-04-18'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2014-04-20'
-    end_date: '2014-04-20'
+    date: '2014-04-20'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2014-04-21'
-    end_date: '2014-04-21'
+    date: '2014-04-21'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2014-05-01'
-    end_date: '2014-05-01'
+    date: '2014-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2014-05-29'
-    end_date: '2014-05-29'
+    date: '2014-05-29'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2014-06-08'
-    end_date: '2014-06-08'
+    date: '2014-06-08'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2014-06-20'
-    end_date: '2014-06-20'
+    date: '2014-06-20'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2014-06-21'
-    end_date: '2014-06-21'
+    date: '2014-06-21'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2014-11-01'
-    end_date: '2014-11-01'
+    date: '2014-11-01'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2014-12-06'
-    end_date: '2014-12-06'
+    date: '2014-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2014-12-24'
-    end_date: '2014-12-24'
+    date: '2014-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2014-12-25'
-    end_date: '2014-12-25'
+    date: '2014-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2014-12-26'
-    end_date: '2014-12-26'
+    date: '2014-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2015':
   - public_holiday: true
-    start_date: '2015-01-01'
-    end_date: '2015-01-01'
+    date: '2015-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2015-01-06'
-    end_date: '2015-01-06'
+    date: '2015-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2015-04-03'
-    end_date: '2015-04-03'
+    date: '2015-04-03'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2015-04-05'
-    end_date: '2015-04-05'
+    date: '2015-04-05'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2015-04-06'
-    end_date: '2015-04-06'
+    date: '2015-04-06'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2015-05-01'
-    end_date: '2015-05-01'
+    date: '2015-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2015-05-14'
-    end_date: '2015-05-14'
+    date: '2015-05-14'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2015-05-24'
-    end_date: '2015-05-24'
+    date: '2015-05-24'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2015-06-19'
-    end_date: '2015-06-19'
+    date: '2015-06-19'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2015-06-20'
-    end_date: '2015-06-20'
+    date: '2015-06-20'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2015-10-31'
-    end_date: '2015-10-31'
+    date: '2015-10-31'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2015-12-06'
-    end_date: '2015-12-06'
+    date: '2015-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2015-12-24'
-    end_date: '2015-12-24'
+    date: '2015-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2015-12-25'
-    end_date: '2015-12-25'
+    date: '2015-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2015-12-26'
-    end_date: '2015-12-26'
+    date: '2015-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2016':
   - public_holiday: true
-    start_date: '2016-01-01'
-    end_date: '2016-01-01'
+    date: '2016-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2016-01-06'
-    end_date: '2016-01-06'
+    date: '2016-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2016-03-25'
-    end_date: '2016-03-25'
+    date: '2016-03-25'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2016-03-27'
-    end_date: '2016-03-27'
+    date: '2016-03-27'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2016-03-28'
-    end_date: '2016-03-28'
+    date: '2016-03-28'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2016-05-01'
-    end_date: '2016-05-01'
+    date: '2016-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2016-05-05'
-    end_date: '2016-05-05'
+    date: '2016-05-05'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2016-05-15'
-    end_date: '2016-05-15'
+    date: '2016-05-15'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2016-06-24'
-    end_date: '2016-06-24'
+    date: '2016-06-24'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2016-06-25'
-    end_date: '2016-06-25'
+    date: '2016-06-25'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2016-11-05'
-    end_date: '2016-11-05'
+    date: '2016-11-05'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2016-12-06'
-    end_date: '2016-12-06'
+    date: '2016-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2016-12-24'
-    end_date: '2016-12-24'
+    date: '2016-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2016-12-25'
-    end_date: '2016-12-25'
+    date: '2016-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2016-12-26'
-    end_date: '2016-12-26'
+    date: '2016-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2017':
   - public_holiday: true
-    start_date: '2017-01-01'
-    end_date: '2017-01-01'
+    date: '2017-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2017-01-06'
-    end_date: '2017-01-06'
+    date: '2017-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2017-04-16'
-    end_date: '2017-04-16'
+    date: '2017-04-16'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2017-04-17'
-    end_date: '2017-04-17'
+    date: '2017-04-17'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2017-05-25'
-    end_date: '2017-05-25'
+    date: '2017-05-25'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2017-06-04'
-    end_date: '2017-06-04'
+    date: '2017-06-04'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2017-06-23'
-    end_date: '2017-06-23'
+    date: '2017-06-23'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2017-06-24'
-    end_date: '2017-06-24'
+    date: '2017-06-24'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2017-11-04'
-    end_date: '2017-11-04'
+    date: '2017-11-04'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2017-12-06'
-    end_date: '2017-12-06'
+    date: '2017-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2017-12-24'
-    end_date: '2017-12-24'
+    date: '2017-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2017-12-26'
-    end_date: '2017-12-26'
+    date: '2017-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2018':
   - public_holiday: true
-    start_date: '2018-01-01'
-    end_date: '2018-01-01'
+    date: '2018-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2018-01-06'
-    end_date: '2018-01-06'
+    date: '2018-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2018-03-30'
-    end_date: '2018-03-30'
+    date: '2018-03-30'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2018-04-01'
-    end_date: '2018-04-01'
+    date: '2018-04-01'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2018-04-02'
-    end_date: '2018-04-02'
+    date: '2018-04-02'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2018-05-10'
-    end_date: '2018-05-10'
+    date: '2018-05-10'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2018-05-20'
-    end_date: '2018-05-20'
+    date: '2018-05-20'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2018-06-22'
-    end_date: '2018-06-22'
+    date: '2018-06-22'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2018-06-23'
-    end_date: '2018-06-23'
+    date: '2018-06-23'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2018-11-03'
-    end_date: '2018-11-03'
+    date: '2018-11-03'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2018-12-06'
-    end_date: '2018-12-06'
+    date: '2018-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2018-12-24'
-    end_date: '2018-12-24'
+    date: '2018-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2018-12-26'
-    end_date: '2018-12-26'
+    date: '2018-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2019':
   - public_holiday: true
-    start_date: '2019-01-01'
-    end_date: '2019-01-01'
+    date: '2019-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2019-01-06'
-    end_date: '2019-01-06'
+    date: '2019-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2019-04-19'
-    end_date: '2019-04-19'
+    date: '2019-04-19'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2019-04-21'
-    end_date: '2019-04-21'
+    date: '2019-04-21'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2019-04-22'
-    end_date: '2019-04-22'
+    date: '2019-04-22'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2019-05-01'
-    end_date: '2019-05-01'
+    date: '2019-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2019-05-30'
-    end_date: '2019-05-30'
+    date: '2019-05-30'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2019-06-09'
-    end_date: '2019-06-09'
+    date: '2019-06-09'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2019-06-21'
-    end_date: '2019-06-21'
+    date: '2019-06-21'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2019-06-22'
-    end_date: '2019-06-22'
+    date: '2019-06-22'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2019-11-02'
-    end_date: '2019-11-02'
+    date: '2019-11-02'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2019-12-06'
-    end_date: '2019-12-06'
+    date: '2019-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2019-12-24'
-    end_date: '2019-12-24'
+    date: '2019-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2019-12-25'
-    end_date: '2019-12-25'
+    date: '2019-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2019-12-26'
-    end_date: '2019-12-26'
+    date: '2019-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2020':
   - public_holiday: true
-    start_date: '2020-01-01'
-    end_date: '2020-01-01'
+    date: '2020-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2020-01-06'
-    end_date: '2020-01-06'
+    date: '2020-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2020-04-10'
-    end_date: '2020-04-10'
+    date: '2020-04-10'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2020-04-12'
-    end_date: '2020-04-12'
+    date: '2020-04-12'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2020-04-13'
-    end_date: '2020-04-13'
+    date: '2020-04-13'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2020-05-01'
-    end_date: '2020-05-01'
+    date: '2020-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2020-05-21'
-    end_date: '2020-05-21'
+    date: '2020-05-21'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2020-05-31'
-    end_date: '2020-05-31'
+    date: '2020-05-31'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2020-06-19'
-    end_date: '2020-06-19'
+    date: '2020-06-19'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2020-06-20'
-    end_date: '2020-06-20'
+    date: '2020-06-20'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2020-10-31'
-    end_date: '2020-10-31'
+    date: '2020-10-31'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2020-12-06'
-    end_date: '2020-12-06'
+    date: '2020-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2020-12-24'
-    end_date: '2020-12-24'
+    date: '2020-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2020-12-25'
-    end_date: '2020-12-25'
+    date: '2020-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2020-12-26'
-    end_date: '2020-12-26'
+    date: '2020-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2021':
   - public_holiday: true
-    start_date: '2021-01-01'
-    end_date: '2021-01-01'
+    date: '2021-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2021-01-06'
-    end_date: '2021-01-06'
+    date: '2021-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2021-04-02'
-    end_date: '2021-04-02'
+    date: '2021-04-02'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2021-04-04'
-    end_date: '2021-04-04'
+    date: '2021-04-04'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2021-04-05'
-    end_date: '2021-04-05'
+    date: '2021-04-05'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2021-05-01'
-    end_date: '2021-05-01'
+    date: '2021-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2021-05-13'
-    end_date: '2021-05-13'
+    date: '2021-05-13'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2021-05-23'
-    end_date: '2021-05-23'
+    date: '2021-05-23'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2021-06-25'
-    end_date: '2021-06-25'
+    date: '2021-06-25'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2021-06-26'
-    end_date: '2021-06-26'
+    date: '2021-06-26'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2021-11-06'
-    end_date: '2021-11-06'
+    date: '2021-11-06'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2021-12-06'
-    end_date: '2021-12-06'
+    date: '2021-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2021-12-24'
-    end_date: '2021-12-24'
+    date: '2021-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2021-12-25'
-    end_date: '2021-12-25'
+    date: '2021-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2021-12-26'
-    end_date: '2021-12-26'
+    date: '2021-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2022':
   - public_holiday: true
-    start_date: '2022-01-01'
-    end_date: '2022-01-01'
+    date: '2022-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2022-01-06'
-    end_date: '2022-01-06'
+    date: '2022-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2022-04-15'
-    end_date: '2022-04-15'
+    date: '2022-04-15'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2022-04-17'
-    end_date: '2022-04-17'
+    date: '2022-04-17'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2022-04-18'
-    end_date: '2022-04-18'
+    date: '2022-04-18'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2022-05-01'
-    end_date: '2022-05-01'
+    date: '2022-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2022-05-26'
-    end_date: '2022-05-26'
+    date: '2022-05-26'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2022-06-05'
-    end_date: '2022-06-05'
+    date: '2022-06-05'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2022-06-24'
-    end_date: '2022-06-24'
+    date: '2022-06-24'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2022-06-25'
-    end_date: '2022-06-25'
+    date: '2022-06-25'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2022-11-05'
-    end_date: '2022-11-05'
+    date: '2022-11-05'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2022-12-06'
-    end_date: '2022-12-06'
+    date: '2022-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2022-12-24'
-    end_date: '2022-12-24'
+    date: '2022-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2022-12-25'
-    end_date: '2022-12-25'
+    date: '2022-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2022-12-26'
-    end_date: '2022-12-26'
+    date: '2022-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2023':
   - public_holiday: true
-    start_date: '2023-01-01'
-    end_date: '2023-01-01'
+    date: '2023-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2023-01-06'
-    end_date: '2023-01-06'
+    date: '2023-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2023-04-07'
-    end_date: '2023-04-07'
+    date: '2023-04-07'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2023-04-09'
-    end_date: '2023-04-09'
+    date: '2023-04-09'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2023-04-10'
-    end_date: '2023-04-10'
+    date: '2023-04-10'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2023-05-01'
-    end_date: '2023-05-01'
+    date: '2023-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2023-05-18'
-    end_date: '2023-05-18'
+    date: '2023-05-18'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2023-05-28'
-    end_date: '2023-05-28'
+    date: '2023-05-28'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2023-06-23'
-    end_date: '2023-06-23'
+    date: '2023-06-23'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2023-06-24'
-    end_date: '2023-06-24'
+    date: '2023-06-24'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2023-11-04'
-    end_date: '2023-11-04'
+    date: '2023-11-04'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2023-12-06'
-    end_date: '2023-12-06'
+    date: '2023-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2023-12-24'
-    end_date: '2023-12-24'
+    date: '2023-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2023-12-25'
-    end_date: '2023-12-25'
+    date: '2023-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2023-12-26'
-    end_date: '2023-12-26'
+    date: '2023-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2024':
   - public_holiday: true
-    start_date: '2024-01-01'
-    end_date: '2024-01-01'
+    date: '2024-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2024-01-06'
-    end_date: '2024-01-06'
+    date: '2024-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2024-03-29'
-    end_date: '2024-03-29'
+    date: '2024-03-29'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2024-03-31'
-    end_date: '2024-03-31'
+    date: '2024-03-31'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2024-04-01'
-    end_date: '2024-04-01'
+    date: '2024-04-01'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2024-05-01'
-    end_date: '2024-05-01'
+    date: '2024-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2024-05-09'
-    end_date: '2024-05-09'
+    date: '2024-05-09'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2024-05-19'
-    end_date: '2024-05-19'
+    date: '2024-05-19'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2024-06-21'
-    end_date: '2024-06-21'
+    date: '2024-06-21'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2024-06-22'
-    end_date: '2024-06-22'
+    date: '2024-06-22'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2024-11-02'
-    end_date: '2024-11-02'
+    date: '2024-11-02'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2024-12-06'
-    end_date: '2024-12-06'
+    date: '2024-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2024-12-24'
-    end_date: '2024-12-24'
+    date: '2024-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2024-12-25'
-    end_date: '2024-12-25'
+    date: '2024-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2024-12-26'
-    end_date: '2024-12-26'
+    date: '2024-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2025':
   - public_holiday: true
-    start_date: '2025-01-01'
-    end_date: '2025-01-01'
+    date: '2025-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2025-01-06'
-    end_date: '2025-01-06'
+    date: '2025-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2025-04-18'
-    end_date: '2025-04-18'
+    date: '2025-04-18'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2025-04-20'
-    end_date: '2025-04-20'
+    date: '2025-04-20'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2025-04-21'
-    end_date: '2025-04-21'
+    date: '2025-04-21'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2025-05-01'
-    end_date: '2025-05-01'
+    date: '2025-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2025-05-29'
-    end_date: '2025-05-29'
+    date: '2025-05-29'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2025-06-08'
-    end_date: '2025-06-08'
+    date: '2025-06-08'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2025-06-20'
-    end_date: '2025-06-20'
+    date: '2025-06-20'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2025-06-21'
-    end_date: '2025-06-21'
+    date: '2025-06-21'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2025-11-01'
-    end_date: '2025-11-01'
+    date: '2025-11-01'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2025-12-06'
-    end_date: '2025-12-06'
+    date: '2025-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2025-12-24'
-    end_date: '2025-12-24'
+    date: '2025-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2025-12-25'
-    end_date: '2025-12-25'
+    date: '2025-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2025-12-26'
-    end_date: '2025-12-26'
+    date: '2025-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2026':
   - public_holiday: true
-    start_date: '2026-01-01'
-    end_date: '2026-01-01'
+    date: '2026-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2026-01-06'
-    end_date: '2026-01-06'
+    date: '2026-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2026-04-03'
-    end_date: '2026-04-03'
+    date: '2026-04-03'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2026-04-05'
-    end_date: '2026-04-05'
+    date: '2026-04-05'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2026-04-06'
-    end_date: '2026-04-06'
+    date: '2026-04-06'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2026-05-01'
-    end_date: '2026-05-01'
+    date: '2026-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2026-05-14'
-    end_date: '2026-05-14'
+    date: '2026-05-14'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2026-05-24'
-    end_date: '2026-05-24'
+    date: '2026-05-24'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2026-06-19'
-    end_date: '2026-06-19'
+    date: '2026-06-19'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2026-06-20'
-    end_date: '2026-06-20'
+    date: '2026-06-20'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2026-10-31'
-    end_date: '2026-10-31'
+    date: '2026-10-31'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2026-12-06'
-    end_date: '2026-12-06'
+    date: '2026-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2026-12-24'
-    end_date: '2026-12-24'
+    date: '2026-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2026-12-25'
-    end_date: '2026-12-25'
+    date: '2026-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2026-12-26'
-    end_date: '2026-12-26'
+    date: '2026-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2027':
   - public_holiday: true
-    start_date: '2027-01-01'
-    end_date: '2027-01-01'
+    date: '2027-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2027-01-06'
-    end_date: '2027-01-06'
+    date: '2027-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2027-03-26'
-    end_date: '2027-03-26'
+    date: '2027-03-26'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2027-03-28'
-    end_date: '2027-03-28'
+    date: '2027-03-28'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2027-03-29'
-    end_date: '2027-03-29'
+    date: '2027-03-29'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2027-05-01'
-    end_date: '2027-05-01'
+    date: '2027-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2027-05-06'
-    end_date: '2027-05-06'
+    date: '2027-05-06'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2027-05-16'
-    end_date: '2027-05-16'
+    date: '2027-05-16'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2027-06-25'
-    end_date: '2027-06-25'
+    date: '2027-06-25'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2027-06-26'
-    end_date: '2027-06-26'
+    date: '2027-06-26'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2027-11-06'
-    end_date: '2027-11-06'
+    date: '2027-11-06'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2027-12-06'
-    end_date: '2027-12-06'
+    date: '2027-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2027-12-24'
-    end_date: '2027-12-24'
+    date: '2027-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2027-12-25'
-    end_date: '2027-12-25'
+    date: '2027-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2027-12-26'
-    end_date: '2027-12-26'
+    date: '2027-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2028':
   - public_holiday: true
-    start_date: '2028-01-01'
-    end_date: '2028-01-01'
+    date: '2028-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2028-01-06'
-    end_date: '2028-01-06'
+    date: '2028-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2028-04-14'
-    end_date: '2028-04-14'
+    date: '2028-04-14'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2028-04-16'
-    end_date: '2028-04-16'
+    date: '2028-04-16'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2028-04-17'
-    end_date: '2028-04-17'
+    date: '2028-04-17'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2028-05-01'
-    end_date: '2028-05-01'
+    date: '2028-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2028-05-25'
-    end_date: '2028-05-25'
+    date: '2028-05-25'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2028-06-04'
-    end_date: '2028-06-04'
+    date: '2028-06-04'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2028-06-23'
-    end_date: '2028-06-23'
+    date: '2028-06-23'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2028-06-24'
-    end_date: '2028-06-24'
+    date: '2028-06-24'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2028-11-04'
-    end_date: '2028-11-04'
+    date: '2028-11-04'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2028-12-06'
-    end_date: '2028-12-06'
+    date: '2028-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2028-12-24'
-    end_date: '2028-12-24'
+    date: '2028-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2028-12-25'
-    end_date: '2028-12-25'
+    date: '2028-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2028-12-26'
-    end_date: '2028-12-26'
+    date: '2028-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2029':
   - public_holiday: true
-    start_date: '2029-01-01'
-    end_date: '2029-01-01'
+    date: '2029-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2029-01-06'
-    end_date: '2029-01-06'
+    date: '2029-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2029-03-30'
-    end_date: '2029-03-30'
+    date: '2029-03-30'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2029-04-01'
-    end_date: '2029-04-01'
+    date: '2029-04-01'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2029-04-02'
-    end_date: '2029-04-02'
+    date: '2029-04-02'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2029-05-01'
-    end_date: '2029-05-01'
+    date: '2029-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2029-05-10'
-    end_date: '2029-05-10'
+    date: '2029-05-10'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2029-05-20'
-    end_date: '2029-05-20'
+    date: '2029-05-20'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2029-06-22'
-    end_date: '2029-06-22'
+    date: '2029-06-22'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2029-06-23'
-    end_date: '2029-06-23'
+    date: '2029-06-23'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2029-11-03'
-    end_date: '2029-11-03'
+    date: '2029-11-03'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2029-12-06'
-    end_date: '2029-12-06'
+    date: '2029-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2029-12-24'
-    end_date: '2029-12-24'
+    date: '2029-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2029-12-25'
-    end_date: '2029-12-25'
+    date: '2029-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2029-12-26'
-    end_date: '2029-12-26'
+    date: '2029-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2030':
   - public_holiday: true
-    start_date: '2030-01-01'
-    end_date: '2030-01-01'
+    date: '2030-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2030-01-06'
-    end_date: '2030-01-06'
+    date: '2030-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2030-04-19'
-    end_date: '2030-04-19'
+    date: '2030-04-19'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2030-04-21'
-    end_date: '2030-04-21'
+    date: '2030-04-21'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2030-04-22'
-    end_date: '2030-04-22'
+    date: '2030-04-22'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2030-05-01'
-    end_date: '2030-05-01'
+    date: '2030-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2030-05-30'
-    end_date: '2030-05-30'
+    date: '2030-05-30'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2030-06-09'
-    end_date: '2030-06-09'
+    date: '2030-06-09'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2030-06-21'
-    end_date: '2030-06-21'
+    date: '2030-06-21'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2030-06-22'
-    end_date: '2030-06-22'
+    date: '2030-06-22'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2030-11-02'
-    end_date: '2030-11-02'
+    date: '2030-11-02'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2030-12-06'
-    end_date: '2030-12-06'
+    date: '2030-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2030-12-24'
-    end_date: '2030-12-24'
+    date: '2030-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2030-12-25'
-    end_date: '2030-12-25'
+    date: '2030-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2030-12-26'
-    end_date: '2030-12-26'
+    date: '2030-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2031':
   - public_holiday: true
-    start_date: '2031-01-01'
-    end_date: '2031-01-01'
+    date: '2031-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2031-01-06'
-    end_date: '2031-01-06'
+    date: '2031-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2031-04-11'
-    end_date: '2031-04-11'
+    date: '2031-04-11'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2031-04-13'
-    end_date: '2031-04-13'
+    date: '2031-04-13'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2031-04-14'
-    end_date: '2031-04-14'
+    date: '2031-04-14'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2031-05-01'
-    end_date: '2031-05-01'
+    date: '2031-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2031-05-22'
-    end_date: '2031-05-22'
+    date: '2031-05-22'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2031-06-01'
-    end_date: '2031-06-01'
+    date: '2031-06-01'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2031-06-20'
-    end_date: '2031-06-20'
+    date: '2031-06-20'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2031-06-21'
-    end_date: '2031-06-21'
+    date: '2031-06-21'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2031-11-01'
-    end_date: '2031-11-01'
+    date: '2031-11-01'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2031-12-06'
-    end_date: '2031-12-06'
+    date: '2031-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2031-12-24'
-    end_date: '2031-12-24'
+    date: '2031-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2031-12-25'
-    end_date: '2031-12-25'
+    date: '2031-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2031-12-26'
-    end_date: '2031-12-26'
+    date: '2031-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2032':
   - public_holiday: true
-    start_date: '2032-01-01'
-    end_date: '2032-01-01'
+    date: '2032-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2032-01-06'
-    end_date: '2032-01-06'
+    date: '2032-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2032-03-26'
-    end_date: '2032-03-26'
+    date: '2032-03-26'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2032-03-28'
-    end_date: '2032-03-28'
+    date: '2032-03-28'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2032-03-29'
-    end_date: '2032-03-29'
+    date: '2032-03-29'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2032-05-01'
-    end_date: '2032-05-01'
+    date: '2032-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2032-05-06'
-    end_date: '2032-05-06'
+    date: '2032-05-06'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2032-05-16'
-    end_date: '2032-05-16'
+    date: '2032-05-16'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2032-06-25'
-    end_date: '2032-06-25'
+    date: '2032-06-25'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2032-06-26'
-    end_date: '2032-06-26'
+    date: '2032-06-26'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2032-11-06'
-    end_date: '2032-11-06'
+    date: '2032-11-06'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2032-12-06'
-    end_date: '2032-12-06'
+    date: '2032-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2032-12-24'
-    end_date: '2032-12-24'
+    date: '2032-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2032-12-25'
-    end_date: '2032-12-25'
+    date: '2032-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2032-12-26'
-    end_date: '2032-12-26'
+    date: '2032-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2033':
   - public_holiday: true
-    start_date: '2033-01-01'
-    end_date: '2033-01-01'
+    date: '2033-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2033-01-06'
-    end_date: '2033-01-06'
+    date: '2033-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2033-04-15'
-    end_date: '2033-04-15'
+    date: '2033-04-15'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2033-04-17'
-    end_date: '2033-04-17'
+    date: '2033-04-17'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2033-04-18'
-    end_date: '2033-04-18'
+    date: '2033-04-18'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2033-05-01'
-    end_date: '2033-05-01'
+    date: '2033-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2033-05-26'
-    end_date: '2033-05-26'
+    date: '2033-05-26'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2033-06-05'
-    end_date: '2033-06-05'
+    date: '2033-06-05'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2033-06-24'
-    end_date: '2033-06-24'
+    date: '2033-06-24'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2033-06-25'
-    end_date: '2033-06-25'
+    date: '2033-06-25'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2033-11-05'
-    end_date: '2033-11-05'
+    date: '2033-11-05'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2033-12-06'
-    end_date: '2033-12-06'
+    date: '2033-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2033-12-24'
-    end_date: '2033-12-24'
+    date: '2033-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2033-12-25'
-    end_date: '2033-12-25'
+    date: '2033-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2033-12-26'
-    end_date: '2033-12-26'
+    date: '2033-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2034':
   - public_holiday: true
-    start_date: '2034-01-01'
-    end_date: '2034-01-01'
+    date: '2034-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2034-01-06'
-    end_date: '2034-01-06'
+    date: '2034-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2034-04-07'
-    end_date: '2034-04-07'
+    date: '2034-04-07'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2034-04-09'
-    end_date: '2034-04-09'
+    date: '2034-04-09'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2034-04-10'
-    end_date: '2034-04-10'
+    date: '2034-04-10'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2034-05-01'
-    end_date: '2034-05-01'
+    date: '2034-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2034-05-18'
-    end_date: '2034-05-18'
+    date: '2034-05-18'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2034-05-28'
-    end_date: '2034-05-28'
+    date: '2034-05-28'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2034-06-23'
-    end_date: '2034-06-23'
+    date: '2034-06-23'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2034-06-24'
-    end_date: '2034-06-24'
+    date: '2034-06-24'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2034-11-04'
-    end_date: '2034-11-04'
+    date: '2034-11-04'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2034-12-06'
-    end_date: '2034-12-06'
+    date: '2034-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2034-12-24'
-    end_date: '2034-12-24'
+    date: '2034-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2034-12-25'
-    end_date: '2034-12-25'
+    date: '2034-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2034-12-26'
-    end_date: '2034-12-26'
+    date: '2034-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2035':
   - public_holiday: true
-    start_date: '2035-01-01'
-    end_date: '2035-01-01'
+    date: '2035-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2035-01-06'
-    end_date: '2035-01-06'
+    date: '2035-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2035-03-23'
-    end_date: '2035-03-23'
+    date: '2035-03-23'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2035-03-25'
-    end_date: '2035-03-25'
+    date: '2035-03-25'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2035-03-26'
-    end_date: '2035-03-26'
+    date: '2035-03-26'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2035-05-01'
-    end_date: '2035-05-01'
+    date: '2035-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2035-05-03'
-    end_date: '2035-05-03'
+    date: '2035-05-03'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2035-05-13'
-    end_date: '2035-05-13'
+    date: '2035-05-13'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2035-06-22'
-    end_date: '2035-06-22'
+    date: '2035-06-22'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2035-06-23'
-    end_date: '2035-06-23'
+    date: '2035-06-23'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2035-11-03'
-    end_date: '2035-11-03'
+    date: '2035-11-03'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2035-12-06'
-    end_date: '2035-12-06'
+    date: '2035-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2035-12-24'
-    end_date: '2035-12-24'
+    date: '2035-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2035-12-25'
-    end_date: '2035-12-25'
+    date: '2035-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2035-12-26'
-    end_date: '2035-12-26'
+    date: '2035-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2036':
   - public_holiday: true
-    start_date: '2036-01-01'
-    end_date: '2036-01-01'
+    date: '2036-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2036-01-06'
-    end_date: '2036-01-06'
+    date: '2036-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2036-04-11'
-    end_date: '2036-04-11'
+    date: '2036-04-11'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2036-04-13'
-    end_date: '2036-04-13'
+    date: '2036-04-13'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2036-04-14'
-    end_date: '2036-04-14'
+    date: '2036-04-14'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2036-05-01'
-    end_date: '2036-05-01'
+    date: '2036-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2036-05-22'
-    end_date: '2036-05-22'
+    date: '2036-05-22'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2036-06-01'
-    end_date: '2036-06-01'
+    date: '2036-06-01'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2036-06-20'
-    end_date: '2036-06-20'
+    date: '2036-06-20'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2036-06-21'
-    end_date: '2036-06-21'
+    date: '2036-06-21'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2036-11-01'
-    end_date: '2036-11-01'
+    date: '2036-11-01'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2036-12-06'
-    end_date: '2036-12-06'
+    date: '2036-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2036-12-24'
-    end_date: '2036-12-24'
+    date: '2036-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2036-12-25'
-    end_date: '2036-12-25'
+    date: '2036-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2036-12-26'
-    end_date: '2036-12-26'
+    date: '2036-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2037':
   - public_holiday: true
-    start_date: '2037-01-01'
-    end_date: '2037-01-01'
+    date: '2037-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2037-01-06'
-    end_date: '2037-01-06'
+    date: '2037-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2037-04-03'
-    end_date: '2037-04-03'
+    date: '2037-04-03'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2037-04-05'
-    end_date: '2037-04-05'
+    date: '2037-04-05'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2037-04-06'
-    end_date: '2037-04-06'
+    date: '2037-04-06'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2037-05-01'
-    end_date: '2037-05-01'
+    date: '2037-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2037-05-14'
-    end_date: '2037-05-14'
+    date: '2037-05-14'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2037-05-24'
-    end_date: '2037-05-24'
+    date: '2037-05-24'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2037-06-19'
-    end_date: '2037-06-19'
+    date: '2037-06-19'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2037-06-20'
-    end_date: '2037-06-20'
+    date: '2037-06-20'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2037-10-31'
-    end_date: '2037-10-31'
+    date: '2037-10-31'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2037-12-06'
-    end_date: '2037-12-06'
+    date: '2037-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2037-12-24'
-    end_date: '2037-12-24'
+    date: '2037-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2037-12-25'
-    end_date: '2037-12-25'
+    date: '2037-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2037-12-26'
-    end_date: '2037-12-26'
+    date: '2037-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2038':
   - public_holiday: true
-    start_date: '2038-01-01'
-    end_date: '2038-01-01'
+    date: '2038-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2038-01-06'
-    end_date: '2038-01-06'
+    date: '2038-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2038-04-23'
-    end_date: '2038-04-23'
+    date: '2038-04-23'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2038-04-25'
-    end_date: '2038-04-25'
+    date: '2038-04-25'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2038-04-26'
-    end_date: '2038-04-26'
+    date: '2038-04-26'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2038-05-01'
-    end_date: '2038-05-01'
+    date: '2038-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2038-06-03'
-    end_date: '2038-06-03'
+    date: '2038-06-03'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2038-06-13'
-    end_date: '2038-06-13'
+    date: '2038-06-13'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2038-06-25'
-    end_date: '2038-06-25'
+    date: '2038-06-25'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2038-06-26'
-    end_date: '2038-06-26'
+    date: '2038-06-26'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2038-11-06'
-    end_date: '2038-11-06'
+    date: '2038-11-06'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2038-12-06'
-    end_date: '2038-12-06'
+    date: '2038-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2038-12-24'
-    end_date: '2038-12-24'
+    date: '2038-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2038-12-25'
-    end_date: '2038-12-25'
+    date: '2038-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2038-12-26'
-    end_date: '2038-12-26'
+    date: '2038-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2039':
   - public_holiday: true
-    start_date: '2039-01-01'
-    end_date: '2039-01-01'
+    date: '2039-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2039-01-06'
-    end_date: '2039-01-06'
+    date: '2039-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2039-04-08'
-    end_date: '2039-04-08'
+    date: '2039-04-08'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2039-04-10'
-    end_date: '2039-04-10'
+    date: '2039-04-10'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2039-04-11'
-    end_date: '2039-04-11'
+    date: '2039-04-11'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2039-05-01'
-    end_date: '2039-05-01'
+    date: '2039-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2039-05-19'
-    end_date: '2039-05-19'
+    date: '2039-05-19'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2039-05-29'
-    end_date: '2039-05-29'
+    date: '2039-05-29'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2039-06-24'
-    end_date: '2039-06-24'
+    date: '2039-06-24'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2039-06-25'
-    end_date: '2039-06-25'
+    date: '2039-06-25'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2039-11-05'
-    end_date: '2039-11-05'
+    date: '2039-11-05'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2039-12-06'
-    end_date: '2039-12-06'
+    date: '2039-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2039-12-24'
-    end_date: '2039-12-24'
+    date: '2039-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2039-12-25'
-    end_date: '2039-12-25'
+    date: '2039-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2039-12-26'
-    end_date: '2039-12-26'
+    date: '2039-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä
   '2040':
   - public_holiday: true
-    start_date: '2040-01-01'
-    end_date: '2040-01-01'
+    date: '2040-01-01'
     names:
       en: New Year's Day
       fi: Uudenvuodenpäivä
   - public_holiday: true
-    start_date: '2040-01-06'
-    end_date: '2040-01-06'
+    date: '2040-01-06'
     names:
       en: Epiphany
       fi: Loppiainen
   - public_holiday: true
-    start_date: '2040-03-30'
-    end_date: '2040-03-30'
+    date: '2040-03-30'
     names:
       en: Good Friday
       fi: Pitkäperjantai
   - public_holiday: true
-    start_date: '2040-04-01'
-    end_date: '2040-04-01'
+    date: '2040-04-01'
     names:
       en: Easter Sunday
       fi: Pääsiäispäivä
   - public_holiday: true
-    start_date: '2040-04-02'
-    end_date: '2040-04-02'
+    date: '2040-04-02'
     names:
       en: Easter Monday
       fi: 2. pääsiäispäivä
   - public_holiday: true
-    start_date: '2040-05-01'
-    end_date: '2040-05-01'
+    date: '2040-05-01'
     names:
       en: May Day
       fi: Vappu
   - public_holiday: true
-    start_date: '2040-05-10'
-    end_date: '2040-05-10'
+    date: '2040-05-10'
     names:
       en: Ascension Day
       fi: Helatorstai
   - public_holiday: true
-    start_date: '2040-05-20'
-    end_date: '2040-05-20'
+    date: '2040-05-20'
     names:
       en: Whit Sunday
       fi: Helluntaipäivä
   - public_holiday: true
-    start_date: '2040-06-22'
-    end_date: '2040-06-22'
+    date: '2040-06-22'
     names:
       en: Midsummer Eve
       fi: Juhannusaatto
   - public_holiday: true
-    start_date: '2040-06-23'
-    end_date: '2040-06-23'
+    date: '2040-06-23'
     names:
       en: Midsummer Day
       fi: Juhannuspäivä
   - public_holiday: true
-    start_date: '2040-11-03'
-    end_date: '2040-11-03'
+    date: '2040-11-03'
     names:
       en: All Saints' Day
       fi: Pyhäinpäivä
   - public_holiday: true
-    start_date: '2040-12-06'
-    end_date: '2040-12-06'
+    date: '2040-12-06'
     names:
       en: Independence Day
       fi: Itsenäisyyspäivä
   - public_holiday: true
-    start_date: '2040-12-24'
-    end_date: '2040-12-24'
+    date: '2040-12-24'
     names:
       en: Christmas Eve
       fi: Jouluaatto
   - public_holiday: true
-    start_date: '2040-12-25'
-    end_date: '2040-12-25'
+    date: '2040-12-25'
     names:
       en: Christmas Day
       fi: Joulupäivä
   - public_holiday: true
-    start_date: '2040-12-26'
-    end_date: '2040-12-26'
+    date: '2040-12-26'
     names:
       en: St Stephen's Day
       fi: 2. joulupäivä

@@ -1,0 +1,56 @@
+---
+name: Nigeria (all)
+years:
+  '2018':
+  - public_holiday: true
+    date: '2018-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2018-03-30'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2018-04-02'
+    names:
+      en: Easter Monday
+  - public_holiday: true
+    date: '2018-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2018-05-29'
+    names:
+      en: Democracy Day
+  - public_holiday: true
+    date: '2018-06-15'
+    names:
+      en: Id el Fitri
+  - public_holiday: true
+    date: '2018-06-16'
+    names:
+      en: Id el Fitri Holiday
+  - public_holiday: true
+    date: '2018-08-21'
+    names:
+      en: Id el Kabir
+  - public_holiday: true
+    date: '2018-08-22'
+    names:
+      en: Id el Kabir Holiday
+  - public_holiday: true
+    date: '2018-10-01'
+    names:
+      en: National Day
+  - public_holiday: true
+    date: '2018-11-20'
+    names:
+      en: Id el Maulud
+  - public_holiday: true
+    date: '2018-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2018-12-26'
+    names:
+      en: Boxing Day

@@ -3,255 +3,213 @@ name: Myanmar
 years:
   '2017':
   - public_holiday: true
-    start_date: '2017-01-04'
-    end_date: '2017-01-04'
+    date: '2017-01-04'
     names:
       en: Independence Day
       my: Independence Day
   - public_holiday: true
-    start_date: '2017-02-12'
-    end_date: '2017-02-12'
+    date: '2017-02-12'
     names:
       en: Union Day
       my: Union Day
   - public_holiday: true
-    start_date: '2017-03-02'
-    end_date: '2017-03-02'
+    date: '2017-03-02'
     names:
       en: Peasant's Day
       my: Peasant's Day
   - public_holiday: true
-    start_date: '2017-03-12'
-    end_date: '2017-03-12'
+    date: '2017-03-12'
     names:
       en: Full Moon Day of Tabaung
       my: Full Moon Day of Tabaung
   - public_holiday: true
-    start_date: '2017-03-27'
-    end_date: '2017-03-27'
+    date: '2017-03-27'
     names:
       en: Armed Forces Day
       my: Armed Forces Day
   - public_holiday: true
-    start_date: '2017-04-13'
-    end_date: '2017-04-13'
+    date: '2017-04-13'
     names:
       en: Thingyan Water Festival
       my: Thingyan Water Festival
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Thingyan Water Festival
       my: Thingyan Water Festival
   - public_holiday: true
-    start_date: '2017-04-15'
-    end_date: '2017-04-15'
+    date: '2017-04-15'
     names:
       en: Thingyan Water Festival
       my: Thingyan Water Festival
   - public_holiday: true
-    start_date: '2017-04-16'
-    end_date: '2017-04-16'
+    date: '2017-04-16'
     names:
       en: Thingyan Water Festival
       my: Thingyan Water Festival
   - public_holiday: true
-    start_date: '2017-04-17'
-    end_date: '2017-04-17'
+    date: '2017-04-17'
     names:
       en: Myanmar New Year
       my: Myanmar New Year
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: Labour Day
       my: Labour Day
   - public_holiday: true
-    start_date: '2017-05-10'
-    end_date: '2017-05-10'
+    date: '2017-05-10'
     names:
       en: Full Moon Day of Kasong
       my: Full Moon Day of Kasong
   - public_holiday: true
-    start_date: '2017-07-08'
-    end_date: '2017-07-08'
+    date: '2017-07-08'
     names:
       en: Full Moon Day of Waso
       my: Full Moon Day of Waso
   - public_holiday: true
-    start_date: '2017-07-19'
-    end_date: '2017-07-19'
+    date: '2017-07-19'
     names:
       en: Martyrs' Day
       my: Martyrs' Day
   - public_holiday: true
-    start_date: '2017-10-04'
-    end_date: '2017-10-04'
+    date: '2017-10-04'
     names:
       en: Full Moon Day of Thadingyut
       my: Full Moon Day of Thadingyut
   - public_holiday: true
-    start_date: '2017-10-05'
-    end_date: '2017-10-05'
+    date: '2017-10-05'
     names:
       en: Full Moon Day of Thadingyut
       my: Full Moon Day of Thadingyut
   - public_holiday: true
-    start_date: '2017-10-06'
-    end_date: '2017-10-06'
+    date: '2017-10-06'
     names:
       en: Full Moon Day of Thadingyut
       my: Full Moon Day of Thadingyut
   - public_holiday: true
-    start_date: '2017-11-02'
-    end_date: '2017-11-02'
+    date: '2017-11-02'
     names:
       en: Full Moon Day of Tazaungmone
       my: Full Moon Day of Tazaungmone
   - public_holiday: true
-    start_date: '2017-11-03'
-    end_date: '2017-11-03'
+    date: '2017-11-03'
     names:
       en: Full Moon Day of Tazaungmone
       my: Full Moon Day of Tazaungmone
   - public_holiday: true
-    start_date: '2017-11-13'
-    end_date: '2017-11-13'
+    date: '2017-11-13'
     names:
       en: National Day
       my: National Day
   - public_holiday: true
-    start_date: '2017-12-18'
-    end_date: '2017-12-18'
+    date: '2017-12-18'
     names:
       en: Kayin New Year
       my: Kayin New Year
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
       my: Christmas Day
   - public_holiday: true
-    start_date: '2017-12-30'
-    end_date: '2017-12-30'
+    date: '2017-12-30'
     names:
       en: New Year Holiday
       my: New Year Holiday
   - public_holiday: true
-    start_date: '2017-12-31'
-    end_date: '2017-12-31'
+    date: '2017-12-31'
     names:
       en: New Year Holiday
       my: New Year Holiday
   '2018':
   - public_holiday: true
-    start_date: '2018-01-04'
-    end_date: '2018-01-04'
+    date: '2018-01-04'
     names:
       en: Independence Day
       my: Independence Day
   - public_holiday: true
-    start_date: '2018-02-12'
-    end_date: '2018-02-12'
+    date: '2018-02-12'
     names:
       en: Union Day
       my: Union Day
   - public_holiday: true
-    start_date: '2018-03-01'
-    end_date: '2018-03-01'
+    date: '2018-03-01'
     names:
       en: Full Moon Day of Tabaung
       my: Full Moon Day of Tabaung
   - public_holiday: true
-    start_date: '2018-03-02'
-    end_date: '2018-03-02'
+    date: '2018-03-02'
     names:
       en: Peasant's Day
       my: Peasant's Day
   - public_holiday: true
-    start_date: '2018-03-27'
-    end_date: '2018-03-27'
+    date: '2018-03-27'
     names:
       en: Armed Forces Day
       my: Armed Forces Day
   - public_holiday: true
-    start_date: '2018-04-13'
-    end_date: '2018-04-13'
+    date: '2018-04-13'
     names:
       en: Thingyan Water Festival
       my: Thingyan Water Festival
   - public_holiday: true
-    start_date: '2018-04-14'
-    end_date: '2018-04-14'
+    date: '2018-04-14'
     names:
       en: Thingyan Water Festival
       my: Thingyan Water Festival
   - public_holiday: true
-    start_date: '2018-04-15'
-    end_date: '2018-04-15'
+    date: '2018-04-15'
     names:
       en: Thingyan Water Festival
       my: Thingyan Water Festival
   - public_holiday: true
-    start_date: '2018-04-16'
-    end_date: '2018-04-16'
+    date: '2018-04-16'
     names:
       en: Thingyan Water Festival
       my: Thingyan Water Festival
   - public_holiday: true
-    start_date: '2018-04-17'
-    end_date: '2018-04-17'
+    date: '2018-04-17'
     names:
       en: Myanmar New Year
       my: Myanmar New Year
   - public_holiday: true
-    start_date: '2018-04-29'
-    end_date: '2018-04-29'
+    date: '2018-04-29'
     names:
       en: Full Moon Day of Kasong
       my: Full Moon Day of Kasong
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: Labour Day
       my: Labour Day
   - public_holiday: true
-    start_date: '2018-07-19'
-    end_date: '2018-07-19'
+    date: '2018-07-19'
     names:
       en: Martyrs' Day
       my: Martyrs' Day
   - public_holiday: true
-    start_date: '2018-07-27'
-    end_date: '2018-07-27'
+    date: '2018-07-27'
     names:
       en: Full Moon Day of Waso
       my: Full Moon Day of Waso
   - public_holiday: true
-    start_date: '2018-10-24'
-    end_date: '2018-10-24'
+    date: '2018-10-24'
     names:
       en: Full Moon Day of Thadingyut
       my: Full Moon Day of Thadingyut
   - public_holiday: true
-    start_date: '2018-11-22'
-    end_date: '2018-11-22'
+    date: '2018-11-22'
     names:
       en: Full Moon Day of Tazaungmone
       my: Full Moon Day of Tazaungmone
   - public_holiday: true
-    start_date: '2018-12-03'
-    end_date: '2018-12-03'
+    date: '2018-12-03'
     names:
       en: National Day
       my: National Day
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas Day
       my: Christmas Day

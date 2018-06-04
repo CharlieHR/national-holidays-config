@@ -3,1826 +3,1467 @@ name: Queensland
 years:
   '2011':
   - public_holiday: true
-    start_date: '2011-01-01'
-    end_date: '2011-01-01'
+    date: '2011-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2011-01-03'
-    end_date: '2011-01-03'
+    date: '2011-01-03'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2011-01-26'
-    end_date: '2011-01-26'
+    date: '2011-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2011-04-22'
-    end_date: '2011-04-22'
+    date: '2011-04-22'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2011-04-23'
-    end_date: '2011-04-23'
+    date: '2011-04-23'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2011-04-25'
-    end_date: '2011-04-25'
+    date: '2011-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2011-04-26'
-    end_date: '2011-04-26'
+    date: '2011-04-26'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2011-05-02'
-    end_date: '2011-05-02'
+    date: '2011-05-02'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2011-06-13'
-    end_date: '2011-06-13'
+    date: '2011-06-13'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2011-08-17'
-    end_date: '2011-08-17'
+    date: '2011-08-17'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2011-12-25'
-    end_date: '2011-12-25'
+    date: '2011-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2011-12-26'
-    end_date: '2011-12-26'
+    date: '2011-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2011-12-27'
-    end_date: '2011-12-27'
+    date: '2011-12-27'
     names:
       en: Christmas Day
   '2012':
   - public_holiday: true
-    start_date: '2012-01-01'
-    end_date: '2012-01-01'
+    date: '2012-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2012-01-02'
-    end_date: '2012-01-02'
+    date: '2012-01-02'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2012-01-26'
-    end_date: '2012-01-26'
+    date: '2012-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2012-04-06'
-    end_date: '2012-04-06'
+    date: '2012-04-06'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2012-04-07'
-    end_date: '2012-04-07'
+    date: '2012-04-07'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2012-04-09'
-    end_date: '2012-04-09'
+    date: '2012-04-09'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2012-04-25'
-    end_date: '2012-04-25'
+    date: '2012-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2012-05-07'
-    end_date: '2012-05-07'
+    date: '2012-05-07'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2012-06-11'
-    end_date: '2012-06-11'
+    date: '2012-06-11'
     names:
       en: Queen's Diamond Jubilee
   - public_holiday: true
-    start_date: '2012-08-15'
-    end_date: '2012-08-15'
+    date: '2012-08-15'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2012-10-01'
-    end_date: '2012-10-01'
+    date: '2012-10-01'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2012-12-25'
-    end_date: '2012-12-25'
+    date: '2012-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2012-12-26'
-    end_date: '2012-12-26'
+    date: '2012-12-26'
     names:
       en: Boxing Day
   '2013':
   - public_holiday: true
-    start_date: '2013-01-01'
-    end_date: '2013-01-01'
+    date: '2013-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2013-01-28'
-    end_date: '2013-01-28'
+    date: '2013-01-28'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2013-03-29'
-    end_date: '2013-03-29'
+    date: '2013-03-29'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2013-03-30'
-    end_date: '2013-03-30'
+    date: '2013-03-30'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2013-04-01'
-    end_date: '2013-04-01'
+    date: '2013-04-01'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2013-04-25'
-    end_date: '2013-04-25'
+    date: '2013-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2013-06-10'
-    end_date: '2013-06-10'
+    date: '2013-06-10'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2013-08-14'
-    end_date: '2013-08-14'
+    date: '2013-08-14'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2013-10-07'
-    end_date: '2013-10-07'
+    date: '2013-10-07'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2013-12-25'
-    end_date: '2013-12-25'
+    date: '2013-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2013-12-26'
-    end_date: '2013-12-26'
+    date: '2013-12-26'
     names:
       en: Boxing Day
   '2014':
   - public_holiday: true
-    start_date: '2014-01-01'
-    end_date: '2014-01-01'
+    date: '2014-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2014-01-27'
-    end_date: '2014-01-27'
+    date: '2014-01-27'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2014-04-18'
-    end_date: '2014-04-18'
+    date: '2014-04-18'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2014-04-19'
-    end_date: '2014-04-19'
+    date: '2014-04-19'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2014-04-21'
-    end_date: '2014-04-21'
+    date: '2014-04-21'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2014-04-25'
-    end_date: '2014-04-25'
+    date: '2014-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2014-06-09'
-    end_date: '2014-06-09'
+    date: '2014-06-09'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2014-08-13'
-    end_date: '2014-08-13'
+    date: '2014-08-13'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2014-10-06'
-    end_date: '2014-10-06'
+    date: '2014-10-06'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2014-11-14'
-    end_date: '2014-11-14'
+    date: '2014-11-14'
     names:
       en: Group of Twenty Leaders' Summit (G20)
   - public_holiday: true
-    start_date: '2014-12-25'
-    end_date: '2014-12-25'
+    date: '2014-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2014-12-26'
-    end_date: '2014-12-26'
+    date: '2014-12-26'
     names:
       en: Boxing Day
   '2015':
   - public_holiday: true
-    start_date: '2015-01-01'
-    end_date: '2015-01-01'
+    date: '2015-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2015-01-26'
-    end_date: '2015-01-26'
+    date: '2015-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2015-04-03'
-    end_date: '2015-04-03'
+    date: '2015-04-03'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2015-04-04'
-    end_date: '2015-04-04'
+    date: '2015-04-04'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2015-04-06'
-    end_date: '2015-04-06'
+    date: '2015-04-06'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2015-04-25'
-    end_date: '2015-04-25'
+    date: '2015-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2015-06-08'
-    end_date: '2015-06-08'
+    date: '2015-06-08'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2015-08-12'
-    end_date: '2015-08-12'
+    date: '2015-08-12'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2015-10-05'
-    end_date: '2015-10-05'
+    date: '2015-10-05'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2015-12-25'
-    end_date: '2015-12-25'
+    date: '2015-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2015-12-26'
-    end_date: '2015-12-26'
+    date: '2015-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2015-12-28'
-    end_date: '2015-12-28'
+    date: '2015-12-28'
     names:
       en: Boxing Day
   '2016':
   - public_holiday: true
-    start_date: '2016-01-01'
-    end_date: '2016-01-01'
+    date: '2016-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2016-01-26'
-    end_date: '2016-01-26'
+    date: '2016-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2016-03-25'
-    end_date: '2016-03-25'
+    date: '2016-03-25'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2016-03-26'
-    end_date: '2016-03-26'
+    date: '2016-03-26'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2016-03-28'
-    end_date: '2016-03-28'
+    date: '2016-03-28'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2016-04-25'
-    end_date: '2016-04-25'
+    date: '2016-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2016-05-02'
-    end_date: '2016-05-02'
+    date: '2016-05-02'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2016-08-10'
-    end_date: '2016-08-10'
+    date: '2016-08-10'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2016-10-03'
-    end_date: '2016-10-03'
+    date: '2016-10-03'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2016-12-25'
-    end_date: '2016-12-25'
+    date: '2016-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2016-12-26'
-    end_date: '2016-12-26'
+    date: '2016-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2016-12-27'
-    end_date: '2016-12-27'
+    date: '2016-12-27'
     names:
       en: Christmas Day
   '2017':
   - public_holiday: true
-    start_date: '2017-01-01'
-    end_date: '2017-01-01'
+    date: '2017-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2017-01-02'
-    end_date: '2017-01-02'
+    date: '2017-01-02'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2017-01-26'
-    end_date: '2017-01-26'
+    date: '2017-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2017-04-15'
-    end_date: '2017-04-15'
+    date: '2017-04-15'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2017-04-17'
-    end_date: '2017-04-17'
+    date: '2017-04-17'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2017-04-25'
-    end_date: '2017-04-25'
+    date: '2017-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2017-08-16'
-    end_date: '2017-08-16'
+    date: '2017-08-16'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2017-10-02'
-    end_date: '2017-10-02'
+    date: '2017-10-02'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2017-12-26'
-    end_date: '2017-12-26'
+    date: '2017-12-26'
     names:
       en: Boxing Day
   '2018':
   - public_holiday: true
-    start_date: '2018-01-01'
-    end_date: '2018-01-01'
+    date: '2018-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2018-01-26'
-    end_date: '2018-01-26'
+    date: '2018-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2018-03-30'
-    end_date: '2018-03-30'
+    date: '2018-03-30'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2018-03-31'
-    end_date: '2018-03-31'
+    date: '2018-03-31'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2018-04-02'
-    end_date: '2018-04-02'
+    date: '2018-04-02'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2018-04-25'
-    end_date: '2018-04-25'
+    date: '2018-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2018-05-07'
-    end_date: '2018-05-07'
+    date: '2018-05-07'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2018-08-15'
-    end_date: '2018-08-15'
+    date: '2018-08-15'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2018-10-01'
-    end_date: '2018-10-01'
+    date: '2018-10-01'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2018-12-26'
-    end_date: '2018-12-26'
+    date: '2018-12-26'
     names:
       en: Boxing Day
   '2019':
   - public_holiday: true
-    start_date: '2019-01-01'
-    end_date: '2019-01-01'
+    date: '2019-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2019-01-28'
-    end_date: '2019-01-28'
+    date: '2019-01-28'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2019-04-19'
-    end_date: '2019-04-19'
+    date: '2019-04-19'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2019-04-20'
-    end_date: '2019-04-20'
+    date: '2019-04-20'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2019-04-22'
-    end_date: '2019-04-22'
+    date: '2019-04-22'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2019-04-25'
-    end_date: '2019-04-25'
+    date: '2019-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2019-05-06'
-    end_date: '2019-05-06'
+    date: '2019-05-06'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2019-08-14'
-    end_date: '2019-08-14'
+    date: '2019-08-14'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2019-10-07'
-    end_date: '2019-10-07'
+    date: '2019-10-07'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2019-12-25'
-    end_date: '2019-12-25'
+    date: '2019-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2019-12-26'
-    end_date: '2019-12-26'
+    date: '2019-12-26'
     names:
       en: Boxing Day
   '2020':
   - public_holiday: true
-    start_date: '2020-01-01'
-    end_date: '2020-01-01'
+    date: '2020-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2020-01-27'
-    end_date: '2020-01-27'
+    date: '2020-01-27'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2020-04-10'
-    end_date: '2020-04-10'
+    date: '2020-04-10'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2020-04-11'
-    end_date: '2020-04-11'
+    date: '2020-04-11'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2020-04-13'
-    end_date: '2020-04-13'
+    date: '2020-04-13'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2020-04-25'
-    end_date: '2020-04-25'
+    date: '2020-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2020-05-04'
-    end_date: '2020-05-04'
+    date: '2020-05-04'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2020-08-12'
-    end_date: '2020-08-12'
+    date: '2020-08-12'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2020-10-05'
-    end_date: '2020-10-05'
+    date: '2020-10-05'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2020-12-25'
-    end_date: '2020-12-25'
+    date: '2020-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2020-12-26'
-    end_date: '2020-12-26'
+    date: '2020-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2020-12-28'
-    end_date: '2020-12-28'
+    date: '2020-12-28'
     names:
       en: Boxing Day
   '2021':
   - public_holiday: true
-    start_date: '2021-01-01'
-    end_date: '2021-01-01'
+    date: '2021-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2021-01-26'
-    end_date: '2021-01-26'
+    date: '2021-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2021-04-02'
-    end_date: '2021-04-02'
+    date: '2021-04-02'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2021-04-03'
-    end_date: '2021-04-03'
+    date: '2021-04-03'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2021-04-05'
-    end_date: '2021-04-05'
+    date: '2021-04-05'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2021-04-25'
-    end_date: '2021-04-25'
+    date: '2021-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2021-05-03'
-    end_date: '2021-05-03'
+    date: '2021-05-03'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2021-08-11'
-    end_date: '2021-08-11'
+    date: '2021-08-11'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2021-10-04'
-    end_date: '2021-10-04'
+    date: '2021-10-04'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2021-12-25'
-    end_date: '2021-12-25'
+    date: '2021-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2021-12-26'
-    end_date: '2021-12-26'
+    date: '2021-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2021-12-27'
-    end_date: '2021-12-27'
+    date: '2021-12-27'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2021-12-28'
-    end_date: '2021-12-28'
+    date: '2021-12-28'
     names:
       en: Boxing Day
   '2022':
   - public_holiday: true
-    start_date: '2022-01-01'
-    end_date: '2022-01-01'
+    date: '2022-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2022-01-03'
-    end_date: '2022-01-03'
+    date: '2022-01-03'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2022-01-26'
-    end_date: '2022-01-26'
+    date: '2022-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2022-04-15'
-    end_date: '2022-04-15'
+    date: '2022-04-15'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2022-04-16'
-    end_date: '2022-04-16'
+    date: '2022-04-16'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2022-04-18'
-    end_date: '2022-04-18'
+    date: '2022-04-18'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2022-04-25'
-    end_date: '2022-04-25'
+    date: '2022-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2022-05-02'
-    end_date: '2022-05-02'
+    date: '2022-05-02'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2022-08-17'
-    end_date: '2022-08-17'
+    date: '2022-08-17'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2022-10-03'
-    end_date: '2022-10-03'
+    date: '2022-10-03'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2022-12-25'
-    end_date: '2022-12-25'
+    date: '2022-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2022-12-26'
-    end_date: '2022-12-26'
+    date: '2022-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2022-12-27'
-    end_date: '2022-12-27'
+    date: '2022-12-27'
     names:
       en: Christmas Day
   '2023':
   - public_holiday: true
-    start_date: '2023-01-01'
-    end_date: '2023-01-01'
+    date: '2023-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2023-01-02'
-    end_date: '2023-01-02'
+    date: '2023-01-02'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2023-01-26'
-    end_date: '2023-01-26'
+    date: '2023-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2023-04-07'
-    end_date: '2023-04-07'
+    date: '2023-04-07'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2023-04-08'
-    end_date: '2023-04-08'
+    date: '2023-04-08'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2023-04-10'
-    end_date: '2023-04-10'
+    date: '2023-04-10'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2023-04-25'
-    end_date: '2023-04-25'
+    date: '2023-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2023-05-01'
-    end_date: '2023-05-01'
+    date: '2023-05-01'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2023-08-16'
-    end_date: '2023-08-16'
+    date: '2023-08-16'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2023-10-02'
-    end_date: '2023-10-02'
+    date: '2023-10-02'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2023-12-25'
-    end_date: '2023-12-25'
+    date: '2023-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2023-12-26'
-    end_date: '2023-12-26'
+    date: '2023-12-26'
     names:
       en: Boxing Day
   '2024':
   - public_holiday: true
-    start_date: '2024-01-01'
-    end_date: '2024-01-01'
+    date: '2024-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2024-01-26'
-    end_date: '2024-01-26'
+    date: '2024-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2024-03-29'
-    end_date: '2024-03-29'
+    date: '2024-03-29'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2024-03-30'
-    end_date: '2024-03-30'
+    date: '2024-03-30'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2024-04-01'
-    end_date: '2024-04-01'
+    date: '2024-04-01'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2024-04-25'
-    end_date: '2024-04-25'
+    date: '2024-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2024-05-06'
-    end_date: '2024-05-06'
+    date: '2024-05-06'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2024-08-14'
-    end_date: '2024-08-14'
+    date: '2024-08-14'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2024-10-07'
-    end_date: '2024-10-07'
+    date: '2024-10-07'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2024-12-25'
-    end_date: '2024-12-25'
+    date: '2024-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2024-12-26'
-    end_date: '2024-12-26'
+    date: '2024-12-26'
     names:
       en: Boxing Day
   '2025':
   - public_holiday: true
-    start_date: '2025-01-01'
-    end_date: '2025-01-01'
+    date: '2025-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2025-01-27'
-    end_date: '2025-01-27'
+    date: '2025-01-27'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2025-04-18'
-    end_date: '2025-04-18'
+    date: '2025-04-18'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2025-04-19'
-    end_date: '2025-04-19'
+    date: '2025-04-19'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2025-04-21'
-    end_date: '2025-04-21'
+    date: '2025-04-21'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2025-04-25'
-    end_date: '2025-04-25'
+    date: '2025-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2025-05-05'
-    end_date: '2025-05-05'
+    date: '2025-05-05'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2025-08-13'
-    end_date: '2025-08-13'
+    date: '2025-08-13'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2025-10-06'
-    end_date: '2025-10-06'
+    date: '2025-10-06'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2025-12-25'
-    end_date: '2025-12-25'
+    date: '2025-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2025-12-26'
-    end_date: '2025-12-26'
+    date: '2025-12-26'
     names:
       en: Boxing Day
   '2026':
   - public_holiday: true
-    start_date: '2026-01-01'
-    end_date: '2026-01-01'
+    date: '2026-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2026-01-26'
-    end_date: '2026-01-26'
+    date: '2026-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2026-04-03'
-    end_date: '2026-04-03'
+    date: '2026-04-03'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2026-04-04'
-    end_date: '2026-04-04'
+    date: '2026-04-04'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2026-04-06'
-    end_date: '2026-04-06'
+    date: '2026-04-06'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2026-04-25'
-    end_date: '2026-04-25'
+    date: '2026-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2026-05-04'
-    end_date: '2026-05-04'
+    date: '2026-05-04'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2026-08-12'
-    end_date: '2026-08-12'
+    date: '2026-08-12'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2026-10-05'
-    end_date: '2026-10-05'
+    date: '2026-10-05'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2026-12-25'
-    end_date: '2026-12-25'
+    date: '2026-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2026-12-26'
-    end_date: '2026-12-26'
+    date: '2026-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2026-12-28'
-    end_date: '2026-12-28'
+    date: '2026-12-28'
     names:
       en: Boxing Day
   '2027':
   - public_holiday: true
-    start_date: '2027-01-01'
-    end_date: '2027-01-01'
+    date: '2027-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2027-01-26'
-    end_date: '2027-01-26'
+    date: '2027-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2027-03-26'
-    end_date: '2027-03-26'
+    date: '2027-03-26'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2027-03-27'
-    end_date: '2027-03-27'
+    date: '2027-03-27'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2027-03-29'
-    end_date: '2027-03-29'
+    date: '2027-03-29'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2027-04-25'
-    end_date: '2027-04-25'
+    date: '2027-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2027-05-03'
-    end_date: '2027-05-03'
+    date: '2027-05-03'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2027-08-11'
-    end_date: '2027-08-11'
+    date: '2027-08-11'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2027-10-04'
-    end_date: '2027-10-04'
+    date: '2027-10-04'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2027-12-25'
-    end_date: '2027-12-25'
+    date: '2027-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2027-12-26'
-    end_date: '2027-12-26'
+    date: '2027-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2027-12-27'
-    end_date: '2027-12-27'
+    date: '2027-12-27'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2027-12-28'
-    end_date: '2027-12-28'
+    date: '2027-12-28'
     names:
       en: Boxing Day
   '2028':
   - public_holiday: true
-    start_date: '2028-01-01'
-    end_date: '2028-01-01'
+    date: '2028-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2028-01-03'
-    end_date: '2028-01-03'
+    date: '2028-01-03'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2028-01-26'
-    end_date: '2028-01-26'
+    date: '2028-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2028-04-14'
-    end_date: '2028-04-14'
+    date: '2028-04-14'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2028-04-15'
-    end_date: '2028-04-15'
+    date: '2028-04-15'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2028-04-17'
-    end_date: '2028-04-17'
+    date: '2028-04-17'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2028-04-25'
-    end_date: '2028-04-25'
+    date: '2028-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2028-05-01'
-    end_date: '2028-05-01'
+    date: '2028-05-01'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2028-08-16'
-    end_date: '2028-08-16'
+    date: '2028-08-16'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2028-10-02'
-    end_date: '2028-10-02'
+    date: '2028-10-02'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2028-12-25'
-    end_date: '2028-12-25'
+    date: '2028-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2028-12-26'
-    end_date: '2028-12-26'
+    date: '2028-12-26'
     names:
       en: Boxing Day
   '2029':
   - public_holiday: true
-    start_date: '2029-01-01'
-    end_date: '2029-01-01'
+    date: '2029-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2029-01-26'
-    end_date: '2029-01-26'
+    date: '2029-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2029-03-30'
-    end_date: '2029-03-30'
+    date: '2029-03-30'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2029-03-31'
-    end_date: '2029-03-31'
+    date: '2029-03-31'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2029-04-02'
-    end_date: '2029-04-02'
+    date: '2029-04-02'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2029-04-25'
-    end_date: '2029-04-25'
+    date: '2029-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2029-05-07'
-    end_date: '2029-05-07'
+    date: '2029-05-07'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2029-08-15'
-    end_date: '2029-08-15'
+    date: '2029-08-15'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2029-10-01'
-    end_date: '2029-10-01'
+    date: '2029-10-01'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2029-12-25'
-    end_date: '2029-12-25'
+    date: '2029-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2029-12-26'
-    end_date: '2029-12-26'
+    date: '2029-12-26'
     names:
       en: Boxing Day
   '2030':
   - public_holiday: true
-    start_date: '2030-01-01'
-    end_date: '2030-01-01'
+    date: '2030-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2030-01-28'
-    end_date: '2030-01-28'
+    date: '2030-01-28'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2030-04-19'
-    end_date: '2030-04-19'
+    date: '2030-04-19'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2030-04-20'
-    end_date: '2030-04-20'
+    date: '2030-04-20'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2030-04-22'
-    end_date: '2030-04-22'
+    date: '2030-04-22'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2030-04-25'
-    end_date: '2030-04-25'
+    date: '2030-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2030-05-06'
-    end_date: '2030-05-06'
+    date: '2030-05-06'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2030-08-14'
-    end_date: '2030-08-14'
+    date: '2030-08-14'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2030-10-07'
-    end_date: '2030-10-07'
+    date: '2030-10-07'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2030-12-25'
-    end_date: '2030-12-25'
+    date: '2030-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2030-12-26'
-    end_date: '2030-12-26'
+    date: '2030-12-26'
     names:
       en: Boxing Day
   '2031':
   - public_holiday: true
-    start_date: '2031-01-01'
-    end_date: '2031-01-01'
+    date: '2031-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2031-01-27'
-    end_date: '2031-01-27'
+    date: '2031-01-27'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2031-04-11'
-    end_date: '2031-04-11'
+    date: '2031-04-11'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2031-04-12'
-    end_date: '2031-04-12'
+    date: '2031-04-12'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2031-04-14'
-    end_date: '2031-04-14'
+    date: '2031-04-14'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2031-04-25'
-    end_date: '2031-04-25'
+    date: '2031-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2031-05-05'
-    end_date: '2031-05-05'
+    date: '2031-05-05'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2031-08-13'
-    end_date: '2031-08-13'
+    date: '2031-08-13'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2031-10-06'
-    end_date: '2031-10-06'
+    date: '2031-10-06'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2031-12-25'
-    end_date: '2031-12-25'
+    date: '2031-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2031-12-26'
-    end_date: '2031-12-26'
+    date: '2031-12-26'
     names:
       en: Boxing Day
   '2032':
   - public_holiday: true
-    start_date: '2032-01-01'
-    end_date: '2032-01-01'
+    date: '2032-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2032-01-26'
-    end_date: '2032-01-26'
+    date: '2032-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2032-03-26'
-    end_date: '2032-03-26'
+    date: '2032-03-26'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2032-03-27'
-    end_date: '2032-03-27'
+    date: '2032-03-27'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2032-03-29'
-    end_date: '2032-03-29'
+    date: '2032-03-29'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2032-04-25'
-    end_date: '2032-04-25'
+    date: '2032-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2032-05-03'
-    end_date: '2032-05-03'
+    date: '2032-05-03'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2032-08-11'
-    end_date: '2032-08-11'
+    date: '2032-08-11'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2032-10-04'
-    end_date: '2032-10-04'
+    date: '2032-10-04'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2032-12-25'
-    end_date: '2032-12-25'
+    date: '2032-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2032-12-26'
-    end_date: '2032-12-26'
+    date: '2032-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2032-12-27'
-    end_date: '2032-12-27'
+    date: '2032-12-27'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2032-12-28'
-    end_date: '2032-12-28'
+    date: '2032-12-28'
     names:
       en: Boxing Day
   '2033':
   - public_holiday: true
-    start_date: '2033-01-01'
-    end_date: '2033-01-01'
+    date: '2033-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2033-01-03'
-    end_date: '2033-01-03'
+    date: '2033-01-03'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2033-01-26'
-    end_date: '2033-01-26'
+    date: '2033-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2033-04-15'
-    end_date: '2033-04-15'
+    date: '2033-04-15'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2033-04-16'
-    end_date: '2033-04-16'
+    date: '2033-04-16'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2033-04-18'
-    end_date: '2033-04-18'
+    date: '2033-04-18'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2033-04-25'
-    end_date: '2033-04-25'
+    date: '2033-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2033-05-02'
-    end_date: '2033-05-02'
+    date: '2033-05-02'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2033-08-17'
-    end_date: '2033-08-17'
+    date: '2033-08-17'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2033-10-03'
-    end_date: '2033-10-03'
+    date: '2033-10-03'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2033-12-25'
-    end_date: '2033-12-25'
+    date: '2033-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2033-12-26'
-    end_date: '2033-12-26'
+    date: '2033-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2033-12-27'
-    end_date: '2033-12-27'
+    date: '2033-12-27'
     names:
       en: Christmas Day
   '2034':
   - public_holiday: true
-    start_date: '2034-01-01'
-    end_date: '2034-01-01'
+    date: '2034-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2034-01-02'
-    end_date: '2034-01-02'
+    date: '2034-01-02'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2034-01-26'
-    end_date: '2034-01-26'
+    date: '2034-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2034-04-07'
-    end_date: '2034-04-07'
+    date: '2034-04-07'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2034-04-08'
-    end_date: '2034-04-08'
+    date: '2034-04-08'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2034-04-10'
-    end_date: '2034-04-10'
+    date: '2034-04-10'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2034-04-25'
-    end_date: '2034-04-25'
+    date: '2034-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2034-05-01'
-    end_date: '2034-05-01'
+    date: '2034-05-01'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2034-08-16'
-    end_date: '2034-08-16'
+    date: '2034-08-16'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2034-10-02'
-    end_date: '2034-10-02'
+    date: '2034-10-02'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2034-12-25'
-    end_date: '2034-12-25'
+    date: '2034-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2034-12-26'
-    end_date: '2034-12-26'
+    date: '2034-12-26'
     names:
       en: Boxing Day
   '2035':
   - public_holiday: true
-    start_date: '2035-01-01'
-    end_date: '2035-01-01'
+    date: '2035-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2035-01-26'
-    end_date: '2035-01-26'
+    date: '2035-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2035-03-23'
-    end_date: '2035-03-23'
+    date: '2035-03-23'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2035-03-24'
-    end_date: '2035-03-24'
+    date: '2035-03-24'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2035-03-26'
-    end_date: '2035-03-26'
+    date: '2035-03-26'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2035-04-25'
-    end_date: '2035-04-25'
+    date: '2035-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2035-05-07'
-    end_date: '2035-05-07'
+    date: '2035-05-07'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2035-08-15'
-    end_date: '2035-08-15'
+    date: '2035-08-15'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2035-10-01'
-    end_date: '2035-10-01'
+    date: '2035-10-01'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2035-12-25'
-    end_date: '2035-12-25'
+    date: '2035-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2035-12-26'
-    end_date: '2035-12-26'
+    date: '2035-12-26'
     names:
       en: Boxing Day
   '2036':
   - public_holiday: true
-    start_date: '2036-01-01'
-    end_date: '2036-01-01'
+    date: '2036-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2036-01-28'
-    end_date: '2036-01-28'
+    date: '2036-01-28'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2036-04-11'
-    end_date: '2036-04-11'
+    date: '2036-04-11'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2036-04-12'
-    end_date: '2036-04-12'
+    date: '2036-04-12'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2036-04-14'
-    end_date: '2036-04-14'
+    date: '2036-04-14'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2036-04-25'
-    end_date: '2036-04-25'
+    date: '2036-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2036-05-05'
-    end_date: '2036-05-05'
+    date: '2036-05-05'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2036-08-13'
-    end_date: '2036-08-13'
+    date: '2036-08-13'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2036-10-06'
-    end_date: '2036-10-06'
+    date: '2036-10-06'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2036-12-25'
-    end_date: '2036-12-25'
+    date: '2036-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2036-12-26'
-    end_date: '2036-12-26'
+    date: '2036-12-26'
     names:
       en: Boxing Day
   '2037':
   - public_holiday: true
-    start_date: '2037-01-01'
-    end_date: '2037-01-01'
+    date: '2037-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2037-01-26'
-    end_date: '2037-01-26'
+    date: '2037-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2037-04-03'
-    end_date: '2037-04-03'
+    date: '2037-04-03'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2037-04-04'
-    end_date: '2037-04-04'
+    date: '2037-04-04'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2037-04-06'
-    end_date: '2037-04-06'
+    date: '2037-04-06'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2037-04-25'
-    end_date: '2037-04-25'
+    date: '2037-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2037-05-04'
-    end_date: '2037-05-04'
+    date: '2037-05-04'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2037-08-12'
-    end_date: '2037-08-12'
+    date: '2037-08-12'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2037-10-05'
-    end_date: '2037-10-05'
+    date: '2037-10-05'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2037-12-25'
-    end_date: '2037-12-25'
+    date: '2037-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2037-12-26'
-    end_date: '2037-12-26'
+    date: '2037-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2037-12-28'
-    end_date: '2037-12-28'
+    date: '2037-12-28'
     names:
       en: Boxing Day
   '2038':
   - public_holiday: true
-    start_date: '2038-01-01'
-    end_date: '2038-01-01'
+    date: '2038-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2038-01-26'
-    end_date: '2038-01-26'
+    date: '2038-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2038-04-23'
-    end_date: '2038-04-23'
+    date: '2038-04-23'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2038-04-24'
-    end_date: '2038-04-24'
+    date: '2038-04-24'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2038-04-25'
-    end_date: '2038-04-25'
+    date: '2038-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2038-04-26'
-    end_date: '2038-04-26'
+    date: '2038-04-26'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2038-05-03'
-    end_date: '2038-05-03'
+    date: '2038-05-03'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2038-08-11'
-    end_date: '2038-08-11'
+    date: '2038-08-11'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2038-10-04'
-    end_date: '2038-10-04'
+    date: '2038-10-04'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2038-12-25'
-    end_date: '2038-12-25'
+    date: '2038-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2038-12-26'
-    end_date: '2038-12-26'
+    date: '2038-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2038-12-27'
-    end_date: '2038-12-27'
+    date: '2038-12-27'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2038-12-28'
-    end_date: '2038-12-28'
+    date: '2038-12-28'
     names:
       en: Boxing Day
   '2039':
   - public_holiday: true
-    start_date: '2039-01-01'
-    end_date: '2039-01-01'
+    date: '2039-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2039-01-03'
-    end_date: '2039-01-03'
+    date: '2039-01-03'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2039-01-26'
-    end_date: '2039-01-26'
+    date: '2039-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2039-04-08'
-    end_date: '2039-04-08'
+    date: '2039-04-08'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2039-04-09'
-    end_date: '2039-04-09'
+    date: '2039-04-09'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2039-04-11'
-    end_date: '2039-04-11'
+    date: '2039-04-11'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2039-04-25'
-    end_date: '2039-04-25'
+    date: '2039-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2039-05-02'
-    end_date: '2039-05-02'
+    date: '2039-05-02'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2039-08-17'
-    end_date: '2039-08-17'
+    date: '2039-08-17'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2039-10-03'
-    end_date: '2039-10-03'
+    date: '2039-10-03'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2039-12-25'
-    end_date: '2039-12-25'
+    date: '2039-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2039-12-26'
-    end_date: '2039-12-26'
+    date: '2039-12-26'
     names:
       en: Boxing Day
   - public_holiday: true
-    start_date: '2039-12-27'
-    end_date: '2039-12-27'
+    date: '2039-12-27'
     names:
       en: Christmas Day
   '2040':
   - public_holiday: true
-    start_date: '2040-01-01'
-    end_date: '2040-01-01'
+    date: '2040-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2040-01-02'
-    end_date: '2040-01-02'
+    date: '2040-01-02'
     names:
       en: New Year's Day
   - public_holiday: true
-    start_date: '2040-01-26'
-    end_date: '2040-01-26'
+    date: '2040-01-26'
     names:
       en: Australia Day
   - public_holiday: true
-    start_date: '2040-03-30'
-    end_date: '2040-03-30'
+    date: '2040-03-30'
     names:
       en: Good Friday
   - public_holiday: true
-    start_date: '2040-03-31'
-    end_date: '2040-03-31'
+    date: '2040-03-31'
     names:
       en: Easter Saturday
   - public_holiday: true
-    start_date: '2040-04-02'
-    end_date: '2040-04-02'
+    date: '2040-04-02'
     names:
       en: Easter Monday
   - public_holiday: true
-    start_date: '2040-04-25'
-    end_date: '2040-04-25'
+    date: '2040-04-25'
     names:
       en: Anzac Day
   - public_holiday: true
-    start_date: '2040-05-07'
-    end_date: '2040-05-07'
+    date: '2040-05-07'
     names:
       en: Labour Day
   - public_holiday: true
-    start_date: '2040-08-15'
-    end_date: '2040-08-15'
+    date: '2040-08-15'
     names:
       en: Royal Queensland Show
   - public_holiday: true
-    start_date: '2040-10-01'
-    end_date: '2040-10-01'
+    date: '2040-10-01'
     names:
       en: Queen's Birthday
   - public_holiday: true
-    start_date: '2040-12-25'
-    end_date: '2040-12-25'
+    date: '2040-12-25'
     names:
       en: Christmas Day
   - public_holiday: true
-    start_date: '2040-12-26'
-    end_date: '2040-12-26'
+    date: '2040-12-26'
     names:
       en: Boxing Day

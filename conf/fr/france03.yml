@@ -1,0 +1,59 @@
+---
+name: Metropolitan
+years:
+  '2018':
+  - public_holiday: true
+    date: '2018-01-01'
+    names:
+      en: New Year's Day
+      fr: Jour de l'an
+  - public_holiday: true
+    date: '2018-04-02'
+    names:
+      en: Easter Monday
+      fr: Lundi de Pâques
+  - public_holiday: true
+    date: '2018-05-01'
+    names:
+      en: Labour Day
+      fr: Fête du Travail
+  - public_holiday: true
+    date: '2018-05-08'
+    names:
+      en: Victory in Europe Day
+      fr: 8 Mai 1945
+  - public_holiday: true
+    date: '2018-05-10'
+    names:
+      en: Ascension Thursday
+      fr: Jeudi de l'Ascension
+  - public_holiday: true
+    date: '2018-05-21'
+    names:
+      en: Pentecost Monday
+      fr: Lundi de Pentecôte
+  - public_holiday: true
+    date: '2018-07-14'
+    names:
+      en: National Holiday
+      fr: Fête Nationale
+  - public_holiday: true
+    date: '2018-08-15'
+    names:
+      en: Assumption
+      fr: Assomption
+  - public_holiday: true
+    date: '2018-11-01'
+    names:
+      en: All Saints
+      fr: La Toussaint
+  - public_holiday: true
+    date: '2018-11-11'
+    names:
+      en: Armistice Day
+      fr: Armistice
+  - public_holiday: true
+    date: '2018-12-25'
+    names:
+      en: Christmas Day
+      fr: Noël

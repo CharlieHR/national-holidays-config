@@ -3,129 +3,108 @@ name: Haiti (all)
 years:
   '2017':
   - public_holiday: true
-    start_date: '2017-01-01'
-    end_date: '2017-01-01'
+    date: '2017-01-01'
     names:
       en: New Year's Day / Independence Day
       fr: New Year's Day / Independence Day
   - public_holiday: true
-    start_date: '2017-01-02'
-    end_date: '2017-01-02'
+    date: '2017-01-02'
     names:
       en: Heroes’ Day / Ancestors’ Day
       fr: Heroes’ Day / Ancestors’ Day
   - public_holiday: true
-    start_date: '2017-02-07'
-    end_date: '2017-02-07'
+    date: '2017-02-07'
     names:
       en: Inauguration of Jovenel Moïse
       fr: Inauguration of Jovenel Moïse
   - public_holiday: true
-    start_date: '2017-02-28'
-    end_date: '2017-02-28'
+    date: '2017-02-28'
     names:
       en: Carnival / Shrove Tuesday
       fr: Carnival / Shrove Tuesday
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Good Friday
       fr: Good Friday
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: Agriculture and Labor Day
       fr: Agriculture and Labor Day
   - public_holiday: true
-    start_date: '2017-05-18'
-    end_date: '2017-05-18'
+    date: '2017-05-18'
     names:
       en: Flag Day / University Day
       fr: Flag Day/University Day
   - public_holiday: true
-    start_date: '2017-05-30'
-    end_date: '2017-05-30'
+    date: '2017-05-30'
     names:
       en: Mother's Day
       fr: Mother's Day
   - public_holiday: true
-    start_date: '2017-10-17'
-    end_date: '2017-10-17'
+    date: '2017-10-17'
     names:
       en: Dessalines Day
       fr: Dessalines Day
   - public_holiday: true
-    start_date: '2017-11-18'
-    end_date: '2017-11-18'
+    date: '2017-11-18'
     names:
       en: Vertières Day
       fr: Vertières Day
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
       fr: Christmas Day
   '2018':
   - public_holiday: true
-    start_date: '2018-01-01'
-    end_date: '2018-01-01'
+    date: '2018-01-01'
     names:
       en: New Year's Day / Independence Day
       fr: New Year's Day / Independence Day
   - public_holiday: true
-    start_date: '2018-01-02'
-    end_date: '2018-01-02'
+    date: '2018-01-02'
     names:
       en: Heroes’ Day / Ancestors’ Day
       fr: Heroes’ Day / Ancestors’ Day
   - public_holiday: true
-    start_date: '2018-02-13'
-    end_date: '2018-02-13'
+    date: '2018-02-13'
     names:
       en: Carnival / Shrove Tuesday
       fr: Carnival / Shrove Tuesday
   - public_holiday: true
-    start_date: '2018-03-30'
-    end_date: '2018-03-30'
+    date: '2018-03-30'
     names:
       en: Good Friday
       fr: Good Friday
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: Agriculture and Labor Day
       fr: Agriculture and Labor Day
   - public_holiday: true
-    start_date: '2018-05-18'
-    end_date: '2018-05-18'
+    date: '2018-05-18'
     names:
       en: Flag Day / University Day
       fr: Flag Day / University Day
   - public_holiday: true
-    start_date: '2018-05-27'
-    end_date: '2018-05-27'
+    date: '2018-05-27'
     names:
       en: Mother's Day
       fr: Mother's Day
   - public_holiday: true
-    start_date: '2018-10-17'
-    end_date: '2018-10-17'
+    date: '2018-10-17'
     names:
       en: Dessalines Day
       fr: Dessalines Day
   - public_holiday: true
-    start_date: '2018-11-18'
-    end_date: '2018-11-18'
+    date: '2018-11-18'
     names:
       en: Vertières Day
       fr: Vertières Day
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas Day
       fr: Christmas Day

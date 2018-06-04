@@ -1,0 +1,79 @@
+---
+name: Uruguay (all)
+years:
+  '2018':
+  - public_holiday: true
+    date: '2018-01-01'
+    names:
+      en: New Year's Day
+      es: New Year's Day
+  - public_holiday: true
+    date: '2018-01-06'
+    names:
+      en: Kings Day
+      es: Kings Day
+  - public_holiday: true
+    date: '2018-02-12'
+    names:
+      en: Carnival
+      es: Carnival
+  - public_holiday: true
+    date: '2018-02-13'
+    names:
+      en: Carnival
+      es: Carnival
+  - public_holiday: true
+    date: '2018-03-29'
+    names:
+      en: Holy Thursday
+      es: Holy Thursday
+  - public_holiday: true
+    date: '2018-03-30'
+    names:
+      en: Holy Friday
+      es: Holy Friday
+  - public_holiday: true
+    date: '2018-04-23'
+    names:
+      en: Landing of the 33 Orientals
+      es: Landing of the 33 Orientals
+  - public_holiday: true
+    date: '2018-05-01'
+    names:
+      en: Workers Day
+      es: Workers Day
+  - public_holiday: true
+    date: '2018-05-21'
+    names:
+      en: Battle of the Stones
+      es: Battle of the Stones
+  - public_holiday: true
+    date: '2018-06-19'
+    names:
+      en: Birthday of Artigas
+      es: Birthday of Artigas
+  - public_holiday: true
+    date: '2018-07-18'
+    names:
+      en: Day of the Constitution
+      es: Day of the Constitution
+  - public_holiday: true
+    date: '2018-08-25'
+    names:
+      en: Independence Day
+      es: Independence Day
+  - public_holiday: true
+    date: '2018-10-15'
+    names:
+      en: Day of Race
+      es: Day of Race
+  - public_holiday: true
+    date: '2018-11-02'
+    names:
+      en: Day of the Dead
+      es: Day of the Dead
+  - public_holiday: true
+    date: '2018-12-25'
+    names:
+      en: Christmas
+      es: Christmas

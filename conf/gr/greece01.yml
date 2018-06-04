@@ -3,147 +3,123 @@ name: Greece (all)
 years:
   '2017':
   - public_holiday: true
-    start_date: '2017-01-01'
-    end_date: '2017-01-01'
+    date: '2017-01-01'
     names:
       en: New Year's Day
       el: New Year's Day
   - public_holiday: true
-    start_date: '2017-01-06'
-    end_date: '2017-01-06'
+    date: '2017-01-06'
     names:
       en: Epiphany
       el: Epiphany
   - public_holiday: true
-    start_date: '2017-02-27'
-    end_date: '2017-02-27'
+    date: '2017-02-27'
     names:
       en: Clean Monday
       el: Clean Monday
   - public_holiday: true
-    start_date: '2017-03-24'
-    end_date: '2017-03-24'
+    date: '2017-03-24'
     names:
       en: Independence Day
       el: Independence Day
   - public_holiday: true
-    start_date: '2017-04-14'
-    end_date: '2017-04-14'
+    date: '2017-04-14'
     names:
       en: Orthodox Good Friday
       el: Orthodox Good Friday
   - public_holiday: true
-    start_date: '2017-04-17'
-    end_date: '2017-04-17'
+    date: '2017-04-17'
     names:
       en: Orthodox Easter Monday
       el: Orthodox Easter Monday
   - public_holiday: true
-    start_date: '2017-05-01'
-    end_date: '2017-05-01'
+    date: '2017-05-01'
     names:
       en: Labour Day
       el: Labour Day
   - public_holiday: true
-    start_date: '2017-06-05'
-    end_date: '2017-06-05'
+    date: '2017-06-05'
     names:
       en: Holy Spirit Monday
       el: Holy Spirit Monday
   - public_holiday: true
-    start_date: '2017-08-15'
-    end_date: '2017-08-15'
+    date: '2017-08-15'
     names:
       en: Assumption Day
       el: Assumption Day
   - public_holiday: true
-    start_date: '2017-10-28'
-    end_date: '2017-10-28'
+    date: '2017-10-28'
     names:
       en: The Ochi Day
       el: The Ochi Day
   - public_holiday: true
-    start_date: '2017-12-25'
-    end_date: '2017-12-25'
+    date: '2017-12-25'
     names:
       en: Christmas Day
       el: Christmas Day
   '2018':
   - public_holiday: true
-    start_date: '2018-12-26'
-    end_date: '2018-12-26'
+    date: '2018-12-26'
     names:
       en: Synaxis of the Mother of God
       el: Synaxis of the Mother of God
   - public_holiday: true
-    start_date: '2018-01-01'
-    end_date: '2018-01-01'
+    date: '2018-01-01'
     names:
       en: New Year's Day
       el: New Year's Day
   - public_holiday: true
-    start_date: '2018-01-06'
-    end_date: '2018-01-06'
+    date: '2018-01-06'
     names:
       en: Epiphany
       el: Epiphany
   - public_holiday: true
-    start_date: '2018-02-19'
-    end_date: '2018-02-19'
+    date: '2018-02-19'
     names:
       en: Clean Monday
       el: Clean Monday
   - public_holiday: true
-    start_date: '2018-03-25'
-    end_date: '2018-03-25'
+    date: '2018-03-25'
     names:
       en: Independence Day
       el: Independence Day
   - public_holiday: true
-    start_date: '2018-04-06'
-    end_date: '2018-04-06'
+    date: '2018-04-06'
     names:
       en: Orthodox Good Friday
       el: Orthodox Good Friday
   - public_holiday: true
-    start_date: '2018-04-09'
-    end_date: '2018-04-09'
+    date: '2018-04-09'
     names:
       en: Orthodox Easter Monday
       el: Orthodox Easter Monday
   - public_holiday: true
-    start_date: '2018-05-01'
-    end_date: '2018-05-01'
+    date: '2018-05-01'
     names:
       en: Labour Day
       el: Labour Day
   - public_holiday: true
-    start_date: '2018-05-28'
-    end_date: '2018-05-28'
+    date: '2018-05-28'
     names:
       en: Holy Spirit Monday
       el: Holy Spirit Monday
   - public_holiday: true
-    start_date: '2018-08-15'
-    end_date: '2018-08-15'
+    date: '2018-08-15'
     names:
       en: Assumption Day
       el: Assumption Day
   - public_holiday: true
-    start_date: '2018-10-28'
-    end_date: '2018-10-28'
+    date: '2018-10-28'
     names:
       en: The Ochi Day
       el: The Ochi Day
   - public_holiday: true
-    start_date: '2018-12-25'
-    end_date: '2018-12-25'
+    date: '2018-12-25'
     names:
       en: Christmas Day
       el: Christmas Day
   - public_holiday: true
-    start_date: '2018-12-26'
-    end_date: '2018-12-26'
+    date: '2018-12-26'
     names:
       en: Synaxis of the Mother of God
       el: Synaxis of the Mother of God
