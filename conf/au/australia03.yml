@@ -394,10 +394,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2018-08-06'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2018-10-01'
     names:
       en: Labour Day
@@ -443,10 +439,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2019-08-05'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2019-10-07'
     names:
       en: Labour Day
@@ -491,10 +483,6 @@ years:
     date: '2020-06-08'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2020-08-03'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2020-10-05'
     names:
@@ -544,10 +532,6 @@ years:
     date: '2021-06-14'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2021-08-02'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2021-10-04'
     names:
@@ -606,10 +590,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2022-08-01'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2022-10-03'
     names:
       en: Labour Day
@@ -663,10 +643,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2023-08-07'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2023-10-02'
     names:
       en: Labour Day
@@ -711,10 +687,6 @@ years:
     date: '2024-06-10'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2024-08-05'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2024-10-07'
     names:
@@ -761,10 +733,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2025-08-04'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2025-10-06'
     names:
       en: Labour Day
@@ -809,10 +777,6 @@ years:
     date: '2026-06-08'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2026-08-03'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2026-10-05'
     names:
@@ -862,10 +826,6 @@ years:
     date: '2027-06-14'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2027-08-02'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2027-10-04'
     names:
@@ -924,10 +884,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2028-08-07'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2028-10-02'
     names:
       en: Labour Day
@@ -972,10 +928,6 @@ years:
     date: '2029-06-11'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2029-08-06'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2029-10-01'
     names:
@@ -1022,10 +974,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2030-08-05'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2030-10-07'
     names:
       en: Labour Day
@@ -1071,10 +1019,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2031-08-04'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2031-10-06'
     names:
       en: Labour Day
@@ -1119,10 +1063,6 @@ years:
     date: '2032-06-14'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2032-08-02'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2032-10-04'
     names:
@@ -1181,10 +1121,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2033-08-01'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2033-10-03'
     names:
       en: Labour Day
@@ -1238,10 +1174,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2034-08-07'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2034-10-02'
     names:
       en: Labour Day
@@ -1286,10 +1218,6 @@ years:
     date: '2035-06-11'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2035-08-06'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2035-10-01'
     names:
@@ -1336,10 +1264,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2036-08-04'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2036-10-06'
     names:
       en: Labour Day
@@ -1384,10 +1308,6 @@ years:
     date: '2037-06-08'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2037-08-03'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2037-10-05'
     names:
@@ -1437,10 +1357,6 @@ years:
     date: '2038-06-14'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2038-08-02'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2038-10-04'
     names:
@@ -1499,10 +1415,6 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
-    date: '2039-08-01'
-    names:
-      en: Bank Holiday
-  - public_holiday: true
     date: '2039-10-03'
     names:
       en: Labour Day
@@ -1555,10 +1467,6 @@ years:
     date: '2040-06-11'
     names:
       en: Queen's Birthday
-  - public_holiday: true
-    date: '2040-08-06'
-    names:
-      en: Bank Holiday
   - public_holiday: true
     date: '2040-10-01'
     names:

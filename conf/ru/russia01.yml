@@ -710,15 +710,30 @@ years:
       en: International Women's Day
       ru: Восьмое марта
   - public_holiday: true
+    date: '2018-04-30'
+    names:
+      en: Spring and Labour Day Holiday
+      ru: Праздник
+  - public_holiday: true
     date: '2018-05-01'
     names:
       en: The Day of Spring and Labor
       ru: Праздник Весны и Труда
   - public_holiday: true
+    date: '2018-05-02'
+    names:
+      en: Spring and Labour Day Holiday
+      ru: Праздник
+  - public_holiday: true
     date: '2018-05-09'
     names:
       en: Victory Day
       ru: День Победы
+  - public_holiday: true
+    date: '2018-06-11'
+    names:
+      en: Holiday
+      ru: Праздник
   - public_holiday: true
     date: '2018-06-12'
     names:

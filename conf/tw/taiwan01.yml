@@ -60,8 +60,8 @@ years:
   - public_holiday: true
     date: '2018-06-18'
     names:
-      en: Tuen Ng Festival
-      zh: Dragon Boat Festival
+      en: Dragon Boat Festival
+      zh: Tuen Ng Festival
   - public_holiday: true
     date: '2018-09-24'
     names:

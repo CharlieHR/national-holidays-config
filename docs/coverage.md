@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2018-06-04.
+Last updated 2018-06-23.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -18,7 +18,7 @@ Last updated 2018-06-04.
 | 🇦🇼 | Aruba | No Data | - | - | - | - |
 | 🇦🇺 | Australia | Australian Capital Territory | 2040 | 14 | - | - |
 | 🇦🇺 | Australia | Queensland | 2040 | 12 | - | - |
-| 🇦🇺 | Australia | New South Wales | 2040 | 13 | - | - |
+| 🇦🇺 | Australia | New South Wales | 2040 | 12 | - | - |
 | 🇦🇺 | Australia | Northern Territory | 2040 | 17 | - | - |
 | 🇦🇺 | Australia | South Australia | 2040 | 14 | - | - |
 | 🇦🇺 | Australia | Tasmania | 2040 | 12 | - | - |
