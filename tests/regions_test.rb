@@ -9,7 +9,7 @@ describe 'Regions' do
 
     Dir.chdir(TestUtils.config_directory) do
       Dir.glob('*/*.yml').each do |region_file|
-        region_name = region_file.sub(%r{^.+/}, '').sub(%r{\.yml$}, '')
+        region_name = region_file.sub(%r{^.+/}, '').sub(/\.yml$/, '')
 
         it "region #{region_name} for #{region_file} is unique" do
           if seen.key?(region_name)
