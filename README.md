@@ -36,7 +36,7 @@ The repository started out with the configuration from [neosepulveda/national_ho
 
 ## How to contribute
 
-...
+This project is managed with Github. To add a new country or update an existing one, [open a Pull Request](https://github.com/kaoru/national-holidays-config/pulls) with your proposed changes.
 
 ## Who are we?
 
