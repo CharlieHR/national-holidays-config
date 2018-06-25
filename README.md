@@ -38,6 +38,8 @@ The repository started out with the configuration from [neosepulveda/national_ho
 
 This project is managed with Github. To add a new country or update an existing one, [open a Pull Request](https://github.com/kaoru/national-holidays-config/pulls) with your proposed changes.
 
+We have adopted the [Contributor Covenant](https://www.contributor-covenant.org/) as our code of conduct. For full details see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
 ## Who are we?
 
 We run [CharlieHR](https://www.charliehr.com) where knowing about public and national holidays helps us calculate time off for 1000s of companies.
