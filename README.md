@@ -1,7 +1,3 @@
-# WORK IN PROGRESS, NOT READY FOR USE
-
-Until this is done you can use the [neosepulveda/national_holidays](https://github.com/neosepulveda/national_holidays) Ruby gem that this is based on.
-
 # National holidays config
 
 ## A configuration first repository
@@ -32,13 +28,17 @@ This repository ships with a test suite written in Ruby using MiniTest. To run t
 
 View the current coverage in [docs/coverage.md](docs/coverage.md).
 
-The repository started out with the configuration from [neosepulveda/national_holidays](https://github.com/neosepulveda/national_holidays) which has 71 countries' public holidays stored inside Ruby code.
-
 ## How to contribute
+
+### Improve the data
 
 This project is managed with Github. To add a new country or update an existing one, [open a Pull Request](https://github.com/CharlieHR/national-holidays-config/pulls) with your proposed changes.
 
 We have adopted the [Contributor Covenant](https://www.contributor-covenant.org/) as our code of conduct. For full details see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+### Write a library
+
+To write a library we recommend importing this configuration via git submodules. For an example see [national-holidays-ruby](https://github.com/CharlieHR/national-holidays-ruby).
 
 ## Who are we?
 
