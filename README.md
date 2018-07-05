@@ -36,7 +36,7 @@ This project is managed with Github. To add a new country or update an existing 
 
 We have adopted the [Contributor Covenant](https://www.contributor-covenant.org/) as our code of conduct. For full details see [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-### Write a library
+### Write a library
 
 To write a library we recommend importing this configuration via git submodules. For an example see [national-holidays-ruby](https://github.com/CharlieHR/national-holidays-ruby).
 
