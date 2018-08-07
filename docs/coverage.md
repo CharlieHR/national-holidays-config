@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2018-06-23.
+Last updated 2018-08-07.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -107,7 +107,7 @@ Last updated 2018-06-23.
 | 🇬🇲 | Gambia | No Data | - | - | - | - |
 | 🇬🇪 | Georgia | No Data | - | - | - | - |
 | 🇩🇪 | Germany | Baden Wurttemberg | 2040 | 12 | - | - |
-| 🇩🇪 | Germany | Bavaria | 2040 | 14 | - | - |
+| 🇩🇪 | Germany | Bavaria | 2040 | 13 | - | - |
 | 🇩🇪 | Germany | Berlin | 2040 | 9 | - | - |
 | 🇩🇪 | Germany | Brandenburg | 2040 | 10 | - | - |
 | 🇩🇪 | Germany | Bremen | 2040 | 9 | - | - |
