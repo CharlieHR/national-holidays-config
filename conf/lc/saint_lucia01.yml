@@ -1,0 +1,97 @@
+---
+name: Saint Lucia (all)
+years:
+  '2018':
+  - public_holiday: true
+    date: '2018-01-01'
+    names:
+      en: "New Year's Day"
+  - public_holiday: true
+    date: '2018-01-02'
+    names:
+      en: "Day after New Year's Day"
+  - public_holiday: true
+    date: '2018-02-22'
+    names:
+      en: 'Independence Day'
+  - public_holiday: true
+    date: '2018-03-30'
+    names:
+      en: 'Good Friday'
+  - public_holiday: true
+    date: '2018-04-02'
+    names:
+      en: 'Easter Monday'
+  - public_holiday:
+    date: '2018-05-01'
+    names:
+      en: 'May Day'
+  - public_holiday: true
+    date: '2018-05-21'
+    names:
+      en: 'Whit Monday'
+  - public_holiday: true
+    date: '2018-05-31'
+    names:
+      en: 'Corpus Christi'
+  - public_holiday: true
+    date: '2018-08-01'
+    names:
+      en: 'Emancipation Day'
+  - public_holiday: true
+    date: '2018-10-01'
+    names:
+      en: 'Thanksgiving Day'
+  - public_holiday: true
+    date: '2018-12-25'
+    names:
+      en: 'Christmas Day'
+  - public_holiday: true
+    date: '2018-12-26'
+    names:
+      en: 'Boxing Day'
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: "New Year's Day"
+  - public_holiday: true
+    date: '2019-01-02'
+    names:
+      en: "Day after New Year's Day"
+  - public_holiday: true
+    date: '2019-02-22'
+    names:
+      en: 'Independence Day'
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: 'Good Friday'
+  - public_holiday: true
+    date: '2019-04-22'
+    names:
+      en: 'Easter Monday'
+  - public_holiday: true
+    date: '2019-06-10'
+    names:
+      en: 'Whit Monday'
+  - public_holiday: true
+    date: '2019-06-20'
+    names:
+      en: 'Corpus Christi'
+  - public_holiday: true
+    date: '2019-08-01'
+    names:
+      en: 'Emancipation Day'
+  - public_holiday: true
+    date: '2019-10-07'
+    names:
+      en: 'Thanksgiving Day'
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: 'Christmas Day'
+  - public_holiday: true
+    date: '2019-12-26'
+    names:
+      en: 'Boxing Day'
