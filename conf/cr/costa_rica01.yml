@@ -1,0 +1,93 @@
+---
+name: Costa Rica (all)
+years:
+  '2018':
+  - public_holiday: true
+    date: '2018-01-01'
+    names:
+      en: "New Year's Day"
+  - public_holiday: true
+    date: '2018-03-29'
+    names:
+      en: 'Good Thursday'
+  - public_holiday: true
+    date: '2018-03-30'
+    names:
+      en: 'Good Friday'
+  - public_holiday: true
+    date: '2018-04-11'
+    names:
+      en: 'Juan Santamaria Day'
+  - public_holiday: true
+    date: '2018-05-01'
+    names:
+      en: 'Labor Day'
+  - public_holiday: true
+    date: '2018-07-25'
+    names:
+      en: 'Guanacaste Day'
+  - public_holiday: true
+    date: '2018-08-02'
+    names:
+      en: 'Virgin of Los Angeles Day'
+  - public_holiday: true
+    date: '2018-08-15'
+    names:
+      en: "Mother's Day"
+  - public_holiday: true
+    date: '2018-09-15'
+    names:
+      en: 'Independence Day'
+  - public_holiday: true
+    date: '2018-10-12'
+    names:
+      en: 'National Cultures Day'
+  - public_holiday: true
+    date: '2018-12-25'
+    names:
+      en: 'Christmas Day'
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: "New Year's Day"
+  - public_holiday: true
+    date: '2019-03-18'
+    names:
+      en: 'Good Thursday'
+  - public_holiday: true
+    date: '2019-03-19'
+    names:
+      en: 'Good Friday'
+  - public_holiday: true
+    date: '2019-04-11'
+    names:
+      en: 'Juan Santamaria Day'
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: 'Labor Day'
+  - public_holiday: true
+    date: '2019-07-25'
+    names:
+      en: 'Guanacaste Day'
+  - public_holiday: true
+    date: '2019-08-02'
+    names:
+      en: 'Virgin of Los Angeles Day'
+  - public_holiday: true
+    date: '2019-08-15'
+    names:
+      en: "Mother's Day"
+  - public_holiday: true
+    date: '2019-09-15'
+    names:
+      en: 'Independence Day'
+  - public_holiday: true
+    date: '2019-10-12'
+    names:
+      en: 'National Cultures Day'
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: 'Christmas Day'
