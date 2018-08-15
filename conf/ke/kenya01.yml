@@ -5,85 +5,175 @@ years:
   - public_holiday: true
     date: '2016-01-01'
     names:
-      en: New Year's Day
+      en: "New Year's Day"
   - public_holiday: true
     date: '2016-03-25'
     names:
-      en: Good Friday
+      en: 'Good Friday'
   - public_holiday: true
     date: '2016-03-28'
     names:
-      en: Easter Monday
+      en: 'Easter Monday'
   - public_holiday: true
     date: '2016-05-01'
     names:
-      en: Labour Day
+      en: 'Labour Day'
   - public_holiday: true
     date: '2016-05-02'
     names:
-      en: Labour Day Holiday
+      en: 'Labour Day Holiday'
   - public_holiday: true
     date: '2016-06-01'
     names:
-      en: Madaraka Day
+      en: 'Madaraka Day'
   - public_holiday: true
     date: '2016-07-07'
     names:
-      en: Eid Al Fitr
+      en: 'Eid Al Fitr'
   - public_holiday: true
     date: '2016-08-20'
     names:
-      en: Mashujaa Day
+      en: 'Mashujaa Day'
   - public_holiday: true
     date: '2016-12-12'
     names:
-      en: Jamhuri Day
+      en: 'Jamhuri Day'
   - public_holiday: true
     date: '2016-12-25'
     names:
-      en: Christmas Day
+      en: 'Christmas Day'
   - public_holiday: true
     date: '2016-12-26'
     names:
-      en: Boxing Day
+      en: 'Boxing Day'
   '2017':
   - public_holiday: true
     date: '2017-01-01'
     names:
-      en: New Year's Day
+      en: "New Year's Day"
   - public_holiday: true
     date: '2017-04-14'
     names:
-      en: Good Friday
+      en: 'Good Friday'
   - public_holiday: true
     date: '2017-04-17'
     names:
-      en: Easter Monday
+      en: 'Easter Monday'
   - public_holiday: true
     date: '2017-05-01'
     names:
-      en: Labour Day
+      en: 'Labour Day'
   - public_holiday: true
     date: '2017-06-01'
     names:
-      en: Madaraka Day
+      en: 'Madaraka Day'
   - public_holiday: true
     date: '2017-06-26'
     names:
-      en: Eid Al Fitr
+      en: 'Eid Al Fitr'
   - public_holiday: true
     date: '2017-08-20'
     names:
-      en: Mashujaa Day
+      en: 'Mashujaa Day'
   - public_holiday: true
     date: '2017-12-12'
     names:
-      en: Jamhuri Day
+      en: 'Jamhuri Day'
   - public_holiday: true
     date: '2017-12-25'
     names:
-      en: Christmas Day
+      en: 'Christmas Day'
   - public_holiday: true
     date: '2017-12-26'
     names:
-      en: Boxing Day
+      en: 'Boxing Day'
+  '2018':
+  - public_holiday: true
+    date: '2018-01-01'
+    names:
+      en: "New Year's Day"
+  - public_holiday: true
+    date: '2018-03-30'
+    names:
+      en: 'Good Friday'
+  - public_holiday: true
+    date: '2018-04-02'
+    names:
+      en: 'Easter Monday'
+  - public_holiday: true
+    date: '2018-05-01'
+    names:
+      en: 'Labour Day'
+  - public_holiday: true
+    date: '2018-06-01'
+    names:
+      en: 'Madaraka Day'
+  - public_holiday: true
+    date: '2018-06-15'
+    names:
+      en: 'Eid Al Fitr'
+  - public_holiday: true
+    date: '2018-10-10'
+    names:
+      en: 'Moi Day'
+  - public_holiday: true
+    date: '2018-10-20'
+    names:
+      en: 'Mashujaa Day Holiday'
+  - public_holiday: true
+    date: '2018-12-12'
+    names:
+      en: 'Jamhuri Day'
+  - public_holiday: true
+    date: '2018-25-25'
+    names:
+      en: 'Christmas Day'
+  - public_holiday: true
+    date: '2018-12-26'
+    names:
+      en: 'Boxing Day'
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: "New Year's Day"
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: 'Good Friday'
+  - public_holiday: true
+    date: '2019-04-22'
+    names:
+      en: 'Easter Monday'
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: 'Labour Day'
+  - public_holiday: true
+    date: '2019-06-01'
+    names:
+      en: 'Madaraka Day'
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: 'Eid Al Fitr'
+  - public_holiday: true
+    date: '2019-10-10'
+    names:
+      en: 'Moi Day'
+  - public_holiday: true
+    date: '2019-10-21'
+    names:
+      en: 'Mashujaa Day Holiday'
+  - public_holiday: true
+    date: '2019-12-12'
+    names:
+      en: 'Jamhuri Day'
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: 'Christmas Day'
+  - public_holiday: true
+    date: '2019-12-26'
+    names:
+      en: 'Boxing Day'
