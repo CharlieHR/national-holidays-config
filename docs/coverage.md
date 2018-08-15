@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2018-08-07.
+Last updated 2018-08-15.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -75,7 +75,7 @@ Last updated 2018-08-07.
 | 🇨🇬 | Congo | No Data | - | - | - | - |
 | 🇨🇩 | Congo (Democratic Republic of the) | No Data | - | - | - | - |
 | 🇨🇰 | Cook Islands | No Data | - | - | - | - |
-| 🇨🇷 | Costa Rica | No Data | - | - | - | - |
+| 🇨🇷 | Costa Rica | Costa Rica (all) | 2019 | 11 | - | - |
 | 🇭🇷 | Croatia | Croatia (all) | 2040 | 14 | - | - |
 | 🇨🇺 | Cuba | No Data | - | - | - | - |
 | 🇨🇼 | Curaçao | No Data | - | - | - | - |
@@ -150,9 +150,9 @@ Last updated 2018-08-07.
 | 🇯🇲 | Jamaica | Jamaica (all) | 2018 | 11 | - | - |
 | 🇯🇵 | Japan | Japan (all) | 2040 | 16 | - | - |
 | 🇯🇪 | Jersey | No Data | - | - | - | - |
-| 🇯🇴 | Jordan | No Data | - | - | - | - |
+| 🇯🇴 | Jordan | Jordan (all) | 2019 | 14 | - | - |
 | 🇰🇿 | Kazakhstan | No Data | - | - | - | - |
-| 🇰🇪 | Kenya | Kenya (all) | 2017 | 10 | - | - |
+| 🇰🇪 | Kenya | Kenya (all) | 2019 | 11 | - | - |
 | 🇰🇮 | Kiribati | No Data | - | - | - | - |
 | 🇰🇵 | Korea (Democratic People's Republic of) | No Data | - | - | - | - |
 | 🇰🇷 | Korea (Republic of) | South Korea (all) | 2040 | 15 | - | - |
@@ -235,7 +235,7 @@ Last updated 2018-08-07.
 | 🇧🇱 | Saint Barthélemy | No Data | - | - | - | - |
 | 🇸🇭 | Saint Helena, Ascension and Tristan da Cunha | No Data | - | - | - | - |
 | 🇰🇳 | Saint Kitts and Nevis | No Data | - | - | - | - |
-| 🇱🇨 | Saint Lucia | No Data | - | - | - | - |
+| 🇱🇨 | Saint Lucia | Saint Lucia (all) | 2019 | 11 | 2018 | 12 |
 | 🇲🇫 | Saint Martin (French part) | No Data | - | - | - | - |
 | 🇵🇲 | Saint Pierre and Miquelon | No Data | - | - | - | - |
 | 🇻🇨 | Saint Vincent and the Grenadines | No Data | - | - | - | - |
@@ -359,4 +359,4 @@ Last updated 2018-08-07.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 74 / 249
+Total coverage: 77 / 249
