@@ -82,6 +82,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2015-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2016':
   - public_holiday: true
     date: '2016-01-01'
@@ -148,6 +153,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2016-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2017':
   - public_holiday: true
     date: '2017-01-02'
@@ -214,6 +224,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2017-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2018':
   - public_holiday: true
     date: '2018-01-01'
@@ -275,6 +290,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2018-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2019':
   - public_holiday: true
     date: '2019-01-01'
@@ -336,6 +356,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2020':
   - public_holiday: true
     date: '2020-01-01'
@@ -397,6 +422,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2021':
   - public_holiday: true
     date: '2021-01-01'
@@ -458,6 +488,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2022':
   - public_holiday: true
     date: '2022-01-03'
@@ -519,6 +554,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2023':
   - public_holiday: true
     date: '2023-01-02'
@@ -580,6 +620,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2023-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2024':
   - public_holiday: true
     date: '2024-01-01'
@@ -641,6 +686,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2024-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2025':
   - public_holiday: true
     date: '2025-01-01'
@@ -702,6 +752,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2025-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2026':
   - public_holiday: true
     date: '2026-01-01'
@@ -763,6 +818,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2026-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2027':
   - public_holiday: true
     date: '2027-01-01'
@@ -824,6 +884,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2027-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2028':
   - public_holiday: true
     date: '2028-01-03'
@@ -885,6 +950,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2028-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2029':
   - public_holiday: true
     date: '2029-01-01'
@@ -946,6 +1016,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2029-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2030':
   - public_holiday: true
     date: '2030-01-01'
@@ -1007,6 +1082,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2030-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2031':
   - public_holiday: true
     date: '2031-01-01'
@@ -1068,6 +1148,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2031-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2032':
   - public_holiday: true
     date: '2032-01-01'
@@ -1129,6 +1214,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2032-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2033':
   - public_holiday: true
     date: '2033-01-03'
@@ -1190,6 +1280,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2033-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2034':
   - public_holiday: true
     date: '2034-01-02'
@@ -1251,6 +1346,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2034-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2035':
   - public_holiday: true
     date: '2035-01-01'
@@ -1312,6 +1412,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2035-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2036':
   - public_holiday: true
     date: '2036-01-01'
@@ -1373,6 +1478,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2036-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2037':
   - public_holiday: true
     date: '2037-01-01'
@@ -1434,6 +1544,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2037-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2038':
   - public_holiday: true
     date: '2038-01-01'
@@ -1495,6 +1610,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2038-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2039':
   - public_holiday: true
     date: '2039-01-03'
@@ -1556,6 +1676,11 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2039-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
   '2040':
   - public_holiday: true
     date: '2040-01-02'
@@ -1617,3 +1742,8 @@ years:
     names:
       en: Defender of Ukraine Day
       uk: День захисника України
+  - public_holiday: true
+    date: '2040-12-25'
+    names:
+      en: Christmas Day
+      uk: Різдво Христове
