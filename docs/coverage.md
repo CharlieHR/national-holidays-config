@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2018-08-15.
+Last updated 2018-09-26.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -121,7 +121,7 @@ Last updated 2018-08-15.
 | 🇩🇪 | Germany | Schleswig Holstein | 2040 | 9 | - | - |
 | 🇩🇪 | Germany | Thuringia | 2040 | 11 | - | - |
 | 🇬🇭 | Ghana | No Data | - | - | - | - |
-| 🇬🇮 | Gibraltar | No Data | - | - | - | - |
+| 🇬🇮 | Gibraltar | Gibraltar (all) | 2019 | 12 | - | - |
 | 🇬🇷 | Greece | Greece (all) | 2018 | 13 | - | - |
 | 🇬🇱 | Greenland | No Data | - | - | - | - |
 | 🇬🇩 | Grenada | No Data | - | - | - | - |
@@ -286,7 +286,7 @@ Last updated 2018-08-15.
 | 🇹🇨 | Turks and Caicos Islands | No Data | - | - | - | - |
 | 🇹🇻 | Tuvalu | No Data | - | - | - | - |
 | 🇺🇬 | Uganda | No Data | - | - | - | - |
-| 🇺🇦 | Ukraine | Ukraine (all) | 2040 | 12 | - | - |
+| 🇺🇦 | Ukraine | Ukraine (all) | 2040 | 13 | - | - |
 | 🇦🇪 | United Arab Emirates | Dubai (all) | 2017 | 14 | - | - |
 | 🇦🇪 | United Arab Emirates | United Arab Emirates (all) | 2018 | 12 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | England | 2040 | 8 | - | - |
@@ -359,4 +359,4 @@ Last updated 2018-08-15.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 77 / 249
+Total coverage: 78 / 249
