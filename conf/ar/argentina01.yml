@@ -173,3 +173,54 @@ years:
     names:
       en: Christmas Day
       es: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour Day
+      es: Labour Day
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: May Day Revolution
+      es: May Day Revolution
+  - public_holiday: true
+    date: '2020-06-17'
+    names:
+      en: Martin Miguel de Guemes Day
+      es: Martin Miguel de Guemes Day
+  - public_holiday: true
+    date: '2020-06-20'
+    names:
+      en: National Flag Day
+      es: National Flag Day
+  - public_holiday: true
+    date: '2020-07-09'
+    names:
+      en: Indepndence Day
+      es: Indepndence Day
+  - public_holiday: true
+    date: '2020-08-17'
+    names:
+      en: St Martin's Day
+      es: St.Martin's Day
+  - public_holiday: true
+    date: '2020-10-12'
+    names:
+      en: Day of respect for cultural diversity
+      es: Day of respect for cultural diversity
+  - public_holiday: true
+    date: '2020-11-23'
+    names:
+      en: Day of National Sovereignty
+      es: Day of National Sovereignty
+  - public_holiday: true
+    date: '2020-12-08'
+    names:
+      en: Immaculate Conception Day
+      es: Immaculate Conception Day
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      es: Christmas Day
