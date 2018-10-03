@@ -118,3 +118,105 @@ years:
     names:
       en: Independence Day
       vi: Independence Day
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      vi: New Year's Day
+  - public_holiday: true
+    date: '2019-02-04'
+    names:
+      en: Vietnamese New Year Eve
+      vi: Tet Eve
+  - public_holiday: true
+    date: '2019-02-05'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Nguyen Dan
+  - public_holiday: true
+    date: '2019-02-06'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
+    date: '2019-02-07'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
+    date: '2019-02-08'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
+    date: '2019-04-15'
+    names:
+      en: Hung King's Temple Festival
+      vi: Hung King's Temple Festival
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: International Labour Day
+      vi: International Labour Day
+  - public_holiday: true
+    date: '2019-09-02'
+    names:
+      en: National Day
+      vi: National Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      vi: New Year's Day
+  - public_holiday: true
+    date: '2020-01-24'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
+    date: '2020-01-25'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
+    date: '2020-01-26'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
+    date: '2020-01-27'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
+    date: '2020-01-28'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
+    date: '2020-01-29'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
+    date: '2020-01-30'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
+    date: '2020-04-02'
+    names:
+      en: Hung King's Temple Festival
+      vi: Hung King's Temple Festival
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: International Labour Day
+      vi: International Labour Day
+  - public_holiday: true
+    date: '2020-09-02'
+    names:
+      en: National Day
+      vi: National Day
