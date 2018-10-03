@@ -133,3 +133,160 @@ years:
     names:
       en: Christmas Eve
       es: Christmas Eve
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      es: New Year's Day
+  - public_holiday: true
+    date: '2019-03-04'
+    names:
+      en: Carnival
+      es: Carnival
+  - public_holiday: true
+    date: '2019-03-05'
+    names:
+      en: Carnival
+      es: Carnival
+  - public_holiday: true
+    date: '2019-04-18'
+    names:
+      en: Maundy Thursday
+      es: Maundy Thursday
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Good Friday
+      es: Good Friday
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Independence Declaration Day
+      es: Independence Declaration Day
+  - public_holiday: true
+    date: '2019-04-27'
+    names:
+      en: National Holiday
+      es: National Holidays
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: National Labour Day
+      es: National Labour Day
+  - public_holiday: true
+    date: '2019-06-24'
+    names:
+      en: St. Johns Day
+      es: St. Johns Day
+  - public_holiday: true
+    date: '2019-06-29'
+    names:
+      en: Feast of St Peter and Paul
+      es: Saint Peter and Paul
+  - public_holiday: true
+    date: '2019-07-05'
+    names:
+      en: Independence Day
+      es: Independence Day
+  - public_holiday: true
+    date: '2019-07-24'
+    names:
+      en: Simon Bolivar's Birthday
+      es: Simon Bolivar's Birthday
+  - public_holiday: true
+    date: '2019-08-15'
+    names:
+      en: Assumption Day
+      es: Assumption Day
+  - public_holiday: true
+    date: '2019-10-12'
+    names:
+      en: Indigenous Resistance Day
+      es: Indigenous Resistance Day
+  - public_holiday: true
+    date: '2019-11-01'
+    names:
+      en: All Saint's Day
+      es: All Saint's Day
+  - public_holiday: true
+    date: '2019-12-24'
+    names:
+      en: Christmas Eve
+      es: Christmas Eve
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      es: Christmas Day
+  - public_holiday: true
+    date: '2019-12-31'
+    names:
+      en: New Year's Eve
+      es: New Year's Eve
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      es: New Year's Day
+  - public_holiday: true
+    date: '2020-02-24'
+    names:
+      en: Carnival
+      es: Carnival
+  - public_holiday: true
+    date: '2020-02-25'
+    names:
+      en: Carnival
+      es: Carnival
+  - public_holiday: true
+    date: '2020-04-09'
+    names:
+      en: Maundy Thursday
+      es: Maundy Thursday
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday
+      es: Good Friday
+  - public_holiday: true
+    date: '2020-04-19'
+    names:
+      en: Independence Declaration Day
+      es: Independence Declaration Day
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: National Labour Day
+      es: National Labour Day
+  - public_holiday: true
+    date: '2020-06-24'
+    names:
+      en: Battle of Carabobo
+      es: Battle of Carabobo
+  - public_holiday: true
+    date: '2020-07-05'
+    names:
+      en: Independence Declaration Day
+      es: Independence Declaration Day
+  - public_holiday: true
+    date: '2020-07-24'
+    names:
+      en: Simon Bolivar's Birthday
+      es: Simon Bolivar's Birthday
+  - public_holiday: true
+    date: '2020-10-12'
+    names:
+      en: Indigenous Resistance Day
+      es: Indigenous Resistance Day
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      es: Christmas Day
+  - public_holiday: true
+    date: '2020-12-31'
+    names:
+      en: New Year's Eve
+      es: New Year's Eve
