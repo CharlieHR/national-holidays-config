@@ -163,3 +163,155 @@ years:
     names:
       en: National Day (second day)
       ar: National Day (second day)
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      ar: New Year's Day
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: Labour Day
+      ar: Labour Day
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
+    date: '2019-06-06'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr Holiday
+  - public_holiday: true
+    date: '2019-06-09'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr Holiday
+  - public_holiday: true
+    date: '2019-08-12'
+    names:
+      en: Lunar Cycle
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2019-08-13'
+    names:
+      en: Lunar Cycle
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2019-08-14'
+    names:
+      en: Lunar Cycle
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2019-09-01'
+    names:
+      en: Islamic New Year
+      ar: Hijri New Year
+  - public_holiday: true
+    date: '2019-09-09'
+    names:
+      en: 9th Day of Muharram
+      ar: Ashoora Eve
+  - public_holiday: true
+    date: '2019-09-10'
+    names:
+      en: 10th day of Muharram
+      ar: Ashoora
+  - public_holiday: true
+    date: '2019-11-10'
+    names:
+      en: Birthday of Prophet Muhammad
+      ar: Birthday of Prophet Muhammad
+  - public_holiday: true
+    date: '2019-12-16'
+    names:
+      en: National Day
+      ar: National Day
+  - public_holiday: true
+    date: '2019-12-17'
+    names:
+      en: National Day
+      ar: National Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      ar: New Year's Day
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: May Day
+      ar: May Day
+  - public_holiday: true
+    date: '2020-05-24'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
+    date: '2020-05-26'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
+    date: '2020-07-30'
+    names:
+      en: Arafat Day
+      ar: Arafat Day
+  - public_holiday: true
+    date: '2020-07-31'
+    names:
+      en: Lunar Cycle
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2020-08-01'
+    names:
+      en: Lunar Cycle
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2020-08-02'
+    names:
+      en: Lunar Cycle
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2020-08-03'
+    names:
+      en: Lunar Cycle
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2020-08-04'
+    names:
+      en: Lunar Cycle
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2020-08-20'
+    names:
+      en: 9th Day of Muharram
+      ar: Ashoora Eve
+  - public_holiday: true
+    date: '2020-08-21'
+    names:
+      en: 10th Day of Muharram
+      ar: Ashoora
+  - public_holiday: true
+    date: '2020-10-29'
+    names:
+      en: Birthday of Prophet Muhammad
+      ar: Birthday of Propheht Muhammad
+  - public_holiday: true
+    date: '2020-12-16'
+    names:
+      en: National Day
+      ar: National Day
+  - public_holiday: true
+    date: '2020-12-17'
+    names:
+      en: National Day
+      ar: National Day
