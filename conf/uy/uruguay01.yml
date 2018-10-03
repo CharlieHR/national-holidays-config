@@ -77,3 +77,120 @@ years:
     names:
       en: Christmas
       es: Christmas
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      es: Ano Nueva
+  - public_holiday: true
+    date: '2019-03-04'
+    names:
+      en: Carnival
+      es: Carnival
+  - public_holiday: true
+    date: '2019-03-05'
+    names:
+      en: Carnival
+      es: Carnival
+  - public_holiday: true
+    date: '2019-04-18'
+    names:
+      en: Maundy Thursday
+      es: Maundy Thursday
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Good Friday
+      es: Good Friday
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Landing of the 33 Pariots Day
+      es: Desembarco de los 33 Orientales
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: National Labour Day
+      es: National Labour Day
+  - public_holiday: true
+    date: '2019-06-19'
+    names:
+      en: Never Again Day
+      es: Artiga's Birthday
+  - public_holiday: true
+    date: '2019-07-18'
+    names:
+      en: Constitution Day
+      es: Constitution Day
+  - public_holiday: true
+    date: '2019-09-25'
+    names:
+      en: Independence Day
+      es: Independence Day
+  - public_holiday: true
+    date: '2019-10-12'
+    names:
+      en: Day of the Races
+      es: Battle of Sarandi Day
+  - public_holiday: true
+    date: '2019-11-02'
+    names:
+      en: All Soul's Day
+      es: Dia de los Muertos
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      es: Day of the Family
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      es: New Year's Day
+  - public_holiday: true
+    date: '2020-02-24'
+    names:
+      en: Carnival
+      es: Carnival
+  - public_holiday: true
+    date: '2020-02-25'
+    names:
+      en: Carnival
+      es: Carnival
+  - public_holiday: true
+    date: '2020-04-09'
+    names:
+      en: Maundy Thursday
+      es: Maundy Thursday
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday
+      es: Good Friday
+  - public_holiday: true
+    date: '2020-04-19'
+    names:
+      en: Landing of the Patriots
+      es: Desembarco de los 33 Orientales
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: National Labour Day
+      es: National Labour Day
+  - public_holiday: true
+    date: '2020-06-19'
+    names:
+      en: Birth of Artigas
+      es: Birth of Artigas
+  - public_holiday: true
+    date: '2020-07-18'
+    names:
+      en: Constitution Day
+      es: Constitution Day
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      es: Day of the Family
