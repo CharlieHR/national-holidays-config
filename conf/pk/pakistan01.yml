@@ -99,3 +99,97 @@ years:
     date: '2018-12-25'
     names:
       en: Birthday of Quaid-e-Azam Muhammad Ali Jinnah
+  '2019':
+  - public_holiday: true
+    date: '2019-02-05'
+    names:
+      en: Kashmir Day
+  - public_holiday: true
+    date: '2019-03-23'
+    names:
+      en: Pakistan Day
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: End of Ramadan
+  - public_holiday: true
+    date: '2019-08-12'
+    names:
+      en: Feast of Sacrifice
+  - public_holiday: true
+    date: '2019-08-13'
+    names:
+      en: Feast of Sacrifice
+  - public_holiday: true
+    date: '2019-08-14'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2019-09-10'
+    names:
+      en: 9th Day of Muharram
+  - public_holiday: true
+    date: '2019-09-10'
+    names:
+      en: 10th Day of Muharram
+  - public_holiday: true
+    date: '2019-10-10'
+    names:
+      en: Eid Milad-un-Nabi
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Birth of Quaid-e-Azam Muhammad Ali Jannah
+  '2020':
+  - public_holiday: true
+    date: '2020-02-05'
+    names:
+      en: Kashmir Day
+  - public_holiday: true
+    date: '2020-03-23'
+    names:
+      en: Pakistan Day
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2020-05-24'
+    names:
+      en: End of Ramadan
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: End of Ramadan'
+  - public_holiday: true
+    date: '2020-05-26'
+    names:
+      en: End of Ramadan
+  - public_holiday: true
+    date: '2020-07-31'
+    names:
+      en: Eid ul-Azha
+  - public_holiday: true
+    date: '2020-08-01'
+    names:
+      en: Eid ul-Azha
+  - public_holiday: true
+    date: '2020-08-14'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2020-08-29'
+    names:
+      en: 9th Day of Muharram
+  - public_holiday: true
+    date: '2020-08-30'
+    names:
+      en: 10th Day of Muharram
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Quiad-e-Azam Day
