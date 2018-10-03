@@ -123,3 +123,135 @@ years:
     names:
       en: Christmas Day
       ro: Christmas Day
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      ro: New Year's Day
+  - public_holiday: true
+    date: '2019-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ro: Orthodox Christmas Day
+  - public_holiday: true
+    date: '2019-01-08'
+    names:
+      en: Orthodox Christmas Holiday
+      ro: Orthodox Christmas Holiday
+  - public_holiday: true
+    date: '2019-03-08'
+    names:
+      en: International Women's Day
+      ro: International Women's Day
+  - public_holiday: true
+    date: '2019-04-28'
+    names:
+      en: Orthodox Easter Day
+      ro: Orthodox Easter Day
+  - public_holiday: true
+    date: '2019-04-29'
+    names:
+      en: Orthodox Easter Monday
+      ro: Orthodox Easter Monaday
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: National Labour Day
+      ro: National Labour Day
+  - public_holiday: true
+    date: '2019-05-06'
+    names:
+      en: Memorial Easter
+      ro: Memorial Easter
+  - public_holiday: true
+    date: '2019-05-09'
+    names:
+      en: Victory Day
+      ro: Victory Day
+  - public_holiday: true
+    date: '2019-06-01'
+    names:
+      en: International Children's Day
+      ro: International Children's Day
+  - public_holiday: true
+    date: '2019-08-27'
+    names:
+      en: Independence Day
+      ro: Independence Day
+  - public_holiday: true
+    date: '2019-08-31'
+    names:
+      en: National Language Day
+      ro: National Langauge Day
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      ro: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      ro: New Year's Day
+  - public_holiday: true
+    date: '2020-01-07'
+    names:
+      en: Orthodox Christmas Day
+      ro: Orthodox Christmas Day
+  - public_holiday: true
+    date: '2020-01-08'
+    names:
+      en: Orthodox Christmas Holiday
+      ro: Orthodox Christmas Holiday
+  - public_holiday: true
+    date: '2020-03-08'
+    names:
+      en: International Women's Day
+      ro: International Womens Day
+  - public_holiday: true
+    date: '2020-04-19'
+    names:
+      en: Orthodox Easter Day
+      ro: Orthodox Easter Day
+  - public_holiday: true
+    date: '2020-04-20'
+    names:
+      en: Orthodox Easter Monday
+      ro: Orthodox Easter Monday
+  - public_holiday: true
+    date: '2020-04-27'
+    names:
+      en: Easter of Blajini
+      ro: Easter of Blajini
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: National Labour Day
+      ro: National Labour Day
+  - public_holiday: true
+    date: '2020-05-09'
+    names:
+      en: Victory Day
+      ro: Victory Day
+  - public_holiday: true
+    date: '2020-06-01'
+    names:
+      en: Children's Day
+      ro: Children's Day
+  - public_holiday: true
+    date: '2020-10-23'
+    names:
+      en: Chulalongkorn Day
+      ro: Chulalongkorn Day
+  - public_holiday: true
+    date: '2020-12-05'
+    names:
+      en: H.M. the King's Birthday
+      ro: H.M. the King's Birthday
+  - public_holiday: true
+    date: '2020-12-10'
+    names:
+      en: Constitution Day
+      ro: Constitution Day
