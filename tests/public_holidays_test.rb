@@ -39,7 +39,7 @@ describe 'Public Holidays' do
         region_data['years'].each do |year, holidays|
           holidays.each do |holiday|
             it "region #{region_name} holiday #{holiday['names'].values.first} in #{year} is in #{year}" do
-              holiday['date'].must_match /^#{year}-[0-9]{2}-[0-9]{2}$/
+              holiday['date'].must_match(/^#{year}-[0-9]{2}-[0-9]{2}$/)
             end
           end
         end
