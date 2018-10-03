@@ -108,3 +108,150 @@ years:
     names:
       en: Christmas Day
       fr: Christmas Day
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      fr: Independence Day
+  - public_holiday: true
+    date: '2019-01-02'
+    names:
+      en: Ancestry Day
+      fr: Ancestry Day
+  - public_holiday: true
+    date: '2019-03-05'
+    names:
+      en: Mardi Gras
+      fr: Mardi Gras
+  - public_holiday: true
+    date: '2019-03-06'
+    names:
+      en: Ash Wednesday
+      fr: Ash Wednesday
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Good Friday
+      fr: Good Friday
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: Labour and Agriculture Day
+      fr: International Workers Day
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: National Labour Day
+      fr: National Labour Day
+  - public_holiday: true
+    date: '2019-05-18'
+    names:
+      en: Flag and Universities Day
+      fr: Flag and Universities Day
+  - public_holiday: true
+    date: '2019-06-20'
+    names:
+      en: Corpus Christi
+      fr: Corpus Christi
+  - public_holiday: true
+    date: '2019-08-15'
+    names:
+      en: Assumption of Mary
+      fr: Assumption of Mary
+  - public_holiday: true
+    date: '2019-10-18'
+    names:
+      en: Dessalines Day
+      fr: Dessalines Day
+  - public_holiday: true
+    date: '2019-11-01'
+    names:
+      en: All Saint's Day
+      fr: All Sain'ts Day
+  - public_holiday: true
+    date: '2019-11-02'
+    names:
+      en: All Souls Day
+      fr: All Souls Day
+  - public_holiday: true
+    date: '2019-11-18'
+    names:
+      en: Battle of Vertieres Day
+      fr: Battle of Vertieres Day
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      fr: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      fr: Independence Day
+  - public_holiday: true
+    date: '2020-01-02'
+    names:
+      en: Founders Day
+      fr: Founders Day
+  - public_holiday: true
+    date: '2020-02-25'
+    names:
+      en: Carnival
+      fr: Carnival
+  - public_holiday: true
+    date: '2020-02-26'
+    names:
+      en: Ash Wednesday
+      fr: Ash Wednesday
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday
+      fr: Good Friday
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour and Agriculture Day
+      fr: International Workers Day
+  - public_holiday: true
+    date: '2020-05-18'
+    names:
+      en: Flag and University Day
+      fr: Flag and University Day
+  - public_holiday: true
+    date: '2020-06-11'
+    names:
+      en: Corpus Christi
+      fr: Corpus Christi
+  - public_holiday: true
+    date: '2020-08-15'
+    names:
+      en: Assumption Day
+      fr: Assumption Day
+  - public_holiday: true
+    date: '2020-09-17'
+    names:
+      en: Death of Dessalines
+      fr: Death of Dessalines
+  - public_holiday: true
+    date: '2020-11-01'
+    names:
+      en: All Saints Day
+      fr: All Saint's Day
+  - public_holiday: true
+    date: '2020-11-02'
+    names:
+      en: All Soul's Day
+      fr: All Soul's Day
+  - public_holiday: true
+    date: '2020-11-08'
+    names:
+      en: Battle of Vertieres
+      fr: Battle of Vertieres
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      fr: Christmas Day
