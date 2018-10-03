@@ -123,3 +123,130 @@ years:
     names:
       en: Christmas Day
       ms: Christmas Day
+  '2019':
+  - public_holiday: true
+    date: '2019-02-05'
+    names:
+      en: Chinese New Year
+      ms: Chinese New Year
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: International Labour Day
+      ms: International Labour Day
+  - public_holiday: true
+    date: '2019-05-19'
+    names:
+      en: Wesak Day'
+      ms: Wesak Day
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: End of Ramadan
+      ms: Hari Raya Aidilfitri,
+  - public_holiday: true
+    date: '2019-06-06'
+    names:
+      en: End of Ramadan
+      ms: Hari Raya Aidilfitri
+  - public_holiday: true
+    date: '2019-08-12'
+    names:
+      en: Festival of Sacrifice
+      ms: Hari Raya Haji
+  - public_holiday: true
+    date: '2019-08-31'
+    names:
+      en: National Day
+      ms: Independence Day
+  - public_holiday: true
+    date: '2019-09-01'
+    names:
+      en: Islamic New Year
+      ms: Awal Muharram
+  - public_holiday: true
+    date: '2019-09-09'
+    names:
+      en: King's Birthday
+      ms: Birthday of SPB Yang di Pertuan Agong
+  - public_holiday: true
+    date: '2019-09-16'
+    names:
+      en: Malaysia Day
+      ms: Malyasia Day
+  - public_holiday: true
+    date: '2019-11-10'
+    names:
+      en: Maulidur Rasul
+      ms: Maulidur Rasul
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      ms: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-25'
+    names:
+      en: Chinese New Year
+      ms: Chinese New Year
+  - public_holiday: true
+    date: '2020-01-26'
+    names:
+      en: Chinese New Year
+      ms: Chinese New Year
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: International Labour Day
+      ms: International Labour Day
+  - public_holiday: true
+    date: '2020-05-07'
+    names:
+      en: Wesak Day
+      ms: Wesak Day
+  - public_holiday: true
+    date: '2020-05-24'
+    names:
+      en: End of Ramadan
+      ms: Hari Raya Aidilfitri,
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: End of Ramadan
+      ms: Hari Raya Aidilfitri
+  - public_holiday: true
+    date: '2020-05-26'
+    names:
+      en: End of Ramadan
+      ms: Hari Raya Aidlfitri
+  - public_holiday: true
+    date: '2020-08-20'
+    names:
+      en: Awal Muharram
+      ms: Awal Muharram
+  - public_holiday: true
+    date: '2020-08-31'
+    names:
+      en: Merdeka Day
+      ms: Merdeka Day
+  - public_holiday: true
+    date: '2020-09-09'
+    names:
+      en: Agong's Birthday
+      ms: Agong's Birthday
+  - public_holiday: true
+    date: '2020-09-16'
+    names:
+      en: Malaysia Day
+      ms: Malaysia Day
+  - public_holiday: true
+    date: '2020-10-29'
+    names:
+      en: Prophet Muhammad's Birthday
+      ms: Prophet Muhammad's Birthday
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      ms: Christmas Day
