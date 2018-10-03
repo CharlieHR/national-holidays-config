@@ -133,3 +133,140 @@ years:
     names:
       en: The Prophet's Birthday
       ar: The Prophet's Birthday
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      ar: New Year's Day
+  - public_holiday: true
+    date: '2019-02-25'
+    names:
+      en: National Day
+      ar: National Day
+  - public_holiday: true
+    date: '2019-02-26'
+    names:
+      en: Liberation Day
+      ar: Liberation Day
+  - public_holiday: true
+    date: '2019-04-03'
+    names:
+      en: Isra'a Wal Miraj
+      ar: Isra'a Wal Miraj
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
+    date: '2019-06-06'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
+    date: '2019-06-07'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
+    date: '2019-08-11'
+    names:
+      en: Arafat Day
+      ar: Arafat Day
+  - public_holiday: true
+    date: '2019-08-12'
+    names:
+      en: Eid Al-Adha
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2019-08-13'
+    names:
+      en: Eid Al-Adha
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2019-08-14'
+    names:
+      en: Eid Al-Adha
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2019-09-01'
+    names:
+      en: Islamic New Year
+      ar: Hijri New Year
+  - public_holiday: true
+    date: '2019-10-10'
+    names:
+      en: Birthday of Prophet Muhammad
+      ar: Birthday of Prophet Muhammad
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      ar: New Year's Day
+  - public_holiday: true
+    date: '2020-02-25'
+    names:
+      en: National Day
+      ar: National Day
+  - public_holiday: true
+    date: '2020-02-26'
+    names:
+      en: Liberation Day
+      ar: Liberation Day
+  - public_holiday: true
+    date: '2020-03-22'
+    names:
+      en: Israa and Miraj
+      ar: Israa and Miraj
+  - public_holiday: true
+    date: '2020-05-24'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
+    date: '2020-05-26'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
+    date: '2020-07-30'
+    names:
+      en: Waqfat Arafat Day
+      ar: Waqfat Arafat Day
+  - public_holiday: true
+    date: '2020-07-31'
+    names:
+      en: Eid Al-Adha
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2020-08-01'
+    names:
+      en: Eid Al-Adha
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2020-08-02'
+    names:
+      en: Eid Al-Adha
+      ar: Eid Al-Adha
+  - public_holiday: true
+    date: '2020-08-20'
+    names:
+      en: Islamic New Year
+      ar: Hijri New Year
+  - public_holiday: true
+    date: '2020-10-29'
+    names:
+      en: The Prophet's Birthday
+      ar: The Prophet's Birthday
+  - public_holiday: true
+    date: '2020-12-31'
+    names:
+      en: New Year's Eve
+      ar: New Year's Eve
