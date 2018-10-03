@@ -35,7 +35,7 @@ years:
   - public_holiday: true
     date: '2018-07-14'
     names:
-      en: National Holiday
+      en: Bastille Day
       fr: Fête Nationale
   - public_holiday: true
     date: '2018-08-15'
@@ -54,6 +54,118 @@ years:
       fr: Armistice
   - public_holiday: true
     date: '2018-12-25'
+    names:
+      en: Christmas Day
+      fr: Noël
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      fr: Jour de l'an
+  - public_holiday: true
+    date: '2019-04-22'
+    names:
+      en: Easter Monday
+      fr: Lundi de Paques
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: Labour Day
+      fr: Fête du Travail
+  - public_holiday: true
+    date: '2019-05-08'
+    names:
+      en: Victory in Europe Day
+      fr: 8 Mai 1945
+  - public_holiday: true
+    date: '2019-05-30'
+    names:
+      en: Ascension Day
+      fr: Jeudi de l'Ascension
+  - public_holiday: true
+    date: '2019-06-10'
+    names:
+      en: Pentecost Monday
+      fr: Lundi de Pentecôte
+  - public_holiday: true
+    date: '2019-07-14'
+    names:
+      en: Bastille Day
+      fr: Fête Nationale
+  - public_holiday: true
+    date: '2019-08-15'
+    names:
+      en: Assumption
+      fr: Assomption
+  - public_holiday: true
+    date: '2019-11-01'
+    names:
+      en: All Saint's Day
+      fr: All Saint's Friday
+  - public_holiday: true
+    date: '2019-11-11'
+    names:
+      en: Armistice Day
+      fr: Armistice
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      fr: Noël
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      fr: Jour de l'an
+  - public_holiday: true
+    date: '2020-04-13'
+    names:
+      en: Easter Monday
+      fr: Lundi de Pâques
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour Day
+      fr: Fête du Travail
+  - public_holiday: true
+    date: '2020-05-08'
+    names:
+      en: Victory in Europe Day
+      fr: 8 Mai 1945
+  - public_holiday: true
+    date: '2020-05-21'
+    names:
+      en: Ascension Day
+      fr: Jeudi de l'Ascension
+  - public_holiday: true
+    date: '2020-06-01'
+    names:
+      en: Pentecost Monday
+      fr: Lundi de Pentecôte
+  - public_holiday: true
+    date: '2020-07-14'
+    names:
+      en: Bastille Day
+      fr: Fête Nationale
+  - public_holiday: true
+    date: '2020-08-15'
+    names:
+      en: Assumption
+      fr: Assomption
+  - public_holiday: true
+    date: '2020-11-01'
+    names:
+      en: All Saint's Day
+      fr: La Toussaint
+  - public_holiday: true
+    date: '2020-11-11'
+    names:
+      en: Armistice Day
+      fr: Armistice
+  - public_holiday: true
+    date: '2020-12-25'
     names:
       en: Christmas Day
       fr: Noël
