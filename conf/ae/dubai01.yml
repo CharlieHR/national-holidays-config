@@ -72,3 +72,145 @@ years:
     names:
       en: National Day
       ar: National Day
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      ar: New Year's Day
+  - public_holiday: true
+    date: '2019-04-03'
+    names:
+      en: Israa & Miaraj Night
+      ar: Israa & Miarag
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr Boliday
+  - public_holiday: true
+    date: '2019-06-06'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr Boliday
+  - public_holiday: true
+    date: '2019-08-11'
+    names:
+      en: Arafat (Haj) Day
+      ar: Arafat (Haj
+  - public_holiday: true
+    date: '2019-08-12'
+    names:
+      en: Eid Al Adha Holiday
+      ar: Eid Al Adha Holiday
+  - public_holiday: true
+    date: '2019-08-13'
+    names:
+      en: Eid Al Adha Holiday
+      ar: Eid Al Adha Holiday
+  - public_holiday: true
+    date: '2019-08-14'
+    names:
+      en: Eid Al Adha Holiday
+      ar: Eid Al Adha Holiday
+  - public_holiday: true
+    date: '2019-09-01'
+    names:
+      en: Islamic New Year
+      ar: Hijri New Years Day
+  - public_holiday: true
+    date: '2019-11-10'
+    names:
+      en: Prophet Mohammed's Birthday
+      ar: Prophet Mohammed's Birthday
+  - public_holiday: true
+    date: '2019-11-30'
+    names:
+      en: Martyrs' Day
+      ar: Martyrs Day
+  - public_holiday: true
+    date: '2019-12-02'
+    names:
+      en: UAE National Day
+      ar: UAE National Day
+  - public_holiday: true
+    date: '2019-12-03'
+    names:
+      en: UAE National Day
+      ar: UAE National Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      ar: New Year's Day
+  - public_holiday: true
+    date: '2020-03-22'
+    names:
+      en: Israa & Miaraj
+      ar: Israa & Miaraj
+  - public_holiday: true
+    date: '2020-04-24'
+    names:
+      en: Beginning of Ramadan
+      ar: Beginning of Ramadan
+  - public_holiday: true
+    date: '2020-05-24'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr Holiday
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr Holiday
+  - public_holiday: true
+    date: '2020-05-26'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr Holiday
+  - public_holiday: true
+    date: '2020-07-30'
+    names:
+      en: Arafat (Haj) Day
+      ar: Arafat (Haj
+  - public_holiday: true
+    date: '2020-07-31'
+    names:
+      en: Eid al-Adha Holiday
+      ar: Eid al-Adha Holiday
+  - public_holiday: true
+    date: '2020-08-01'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr Holiday
+  - public_holiday: true
+    date: '2020-08-02'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr Holiday
+  - public_holiday: true
+    date: '2020-08-20'
+    names:
+      en: Islamic New Year
+      ar: Islamic New Year
+  - public_holiday: true
+    date: '2020-10-29'
+    names:
+      en: Prophet Mohammed's Birthday
+      ar: Prophet Mohammed's Birhtday
+  - public_holiday: true
+    date: '2020-11-30'
+    names:
+      en: Martyrs Day
+      ar: Martyrs Day
+  - public_holiday: true
+    date: '2020-12-02'
+    names:
+      en: UAE National Day
+      ar: UAE National Day
+  - public_holiday: true
+    date: '2020-12-03'
+    names:
+      en: UAE National Day
+      ar: UAE National Day
