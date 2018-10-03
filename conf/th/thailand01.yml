@@ -213,3 +213,170 @@ years:
     names:
       en: New Year's Eve
       th: New Year's Eve
+  '2019':
+  - public_holiday: true
+    date: '2019-02-05'
+    names:
+      en: Makha Bucha Day
+      th: Makha Bucha Day
+  - public_holiday: true
+    date: '2019-04-08'
+    names:
+      en: Chakri Memorial Day
+      th: Chakri Memorial Day
+  - public_holiday: true
+    date: '2019-04-13'
+    names:
+      en: Songkran Festival
+      th: Songkran Festival
+  - public_holiday: true
+    date: '2019-04-14'
+    names:
+      en: Songkran Festival
+      th: Songkran Festival
+  - public_holiday: true
+    date: '2019-04-15'
+    names:
+      en: Songkran Festival
+      th: Songkran Festival
+  - public_holiday: true
+    date: '2019-04-16'
+    names:
+      en: Songkran Festival
+      th: Songkran Festival
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: National Labour Day
+      th: National Labour Day
+  - public_holiday: true
+    date: '2019-05-05'
+    names:
+      en: Coronation Day
+      th: Coronation Day
+  - public_holiday: true
+    date: '2019-05-19'
+    names:
+      en: Wiskha Bucha Day
+      th: Wiskha Bucha Day
+  - public_holiday: true
+    date: '2019-07-17'
+    names:
+      en: Ashna Bucha Day
+      th: Ashna Bucha Day
+  - public_holiday: true
+    date: '2019-07-29'
+    names:
+      en: H.M the King's Birthday
+      th: H.M the King's Birthday
+  - public_holiday: true
+    date: '2019-12-05'
+    names:
+      en: H.M. the Queen's Birthday
+      th: H.M. the Queen's Birthday
+  - public_holiday: true
+    date: '2019-11-23'
+    names:
+      en: Chulalongkorn Day
+      th: Chulalongkorn Day
+  - public_holiday: true
+    date: '2019-12-10'
+    names:
+      en: Constitution Day
+      th: Constitution Day
+  - public_holiday: true
+    date: '2019-12-31'
+    names:
+      en: New Year's Eve
+      th: New Year's Eve
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      th: New Year's Day
+  - public_holiday: true
+    date: '2020-02-09'
+    names:
+      en: Makha Bucha Day
+      th: Makha Bucha Day
+  - public_holiday: true
+    date: '2020-02-10'
+    names:
+      en: Makha Bucha Day
+      th: Makha Bucha Day
+  - public_holiday: true
+    date: '2020-04-06'
+    names:
+      en: Chakri Memorial Day
+      th: Chakri Memorial Day
+  - public_holiday: true
+    date: '2020-04-13'
+    names:
+      en: Songkran Festival
+      th: Songkran Festival
+  - public_holiday: true
+    date: '2020-04-14'
+    names:
+      en: Songkran Festival
+      th: Songkran Festival
+  - public_holiday: true
+    date: '2020-04-15'
+    names:
+      en: Songkran Festival
+      th: Songkran Festival
+  - public_holiday: true
+    date: '2020-04-16'
+    names:
+      en: Songkran Festival
+      th: Songkran Festival
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: National Labour Day
+      th: National Labour Day
+  - public_holiday: true
+    date: '2020-05-06'
+    names:
+      en: Wiskha Bucha Day
+      th: Wiskha Bucha Day
+  - public_holiday: true
+    date: '2020-07-05'
+    names:
+      en: Ashna Bucha Day
+      th: Ashna Bucha Day
+  - public_holiday: true
+    date: '2020-07-06'
+    names:
+      en: Khao Phansa Day
+      th: Khao Phansa Day
+  - public_holiday: true
+    date: '2020-07-28'
+    names:
+      en: King Vajiralongkorn's Birthday
+      th: King Vajiralongkorn's Birthday
+  - public_holiday: true
+    date: '2020-08-12'
+    names:
+      en: H.M the Queen's Birthday
+      th: H.M the Queen's Birthday
+  - public_holiday: true
+    date: '2020-10-23'
+    names:
+      en: Chulalongkorn Day
+      th: Chulalongkorn Day
+  - public_holiday: true
+    date: '2020-12-05'
+    names:
+      en: H.M. the King's Birthday
+      th: H.M. the King's Birthday
+  - public_holiday: true
+    date: '2020-12-10'
+    names:
+      en: Constitution Day
+      th: Constitution Day
+  - public_holiday: true
+    date: '2020-12-31'
+    names:
+      en: New Year's Eve
+      th: New Year's Eve
