@@ -123,3 +123,130 @@ years:
     names:
       en: Synaxis of the Mother of God
       el: Synaxis of the Mother of God
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      el: New Year's Day
+  - public_holiday: true
+    date: '2019-01-06'
+    names:
+      en: Epiphany
+      el: Epiphany
+  - public_holiday: true
+    date: '2019-03-11'
+    names:
+      en: Clean Monday
+      el: Clean Monday
+  - public_holiday: true
+    date: '2019-03-25'
+    names:
+      en: Independence Day
+      el: Independence Day
+  - public_holiday: true
+    date: '2019-04-26'
+    names:
+      en: Orthodox Good Friday
+      el: Orthodox Good Friday
+  - public_holiday: true
+    date: '2019-04-29'
+    names:
+      en: Orthodox Easter Monday
+      el: Orthodox Easter Monday
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: Labour Day
+      el: Labour Day
+  - public_holiday: true
+    date: '2019-06-17'
+    names:
+      en: Holy Spirit Monday
+      el: Holy Spirit Monday
+  - public_holiday: true
+    date: '2019-08-15'
+    names:
+      en: Assumption Day
+      el: Assumption Day
+  - public_holiday: true
+    date: '2019-10-28'
+    names:
+      en: The Ochi Day
+      el: The Ochi Day
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      el: Christmas Day
+  - public_holiday: true
+    date: '2019-12-26'
+    names:
+      en: Synaxis of the Mother of God
+      el: Synaxis of the Mother of God
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      el: New Year's Day
+  - public_holiday: true
+    date: '2020-01-06'
+    names:
+      en: Epiphany
+      el: Epipihany
+  - public_holiday: true
+    date: '2020-03-02'
+    names:
+      en: Clean Monday
+      el: Clean Monday
+  - public_holiday: true
+    date: '2020-03-25'
+    names:
+      en: Independence Day
+      el: Independence Day
+  - public_holiday: true
+    date: '2020-04-17'
+    names:
+      en: Orthodox Good Friday
+      el: Orthodox Good Friday
+  - public_holiday: true
+    date: '2020-04-19'
+    names:
+      en: Orthodox Easter Sunday
+      el: Orthodox Easter Sunday
+  - public_holiday: true
+    date: '2020-04-20'
+    names:
+      en: Orthodox Easter Monday
+      el: Orthodox Easter Monday
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour Day
+      el: Labour Day
+  - public_holiday: true
+    date: '2020-06-08'
+    names:
+      en: Holy Spirit Monday
+      el: Holy Spirit Monday
+  - public_holiday: true
+    date: '2020-08-15'
+    names:
+      en: Assumption Day
+      el: Assumption Day
+  - public_holiday: true
+    date: '2020-10-28'
+    names:
+      en: The Ochi Day
+      el: The Ochi Day
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      el: Christmas Day
+  - public_holiday: true
+    date: '2020-12-26'
+    names:
+      en: Synaxis of the Mother of God
+      el: Synaxis of the Mother of God
