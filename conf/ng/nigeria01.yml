@@ -54,3 +54,86 @@ years:
     date: '2018-12-26'
     names:
       en: Boxing Day
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2019-04-22'
+    names:
+      en: Easter Monday
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: National Labour Day
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: End of Ramadan
+  - public_holiday: true
+    date: '2019-06-12'
+    names:
+      en: Democracy Day
+  - public_holiday: true
+    date: '2019-08-12'
+    names:
+      en: Id el Kabir
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2020-04-13'
+    names:
+      en: Easter Monday
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: National Labour Day
+  - public_holiday: true
+    date: '2020-05-24'
+    names:
+      en: End of Ramadan
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: End of Ramadan
+  - public_holiday: true
+    date: '2020-06-12'
+    names:
+      en: Democracy Day
+  - public_holiday: true
+    date: '2020-07-31'
+    names:
+      en: Id el Kabir
+  - public_holiday: true
+    date: '2020-08-01'
+    names:
+      en: Id el Kabir
+  - public_holiday: true
+    date: '2020-10-01'
+    names:
+      en: National Day
+  - public_holiday: true
+    date: '2020-10-29'
+    names:
+      en: Id el Maulud
+  '2018':
+  - public_holiday: true
+    date: '2018-12-25'
+    names:
+      en: Christmas Day
