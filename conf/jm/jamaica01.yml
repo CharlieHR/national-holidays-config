@@ -95,3 +95,93 @@ years:
     date: '2018-12-26'
     names:
       en: Boxing Day
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2019-03-06'
+    names:
+      en: Ash Wednesday
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Good Friday'
+  - public_holiday: true
+    date: '2019-04-21'
+    names:
+      en: Easter Sunday
+  - public_holiday: true
+    date: '2019-04-22'
+    names:
+      en: Easter Monday
+  - public_holiday: true
+    date: '2019-05-23'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2019-08-01'
+    names:
+      en: Emancipation Day
+  - public_holiday: true
+    date: '2019-08-06'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2019-10-21'
+    names:
+      en: National Heroes' Day
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2020-02-26'
+    names:
+      en: Ash Wednesday
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2020-04-12'
+    names:
+      en: Easter Sunday
+  - public_holiday: true
+    date: '2020-04-13'
+    names:
+      en: Easter Monday
+  - public_holiday: true
+    date: '2020-05-23'
+    names:
+      en: International Labour Day
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2020-08-01'
+    names:
+      en: Emancipation Day
+  - public_holiday: true
+    date: '2020-08-06'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2020-10-19'
+    names:
+      en: National Heroes' Day
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-26'
+    names:
+      en: Boxing Day
