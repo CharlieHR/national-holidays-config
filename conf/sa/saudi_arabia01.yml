@@ -93,3 +93,70 @@ years:
     names:
       en: Saudi National Day
       ar: Saudi National Day
+  '2019':
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Filtr Holiday
+  - public_holiday: true
+    date: '2019-06-06'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Filtr Holiday
+  - public_holiday: true
+    date: '2019-06-07'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Filtr Holiday
+  - public_holiday: true
+    date: '2019-08-12'
+    names:
+      en: Eid Al Adha
+      ar: Eid Al Adha Holiday
+  - public_holiday: true
+    date: '2019-08-13'
+    names:
+      en: Eid Al Adha
+      ar: Eid Al Adha Holiday
+  - public_holiday: true
+    date: '2019-08-14'
+    names:
+      en: Eid Al Adha
+      ar: Eid Al Adha Holiday
+  - public_holiday: true
+    date: '2019-09-23'
+    names:
+      en: National Day
+      ar: National Day
+  '2020':
+  - public_holiday: true
+    date: '2020-05-24'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Filtr Holiday
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Filtr Holiday
+  - public_holiday: true
+    date: '2020-05-26'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Filtr Holiday
+  - public_holiday: true
+    date: '2020-05-27'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Filtr Holiday
+  - public_holiday: true
+    date: '2020-07-31'
+    names:
+      en: Eid Al Adha
+      ar: Eid Al Adha Holiday
+  - public_holiday: true
+    date: '2020-09-23'
+    names:
+      en: National Day
+      ar: National Day
