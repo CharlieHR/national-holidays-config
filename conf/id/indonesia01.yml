@@ -163,3 +163,135 @@ years:
     names:
       en: Christmas
       id: Christmas
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      id: New Year's Day
+  - public_holiday: true
+    date: '2019-01-05'
+    names:
+      en: Chinese New Year
+      id: Chinese New Year
+  - public_holiday: true
+    date: '2019-03-07'
+    names:
+      en: Hari Raya Nyepi
+      id: Hari Raya Nyepi
+  - public_holiday: true
+    date: '2019-04-03'
+    names:
+      en: Isra Mi'raj
+      id: Is'ra Miraj
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Good Friday
+      id: Good Friday
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: International Labour Day
+      id: International Labour Day
+  - public_holiday: true
+    date: '2019-05-19'
+    names:
+      en: Waisak Day
+      id: Waisak Day
+  - public_holiday: true
+    date: '2019-05-30'
+    names:
+      en: Ascension Day
+      id: Ascension Day
+  - public_holiday: true
+    date: '2019-06-01'
+    names:
+      en: Pancasilla Day
+      id: Pancasilla Day
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: Hari Raya Puasa
+      id: Hari Raya Puasa
+  - public_holiday: true
+    date: '2019-06-06'
+    names:
+      en: Hari Raya Puasa Holiday
+      id: Hari Raya Puasa Holiday
+  - public_holiday: true
+    date: '2019-08-12'
+    names:
+      en: Idul Adha
+      id: Idulh Adha
+  - public_holiday: true
+    date: '2019-08-17'
+    names:
+      en: Independence Day
+      id: Independence Day
+  - public_holiday: true
+    date: '2019-09-01'
+    names:
+      en: Muharram
+      id: Muharram
+  - public_holiday: true
+    date: '2019-11-10'
+    names:
+      en: Maulidur Rasul
+      id: Maulidur Rasul
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      id: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      id: New Year's Day
+  - public_holiday: true
+    date: '2020-01-25'
+    names:
+      en: Chinese New Year
+      id: Chinese New Year
+  - public_holiday: true
+    date: '2020-03-22'
+    names:
+      en: Isra Mi'raj
+      id: Isra Mi'raj
+  - public_holiday: true
+    date: '2020-03-25'
+    names:
+      en: Bali Hindu New Year
+      id: Bali Hindu New Year
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday
+      id: Good Friday
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: International Labour Day
+      id: International Laour Day
+  - public_holiday: true
+    date: '2020-05-07'
+    names:
+      en: Waisak Day
+      id: Waisak Day
+  - public_holiday: true
+    date: '2020-05-21'
+    names:
+      en: Ascension Day
+      id: Ascension Day
+  - public_holiday: true
+    date: '2020-08-17'
+    names:
+      en: Indonesian Independence Day
+      id: Indonesian Independence Day
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      id: Christmas Day
