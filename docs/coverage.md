@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2018-09-26.
+Last updated 2018-10-03.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -13,7 +13,7 @@ Last updated 2018-09-26.
 | 🇦🇮 | Anguilla | No Data | - | - | - | - |
 | 🇦🇶 | Antarctica | No Data | - | - | - | - |
 | 🇦🇬 | Antigua and Barbuda | No Data | - | - | - | - |
-| 🇦🇷 | Argentina | Argentina (all) | 2018 | 17 | - | - |
+| 🇦🇷 | Argentina | Argentina (all) | 2020 | 10 | - | - |
 | 🇦🇲 | Armenia | No Data | - | - | - | - |
 | 🇦🇼 | Aruba | No Data | - | - | - | - |
 | 🇦🇺 | Australia | Australian Capital Territory | 2040 | 14 | - | - |
@@ -27,10 +27,10 @@ Last updated 2018-09-26.
 | 🇦🇹 | Austria | Austria (all) | 2040 | 13 | - | - |
 | 🇦🇿 | Azerbaijan | No Data | - | - | - | - |
 | 🇧🇸 | Bahamas | No Data | - | - | - | - |
-| 🇧🇭 | Bahrain | Bahrain (all) | 2018 | 16 | - | - |
+| 🇧🇭 | Bahrain | Bahrain (all) | 2020 | 16 | - | - |
 | 🇧🇩 | Bangladesh | No Data | - | - | - | - |
 | 🇧🇧 | Barbados | No Data | - | - | - | - |
-| 🇧🇾 | Belarus | Belarus | 2018 | 9 | - | - |
+| 🇧🇾 | Belarus | Belarus | 2020 | 10 | - | - |
 | 🇧🇪 | Belgium | Belgium (all) | 2040 | 12 | - | - |
 | 🇧🇿 | Belize | No Data | - | - | - | - |
 | 🇧🇯 | Benin | No Data | - | - | - | - |
@@ -99,7 +99,7 @@ Last updated 2018-09-26.
 | 🇫🇮 | Finland | Finland (all) | 2040 | 15 | - | - |
 | 🇫🇷 | France | Alsace | 2040 | 13 | - | - |
 | 🇫🇷 | France | Moselle | 2040 | 13 | - | - |
-| 🇫🇷 | France | Metropolitan | 2018 | 11 | - | - |
+| 🇫🇷 | France | Metropolitan | 2020 | 11 | - | - |
 | 🇬🇫 | French Guiana | No Data | - | - | - | - |
 | 🇵🇫 | French Polynesia | No Data | - | - | - | - |
 | 🇹🇫 | French Southern Territories | No Data | - | - | - | - |
@@ -120,9 +120,11 @@ Last updated 2018-09-26.
 | 🇩🇪 | Germany | Saarland | 2040 | 12 | - | - |
 | 🇩🇪 | Germany | Schleswig Holstein | 2040 | 9 | - | - |
 | 🇩🇪 | Germany | Thuringia | 2040 | 11 | - | - |
+| 🇩🇪 | Germany | Saxony | 2019 | 12 | - | - |
+| 🇩🇪 | Germany | Saxony-Anhalt | 2019 | 10 | - | - |
 | 🇬🇭 | Ghana | No Data | - | - | - | - |
 | 🇬🇮 | Gibraltar | Gibraltar (all) | 2019 | 12 | - | - |
-| 🇬🇷 | Greece | Greece (all) | 2018 | 13 | - | - |
+| 🇬🇷 | Greece | Greece (all) | 2020 | 13 | - | - |
 | 🇬🇱 | Greenland | No Data | - | - | - | - |
 | 🇬🇩 | Grenada | No Data | - | - | - | - |
 | 🇬🇵 | Guadeloupe | No Data | - | - | - | - |
@@ -132,7 +134,7 @@ Last updated 2018-09-26.
 | 🇬🇳 | Guinea | No Data | - | - | - | - |
 | 🇬🇼 | Guinea-Bissau | No Data | - | - | - | - |
 | 🇬🇾 | Guyana | No Data | - | - | - | - |
-| 🇭🇹 | Haiti | Haiti (all) | 2018 | 10 | - | - |
+| 🇭🇹 | Haiti | Haiti (all) | 2020 | 14 | - | - |
 | 🇭🇲 | Heard Island and McDonald Islands | No Data | - | - | - | - |
 | 🇻🇦 | Holy See | No Data | - | - | - | - |
 | 🇭🇳 | Honduras | No Data | - | - | - | - |
@@ -140,14 +142,14 @@ Last updated 2018-09-26.
 | 🇭🇺 | Hungary | Hungary (all) | 2040 | 12 | - | - |
 | 🇮🇸 | Iceland | Iceland (all) | 2040 | 16 | - | - |
 | 🇮🇳 | India | India (all) | 2030 | 3 | - | - |
-| 🇮🇩 | Indonesia | Indonesia | 2018 | 16 | - | - |
-| 🇮🇷 | Iran (Islamic Republic of) | Iran (all) | 2018 | 17 | - | - |
+| 🇮🇩 | Indonesia | Indonesia | 2020 | 10 | - | - |
+| 🇮🇷 | Iran (Islamic Republic of) | Iran (all) | 2020 | 16 | - | - |
 | 🇮🇶 | Iraq | No Data | - | - | - | - |
 | 🇮🇪 | Ireland | Ireland (all) | 2040 | 9 | - | - |
-| 🇮🇲 | Isle of Man | Isle of Man | 2018 | 10 | - | - |
+| 🇮🇲 | Isle of Man | Isle of Man | 2020 | 9 | - | - |
 | 🇮🇱 | Israel | Israel (all) | 2040 | 12 | - | - |
 | 🇮🇹 | Italy | Italy (all) | 2040 | 12 | - | - |
-| 🇯🇲 | Jamaica | Jamaica (all) | 2018 | 11 | - | - |
+| 🇯🇲 | Jamaica | Jamaica (all) | 2020 | 12 | - | - |
 | 🇯🇵 | Japan | Japan (all) | 2040 | 16 | - | - |
 | 🇯🇪 | Jersey | No Data | - | - | - | - |
 | 🇯🇴 | Jordan | Jordan (all) | 2019 | 14 | - | - |
@@ -156,7 +158,7 @@ Last updated 2018-09-26.
 | 🇰🇮 | Kiribati | No Data | - | - | - | - |
 | 🇰🇵 | Korea (Democratic People's Republic of) | No Data | - | - | - | - |
 | 🇰🇷 | Korea (Republic of) | South Korea (all) | 2040 | 15 | - | - |
-| 🇰🇼 | Kuwait | Kuwait | 2018 | 13 | - | - |
+| 🇰🇼 | Kuwait | Kuwait | 2020 | 14 | - | - |
 | 🇰🇬 | Kyrgyzstan | No Data | - | - | - | - |
 | 🇱🇦 | Lao People's Democratic Republic | No Data | - | - | - | - |
 | 🇱🇻 | Latvia | Latvia (all) | 2040 | 15 | - | - |
@@ -168,13 +170,13 @@ Last updated 2018-09-26.
 | 🇱🇹 | Lithuania | Lithuania (all) | 2040 | 15 | - | - |
 | 🇱🇺 | Luxembourg | Luxembourg (all) | 2040 | 10 | - | - |
 | 🇲🇴 | Macao | No Data | - | - | - | - |
-| 🇲🇰 | Macedonia (the former Yugoslav Republic of) | Macedonia, Republic of (all) | 2018 | 12 | - | - |
+| 🇲🇰 | Macedonia (the former Yugoslav Republic of) | Macedonia, Republic of (all) | 2020 | 10 | - | - |
 | 🇲🇬 | Madagascar | No Data | - | - | - | - |
 | 🇲🇼 | Malawi | No Data | - | - | - | - |
-| 🇲🇾 | Malaysia | Malaysia (all) | 2018 | 11 | - | - |
+| 🇲🇾 | Malaysia | Malaysia (all) | 2020 | 13 | - | - |
 | 🇲🇻 | Maldives | No Data | - | - | - | - |
 | 🇲🇱 | Mali | No Data | - | - | - | - |
-| 🇲🇹 | Malta | Malta (all) | 2018 | 14 | - | - |
+| 🇲🇹 | Malta | Malta (all) | 2020 | 12 | - | - |
 | 🇲🇭 | Marshall Islands | No Data | - | - | - | - |
 | 🇲🇶 | Martinique | No Data | - | - | - | - |
 | 🇲🇷 | Mauritania | No Data | - | - | - | - |
@@ -182,14 +184,14 @@ Last updated 2018-09-26.
 | 🇾🇹 | Mayotte | No Data | - | - | - | - |
 | 🇲🇽 | Mexico | Mexico (all) | 2040 | 10 | - | - |
 | 🇫🇲 | Micronesia (Federated States of) | No Data | - | - | - | - |
-| 🇲🇩 | Moldova (Republic of) | Moldova (all) | 2018 | 12 | - | - |
-| 🇲🇨 | Monaco | Monaco (all) | 2018 | 12 | - | - |
-| 🇲🇳 | Mongolia | No Data | - | - | - | - |
+| 🇲🇩 | Moldova (Republic of) | Moldova (all) | 2020 | 13 | - | - |
+| 🇲🇨 | Monaco | Monaco (all) | 2020 | 12 | - | - |
+| 🇲🇳 | Mongolia | Mongolia (all) | 2020 | 14 | - | - |
 | 🇲🇪 | Montenegro | No Data | - | - | - | - |
 | 🇲🇸 | Montserrat | No Data | - | - | - | - |
 | 🇲🇦 | Morocco | No Data | - | - | - | - |
 | 🇲🇿 | Mozambique | No Data | - | - | - | - |
-| 🇲🇲 | Myanmar | Myanmar | 2018 | 18 | - | - |
+| 🇲🇲 | Myanmar | Myanmar | 2020 | 7 | - | - |
 | 🇳🇦 | Namibia | No Data | - | - | - | - |
 | 🇳🇷 | Nauru | No Data | - | - | - | - |
 | 🇳🇵 | Nepal | No Data | - | - | - | - |
@@ -209,20 +211,20 @@ Last updated 2018-09-26.
 | 🇳🇿 | New Zealand | Wellington | 2040 | 11 | - | - |
 | 🇳🇮 | Nicaragua | No Data | - | - | - | - |
 | 🇳🇪 | Niger | No Data | - | - | - | - |
-| 🇳🇬 | Nigeria | Nigeria (all) | 2018 | 13 | - | - |
+| 🇳🇬 | Nigeria | Nigeria (all) | 2020 | 11 | - | - |
 | 🇳🇺 | Niue | No Data | - | - | - | - |
 | 🇳🇫 | Norfolk Island | No Data | - | - | - | - |
 | 🇲🇵 | Northern Mariana Islands | No Data | - | - | - | - |
 | 🇳🇴 | Norway | Norway (all) | 2040 | 12 | - | - |
 | 🇴🇲 | Oman | No Data | - | - | - | - |
-| 🇵🇰 | Pakistan | Pakistan (all) | 2018 | 12 | - | - |
+| 🇵🇰 | Pakistan | Pakistan (all) | 2020 | 12 | - | - |
 | 🇵🇼 | Palau | No Data | - | - | - | - |
 | 🇵🇸 | Palestine, State of | No Data | - | - | - | - |
 | 🇵🇦 | Panama | No Data | - | - | - | - |
 | 🇵🇬 | Papua New Guinea | No Data | - | - | - | - |
 | 🇵🇾 | Paraguay | No Data | - | - | - | - |
 | 🇵🇪 | Peru | No Data | - | - | - | - |
-| 🇵🇭 | Philippines | Philippines (all) | 2018 | 18 | - | - |
+| 🇵🇭 | Philippines | Philippines (all) | 2020 | 16 | - | - |
 | 🇵🇳 | Pitcairn | No Data | - | - | - | - |
 | 🇵🇱 | Poland | Poland (all) | 2040 | 13 | - | - |
 | 🇵🇹 | Portugal | Portugal (all) | 2040 | 13 | - | - |
@@ -242,12 +244,12 @@ Last updated 2018-09-26.
 | 🇼🇸 | Samoa | No Data | - | - | - | - |
 | 🇸🇲 | San Marino | No Data | - | - | - | - |
 | 🇸🇹 | Sao Tome and Principe | No Data | - | - | - | - |
-| 🇸🇦 | Saudi Arabia | Saudi Arabia (all) | 2018 | 9 | - | - |
+| 🇸🇦 | Saudi Arabia | Saudi Arabia (all) | 2020 | 6 | - | - |
 | 🇸🇳 | Senegal | No Data | - | - | - | - |
 | 🇷🇸 | Serbia | Serbia (all) | 2040 | 13 | - | - |
 | 🇸🇨 | Seychelles | No Data | - | - | - | - |
 | 🇸🇱 | Sierra Leone | No Data | - | - | - | - |
-| 🇸🇬 | Singapore | Singapore (all) | 2018 | 11 | - | - |
+| 🇸🇬 | Singapore | Singapore (all) | 2020 | 1 | - | - |
 | 🇸🇽 | Sint Maarten (Dutch part) | No Data | - | - | - | - |
 | 🇸🇰 | Slovakia | Slovakia (all) | 2040 | 15 | - | - |
 | 🇸🇮 | Slovenia | Slovenia (all) | 2040 | 14 | - | - |
@@ -274,7 +276,7 @@ Last updated 2018-09-26.
 | 🇹🇼 | Taiwan, Province of China | Taiwan (all) | 2018 | 15 | - | - |
 | 🇹🇯 | Tajikistan | No Data | - | - | - | - |
 | 🇹🇿 | Tanzania, United Republic of | No Data | - | - | - | - |
-| 🇹🇭 | Thailand | Thailand (all) | 2018 | 19 | - | - |
+| 🇹🇭 | Thailand | Thailand (all) | 2020 | 18 | - | - |
 | 🇹🇱 | Timor-Leste | No Data | - | - | - | - |
 | 🇹🇬 | Togo | No Data | - | - | - | - |
 | 🇹🇰 | Tokelau | No Data | - | - | - | - |
@@ -287,7 +289,7 @@ Last updated 2018-09-26.
 | 🇹🇻 | Tuvalu | No Data | - | - | - | - |
 | 🇺🇬 | Uganda | No Data | - | - | - | - |
 | 🇺🇦 | Ukraine | Ukraine (all) | 2040 | 13 | - | - |
-| 🇦🇪 | United Arab Emirates | Dubai (all) | 2017 | 14 | - | - |
+| 🇦🇪 | United Arab Emirates | Dubai (all) | 2020 | 15 | - | - |
 | 🇦🇪 | United Arab Emirates | United Arab Emirates (all) | 2018 | 12 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | England | 2040 | 8 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Wales | 2040 | 8 | - | - |
@@ -345,11 +347,11 @@ Last updated 2018-09-26.
 | 🇺🇸 | United States of America | West Virginia | 2040 | 16 | - | - |
 | 🇺🇸 | United States of America | Wisconsin | 2040 | 9 | - | - |
 | 🇺🇸 | United States of America | Wyoming | 2040 | 9 | - | - |
-| 🇺🇾 | Uruguay | Uruguay (all) | 2018 | 15 | - | - |
+| 🇺🇾 | Uruguay | Uruguay (all) | 2020 | 10 | - | - |
 | 🇺🇿 | Uzbekistan | No Data | - | - | - | - |
 | 🇻🇺 | Vanuatu | No Data | - | - | - | - |
-| 🇻🇪 | Venezuela (Bolivarian Republic of) | Venezuela | 2018 | 13 | - | - |
-| 🇻🇳 | Viet Nam | Vietnam | 2018 | 10 | - | - |
+| 🇻🇪 | Venezuela (Bolivarian Republic of) | Venezuela | 2020 | 13 | - | - |
+| 🇻🇳 | Viet Nam | Vietnam | 2020 | 11 | - | - |
 | 🇻🇬 | Virgin Islands (British) | No Data | - | - | - | - |
 | 🇻🇮 | Virgin Islands (U.S.) | No Data | - | - | - | - |
 | 🇼🇫 | Wallis and Futuna | No Data | - | - | - | - |
@@ -359,4 +361,4 @@ Last updated 2018-09-26.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 78 / 249
+Total coverage: 79 / 249
