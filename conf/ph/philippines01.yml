@@ -92,3 +92,180 @@ years:
     names:
       en: Last Day of the Year
       tl: Last Day of the Year
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      tl: New Year's Day
+  - public_holiday: true
+    date: '2019-02-05'
+    names:
+      en: Chinese New Year
+      tl: Chinese New Year
+  - public_holiday: true
+    date: '2019-04-09'
+    names:
+      en: The Day of Valor
+      tl: The Day of Valor
+  - public_holiday: true
+    date: '2019-04-18'
+    names:
+      en: Maundy Thursday
+      tl: Maundy Thursday
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Good Friday
+      tl: Good Friday
+  - public_holiday: true
+    date: '2019-04-20'
+    names:
+      en: Black Saturday
+      tl: Black Saturday
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: National Labour Day
+      tl: National Labour Day
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: Feast of Ramadan
+      tl: Eid al-Fitr
+  - public_holiday: true
+    date: '2019-06-12'
+    names:
+      en: Independence Day
+      tl: Independence Day
+  - public_holiday: true
+    date: '2019-08-12'
+    names:
+      en: Sacrifice Feast
+      tl: Eidul Adha
+  - public_holiday: true
+    date: '2019-08-21'
+    names:
+      en: Ninoy Aquino Day
+      tl: Ninoy Aquino Day
+  - public_holiday: true
+    date: '2019-08-26'
+    names:
+      en: National Heroes Day
+      tl: National Heroes Day
+  - public_holiday: true
+    date: '2019-11-01'
+    names:
+      en: All Saint's Day
+      tl: All Saint's Day
+  - public_holiday: true
+    date: '2019-11-30'
+    names:
+      en: Bonifacio Day
+      tl: Bonifacio Day
+  - public_holiday: true
+    date: '2019-12-08'
+    names:
+      en: Immaculate Conception Day
+      tl: Immaculate Conception Day
+  - public_holiday: true
+    date: '2019-12-24'
+    names:
+      en: Christmas Eve
+      tl: Christmas Eve
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      tl: Christmas Day
+  - public_holiday: true
+    date: '2019-12-30'
+    names:
+      en: Rizal Day
+      tl: Rizal Day
+  - public_holiday: true
+    date: '2019-12-31'
+    names:
+      en: New Year's Eve
+      tl: New Year's Eve
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      tl: New Year's Day
+  - public_holiday: true
+    date: '2020-01-25'
+    names:
+      en: Chinese New Year
+      tl: Chinese New Year
+  - public_holiday: true
+    date: '2020-02-25'
+    names:
+      en: EDSA Revolution Anniversary
+      tl: EDSA Revolution Anniversary
+  - public_holiday: true
+    date: '2020-04-09'
+    names:
+      en: Day of Valor
+      tl: Day of Valor
+  - public_holiday: true
+    date: '2020-04-09'
+    names:
+      en: Maundy Thursday
+      tl: Maundy Thursday
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday
+      tl: Good Friday
+  - public_holiday: true
+    date: '2020-04-11'
+    names:
+      en: Black Saturday
+      tl: Black Saturday
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: National Labour Day
+      tl: National Labour Day
+  - public_holiday: true
+    date: '2020-05-24'
+    names:
+      en: Feast of Ramadan
+      tl: Eid al-Fitr
+  - public_holiday: true
+    date: '2020-06-12'
+    names:
+      en: Independence Day
+      tl: Independence Day
+  - public_holiday: true
+    date: '2020-08-21'
+    names:
+      en: National Heroes Day
+      tl: National Heroes Day
+  - public_holiday: true
+    date: '2020-11-01'
+    names:
+      en: All Saint's Day
+      tl: All Saint's Day
+  - public_holiday: true
+    date: '2020-11-30'
+    names:
+      en: Bonifacio Day
+      tl: Bonifacio Day
+  - public_holiday: true
+    date: '2020-12-08'
+    names:
+      en: Immaculate Conception Day
+      tl: Immaculate Conception Day
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      tl: Christmas Day
+  - public_holiday: true
+    date: '2020-12-30'
+    names:
+      en: Rizal Day
+      tl: Rizal Day
