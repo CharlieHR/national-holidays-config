@@ -218,3 +218,210 @@ years:
     names:
       en: Birthday of Prophet Muhammad and Imam Sadeq
       fa: Birthday of Prophet Muhammad and Imam Sadeq
+  '2019':
+  - public_holiday: true
+    date: '2019-02-11'
+    names:
+      en: Islamic Revolution Day
+      fa: Islamic Revolution Day
+  - public_holiday: true
+    date: '2019-03-20'
+    names:
+      en: Oli Nationalisation Day
+      fa: Oli Nationalisation Day
+  - public_holiday: true
+    date: '2019-03-20'
+    names:
+      en: Imam Ali' Birthday
+      fa: Imam Ali's Birthday
+  - public_holiday: true
+    date: '2019-03-21'
+    names:
+      en: Nowruz Holiday
+      fa: Nowruz Holiday
+  - public_holiday: true
+    date: '2019-03-22'
+    names:
+      en: Nowruz Holiday
+      fa: Nowruz Holiday
+  - public_holiday: true
+    date: '2019-03-24'
+    names:
+      en: Nowruz Holiday
+      fa: Nowruz Holiday
+  - public_holiday: true
+    date: '2019-04-01'
+    names:
+      en: Islamic Republic Day
+      fa: Islamic Republic Day
+  - public_holiday: true
+    date: '2019-04-02'
+    names:
+      en: Nature Day
+      fa: Nature Day
+  - public_holiday: true
+    date: '2019-04-03'
+    names:
+      en: The Prophet's Acension
+      fa: The Prophet's Acension
+  - public_holiday: true
+    date: '2019-04-21'
+    names:
+      en: Imam Mahdi's Birthday
+      fa: Imam Mahdi's Birthday
+  - public_holiday: true
+    date: '2019-05-26'
+    names:
+      en: Martrydom of Imam Ali
+      fa: Martyrdom of Imam Ali
+  - public_holiday: true
+    date: '2019-06-04'
+    names:
+      en: Demise of Imam Kohmeini
+      fa: Demise of Imam Khomeini
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: Khordad National Uprising
+      fa: Khordad National Uprising
+  - public_holiday: true
+    date: '2019-06-05'
+    names:
+      en: Eid-e-Fitr
+      fa: Eid-e-Fitr
+  - public_holiday: true
+    date: '2019-06-06'
+    names:
+      en: The Day after Eid-e-Fitr
+      fa: The Day after Eid-e-Fitr
+  - public_holiday: true
+    date: '2019-06-29'
+    names:
+      en: Martrydom of Imam Sadeq
+      fa: Matrydom of Imam Sadeq
+  - public_holiday: true
+    date: '2019-08-11'
+    names:
+      en: Eid-e-Qorban
+      fa: Eid-e Qorban
+  - public_holiday: true
+    date: '2019-08-19'
+    names:
+      en: Eid-e-Ghadir
+      fa: Eid-e-Ghdir
+  - public_holiday: true
+    date: '2019-09-08'
+    names:
+      en: Tasoua Hosseini
+      fa: Tasoua Hosseini
+  - public_holiday: true
+    date: '2019-09-09'
+    names:
+      en: Ashoura
+      fa: Ashoura
+  - public_holiday: true
+    date: '2019-10-09'
+    names:
+      en: Arbaeen
+      fa: Arbaeen
+  - public_holiday: true
+    date: '2019-10-27'
+    names:
+      en: Death of Prophet Muhammad
+      fa: Death of Prophet Muhammad
+  - public_holiday: true
+    date: '2019-10-29'
+    names:
+      en: Martrydom of Imam Reza
+      fa: Martrydom of Imam Reza
+  - public_holiday: true
+    date: '2019-11-05'
+    names:
+      en: Martrydom of Imam Hassan Asgari
+      fa: Martrydom of Imam Hassan Asgari
+  - public_holiday: true
+    date: '2019-11-10'
+    names:
+      en: Birthday of Muhammad and Imam Sadegh
+      fa: Birthday of Muhammad and Imam Sadegh
+  '2020':
+  - public_holiday: true
+    date: '2020-01-29'
+    names:
+      en: Martrydom of Fatima
+      fa: Martrydom of Fatima
+  - public_holiday: true
+    date: '2020-02-11'
+    names:
+      en: Revolution Day
+      fa: Revolution Day
+  - public_holiday: true
+    date: '2020-03-08'
+    names:
+      en: Birthday of Imam Ali
+      fa: Birthday of Imam Ali
+  - public_holiday: true
+    date: '2020-03-22'
+    names:
+      en: Prophet's Ascension
+      fa: Prophet's Ascension
+  - public_holiday: true
+    date: '2020-04-09'
+    names:
+      en: Imam Mahdi's Birthday
+      fa: Imam Mahdi's Birthday
+  - public_holiday: true
+    date: '2020-05-14'
+    names:
+      en: Martrydom of Imam Ali
+      fa: Martyrdom of Imam Ali
+  - public_holiday: true
+    date: '2020-05-24'
+    names:
+      en: Eid-e-Fetr
+      fa: End of Ramadan
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: Eid-e-Fetr
+      fa: Eid-e-Fetr
+  - public_holiday: true
+    date: '2020-06-17'
+    names:
+      en: Martrydom of Imam Sadeq
+      fa: Martrydom of Imam Sadeq
+  - public_holiday: true
+    date: '2020-07-31'
+    names:
+      en: Feas of Sacrafice
+      fa: Eid-e-Ghorban
+  - public_holiday: true
+    date: '2020-08-08'
+    names:
+      en: Eid-e-Ghadir
+      fa: Eid-e-Ghadir
+  - public_holiday: true
+    date: '2020-08-28'
+    names:
+      en: Tassoua
+      fa: Tassoua
+  - public_holiday: true
+    date: '2020-10-08'
+    names:
+      en: Arabeen
+      fa: Arabeen
+  - public_holiday: true
+    date: '2020-10-16'
+    names:
+      en: Demise of Prophet Muhammad and Martrydom of Imam Hassan
+      fa: Demise of Prophet Muhammad and Imam Hassan
+  - public_holiday: true
+    date: '2020-10-17'
+    names:
+      en: Martrydom of Imam Reza
+      fa: Martyrdom of Imam Reza
+  - public_holiday: true
+    date: '2020-10-08'
+    names:
+      en: Birthday of Prophet Muhammad and Imam Sadeq
+      fa: Birthday of Prophet Muhammad and Imam Sadeq
