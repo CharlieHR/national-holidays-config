@@ -93,3 +93,115 @@ years:
     names:
       en: Christmas (Catholic)
       be: Christmas (Catholic)
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      be: Novy Hod
+  - public_holiday: true
+    date: '2019-01-07'
+    names:
+      en: Orthodox Christmas Day
+      be: Orthodox Christmas day
+  - public_holiday: true
+    date: '2019-03-08'
+    names:
+      en: Women's Day
+      be: Women's Day
+  - public_holiday: true
+    date: '2019-04-21'
+    names:
+      en: Catholic Easter Day
+      be: Catholic Easter Day
+  - public_holiday: true
+    date: '2019-04-28'
+    names:
+      en: Orthodox Easter Day
+      be: Orthodox Easter Day
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: Labour Day
+      be: Labour Day
+  - public_holiday: true
+    date: '2019-05-07'
+    names:
+      en: Commemoration Day
+      be: Radonista
+  - public_holiday: true
+    date: '2019-05-09'
+    names:
+      en: Victory Day
+      be: Victory Day
+  - public_holiday: true
+    date: '2019-06-03'
+    names:
+      en: Independence Day
+      be: Independence Day
+  - public_holiday: true
+    date: '2019-11-08'
+    names:
+      en: October Revolution Day
+      be: October Revolution Day
+  - public_holiday: true
+    date: '2019-12-24'
+    names:
+      en: Christmas Eve
+      be: Christmas Eve
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      be: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-12-11'
+    names:
+      en: Constitution Day
+      be: Constitution Day
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      be: Novy Hod
+  - public_holiday: true
+    date: '2020-01-07'
+    names:
+      en: Orthodox Christmas Day
+      be: Orthodox Christmas Day
+  - public_holiday: true
+    date: '2020-03-08'
+    names:
+      en: Women's Day
+      be: Women's Day
+  - public_holiday: true
+    date: '2020-04-28'
+    names:
+      en: Commemoration Day
+      be: Radonista
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour Day
+      be: Labour Day
+  - public_holiday: true
+    date: '2020-05-09'
+    names:
+      en: Victory Day
+      be: Victory Day
+  - public_holiday: true
+    date: '2020-07-03'
+    names:
+      en: Independence Day
+      be: Indepndence Day
+  - public_holiday: true
+    date: '2020-11-07'
+    names:
+      en: October Revolution Day
+      be: October Revolution Day
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Catholic Christmas Day
+      be: Catholic Christmas Day
