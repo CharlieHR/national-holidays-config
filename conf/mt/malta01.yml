@@ -143,3 +143,131 @@ years:
     names:
       en: Christmas Day
       mt: Christmas Day
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      mt: New Year's Day
+  - public_holiday: true
+    date: '2019-02-10'
+    names:
+      en: Feast of St.Paul's shipwreck
+      mt: Feast of St.Paul's shipwreck
+  - public_holiday: true
+    date: '2019-03-19'
+    names:
+      en: St Josephs Day
+      mt: St Josephs Day
+  - public_holiday: true
+    date: '2019-03-31'
+    names:
+      en: Freedom Day
+      mt: Freedom Day
+  - public_holiday: true
+    date: '2019-06-07'
+    names:
+      en: Sette Giugno
+      mt: Sette Giugno
+  - public_holiday: true
+    date: '2019-06-29'
+    names:
+      en: Saint Peter and Saint Paul
+      mt: Saint Peter and Saint Paul
+  - public_holiday: true
+    date: '2019-08-15'
+    names:
+      en: Assumption Day
+      mt: Assumption Day
+  - public_holiday: true
+    date: '2019-09-08'
+    names:
+      en: Feast of Our Lady of Victories
+      mt: Feast of Our Lady Victories
+  - public_holiday: true
+    date: '2019-09-21'
+    names:
+      en: Independence Day
+      mt: Independence Day
+  - public_holiday: true
+    date: '2019-12-08'
+    names:
+      en: Immaculate Conception Day
+      mt: Immaculate Conception Day
+  - public_holiday: true
+    date: '2019-12-13'
+    names:
+      en: Republic Day
+      mt: Republic Day
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      mt: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      mt: New Year's Day
+  - public_holiday: true
+    date: '2020-02-10'
+    names:
+      en: Feast of St.Paul's shipwreck
+      mt: Feast of St.Paul's shipwreck
+  - public_holiday: true
+    date: '2020-03-19'
+    names:
+      en: St Josephs Day
+      mt: St Josephs Day
+  - public_holiday: true
+    date: '2020-03-31'
+    names:
+      en: Freedom Day
+      mt: Freedom Day
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday
+      mt: Good Friday
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour Day
+      mt: Labour Day
+  - public_holiday: true
+    date: '2020-06-29'
+    names:
+      en: Saint Peter and Saint Paul
+      mt: Saint Peter and Saint Paul
+  - public_holiday: true
+    date: '2020-08-15'
+    names:
+      en: Assumption Day
+      mt: Assumption Day
+  - public_holiday: true
+    date: '2020-09-08'
+    names:
+      en: Victory Day
+      mt: Victory Day
+  - public_holiday: true
+    date: '2020-09-21'
+    names:
+      en: Independence Day Malta
+      mt: Independence Day Malta
+  - public_holiday: true
+    date: '2020-12-08'
+    names:
+      en: Immaculate Conception
+      mt: Immaculate Conception
+  - public_holiday: true
+    date: '2020-12-13'
+    names:
+      en: Republic Day Malta
+      mt: Republic Day Malta
+  '2018':
+  - public_holiday: true
+    date: '2018-12-25'
+    names:
+      en: Christmas Day
+      mt: Christmas Day
