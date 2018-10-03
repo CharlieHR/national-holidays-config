@@ -133,3 +133,125 @@ years:
     names:
       en: Christmas Day
       fr: Christmas Day
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      fr: New Year's Day
+  - public_holiday: true
+    date: '2019-01-27'
+    names:
+      en: Saint Devote's Day
+      fr: Saint Devote's day
+  - public_holiday: true
+    date: '2019-04-22'
+    names:
+      en: Easter Monday
+      fr: Easter Monday
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: Labour Day
+      fr: Labour Day
+  - public_holiday: true
+    date: '2019-05-30'
+    names:
+      en: Ascension Day
+      fr: Ascension Day
+  - public_holiday: true
+    date: '2019-06-10'
+    names:
+      en: Whit Monday
+      fr: Whit Monday
+  - public_holiday: true
+    date: '2019-06-20'
+    names:
+      en: Corpus Christi
+      fr: Corpus Christi
+  - public_holiday: true
+    date: '2019-08-15'
+    names:
+      en: Assumption Day
+      fr: Assumption Day
+  - public_holiday: true
+    date: '2019-11-01'
+    names:
+      en: All Saint's Day
+      fr: All Saint's Day
+  - public_holiday: true
+    date: '2019-11-09'
+    names:
+      en: H.S.H the Sovereign Prince's Day
+      fr: H.S.H the Sovereign Prince's Day
+  - public_holiday: true
+    date: '2019-12-08'
+    names:
+      en: Immaculate Conception Day
+      fr: Immaculate Conception Day
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      fr: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      fr: New Year's Day
+  - public_holiday: true
+    date: '2020-01-27'
+    names:
+      en: Saint Devote's Day
+      fr: Saint Devote's Day
+  - public_holiday: true
+    date: '2020-04-13'
+    names:
+      en: Easter Monday
+      fr: Easter Monday
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour Day
+      fr: Labour Day
+  - public_holiday: true
+    date: '2020-05-21'
+    names:
+      en: Ascension Day
+      fr: Ascension Day
+  - public_holiday: true
+    date: '2020-06-01'
+    names:
+      en: Whit Monday
+      fr: Whit Monday
+  - public_holiday: true
+    date: '2020-08-15'
+    names:
+      en: Assumption of Mary
+      fr: Assumption of Mary
+  - public_holiday: true
+    date: '2020-11-01'
+    names:
+      en: All Saint's Day
+      fr: All Saint's Day
+  - public_holiday: true
+    date: '2020-11-19'
+    names:
+      en: National Day
+      fr: National Day
+  - public_holiday: true
+    date: '2020-12-01'
+    names:
+      en: National Labour Day
+      fr: National Labour Day
+  - public_holiday: true
+    date: '2020-12-08'
+    names:
+      en: Immaculate Conception Day
+      fr: Immaculate Conception Day
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      fr: Christmas Day
