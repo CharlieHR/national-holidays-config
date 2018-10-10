@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2018-10-03.
+Last updated 2018-10-10.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -237,7 +237,7 @@ Last updated 2018-10-03.
 | 🇧🇱 | Saint Barthélemy | No Data | - | - | - | - |
 | 🇸🇭 | Saint Helena, Ascension and Tristan da Cunha | No Data | - | - | - | - |
 | 🇰🇳 | Saint Kitts and Nevis | No Data | - | - | - | - |
-| 🇱🇨 | Saint Lucia | Saint Lucia (all) | 2019 | 11 | 2018 | 12 |
+| 🇱🇨 | Saint Lucia | Saint Lucia (all) | 2019 | 12 | 2018 | 13 |
 | 🇲🇫 | Saint Martin (French part) | No Data | - | - | - | - |
 | 🇵🇲 | Saint Pierre and Miquelon | No Data | - | - | - | - |
 | 🇻🇨 | Saint Vincent and the Grenadines | No Data | - | - | - | - |
