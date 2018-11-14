@@ -7,10 +7,6 @@ years:
     names:
       en: New Year's Day
   - public_holiday: true
-    date: '2017-01-02'
-    names:
-      en: New Year's Day observed
-  - public_holiday: true
     date: '2017-01-28'
     names:
       en: Chinese Lunar New Year's Day
@@ -105,7 +101,7 @@ years:
       en: Christmas Day
   '2019':
   - public_holiday: true
-    date: '2019-01-02'
+    date: '2019-01-01'
     names:
       en: New Year's Day
   - public_holiday: true
