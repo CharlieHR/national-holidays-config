@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2018-10-10.
+Last updated 2018-12-13.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -300,7 +300,7 @@ Last updated 2018-10-10.
 | 🇺🇸 | United States of America | Alaska | 2040 | 11 | - | - |
 | 🇺🇸 | United States of America | Arizona | 2040 | 10 | - | - |
 | 🇺🇸 | United States of America | Arkansas | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | California | 2040 | 11 | - | - |
+| 🇺🇸 | United States of America | California | 2040 | 10 | - | - |
 | 🇺🇸 | United States of America | Colorado | 2040 | 10 | - | - |
 | 🇺🇸 | United States of America | Connecticut | 2040 | 12 | - | - |
 | 🇺🇸 | United States of America | Delaware | 2040 | 12 | - | - |
@@ -328,7 +328,7 @@ Last updated 2018-10-10.
 | 🇺🇸 | United States of America | New Hampshire | 2040 | 12 | - | - |
 | 🇺🇸 | United States of America | New Jersey | 2040 | 12 | - | - |
 | 🇺🇸 | United States of America | New Mexico | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | New York | 2040 | 12 | - | - |
+| 🇺🇸 | United States of America | New York | 2040 | 10 | - | - |
 | 🇺🇸 | United States of America | North Carolina | 2040 | 11 | - | - |
 | 🇺🇸 | United States of America | North Dakota | 2040 | 10 | - | - |
 | 🇺🇸 | United States of America | Ohio | 2040 | 10 | - | - |
