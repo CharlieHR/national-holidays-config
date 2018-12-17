@@ -1,0 +1,77 @@
+---
+name: Geneva
+years:
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Years Day,
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Good Friday,
+  - public_holiday: true
+    date: '2019-04-22'
+    names:
+      en: Easter Monday,
+  - public_holiday: true
+    date: '2019-05-30'
+    names:
+      en: Ascension Day,
+  - public_holiday: true
+    date: '2019-06-10'
+    names:
+      en: Whit Monday,
+  - public_holiday: true
+    date: '2019-08-01'
+    names:
+      en: National Day,
+  - public_holiday: true
+    date: '2019-09-05'
+    names:
+      en: Jeûne genevois,
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day,
+  - public_holiday: true
+    date: '2019-12-31'
+    names:
+      en: Restoration Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Years Day,
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday,
+  - public_holiday: true
+    date: '2020-04-13'
+    names:
+      en: Easter Monday,
+  - public_holiday: true
+    date: '2020-05-21'
+    names:
+      en: Ascension Day,
+  - public_holiday: true
+    date: '2020-06-01'
+    names:
+      en: Whit Monday,
+  - public_holiday: true
+    date: '2020-08-01'
+    names:
+      en: National Day,
+  - public_holiday: true
+    date: '2020-09-10'
+    names:
+      en: Jeûne genevois,
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day,
+  - public_holiday: true
+    date: '2020-12-31'
+    names:
+      en: Restoration Day
