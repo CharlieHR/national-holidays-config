@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2018-12-17.
+Last updated 2018-12-20.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -351,7 +351,7 @@ Last updated 2018-12-17.
 | 🇺🇿 | Uzbekistan | No Data | - | - | - | - |
 | 🇻🇺 | Vanuatu | No Data | - | - | - | - |
 | 🇻🇪 | Venezuela (Bolivarian Republic of) | Venezuela | 2020 | 13 | - | - |
-| 🇻🇳 | Viet Nam | Vietnam | 2020 | 11 | - | - |
+| 🇻🇳 | Viet Nam | Vietnam | 2020 | 12 | - | - |
 | 🇻🇬 | Virgin Islands (British) | No Data | - | - | - | - |
 | 🇻🇮 | Virgin Islands (U.S.) | No Data | - | - | - | - |
 | 🇼🇫 | Wallis and Futuna | No Data | - | - | - | - |
