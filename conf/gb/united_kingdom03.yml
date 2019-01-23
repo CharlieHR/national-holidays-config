@@ -283,9 +283,9 @@ years:
     names:
       en: New Year's Day
   - public_holiday: true
-    date: '2019-04-22'
+    date: '2019-04-19'
     names:
-      en: Easter Monday
+      en: Good Friday
   - public_holiday: true
     date: '2019-05-06'
     names:
@@ -298,6 +298,10 @@ years:
     date: '2019-08-05'
     names:
       en: Late Summer Bank Holiday
+  - public_holiday: true
+    date: '2019-12-02'
+    names:
+      en: St. Andrew's Day
   - public_holiday: true
     date: '2019-12-25'
     names:
@@ -316,9 +320,9 @@ years:
     names:
       en: New Year's Day
   - public_holiday: true
-    date: '2020-04-13'
+    date: '2020-04-10'
     names:
-      en: Easter Monday
+      en: Good Friday
   - public_holiday: true
     date: '2020-05-04'
     names:
@@ -331,6 +335,10 @@ years:
     date: '2020-08-03'
     names:
       en: Late Summer Bank Holiday
+  - public_holiday: true
+    date: '2020-11-30'
+    names:
+      en: St. Andrew's Day
   - public_holiday: true
     date: '2020-12-25'
     names:
