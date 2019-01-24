@@ -77,3 +77,691 @@ years:
     names:
       en: Republic Day Holiday
       zh: Republic Day Holiday
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names: 
+      en: Republic/New Year's Day,
+  - public_holiday: true
+    date: '2019-02-04'
+    names: 
+      en: Chinese New Year's Eve,
+  - public_holiday: true
+    date: '2019-02-05'
+    names: 
+      en: Chinese New Year's Day,
+  - public_holiday: true
+    date: '2019-02-06'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2019-02-07'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2019-02-08'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2019-02-09'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2019-02-28'
+    names: 
+      en: 228 Memorial Day,
+  - public_holiday: true
+    date: '2019-04-04'
+    names: 
+      en: Children's Day,
+  - public_holiday: true
+    date: '2019-04-05'
+    names: 
+      en: Tomb Sweeping Day,
+  - public_holiday: true
+    date: '2019-05-01'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2019-06-07'
+    names: 
+      en: Dragon Boat Festival,
+  - public_holiday: true
+    date: '2019-09-13'
+    names: 
+      en: Mid-Autumn Festival,
+  - public_holiday: true
+    date: '2019-10-10'
+    names: 
+      en: National Day/Double Tenth Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names: 
+      en: Republic/New Year's Day,
+  - public_holiday: true
+    date: '2020-01-24'
+    names: 
+      en: Chinese New Year's Eve,
+  - public_holiday: true
+    date: '2020-01-25'
+    names: 
+      en: Chinese New Year's Day,
+  - public_holiday: true
+    date: '2020-01-26'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2020-01-27'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2020-01-28'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2020-01-29'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2020-02-28'
+    names: 
+      en: 228 Memorial Day,
+  - public_holiday: true
+    date: '2020-04-03'
+    names: 
+      en: Children's Day,
+  - public_holiday: true
+    date: '2020-04-04'
+    names: 
+      en: Tomb Sweeping Day,
+  - public_holiday: true
+    date: '2020-05-01'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2020-06-25'
+    names: 
+      en: Dragon Boat Festival,
+  - public_holiday: true
+    date: '2020-10-01'
+    names: 
+      en: Mid-Autumn Festival,
+  - public_holiday: true
+    date: '2020-10-09'
+    names: 
+      en: National Day/Double Tenth Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: Republic/New Year's Day,
+  - public_holiday: true
+    date: '2021-02-11'
+    names: 
+      en: Chinese New Year's Eve,
+  - public_holiday: true
+    date: '2021-02-12'
+    names: 
+      en: Chinese New Year's Day,
+  - public_holiday: true
+    date: '2021-02-13'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2021-02-14'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2021-02-15'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2021-02-16'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2021-03-01'
+    names: 
+      en: 228 Memorial Day,
+  - public_holiday: true
+    date: '2021-04-04'
+    names: 
+      en: Children's Day,
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Tomb Sweeping Day,
+  - public_holiday: true
+    date: '2021-04-30'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2021-06-14'
+    names: 
+      en: Dragon Boat Festival,
+  - public_holiday: true
+    date: '2021-09-21'
+    names: 
+      en: Mid-Autumn Festival,
+  - public_holiday: true
+    date: '2021-10-11'
+    names: 
+      en: National Day/Double Tenth Day,
+  - public_holiday: true
+    date: '2021-12-31'
+    names: 
+      en: Republic/New Year's Day observed
+  '2022':
+  - public_holiday: true
+    date: '2022-01-31'
+    names: 
+      en: Chinese New Year's Eve,
+  - public_holiday: true
+    date: '2022-02-01'
+    names: 
+      en: Chinese New Year's Day,
+  - public_holiday: true
+    date: '2022-02-02'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2022-02-03'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2022-02-04'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2022-02-05'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2022-02-28'
+    names: 
+      en: 228 Memorial Day,
+  - public_holiday: true
+    date: '2022-04-04'
+    names: 
+      en: Children's Day,
+  - public_holiday: true
+    date: '2022-04-05'
+    names: 
+      en: Tomb Sweeping Day,
+  - public_holiday: true
+    date: '2022-05-02'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2022-06-03'
+    names: 
+      en: Dragon Boat Festival,
+  - public_holiday: true
+    date: '2022-09-10'
+    names: 
+      en: Mid-Autumn Festival,
+  - public_holiday: true
+    date: '2022-10-10'
+    names: 
+      en: National Day/Double Tenth Day
+  '2023':
+  - public_holiday: true
+    date: '2023-01-02'
+    names: 
+      en: Republic/New Year's Day,
+  - public_holiday: true
+    date: '2023-01-21'
+    names: 
+      en: Chinese New Year's Eve,
+  - public_holiday: true
+    date: '2023-01-22'
+    names: 
+      en: Chinese New Year's Day,
+  - public_holiday: true
+    date: '2023-01-23'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2023-01-24'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2023-01-25'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2023-01-26'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2023-02-28'
+    names: 
+      en: 228 Memorial Day,
+  - public_holiday: true
+    date: '2023-04-04'
+    names: 
+      en: Children's Day,
+  - public_holiday: true
+    date: '2023-04-05'
+    names: 
+      en: Tomb Sweeping Day,
+  - public_holiday: true
+    date: '2023-05-01'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2023-06-22'
+    names: 
+      en: Dragon Boat Festival,
+  - public_holiday: true
+    date: '2023-09-29'
+    names: 
+      en: Mid-Autumn Festival,
+  - public_holiday: true
+    date: '2023-10-10'
+    names: 
+      en: National Day/Double Tenth Day
+  '2024':
+  - public_holiday: true
+    date: '2024-01-01'
+    names: 
+      en: Republic/New Year's Day,
+  - public_holiday: true
+    date: '2024-02-09'
+    names: 
+      en: Chinese New Year's Eve,
+  - public_holiday: true
+    date: '2024-02-10'
+    names: 
+      en: Chinese New Year's Day,
+  - public_holiday: true
+    date: '2024-02-11'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2024-02-12'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2024-02-13'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2024-02-14'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2024-02-28'
+    names: 
+      en: 228 Memorial Day,
+  - public_holiday: true
+    date: '2024-04-04'
+    names: 
+      en: Children's Day,
+  - public_holiday: true
+    date: '2024-04-04'
+    names: 
+      en: Tomb Sweeping Day,
+  - public_holiday: true
+    date: '2024-05-01'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2024-06-10'
+    names: 
+      en: Dragon Boat Festival,
+  - public_holiday: true
+    date: '2024-09-17'
+    names: 
+      en: Mid-Autumn Festival,
+  - public_holiday: true
+    date: '2024-10-10'
+    names: 
+      en: National Day/Double Tenth Day
+  '2025':
+  - public_holiday: true
+    date: '2025-01-01'
+    names: 
+      en: Republic/New Year's Day,
+  - public_holiday: true
+    date: '2025-01-28'
+    names: 
+      en: Chinese New Year's Eve,
+  - public_holiday: true
+    date: '2025-01-29'
+    names: 
+      en: Chinese New Year's Day,
+  - public_holiday: true
+    date: '2025-01-30'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2025-01-31'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2025-02-01'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2025-02-02'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2025-02-28'
+    names: 
+      en: 228 Memorial Day,
+  - public_holiday: true
+    date: '2025-04-04'
+    names: 
+      en: Children's Day,
+  - public_holiday: true
+    date: '2025-04-05'
+    names: 
+      en: Tomb Sweeping Day,
+  - public_holiday: true
+    date: '2025-05-01'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2025-05-31'
+    names: 
+      en: Dragon Boat Festival,
+  - public_holiday: true
+    date: '2025-10-06'
+    names: 
+      en: Mid-Autumn Festival,
+  - public_holiday: true
+    date: '2025-10-10'
+    names: 
+      en: National Day/Double Tenth Day
+  '2026':
+  - public_holiday: true
+    date: '2026-01-01'
+    names: 
+      en: Republic/New Year's Day,
+  - public_holiday: true
+    date: '2026-02-16'
+    names: 
+      en: Chinese New Year's Eve,
+  - public_holiday: true
+    date: '2026-02-17'
+    names: 
+      en: Chinese New Year's Day,
+  - public_holiday: true
+    date: '2026-02-18'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2026-02-19'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2026-02-20'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2026-02-21'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2026-02-27'
+    names: 
+      en: 228 Memorial Day,
+  - public_holiday: true
+    date: '2026-04-03'
+    names: 
+      en: Children's Day,
+  - public_holiday: true
+    date: '2026-04-05'
+    names: 
+      en: Tomb Sweeping Day,
+  - public_holiday: true
+    date: '2026-05-01'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2026-06-19'
+    names: 
+      en: Dragon Boat Festival,
+  - public_holiday: true
+    date: '2026-09-25'
+    names: 
+      en: Mid-Autumn Festival,
+  - public_holiday: true
+    date: '2026-10-09'
+    names: 
+      en: National Day/Double Tenth Day
+  '2027':
+  - public_holiday: true
+    date: '2027-01-01'
+    names: 
+      en: Republic/New Year's Day,
+  - public_holiday: true
+    date: '2027-02-05'
+    names: 
+      en: Chinese New Year's Eve,
+  - public_holiday: true
+    date: '2027-02-06'
+    names: 
+      en: Chinese New Year's Day,
+  - public_holiday: true
+    date: '2027-02-07'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2027-02-08'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2027-02-09'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2027-02-10'
+    names: 
+      en: Chinese New Year Holiday,
+  - public_holiday: true
+    date: '2027-03-01'
+    names: 
+      en: 228 Memorial Day,
+  - public_holiday: true
+    date: '2027-04-05'
+    names: 
+      en: Children's Day,
+  - public_holiday: true
+    date: '2027-04-05'
+    names: 
+      en: Tomb Sweeping Day,
+  - public_holiday: true
+    date: '2027-04-30'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2027-06-09'
+    names: 
+      en: Dragon Boat Festival,
+  - public_holiday: true
+    date: '2027-09-15'
+    names: 
+      en: Mid-Autumn Festival,
+  - public_holiday: true
+    date: '2027-10-11'
+    names: 
+      en: National Day/Double Tenth Day,
+  - public_holiday: true
+    date: '2027-12-31'
+    names: 
+      en: Republic/New Year's Day observed
+  '2028':
+  - public_holiday: true
+    date: '2028-01-01'
+    names: 
+      en: Republic/New Year's Day,
+    - public_holiday: true
+    date: '2028-01-25'
+    names: 
+      en: Chinese New Year's Eve,
+    - public_holiday: true
+    date: '2028-01-26'
+    names: 
+      en: Chinese New Year's Day,
+    - public_holiday: true
+    date: '2028-01-27'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2028-01-28'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2028-01-29'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2028-01-30'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2028-02-28'
+    names: 
+      en: 228 Memorial Day,
+    - public_holiday: true
+    date: '2028-04-04'
+    names: 
+      en: Children's Day,
+    - public_holiday: true
+    date: '2028-04-04'
+    names: 
+      en: Tomb Sweeping Day,
+    - public_holiday: true
+    date: '2028-05-01'
+    names: 
+      en: Labour Day,
+    - public_holiday: true
+    date: '2028-05-28'
+    names: 
+      en: Dragon Boat Festival,
+    - public_holiday: true
+    date: '2028-10-03'
+    names: 
+      en: Mid-Autumn Festival,
+    - public_holiday: true
+    date: '2028-10-10'
+    names: 
+      en: National Day/Double Tenth Day
+  '2029':
+  - public_holiday: true
+    date: '2029-01-01'
+    names: 
+      en: Republic/New Year's Day,
+    - public_holiday: true
+    date: '2029-02-12'
+    names: 
+      en: Chinese New Year's Eve,
+    - public_holiday: true
+    date: '2029-02-13'
+    names: 
+      en: Chinese New Year's Day,
+    - public_holiday: true
+    date: '2029-02-14'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2029-02-15'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2029-02-16'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2029-02-17'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2029-02-28'
+    names: 
+      en: 228 Memorial Day,
+    - public_holiday: true
+    date: '2029-04-04'
+    names: 
+      en: Children's Day,
+    - public_holiday: true
+    date: '2029-04-05'
+    names: 
+      en: Tomb Sweeping Day,
+    - public_holiday: true
+    date: '2029-05-01'
+    names: 
+      en: Labour Day,
+    - public_holiday: true
+    date: '2029-06-16'
+    names: 
+      en: Dragon Boat Festival,
+    - public_holiday: true
+    date: '2029-09-22'
+    names: 
+      en: Mid-Autumn Festival,
+    - public_holiday: true
+    date: '2029-10-10'
+    names: 
+      en: National Day/Double Tenth Day
+  '2030':
+  - public_holiday: true
+    date: '2030-01-01'
+    names: 
+      en: Republic/New Year's Day,
+    - public_holiday: true
+    date: '2030-02-02'
+    names: 
+      en: Chinese New Year's Eve,
+    - public_holiday: true
+    date: '2030-02-03'
+    names: 
+      en: Chinese New Year's Day,
+    - public_holiday: true
+    date: '2030-02-04'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2030-02-05'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2030-02-06'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2030-02-07'
+    names: 
+      en: Chinese New Year Holiday,
+    - public_holiday: true
+    date: '2030-02-28'
+    names: 
+      en: 228 Memorial Day,
+    - public_holiday: true
+    date: '2030-04-04'
+    names: 
+      en: Children's Day,
+    - public_holiday: true
+    date: '2030-04-05'
+    names: 
+      en: Tomb Sweeping Day,
+    - public_holiday: true
+    date: '2030-05-01'
+    names: 
+      en: Labour Day,
+    - public_holiday: true
+    date: '2030-06-05'
+    names: 
+      en: Dragon Boat Festival,
+    - public_holiday: true
+    date: '2030-09-12'
+    names: 
+      en: Mid-Autumn Festival,
+    - public_holiday: true
+    date: '2030-10-10'
+    names: 
+      en: National Day/Double Tenth Day
