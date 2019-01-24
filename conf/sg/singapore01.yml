@@ -133,11 +133,11 @@ years:
     names:
       en: Hari Raya Puasa
   - public_holiday: true
-    date: '2019-09-09'
+    date: '2019-08-09'
     names:
       en: National Day
   - public_holiday: true
-    date: '2019-09-11'
+    date: '2019-08-11'
     names:
       en: Feast of the Sacrifice
   - public_holiday: true
