@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2019-01-23.
+Last updated 2019-01-24.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -273,7 +273,7 @@ Last updated 2019-01-23.
 | 🇸🇪 | Sweden | Sweden (all) | 2040 | 16 | - | - |
 | 🇨🇭 | Switzerland | Geneva | 2020 | 9 | - | - |
 | 🇸🇾 | Syrian Arab Republic | No Data | - | - | - | - |
-| 🇹🇼 | Taiwan, Province of China | Taiwan (all) | 2018 | 15 | - | - |
+| 🇹🇼 | Taiwan, Province of China | Taiwan (all) | 2030 | 14 | - | - |
 | 🇹🇯 | Tajikistan | No Data | - | - | - | - |
 | 🇹🇿 | Tanzania, United Republic of | No Data | - | - | - | - |
 | 🇹🇭 | Thailand | Thailand (all) | 2020 | 18 | - | - |
