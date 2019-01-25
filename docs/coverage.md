@@ -108,7 +108,7 @@ Last updated 2019-01-25.
 | 🇬🇪 | Georgia | No Data | - | - | - | - |
 | 🇩🇪 | Germany | Baden Wurttemberg | 2040 | 12 | - | - |
 | 🇩🇪 | Germany | Bavaria | 2040 | 13 | - | - |
-| 🇩🇪 | Germany | Berlin | 2040 | 9 | - | - |
+| 🇩🇪 | Germany | Berlin | 2040 | 10 | - | - |
 | 🇩🇪 | Germany | Brandenburg | 2040 | 10 | - | - |
 | 🇩🇪 | Germany | Bremen | 2040 | 9 | - | - |
 | 🇩🇪 | Germany | Hamburg | 2040 | 9 | - | - |
