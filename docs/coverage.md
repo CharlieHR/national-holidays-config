@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2019-01-24.
+Last updated 2019-01-25.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -216,7 +216,7 @@ Last updated 2019-01-24.
 | 🇳🇫 | Norfolk Island | No Data | - | - | - | - |
 | 🇲🇵 | Northern Mariana Islands | No Data | - | - | - | - |
 | 🇳🇴 | Norway | Norway (all) | 2040 | 12 | - | - |
-| 🇴🇲 | Oman | No Data | - | - | - | - |
+| 🇴🇲 | Oman | Oman | 2020 | 16 | - | - |
 | 🇵🇰 | Pakistan | Pakistan (all) | 2020 | 12 | - | - |
 | 🇵🇼 | Palau | No Data | - | - | - | - |
 | 🇵🇸 | Palestine, State of | No Data | - | - | - | - |
@@ -361,4 +361,4 @@ Last updated 2019-01-24.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 80 / 249
+Total coverage: 81 / 249
