@@ -141,10 +141,6 @@ years:
     names:
       en: Feast of the Sacrifice
   - public_holiday: true
-    date: '2019-09-12'
-    names:
-      en: Feast of the Sacrifice
-  - public_holiday: true
     date: '2019-10-27'
     names:
       en: Dewali
