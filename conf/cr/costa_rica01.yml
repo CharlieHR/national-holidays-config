@@ -52,11 +52,11 @@ years:
     names:
       en: "New Year's Day"
   - public_holiday: true
-    date: '2019-03-18'
+    date: '2019-04-18'
     names:
       en: 'Good Thursday'
   - public_holiday: true
-    date: '2019-03-19'
+    date: '2019-04-19'
     names:
       en: 'Good Friday'
   - public_holiday: true
