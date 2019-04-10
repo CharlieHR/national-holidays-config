@@ -1,0 +1,114 @@
+name: Asturias
+years:
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names: 
+      en: New Year's Day
+      es: New Year's Day,
+  - public_holiday: true
+    date: '2019-01-06'
+    names: 
+      en: Epiphany 
+      es: Epiphany ,
+  - public_holiday: true
+    date: '2019-01-07'
+    names: 
+      en: Good Friday 
+      es: Good Friday ,
+  - public_holiday: true
+    date: '2019-04-18'
+    names: 
+      en: Labour Day
+      es: Labour Day,
+  - public_holiday: true
+    date: '2019-09-09'
+    names: 
+      en: Day of Asturias
+      es: Day of Asturias,
+  - public_holiday: true
+    date: '2019-10-12'
+    names: 
+      en: Hispanic Day
+      es: Hispanic Day,
+  - public_holiday: true
+    date: '2019-11-01'
+    names: 
+      en: All Saints' Day
+      es: All Saints' Day,
+  - public_holiday: true
+    date: '2019-12-06'
+    names: 
+      en: Constitution Day
+      es: Constitution Day,
+  - public_holiday: true
+    date: '2019-12-08'
+    names: 
+      en: Immaculate Conception Day
+      es: Immaculate Conception Day,
+  - public_holiday: true
+    date: '2019-12-25'
+    names: 
+      en: Christmas Day
+      es: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names: 
+      en: New Year's Day
+      es: New Year's Day,
+  - public_holiday: true
+    date: '2020-01-06'
+    names: 
+      en: Epiphany 
+      es: Epiphany ,
+  - public_holiday: true
+    date: '2020-04-09'
+    names: 
+      en: Holy Thursday
+      es: Holy Thursday,
+  - public_holiday: true
+    date: '2020-04-23'
+    names: 
+      en: Good Friday 
+      es: Good Friday ,
+  - public_holiday: true
+    date: '2020-05-01'
+    names: 
+      en: Labour Day
+      es: Labour Day,
+  - public_holiday: true
+    date: '2020-08-15'
+    names: 
+      en: Assumption Day
+      es: Assumption Day,
+  - public_holiday: true
+    date: '2020-09-08'
+    names: 
+      en: Day of Asturias
+      es: Day of Asturias,
+  - public_holiday: true
+    date: '2020-10-12'
+    names: 
+      en: Hispanic Day
+      es: Hispanic Day,
+  - public_holiday: true
+    date: '2020-11-01'
+    names: 
+      en: All Saints' Day
+      es: All Saints' Day,
+  - public_holiday: true
+    date: '2020-12-06'
+    names: 
+      en: Constitution Day
+      es: Constitution Day,
+  - public_holiday: true
+    date: '2020-12-08'
+    names: 
+      en: Immaculate Conception Day
+      es: Immaculate Conception Day,
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+      es: Christmas Day
