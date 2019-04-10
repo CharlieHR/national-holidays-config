@@ -949,6 +949,16 @@ years:
       en: Labor Day
       zh: 劳动节
   - public_holiday: true
+    date: '2019-05-02'
+    names:
+      en: Labor Day Holiday
+      zh: 劳动节
+  - public_holiday: true
+    date: '2019-05-03'
+    names:
+      en: Labor Day Holiday
+      zh: 劳动节
+  - public_holiday: true
     date: '2019-06-07'
     names:
       en: Dragon Boat Festival
