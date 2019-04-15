@@ -259,6 +259,7 @@ Last updated 2019-04-15.
 | 🇬🇸 | South Georgia and the South Sandwich Islands | No Data | - | - | - | - |
 | 🇸🇸 | South Sudan | No Data | - | - | - | - |
 | 🇪🇸 | Spain | Asturias | 2020 | 12 | - | - |
+| 🇪🇸 | Spain | Galicia | 2020 | 13 | - | - |
 | 🇪🇸 | Spain | Comunidad de Madrid | 2020 | 11 | - | - |
 | 🇪🇸 | Spain | Catalunya | 2020 | 13 | - | - |
 | 🇪🇸 | Spain | Andalucía | 2020 | 14 | - | - |
