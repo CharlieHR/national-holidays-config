@@ -292,6 +292,11 @@ years:
       en: Unification of the Romanian Principalities/Small Union
       ro: Unirea Principatelor Române/Mica Unire
   - public_holiday: true
+    date: '2019-04-26'
+    names:
+      en: Orthodox Good Friday
+      ro: Vinerea mare
+  - public_holiday: true
     date: '2019-04-28'
     names:
       en: Orthodox Easter Sunday
@@ -362,6 +367,11 @@ years:
     names:
       en: Unification of the Romanian Principalities/Small Union
       ro: Unirea Principatelor Române/Mica Unire
+  - public_holiday: true
+    date: '2020-04-17'
+    names:
+      en: Orthodox Good Friday
+      ro: Vinerea mare
   - public_holiday: true
     date: '2020-04-19'
     names:
