@@ -310,7 +310,7 @@ years:
     names:
       en: New Year's Day
       th: New Year's Day
-   - public_holiday: true
+  - public_holiday: true
     date: '2020-01-02'
     names:
       en: New Year's Holiday
