@@ -215,7 +215,12 @@ years:
       th: New Year's Eve
   '2019':
   - public_holiday: true
-    date: '2019-02-05'
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      th: New Year's Day
+  - public_holiday: true
+    date: '2019-02-19'
     names:
       en: Makha Bucha Day
       th: Makha Bucha Day
@@ -250,17 +255,17 @@ years:
       en: National Labour Day
       th: National Labour Day
   - public_holiday: true
-    date: '2019-05-05'
+    date: '2019-05-06'
     names:
       en: Coronation Day
       th: Coronation Day
   - public_holiday: true
-    date: '2019-05-19'
+    date: '2019-05-20'
     names:
       en: Wiskha Bucha Day
       th: Wiskha Bucha Day
   - public_holiday: true
-    date: '2019-07-17'
+    date: '2019-07-16'
     names:
       en: Ashna Bucha Day
       th: Ashna Bucha Day
@@ -270,15 +275,25 @@ years:
       en: H.M the King's Birthday
       th: H.M the King's Birthday
   - public_holiday: true
-    date: '2019-12-05'
+    date: '2019-08-12'
     names:
-      en: H.M. the Queen's Birthday
-      th: H.M. the Queen's Birthday
+      en: H.M the Queens Birthday Holiday
+      th: H.M the Queens Birthday Holiday
   - public_holiday: true
-    date: '2019-11-23'
+    date: '2019-10-14'
+    names:
+      en: The Passing of King Bhumibol
+      th: The Passing of King Bhumibol
+  - public_holiday: true
+    date: '2019-10-23'
     names:
       en: Chulalongkorn Day
       th: Chulalongkorn Day
+  - public_holiday: true
+    date: '2019-12-05'
+    names:
+      en: King Bhumibol's Birthday
+      th: King Bhumibol's Birthday
   - public_holiday: true
     date: '2019-12-10'
     names:
@@ -295,13 +310,13 @@ years:
     names:
       en: New Year's Day
       th: New Year's Day
-  - public_holiday: true
-    date: '2020-02-09'
+   - public_holiday: true
+    date: '2020-01-02'
     names:
-      en: Makha Bucha Day
-      th: Makha Bucha Day
+      en: New Year's Holiday
+      th: New Year's Holiday
   - public_holiday: true
-    date: '2020-02-10'
+    date: '2020-03-09'
     names:
       en: Makha Bucha Day
       th: Makha Bucha Day
@@ -336,7 +351,7 @@ years:
       en: National Labour Day
       th: National Labour Day
   - public_holiday: true
-    date: '2020-05-06'
+    date: '2020-05-07'
     names:
       en: Wiskha Bucha Day
       th: Wiskha Bucha Day
@@ -346,27 +361,27 @@ years:
       en: Ashna Bucha Day
       th: Ashna Bucha Day
   - public_holiday: true
-    date: '2020-07-06'
-    names:
-      en: Khao Phansa Day
-      th: Khao Phansa Day
-  - public_holiday: true
     date: '2020-07-28'
     names:
-      en: King Vajiralongkorn's Birthday
-      th: King Vajiralongkorn's Birthday
+      en: H. M. King's Birthday
+      th: H. M. King's Birthday
   - public_holiday: true
     date: '2020-08-12'
     names:
       en: H.M the Queen's Birthday
       th: H.M the Queen's Birthday
   - public_holiday: true
+    date: '2020-10-13'
+    names:
+      en: The Passing of King Bhumibol
+      th: The Passing of King Bhumibol
+  - public_holiday: true
     date: '2020-10-23'
     names:
       en: Chulalongkorn Day
       th: Chulalongkorn Day
   - public_holiday: true
-    date: '2020-12-05'
+    date: '2020-12-07'
     names:
       en: H.M. the King's Birthday
       th: H.M. the King's Birthday
