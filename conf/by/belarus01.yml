@@ -135,12 +135,12 @@ years:
       en: Victory Day
       be: Victory Day
   - public_holiday: true
-    date: '2019-06-03'
+    date: '2019-07-03'
     names:
       en: Independence Day
       be: Independence Day
   - public_holiday: true
-    date: '2019-11-08'
+    date: '2019-11-07'
     names:
       en: October Revolution Day
       be: October Revolution Day
