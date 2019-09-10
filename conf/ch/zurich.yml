@@ -1,0 +1,150 @@
+---
+name: Zurich
+years:
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names: 
+      en: New Year's Day
+      de: Neujahr,
+  - public_holiday: true
+    date: '2019-01-02'
+    names: 
+      en: Berchtolds Day
+      de: Berchtoldstag,
+  - public_holiday: true
+    date: '2019-04-08'
+    names: 
+      en: Sechseläuten
+      de: Sechseläuten,
+  - public_holiday: true
+    date: '2019-04-18'
+    names: 
+      en: Maundy Thursday
+      de: Gründonnerstag,
+  - public_holiday: true
+    date: '2019-04-19'
+    names: 
+      en: Good Friday
+      de: Karfreitag,
+  - public_holiday: true
+    date: '2019-04-22'
+    names: 
+      en: Easter Monday
+      de: Ostermontag,
+  - public_holiday: true
+    date: '2019-05-01'
+    names: 
+      en: May Day
+      de: Tag der Arbeit,
+  - public_holiday: true
+    date: '2019-05-29'
+    names: 
+      en: Mittwoch vor Auffahrt
+      de: Mittwoch vor Auffahrt,
+  - public_holiday: true
+    date: '2019-05-30'
+    names: 
+      en: Ascension Day
+      de: Auffahrt,
+  - public_holiday: true
+    date: '2019-06-10'
+    names: 
+      en: Whit Monday
+      de: Pfingstmontag,
+  - public_holiday: true
+    date: '2019-08-01'
+    names: 
+      en: National Day
+      de: Nationalfeiertag,
+  - public_holiday: true
+    date: '2019-09-09'
+    names: 
+      en: Knabenschiessen
+      de: Knabenschiessen,
+  - public_holiday: true
+    date: '2019-12-24'
+    names: 
+      en: Christmas Eve
+      de: Heiligabend,
+  - public_holiday: true
+    date: '2019-12-25'
+    names: 
+      en: Christmas Day
+      de: Weihnachten,
+  - public_holiday: true
+    date: '2019-12-26'
+    names: 
+      en: St. Stephen's Day
+      de: Stephanstag,
+  - public_holiday: true
+    date: '2019-12-31'
+    names: 
+      en: New Year's Eve
+      de: Silvester
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names: 
+      en: New Year's Day
+      de: Neujahr,
+  - public_holiday: true
+    date: '2020-01-02'
+    names: 
+      en: Berchtolds Day
+      de: Berchtoldstag,
+  - public_holiday: true
+    date: '2020-04-09'
+    names: 
+      en: Maundy Thursday
+      de: Gründonnerstag,
+  - public_holiday: true
+    date: '2020-04-10'
+    names: 
+      en: Good Friday
+      de: Karfreitag,
+  - public_holiday: true
+    date: '2020-04-13'
+    names: 
+      en: Easter Monday
+      de: Ostermontag,
+  - public_holiday: true
+    date: '2020-05-01'
+    names: 
+      en: May Day
+      de: Tag der Arbeit,
+  - public_holiday: true
+    date: '2020-05-20'
+    names: 
+      en: Mittwoch vor Auffahrt
+      de: Mittwoch vor Auffahrt,
+  - public_holiday: true
+    date: '2020-05-21'
+    names: 
+      en: Ascension Day
+      de: Auffahrt,
+  - public_holiday: true
+    date: '2020-06-01'
+    names: 
+      en: Whit Monday
+      de: Pfingstmontag,
+  - public_holiday: true
+    date: '2020-09-14'
+    names: 
+      en: Knabenschiessen
+      de: Knabenschiessen,
+  - public_holiday: true
+    date: '2020-12-24'
+    names: 
+      en: Christmas Eve
+      de: Heiligabend,
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+      de: Weihnachten,
+  - public_holiday: true
+    date: '2020-12-31'
+    names: 
+      en: New Year's Eve
+      de: Silvester
