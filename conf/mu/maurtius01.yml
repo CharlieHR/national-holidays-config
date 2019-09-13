@@ -1,0 +1,117 @@
+---
+name: Maurtius (all)
+years:
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names: 
+      en: New Year's Day,
+  - public_holiday: true
+    date: '2019-01-02'
+    names: 
+      en: New Year's Day Holiday,
+  - public_holiday: true
+    date: '2019-01-21'
+    names: 
+      en: Thaipoosam Cavadee,
+  - public_holiday: true
+    date: '2019-02-01'
+    names: 
+      en: Abolition of Slavery,
+  - public_holiday: true
+    date: '2019-02-05'
+    names: 
+      en: Chinese Spring Festival,
+  - public_holiday: true
+    date: '2019-03-04'
+    names: 
+      en: Maha Shivaratree,
+  - public_holiday: true
+    date: '2019-03-12'
+    names: 
+      en: Independance and Republic Day,
+  - public_holiday: true
+    date: '2019-04-06'
+    names: 
+      en: Ougadi,
+  - public_holiday: true
+    date: '2019-05-01'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2019-06-05'
+    names: 
+      en: Eid-Ul-Fitr,
+  - public_holiday: true
+    date: '2019-09-03'
+    names: 
+      en: Ganesh Chaturthi ,
+  - public_holiday: true
+    date: '2019-10-27'
+    names: 
+      en: Diwali,
+  - public_holiday: true
+    date: '2019-11-01'
+    names: 
+      en: All Saints Day,
+  - public_holiday: true
+    date: '2019-11-02'
+    names: 
+      en: Arrival of Indentured Labourers,
+  - public_holiday: true
+    date: '2019-12-25'
+    names: 
+      en: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names: 
+      en: New Year's Day,
+  - public_holiday: true
+    date: '2020-01-02'
+    names: 
+      en: New Year's Day Holiday,
+  - public_holiday: true
+    date: '2020-01-25'
+    names: 
+      en: Chinese Spring Festival,
+  - public_holiday: true
+    date: '2020-02-01'
+    names: 
+      en: Abolition of Slavery,
+  - public_holiday: true
+    date: '2020-02-08'
+    names: 
+      en: Thaipoosam Cavadee,
+  - public_holiday: true
+    date: '2020-02-21'
+    names: 
+      en: Maha Shivaratree,
+  - public_holiday: true
+    date: '2020-03-25'
+    names: 
+      en: Ougadi,
+  - public_holiday: true
+    date: '2020-05-01'
+    names: 
+      en: Labour Day,
+  - public_holiday: true
+    date: '2020-05-24'
+    names: 
+      en: Eid-Ul-Fitr,
+  - public_holiday: true
+    date: '2020-08-23'
+    names: 
+      en: Ganesh Chaturthi ,
+  - public_holiday: true
+    date: '2020-11-02'
+    names: 
+      en: Arrival of Indentured Labourers,
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Diwali,
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
