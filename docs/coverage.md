@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2019-08-08.
+Last updated 2019-09-13.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -180,7 +180,7 @@ Last updated 2019-08-08.
 | 🇲🇭 | Marshall Islands | No Data | - | - | - | - |
 | 🇲🇶 | Martinique | No Data | - | - | - | - |
 | 🇲🇷 | Mauritania | No Data | - | - | - | - |
-| 🇲🇺 | Mauritius | No Data | - | - | - | - |
+| 🇲🇺 | Mauritius | Maurtius (all) | 2020 | 13 | - | - |
 | 🇾🇹 | Mayotte | No Data | - | - | - | - |
 | 🇲🇽 | Mexico | Mexico (all) | 2040 | 10 | - | - |
 | 🇫🇲 | Micronesia (Federated States of) | No Data | - | - | - | - |
@@ -275,6 +275,7 @@ Last updated 2019-08-08.
 | 🇸🇿 | Swaziland | No Data | - | - | - | - |
 | 🇸🇪 | Sweden | Sweden (all) | 2040 | 16 | - | - |
 | 🇨🇭 | Switzerland | Geneva | 2020 | 9 | - | - |
+| 🇨🇭 | Switzerland | Zurich | 2020 | 13 | - | - |
 | 🇸🇾 | Syrian Arab Republic | No Data | - | - | - | - |
 | 🇹🇼 | Taiwan, Province of China | Taiwan (all) | 2030 | 14 | - | - |
 | 🇹🇯 | Tajikistan | No Data | - | - | - | - |
@@ -364,4 +365,4 @@ Last updated 2019-08-08.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 81 / 249
+Total coverage: 82 / 249
