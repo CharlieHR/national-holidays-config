@@ -180,7 +180,7 @@ Last updated 2019-09-13.
 | 🇲🇭 | Marshall Islands | No Data | - | - | - | - |
 | 🇲🇶 | Martinique | No Data | - | - | - | - |
 | 🇲🇷 | Mauritania | No Data | - | - | - | - |
-| 🇲🇺 | Mauritius | Maurtius (all) | 2020 | 13 | - | - |
+| 🇲🇺 | Mauritius | Mauritius (all) | 2020 | 13 | - | - |
 | 🇾🇹 | Mayotte | No Data | - | - | - | - |
 | 🇲🇽 | Mexico | Mexico (all) | 2040 | 10 | - | - |
 | 🇫🇲 | Micronesia (Federated States of) | No Data | - | - | - | - |
