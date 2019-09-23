@@ -143,7 +143,7 @@ years:
     date: '2019-06-05'
     names:
       en: End of Ramadan
-      ms: Hari Raya Aidilfitri,
+      ms: Hari Raya Aidilfitri
   - public_holiday: true
     date: '2019-06-06'
     names:
@@ -209,7 +209,7 @@ years:
     date: '2020-05-24'
     names:
       en: End of Ramadan
-      ms: Hari Raya Aidilfitri,
+      ms: Hari Raya Aidilfitri
   - public_holiday: true
     date: '2020-05-25'
     names:

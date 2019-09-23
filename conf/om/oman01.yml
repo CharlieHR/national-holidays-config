@@ -4,162 +4,162 @@ years:
   '2019':
   - public_holiday: true
     date: '2019-01-01'
-    names: 
+    names:
       en: New Year's Day
-      ar: New Year's Day,
+      ar: New Year's Day
   - public_holiday: true
     date: '2019-04-03'
-    names: 
+    names:
       en: Isra'a Wal Miraj
-      ar: Isra'a Wal Miraj,
+      ar: Isra'a Wal Miraj
   - public_holiday: true
     date: '2019-06-04'
-    names: 
+    names:
       en: Eid Al Fitr
-      ar: Eid Al Fitr,
+      ar: Eid Al Fitr
   - public_holiday: true
     date: '2019-06-05'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2019-06-06'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2019-06-07'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2019-07-23'
-    names: 
+    names:
       en: Renaissance Day
-      ar: Renaissance Day,
+      ar: Renaissance Day
   - public_holiday: true
     date: '2019-08-11'
-    names: 
+    names:
       en: Arafat Day
-      ar: Arafat Day,
+      ar: Arafat Day
   - public_holiday: true
     date: '2019-08-12'
-    names: 
+    names:
       en: Eid Al Fitr
-      ar: Eid Al Fitr,
+      ar: Eid Al Fitr
   - public_holiday: true
     date: '2019-08-13'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2019-08-14'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2019-08-15'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2019-08-31'
-    names: 
+    names:
       en: Hijri New Year
-      ar: Hijri New Year,
+      ar: Hijri New Year
   - public_holiday: true
     date: '2019-11-09'
-    names: 
+    names:
       en: Birthday of Prophet Muhammad
-      ar: Birthday of Prophet Muhammad,
+      ar: Birthday of Prophet Muhammad
   - public_holiday: true
     date: '2019-11-18'
-    names: 
+    names:
       en: National Day
-      ar: National Day,
+      ar: National Day
   - public_holiday: true
     date: '2019-11-19'
-    names: 
+    names:
       en: Sultan's Birthday
       ar: Sultan's Birthday
   '2020':
   - public_holiday: true
     date: '2020-01-01'
-    names: 
+    names:
       en: New Year's Day
-      ar: New Year's Day,
+      ar: New Year's Day
   - public_holiday: true
     date: '2020-03-22'
-    names: 
+    names:
       en: Isra'a Wal Miraj
-      ar: Isra'a Wal Miraj,
+      ar: Isra'a Wal Miraj
   - public_holiday: true
     date: '2020-05-24'
-    names: 
+    names:
       en: Eid Al Fitr
-      ar: Eid Al Fitr,
+      ar: Eid Al Fitr
   - public_holiday: true
     date: '2020-05-25'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2020-05-26'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2020-05-27'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2020-07-23'
-    names: 
+    names:
       en: Renaissance Day
-      ar: Renaissance Day,
+      ar: Renaissance Day
   - public_holiday: true
     date: '2020-07-30'
-    names: 
+    names:
       en: Arafat Day
-      ar: Arafat Day,
+      ar: Arafat Day
   - public_holiday: true
     date: '2020-07-31'
-    names: 
+    names:
       en: Eid Al Fitr
-      ar: Eid Al Fitr,
+      ar: Eid Al Fitr
   - public_holiday: true
     date: '2020-08-01'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2020-08-02'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2020-08-03'
-    names: 
+    names:
       en: Eid Al Fitr Holiday
-      ar: Eid Al Fitr Holiday,
+      ar: Eid Al Fitr Holiday
   - public_holiday: true
     date: '2020-08-20'
-    names: 
+    names:
       en: Hijri New Year
-      ar: Hijri New Year,
+      ar: Hijri New Year
   - public_holiday: true
     date: '2020-10-29'
-    names: 
+    names:
       en: Birthday of Prophet Muhammad
-      ar: Birthday of Prophet Muhammad,
+      ar: Birthday of Prophet Muhammad
   - public_holiday: true
     date: '2020-11-18'
-    names: 
+    names:
       en: National Day
-      ar: National Day,
+      ar: National Day
   - public_holiday: true
     date: '2020-11-19'
-    names: 
+    names:
       en: Sultan's Birthday
       ar: Sultan's Birthday

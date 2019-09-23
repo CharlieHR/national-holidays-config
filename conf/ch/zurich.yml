@@ -4,147 +4,147 @@ years:
   '2019':
   - public_holiday: true
     date: '2019-01-01'
-    names: 
+    names:
       en: New Year's Day
-      de: Neujahr,
+      de: Neujahr
   - public_holiday: true
     date: '2019-01-02'
-    names: 
+    names:
       en: Berchtolds Day
-      de: Berchtoldstag,
+      de: Berchtoldstag
   - public_holiday: true
     date: '2019-04-08'
-    names: 
+    names:
       en: Sechseläuten
-      de: Sechseläuten,
+      de: Sechseläuten
   - public_holiday: true
     date: '2019-04-18'
-    names: 
+    names:
       en: Maundy Thursday
-      de: Gründonnerstag,
+      de: Gründonnerstag
   - public_holiday: true
     date: '2019-04-19'
-    names: 
+    names:
       en: Good Friday
-      de: Karfreitag,
+      de: Karfreitag
   - public_holiday: true
     date: '2019-04-22'
-    names: 
+    names:
       en: Easter Monday
-      de: Ostermontag,
+      de: Ostermontag
   - public_holiday: true
     date: '2019-05-01'
-    names: 
+    names:
       en: May Day
-      de: Tag der Arbeit,
+      de: Tag der Arbeit
   - public_holiday: true
     date: '2019-05-29'
-    names: 
+    names:
       en: Mittwoch vor Auffahrt
-      de: Mittwoch vor Auffahrt,
+      de: Mittwoch vor Auffahrt
   - public_holiday: true
     date: '2019-05-30'
-    names: 
+    names:
       en: Ascension Day
-      de: Auffahrt,
+      de: Auffahrt
   - public_holiday: true
     date: '2019-06-10'
-    names: 
+    names:
       en: Whit Monday
-      de: Pfingstmontag,
+      de: Pfingstmontag
   - public_holiday: true
     date: '2019-08-01'
-    names: 
+    names:
       en: National Day
-      de: Nationalfeiertag,
+      de: Nationalfeiertag
   - public_holiday: true
     date: '2019-09-09'
-    names: 
+    names:
       en: Knabenschiessen
-      de: Knabenschiessen,
+      de: Knabenschiessen
   - public_holiday: true
     date: '2019-12-24'
-    names: 
+    names:
       en: Christmas Eve
-      de: Heiligabend,
+      de: Heiligabend
   - public_holiday: true
     date: '2019-12-25'
-    names: 
+    names:
       en: Christmas Day
-      de: Weihnachten,
+      de: Weihnachten
   - public_holiday: true
     date: '2019-12-26'
-    names: 
+    names:
       en: St. Stephen's Day
-      de: Stephanstag,
+      de: Stephanstag
   - public_holiday: true
     date: '2019-12-31'
-    names: 
+    names:
       en: New Year's Eve
       de: Silvester
   '2020':
   - public_holiday: true
     date: '2020-01-01'
-    names: 
+    names:
       en: New Year's Day
-      de: Neujahr,
+      de: Neujahr
   - public_holiday: true
     date: '2020-01-02'
-    names: 
+    names:
       en: Berchtolds Day
-      de: Berchtoldstag,
+      de: Berchtoldstag
   - public_holiday: true
     date: '2020-04-09'
-    names: 
+    names:
       en: Maundy Thursday
-      de: Gründonnerstag,
+      de: Gründonnerstag
   - public_holiday: true
     date: '2020-04-10'
-    names: 
+    names:
       en: Good Friday
-      de: Karfreitag,
+      de: Karfreitag
   - public_holiday: true
     date: '2020-04-13'
-    names: 
+    names:
       en: Easter Monday
-      de: Ostermontag,
+      de: Ostermontag
   - public_holiday: true
     date: '2020-05-01'
-    names: 
+    names:
       en: May Day
-      de: Tag der Arbeit,
+      de: Tag der Arbeit
   - public_holiday: true
     date: '2020-05-20'
-    names: 
+    names:
       en: Mittwoch vor Auffahrt
-      de: Mittwoch vor Auffahrt,
+      de: Mittwoch vor Auffahrt
   - public_holiday: true
     date: '2020-05-21'
-    names: 
+    names:
       en: Ascension Day
-      de: Auffahrt,
+      de: Auffahrt
   - public_holiday: true
     date: '2020-06-01'
-    names: 
+    names:
       en: Whit Monday
-      de: Pfingstmontag,
+      de: Pfingstmontag
   - public_holiday: true
     date: '2020-09-14'
-    names: 
+    names:
       en: Knabenschiessen
-      de: Knabenschiessen,
+      de: Knabenschiessen
   - public_holiday: true
     date: '2020-12-24'
-    names: 
+    names:
       en: Christmas Eve
-      de: Heiligabend,
+      de: Heiligabend
   - public_holiday: true
     date: '2020-12-25'
-    names: 
+    names:
       en: Christmas Day
-      de: Weihnachten,
+      de: Weihnachten
   - public_holiday: true
     date: '2020-12-31'
-    names: 
+    names:
       en: New Year's Eve
       de: Silvester

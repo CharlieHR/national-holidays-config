@@ -4,355 +4,355 @@ years:
   '2018':
   - public_holiday: true
     date: '2018-01-01'
-    names: 
+    names:
       en: New Year's Day
       mn: New Year's Day
   - public_holiday: true
     date: '2018-02-16'
-    names: 
+    names:
       en: Lunar New Year
       mn: Lunar New Year
   - public_holiday: true
     date: '2018-02-17'
-    names: 
+    names:
       en: Lunar New Year Holiday
       mn: Lunar New Year Holiday
   - public_holiday: true
     date: '2018-02-18'
-    names: 
+    names:
       en: Lunar New Year Holiday
       mn: Lunar New Year Holiday
   - public_holiday: true
     date: '2018-03-08'
-    names: 
+    names:
       en: International Women's Day
       mn: International Women's Day
   - public_holiday: true
     date: '2018-06-01'
-    names: 
-      en: Mother's and Children's Day 
-      mn: Mother's and Children's Day 
+    names:
+      en: Mother's and Children's Day
+      mn: Mother's and Children's Day
   - public_holiday: true
     date: '2018-07-11'
-    names: 
+    names:
       en: Naadam
       mn: Naadam
   - public_holiday: true
     date: '2018-07-12'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-07-13'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-07-14'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-07-15'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-11-01'
-    names: 
+    names:
       en: Genghis Khan's Birthday
       mn: Genghis Khan's Birthday
   - public_holiday: true
     date: '2018-11-26'
-    names: 
+    names:
       en: Republic's Day
       mn: Republic's Day
   - public_holiday: true
     date: '2018-12-29'
-    names: 
+    names:
       en: Independance Day
       mn: Indpendance Day
   '2018':
   - public_holiday: true
     date: '2018-01-01'
-    names: 
+    names:
       en: New Year's Day
       mn: New Year's Day
   - public_holiday: true
     date: '2018-02-16'
-    names: 
+    names:
       en: Lunar New Year
       mn: Lunar New Year
   - public_holiday: true
     date: '2018-02-17'
-    names: 
+    names:
       en: Lunar New Year Holiday
       mn: Lunar New Year Holiday
   - public_holiday: true
     date: '2018-02-18'
-    names: 
+    names:
       en: Lunar New Year Holiday
       mn: Lunar New Year Holiday
   - public_holiday: true
     date: '2018-03-08'
-    names: 
+    names:
       en: International Women's Day
       mn: International Women's Day
   - public_holiday: true
     date: '2018-06-01'
-    names: 
-      en: Mother's and Children's Day 
-      mn: Mother's and Children's Day 
+    names:
+      en: Mother's and Children's Day
+      mn: Mother's and Children's Day
   - public_holiday: true
     date: '2018-07-11'
-    names: 
+    names:
       en: Naadam
       mn: Naadam
   - public_holiday: true
     date: '2018-07-12'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-07-13'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-07-14'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-07-15'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-11-01'
-    names: 
+    names:
       en: Genghis Khan's Birthday
       mn: Genghis Khan's Birthday
   - public_holiday: true
     date: '2018-11-26'
-    names: 
+    names:
       en: Republic's Day
       mn: Republic's Day
   - public_holiday: true
     date: '2018-12-29'
-    names: 
+    names:
       en: Independance Day
       mn: Indpendance Day
   '2018':
   - public_holiday: true
     date: '2018-01-01'
-    names: 
+    names:
       en: New Year's Day
       mn: New Year's Day
   - public_holiday: true
     date: '2018-02-16'
-    names: 
+    names:
       en: Lunar New Year
       mn: Lunar New Year
   - public_holiday: true
     date: '2018-02-17'
-    names: 
+    names:
       en: Lunar New Year Holiday
       mn: Lunar New Year Holiday
   - public_holiday: true
     date: '2018-02-18'
-    names: 
+    names:
       en: Lunar New Year Holiday
       mn: Lunar New Year Holiday
   - public_holiday: true
     date: '2018-03-08'
-    names: 
+    names:
       en: International Women's Day
       mn: International Women's Day
   - public_holiday: true
     date: '2018-06-01'
-    names: 
-      en: Mother's and Children's Day 
-      mn: Mother's and Children's Day 
+    names:
+      en: Mother's and Children's Day
+      mn: Mother's and Children's Day
   - public_holiday: true
     date: '2018-07-11'
-    names: 
+    names:
       en: Naadam
       mn: Naadam
   - public_holiday: true
     date: '2018-07-12'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-07-13'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-07-14'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-07-15'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2018-11-01'
-    names: 
+    names:
       en: Genghis Khan's Birthday
       mn: Genghis Khan's Birthday
   - public_holiday: true
     date: '2018-11-26'
-    names: 
+    names:
       en: Republic's Day
       mn: Republic's Day
   - public_holiday: true
     date: '2018-12-29'
-    names: 
+    names:
       en: Independance Day
       mn: Indpendance Day
   '2019':
   - public_holiday: true
     date: '2019-01-01'
-    names: 
+    names:
       en: New Year's Day
       mn: New Year's Day
   - public_holiday: true
     date: '2019-02-05'
-    names: 
+    names:
       en: Lunar New Year
       mn: Lunar New Year
   - public_holiday: true
     date: '2019-02-06'
-    names: 
+    names:
       en: Lunar New Year Holiday
       mn: Lunar New Year Holiday
   - public_holiday: true
     date: '2019-02-07'
-    names: 
+    names:
       en: Lunar New Year Holiday
       mn: Lunar New Year Holiday
   - public_holiday: true
     date: '2019-03-08'
-    names: 
+    names:
       en: International Women's Day
       mn: International Women's Day
   - public_holiday: true
     date: '2019-06-01'
-    names: 
-      en: Mother's and Children's Day 
-      mn: Mother's and Children's Day 
+    names:
+      en: Mother's and Children's Day
+      mn: Mother's and Children's Day
   - public_holiday: true
     date: '2019-07-11'
-    names: 
+    names:
       en: Naadam
       mn: Naadam
   - public_holiday: true
     date: '2019-07-12'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2019-07-13'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2019-07-14'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2019-07-15'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2019-11-19'
-    names: 
+    names:
       en: Genghis Khan's Birthday
       mn: Genghis Khan's Birthday
   - public_holiday: true
     date: '2019-11-26'
-    names: 
+    names:
       en: Republic's Day
       mn: Republic's Day
   - public_holiday: true
     date: '2019-12-29'
-    names: 
+    names:
       en: Independance Day
       mn: Independance Day
   '2020':
   - public_holiday: true
     date: '2020-01-01'
-    names: 
+    names:
       en: New Year's Day
       mn: New Year's Day
   - public_holiday: true
     date: '2020-01-25'
-    names: 
+    names:
       en: Lunar New Year
       mn: Lunar New Year
   - public_holiday: true
     date: '2020-01-26'
-    names: 
+    names:
       en: Lunar New Year Holiday
       mn: Lunar New Year Holiday
   - public_holiday: true
     date: '2020-01-27'
-    names: 
+    names:
       en: Lunar New Year Holiday
       mn: Lunar New Year Holiday
   - public_holiday: true
     date: '2020-03-08'
-    names: 
+    names:
       en: International Women's Day
       mn: International Women's Day
   - public_holiday: true
     date: '2020-06-01'
-    names: 
-      en: Mother's and Children's Day 
-      mn: Mother's and Children's Day 
+    names:
+      en: Mother's and Children's Day
+      mn: Mother's and Children's Day
   - public_holiday: true
     date: '2020-07-11'
-    names: 
+    names:
       en: Naadam
       mn: Naadam
   - public_holiday: true
     date: '2020-07-12'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2020-07-14'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2020-07-15'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2020-07-20'
-    names: 
+    names:
       en: Naadam Holiday
       mn: Naadam Holiday
   - public_holiday: true
     date: '2020-11-16'
-    names: 
+    names:
       en: Genghis Khan's Birthday
       mn: Genghis Khan's Birthday
   - public_holiday: true
     date: '2020-11-26'
-    names: 
+    names:
       en: Republic's Day
       mn: Republic's Day
   - public_holiday: true
     date: '2020-12-29'
-    names: 
+    names:
       en: Independance Day
       mn: Independance Day
