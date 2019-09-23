@@ -1,124 +1,124 @@
-name: Castile and León 
+name: Castile and León
 years:
   '2019':
   - public_holiday: true
     date: '2019-01-01'
-    names: 
+    names:
       en: New Year's Day
-      es: New Year's Day,
+      es: New Year's Day
   - public_holiday: true
     date: '2019-01-06'
-    names: 
-      en: Epiphany 
-      es: Epiphany ,
+    names:
+      en: Epiphany
+      es: Epiphany
   - public_holiday: true
     date: '2019-01-07'
-    names: 
+    names:
       en: Good Friday
-      es: Good Friday,
+      es: Good Friday
   - public_holiday: true
     date: '2019-04-18'
-    names: 
+    names:
       en: Castile and León Community Day
-      es: Castile and León Community Day,
+      es: Castile and León Community Day
   - public_holiday: true
     date: '2019-05-01'
-    names: 
+    names:
       en: Labour Day
-      es: Labour Day,
+      es: Labour Day
   - public_holiday: true
     date: '2019-08-15'
-    names: 
+    names:
       en: Assumption Day
-      es: Assumption Day,
+      es: Assumption Day
   - public_holiday: true
     date: '2019-10-12'
-    names: 
+    names:
       en: Hispanic Day
-      es: Hispanic Day,
+      es: Hispanic Day
   - public_holiday: true
     date: '2019-11-01'
-    names: 
+    names:
       en: All Saint's Day
-      es: All Saint's Day,
+      es: All Saint's Day
   - public_holiday: true
     date: '2019-12-06'
-    names: 
+    names:
       en: Constituion Day
-      es: Constituion Day,
+      es: Constituion Day
   - public_holiday: true
     date: '2019-12-08'
-    names: 
+    names:
       en: Immaculate Conception Day
-      es: Immaculate Conception Day,
+      es: Immaculate Conception Day
   - public_holiday: true
     date: '2019-12-09'
-    names: 
+    names:
       en: Immaculate Conception Holiday
-      es: Immaculate Conception Holiday,
+      es: Immaculate Conception Holiday
   - public_holiday: true
     date: '2019-12-25'
-    names: 
+    names:
       en: Christmas Day
       es: Christmas Day
   '2020':
   - public_holiday: true
     date: '2020-01-01'
-    names: 
+    names:
       en: New Year's Day
-      es: New Year's Day,
+      es: New Year's Day
   - public_holiday: true
     date: '2020-01-06'
-    names: 
-      en: Epiphany 
-      es: Epiphany ,
+    names:
+      en: Epiphany
+      es: Epiphany
   - public_holiday: true
     date: '2020-04-09'
-    names: 
+    names:
       en: Holy Thursday
-      es: Holy Thursday,
+      es: Holy Thursday
   - public_holiday: true
     date: '2020-04-10'
-    names: 
+    names:
       en: Good Friday
-      es: Good Friday,
+      es: Good Friday
   - public_holiday: true
     date: '2020-04-23'
-    names: 
+    names:
       en: Castile and León Community Day
-      es: Castile and León Community Day,
+      es: Castile and León Community Day
   - public_holiday: true
     date: '2020-05-01'
-    names: 
+    names:
       en: Labour Day
-      es: Labour Day,
+      es: Labour Day
   - public_holiday: true
     date: '2020-08-15'
-    names: 
+    names:
       en: Assumption Day
-      es: Assumption Day,
+      es: Assumption Day
   - public_holiday: true
     date: '2020-10-12'
-    names: 
+    names:
       en: Hispanic Day
-      es: Hispanic Day,
+      es: Hispanic Day
   - public_holiday: true
     date: '2020-11-01'
-    names: 
+    names:
       en: All Saint's Day
-      es: All Saint's Day,
+      es: All Saint's Day
   - public_holiday: true
     date: '2020-12-06'
-    names: 
+    names:
       en: Constituion Day
-      es: Constituion Day,
+      es: Constituion Day
   - public_holiday: true
     date: '2020-12-08'
-    names: 
+    names:
       en: Immaculate Conception Day
-      es: Immaculate Conception Day,
+      es: Immaculate Conception Day
   - public_holiday: true
     date: '2020-12-25'
-    names: 
+    names:
       en: Christmas Day
       es: Christmas Day

@@ -17,7 +17,7 @@ years:
   - public_holiday: true
     date: '2011-04-22'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2011-05-30'
     names:
@@ -70,7 +70,7 @@ years:
   - public_holiday: true
     date: '2012-04-06'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2012-05-28'
     names:
@@ -127,7 +127,7 @@ years:
   - public_holiday: true
     date: '2013-03-29'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2013-05-27'
     names:
@@ -180,7 +180,7 @@ years:
   - public_holiday: true
     date: '2014-04-18'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2014-05-26'
     names:
@@ -237,7 +237,7 @@ years:
   - public_holiday: true
     date: '2015-04-03'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2015-05-25'
     names:
@@ -290,7 +290,7 @@ years:
   - public_holiday: true
     date: '2016-03-25'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2016-05-30'
     names:
@@ -347,7 +347,7 @@ years:
   - public_holiday: true
     date: '2017-04-14'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2017-05-29'
     names:
@@ -400,7 +400,7 @@ years:
   - public_holiday: true
     date: '2018-03-30'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2018-05-28'
     names:
@@ -457,7 +457,7 @@ years:
   - public_holiday: true
     date: '2019-04-19'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2019-05-27'
     names:
@@ -510,7 +510,7 @@ years:
   - public_holiday: true
     date: '2020-04-10'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2020-05-25'
     names:
@@ -567,7 +567,7 @@ years:
   - public_holiday: true
     date: '2021-04-02'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2021-05-31'
     names:
@@ -620,7 +620,7 @@ years:
   - public_holiday: true
     date: '2022-04-15'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2022-05-30'
     names:
@@ -677,7 +677,7 @@ years:
   - public_holiday: true
     date: '2023-04-07'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2023-05-29'
     names:
@@ -730,7 +730,7 @@ years:
   - public_holiday: true
     date: '2024-03-29'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2024-05-27'
     names:
@@ -787,7 +787,7 @@ years:
   - public_holiday: true
     date: '2025-04-18'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2025-05-26'
     names:
@@ -840,7 +840,7 @@ years:
   - public_holiday: true
     date: '2026-04-03'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2026-05-25'
     names:
@@ -897,7 +897,7 @@ years:
   - public_holiday: true
     date: '2027-03-26'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2027-05-31'
     names:
@@ -950,7 +950,7 @@ years:
   - public_holiday: true
     date: '2028-04-14'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2028-05-29'
     names:
@@ -1007,7 +1007,7 @@ years:
   - public_holiday: true
     date: '2029-03-30'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2029-05-28'
     names:
@@ -1060,7 +1060,7 @@ years:
   - public_holiday: true
     date: '2030-04-19'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2030-05-27'
     names:
@@ -1117,7 +1117,7 @@ years:
   - public_holiday: true
     date: '2031-04-11'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2031-05-26'
     names:
@@ -1170,7 +1170,7 @@ years:
   - public_holiday: true
     date: '2032-03-26'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2032-05-31'
     names:
@@ -1227,7 +1227,7 @@ years:
   - public_holiday: true
     date: '2033-04-15'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2033-05-30'
     names:
@@ -1280,7 +1280,7 @@ years:
   - public_holiday: true
     date: '2034-04-07'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2034-05-29'
     names:
@@ -1333,7 +1333,7 @@ years:
   - public_holiday: true
     date: '2035-03-23'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2035-03-26'
     names:
@@ -1390,7 +1390,7 @@ years:
   - public_holiday: true
     date: '2036-04-11'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2036-05-26'
     names:
@@ -1447,7 +1447,7 @@ years:
   - public_holiday: true
     date: '2037-04-03'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2037-05-25'
     names:
@@ -1500,7 +1500,7 @@ years:
   - public_holiday: true
     date: '2038-04-23'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2038-05-31'
     names:
@@ -1557,7 +1557,7 @@ years:
   - public_holiday: true
     date: '2039-04-08'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2039-05-30'
     names:
@@ -1610,7 +1610,7 @@ years:
   - public_holiday: true
     date: '2040-03-30'
     names:
-      en: 'Good Friday '
+      en: 'Good Friday'
   - public_holiday: true
     date: '2040-05-28'
     names:

@@ -4,244 +4,244 @@ years:
   '2018':
   - public_holiday: true
     date: '2018-01-01'
-    names: 
+    names:
       en: New Year's Day
       de: Neujahrstag
   - public_holiday: true
     date: '2018-03-30'
-    names: 
+    names:
       en: Good Friday
       de: Karfreitag
   - public_holiday: true
     date: '2018-04-02'
-    names: 
+    names:
       en: Easter Monday
       de: Ostermontag
   - public_holiday: true
     date: '2018-05-01'
-    names: 
+    names:
       en: Labour Day
       de: Tag der Arbeit
   - public_holiday: true
     date: '2018-05-10'
-    names: 
+    names:
       en: Ascension Day
       de: Christi Himmelfahrt
   - public_holiday: true
     date: '2018-05-21'
-    names: 
+    names:
       en: Whit Monday
       de: Pfingstmontag
   - public_holiday: true
     date: '2018-05-31'
-    names: 
+    names:
       en: Corpus Christi
       de: Fronleichnam
   - public_holiday: true
     date: '2018-10-03'
-    names: 
+    names:
       en: German Unity Day
       de: Tag der Deutschen Einheit
   - public_holiday: true
     date: '2018-10-31'
-    names: 
+    names:
       en: Reformation Day
       de: Reformationstag
   - public_holiday: true
     date: '2018-11-21'
-    names: 
+    names:
       en: Day of Repentance and Prayer
       de: Buß- und Bettag
   - public_holiday: true
     date: '2018-12-25'
-    names: 
+    names:
       en: Christmas Day
       de: Tag der Deutschen Einheit
   - public_holiday: true
     date: '2018-12-26'
-    names: 
+    names:
       en: St. Stephen's Day
       de: Zweiter Weihnachtsfeiertag
   '2018':
   - public_holiday: true
     date: '2018-01-01'
-    names: 
+    names:
       en: New Year's Day
       de: Neujahrstag
   - public_holiday: true
     date: '2018-03-30'
-    names: 
+    names:
       en: Good Friday
       de: Karfreitag
   - public_holiday: true
     date: '2018-04-02'
-    names: 
+    names:
       en: Easter Monday
       de: Ostermontag
   - public_holiday: true
     date: '2018-05-01'
-    names: 
+    names:
       en: Labour Day
       de: Tag der Arbeit
   - public_holiday: true
     date: '2018-05-10'
-    names: 
+    names:
       en: Ascension Day
       de: Christi Himmelfahrt
   - public_holiday: true
     date: '2018-05-21'
-    names: 
+    names:
       en: Whit Monday
       de: Pfingstmontag
   - public_holiday: true
     date: '2018-05-31'
-    names: 
+    names:
       en: Corpus Christi
       de: Fronleichnam
   - public_holiday: true
     date: '2018-10-03'
-    names: 
+    names:
       en: German Unity Day
       de: Tag der Deutschen Einheit
   - public_holiday: true
     date: '2018-10-31'
-    names: 
+    names:
       en: Reformation Day
       de: Reformationstag
   - public_holiday: true
     date: '2018-11-21'
-    names: 
+    names:
       en: Day of Repentance and Prayer
       de: Buß- und Bettag
   - public_holiday: true
     date: '2018-12-25'
-    names: 
+    names:
       en: Christmas Day
       de: Tag der Deutschen Einheit
   - public_holiday: true
     date: '2018-12-26'
-    names: 
+    names:
       en: St. Stephen's Day
       de: Zweiter Weihnachtsfeiertag
   '2018':
   - public_holiday: true
     date: '2018-01-01'
-    names: 
+    names:
       en: New Year's Day
       de: Neujahrstag
   - public_holiday: true
     date: '2018-03-30'
-    names: 
+    names:
       en: Good Friday
       de: Karfreitag
   - public_holiday: true
     date: '2018-04-02'
-    names: 
+    names:
       en: Easter Monday
       de: Ostermontag
   - public_holiday: true
     date: '2018-05-01'
-    names: 
+    names:
       en: Labour Day
       de: Tag der Arbeit
   - public_holiday: true
     date: '2018-05-10'
-    names: 
+    names:
       en: Ascension Day
       de: Christi Himmelfahrt
   - public_holiday: true
     date: '2018-05-21'
-    names: 
+    names:
       en: Whit Monday
       de: Pfingstmontag
   - public_holiday: true
     date: '2018-05-31'
-    names: 
+    names:
       en: Corpus Christi
       de: Fronleichnam
   - public_holiday: true
     date: '2018-10-03'
-    names: 
+    names:
       en: German Unity Day
       de: Tag der Deutschen Einheit
   - public_holiday: true
     date: '2018-10-31'
-    names: 
+    names:
       en: Reformation Day
       de: Reformationstag
   - public_holiday: true
     date: '2018-11-21'
-    names: 
+    names:
       en: Day of Repentance and Prayer
       de: Buß- und Bettag
   - public_holiday: true
     date: '2018-12-25'
-    names: 
+    names:
       en: Christmas Day
       de: Tag der Deutschen Einheit
   - public_holiday: true
     date: '2018-12-26'
-    names: 
+    names:
       en: St. Stephen's Day
       de: Zweiter Weihnachtsfeiertag
   '2019':
   - public_holiday: true
     date: '2019-01-01'
-    names: 
+    names:
       en: New Year's Day
       de: Neujahrstag
   - public_holiday: true
     date: '2019-04-19'
-    names: 
+    names:
       en: Good Friday
       de: Karfreitag
   - public_holiday: true
     date: '2019-04-22'
-    names: 
+    names:
       en: Easter Monday
       de: Ostermontag
   - public_holiday: true
     date: '2019-05-01'
-    names: 
+    names:
       en: Labour Day
       de: Tag der Arbeit
   - public_holiday: true
     date: '2019-05-30'
-    names: 
+    names:
       en: Ascension Day
       de: Christi Himmelfahrt
   - public_holiday: true
     date: '2019-06-10'
-    names: 
+    names:
       en: Whit Monday
       de: Pfingstmontag
   - public_holiday: true
     date: '2019-06-20'
-    names: 
+    names:
       en: Corpus Christi
       de: Fronleichnam
   - public_holiday: true
     date: '2019-10-03'
-    names: 
+    names:
       en: German Unity Day
       de: Tag der Deutschen Einheit
   - public_holiday: true
     date: '2019-10-31'
-    names: 
+    names:
       en: Reformation Day
       de: Reformationstag
   - public_holiday: true
     date: '2019-11-20'
-    names: 
+    names:
       en: Day of Repentance and Prayer
       de: Buß- und Bettag
   - public_holiday: true
     date: '2019-12-25'
-    names: 
+    names:
       en: Christmas Day
       de: Tag der Deutschen Einheit
   - public_holiday: true
     date: '2019-12-26'
-    names: 
+    names:
       en: St. Stephen's Day
       de: Zweiter Weihnachtsfeiertag
