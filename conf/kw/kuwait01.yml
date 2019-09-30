@@ -155,6 +155,11 @@ years:
       en: Isra'a Wal Miraj
       ar: Isra'a Wal Miraj
   - public_holiday: true
+    date: '2019-06-04'
+    names:
+      en: End of Ramadan
+      ar: Eid Al Fitr
+  - public_holiday: true
     date: '2019-06-05'
     names:
       en: End of Ramadan
@@ -165,20 +170,10 @@ years:
       en: End of Ramadan
       ar: Eid Al Fitr
   - public_holiday: true
-    date: '2019-06-07'
-    names:
-      en: End of Ramadan
-      ar: Eid Al Fitr
-  - public_holiday: true
-    date: '2019-08-10'
+    date: '2019-08-11'
     names:
       en: Arafat Day
       ar: Arafat Day
-  - public_holiday: true
-    date: '2019-08-11'
-    names:
-      en: Eid Al-Adha
-      ar: Eid Al-Adha
   - public_holiday: true
     date: '2019-08-12'
     names:
@@ -190,12 +185,17 @@ years:
       en: Eid Al-Adha
       ar: Eid Al-Adha
   - public_holiday: true
+    date: '2019-08-14'
+    names:
+      en: Eid Al-Adha
+      ar: Eid Al-Adha
+  - public_holiday: true
     date: '2019-09-01'
     names:
       en: Islamic New Year
       ar: Hijri New Year
   - public_holiday: true
-    date: '2019-10-10'
+    date: '2019-11-10'
     names:
       en: Birthday of Prophet Muhammad
       ar: Birthday of Prophet Muhammad
