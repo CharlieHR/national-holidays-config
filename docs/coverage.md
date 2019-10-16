@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2019-09-13.
+Last updated 2019-10-16.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -44,7 +44,7 @@ Last updated 2019-09-13.
 | 🇧🇷 | Brazil | Brazil (all) | 2040 | 15 | - | - |
 | 🇮🇴 | British Indian Ocean Territory | No Data | - | - | - | - |
 | 🇧🇳 | Brunei Darussalam | No Data | - | - | - | - |
-| 🇧🇬 | Bulgaria | Bulgaria (all) | 2018 | 19 | - | - |
+| 🇧🇬 | Bulgaria | Bulgaria (all) | 2020 | 16 | - | - |
 | 🇧🇫 | Burkina Faso | No Data | - | - | - | - |
 | 🇧🇮 | Burundi | No Data | - | - | - | - |
 | 🇨🇻 | Cabo Verde | No Data | - | - | - | - |
