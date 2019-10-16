@@ -79,7 +79,7 @@ Last updated 2019-10-16.
 | 🇭🇷 | Croatia | Croatia (all) | 2040 | 14 | - | - |
 | 🇨🇺 | Cuba | No Data | - | - | - | - |
 | 🇨🇼 | Curaçao | No Data | - | - | - | - |
-| 🇨🇾 | Cyprus | No Data | - | - | - | - |
+| 🇨🇾 | Cyprus | Cyprus | 2021 | 13 | - | - |
 | 🇨🇿 | Czechia | Czech Republic (all) | 2040 | 13 | - | - |
 | 🇨🇮 | Côte d'Ivoire | No Data | - | - | - | - |
 | 🇩🇰 | Denmark | Denmark (all) | 2040 | 13 | - | - |
@@ -365,4 +365,4 @@ Last updated 2019-10-16.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 82 / 249
+Total coverage: 83 / 249
