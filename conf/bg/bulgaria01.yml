@@ -223,7 +223,7 @@ years:
     names:
       en: New Year’s Eve
       bg: New Year’s Eve
- '2019':
+  '2019':
   - public_holiday: true
     date: '2019-01-01'
     names:
@@ -353,7 +353,7 @@ years:
   - public_holiday: true
     date: '2020-05-25'
     names:
-      en: Culture and Literacy Day Holiday 
+      en: Culture and Literacy Day Holiday
       bg: Culture and Literacy Day Holiday
   - public_holiday: true
     date: '2020-09-06'
