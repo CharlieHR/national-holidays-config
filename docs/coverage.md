@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2019-10-16.
+Last updated 2019-10-31.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -80,7 +80,7 @@ Last updated 2019-10-16.
 | 🇨🇺 | Cuba | No Data | - | - | - | - |
 | 🇨🇼 | Curaçao | No Data | - | - | - | - |
 | 🇨🇾 | Cyprus | Cyprus | 2021 | 13 | - | - |
-| 🇨🇿 | Czechia | Czech Republic (all) | 2040 | 13 | - | - |
+| 🇨🇿 | Czech Republic | Czech Republic (all) | 2040 | 13 | - | - |
 | 🇨🇮 | Côte d'Ivoire | No Data | - | - | - | - |
 | 🇩🇰 | Denmark | Denmark (all) | 2040 | 13 | - | - |
 | 🇩🇯 | Djibouti | No Data | - | - | - | - |
