@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2019-11-06.
+Last updated 2019-11-07.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -293,7 +293,7 @@ Last updated 2019-11-06.
 | 🇹🇻 | Tuvalu | No Data | - | - | - | - |
 | 🇺🇬 | Uganda | No Data | - | - | - | - |
 | 🇺🇦 | Ukraine | Ukraine (all) | 2040 | 13 | - | - |
-| 🇦🇪 | United Arab Emirates | Dubai (all) | 2020 | 15 | - | - |
+| 🇦🇪 | United Arab Emirates | Dubai (all) | 2020 | 14 | - | - |
 | 🇦🇪 | United Arab Emirates | United Arab Emirates (all) | 2018 | 12 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | England | 2040 | 8 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Wales | 2040 | 8 | - | - |
