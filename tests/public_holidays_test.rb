@@ -57,11 +57,11 @@ describe 'Public Holidays' do
         region_data['years'].values.each do |holidays|
           holidays.each do |holiday|
             holiday['names'].values.each do |name|
-              it "public holiday #{name} does not end with a comma" do
+              it "region #{region_name} holiday #{name} does not end with a comma" do
                 name.wont_match(/,$/)
               end
 
-              it "public holiday #{name} does not end in whitespace" do
+              it "region #{region_name} holiday #{name} does not end with whitespace" do
                 name.wont_match(/\s$/)
               end
             end
