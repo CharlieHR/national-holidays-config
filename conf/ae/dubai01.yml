@@ -119,15 +119,15 @@ years:
       en: Islamic New Year
       ar: Hijri New Years Day
   - public_holiday: true
-    date: '2019-11-10'
+    date: '2019-11-09'
     names:
       en: Prophet Mohammed's Birthday
       ar: Prophet Mohammed's Birthday
   - public_holiday: true
-    date: '2019-11-30'
+    date: '2019-12-01'
     names:
-      en: Martyrs' Day
-      ar: Martyrs Day
+      en: Commemoration Day
+      ar: Commemoration Day
   - public_holiday: true
     date: '2019-12-02'
     names:
@@ -144,11 +144,6 @@ years:
     names:
       en: New Year's Day
       ar: New Year's Day
-  - public_holiday: true
-    date: '2020-03-22'
-    names:
-      en: Israa & Miaraj
-      ar: Israa & Miaraj
   - public_holiday: true
     date: '2020-04-24'
     names:
