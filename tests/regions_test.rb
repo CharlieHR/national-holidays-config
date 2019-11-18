@@ -22,4 +22,24 @@ describe 'Regions' do
       end
     end
   end
+
+  describe 'must have clean names' do
+    Dir.chdir(TestUtils.config_directory) do
+      Dir.glob('*/*.yml').each do |region_file|
+        region_name = region_file.sub(%r{^.+/}, '').sub(/\.yml$/, '')
+
+        it "region #{region_name} does not end with a comma" do
+          name.wont_match(/,$/)
+        end
+
+        it "region #{region_name} does not end with whitespace" do
+          name.wont_match(/\s$/)
+        end
+
+        it "region #{region_name} does not contain any smart quotes" do
+          name.wont_match(/[‘’]/)
+        end
+      end
+    end
+  end
 end
