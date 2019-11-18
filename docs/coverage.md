@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2019-11-07.
+Last updated 2019-11-18.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -80,7 +80,7 @@ Last updated 2019-11-07.
 | 🇨🇺 | Cuba | No Data | - | - | - | - |
 | 🇨🇼 | Curaçao | No Data | - | - | - | - |
 | 🇨🇾 | Cyprus | Cyprus | 2021 | 13 | - | - |
-| 🇨🇿 | Czechia | Czech Republic (all) | 2040 | 13 | - | - |
+| 🇨🇿 | Czech Republic | Czech Republic (all) | 2040 | 13 | - | - |
 | 🇨🇮 | Côte d'Ivoire | No Data | - | - | - | - |
 | 🇩🇰 | Denmark | Denmark (all) | 2040 | 13 | - | - |
 | 🇩🇯 | Djibouti | No Data | - | - | - | - |
@@ -275,6 +275,7 @@ Last updated 2019-11-07.
 | 🇸🇿 | Swaziland | No Data | - | - | - | - |
 | 🇸🇪 | Sweden | Sweden (all) | 2040 | 16 | - | - |
 | 🇨🇭 | Switzerland | Geneva | 2020 | 9 | - | - |
+| 🇨🇭 | Switzerland | Zug | 2020 | 13 | - | - |
 | 🇨🇭 | Switzerland | Zurich | 2020 | 13 | - | - |
 | 🇸🇾 | Syrian Arab Republic | No Data | - | - | - | - |
 | 🇹🇼 | Taiwan, Province of China | Taiwan (all) | 2030 | 14 | - | - |
