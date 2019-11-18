@@ -9,7 +9,7 @@ years:
   - public_holiday: true
     date: '2011-02-21'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2011-05-30'
     names:
@@ -54,7 +54,7 @@ years:
   - public_holiday: true
     date: '2012-02-20'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2012-05-28'
     names:
@@ -103,7 +103,7 @@ years:
   - public_holiday: true
     date: '2013-02-18'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2013-05-27'
     names:
@@ -148,7 +148,7 @@ years:
   - public_holiday: true
     date: '2014-02-17'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2014-05-26'
     names:
@@ -197,7 +197,7 @@ years:
   - public_holiday: true
     date: '2015-02-16'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2015-05-25'
     names:
@@ -242,7 +242,7 @@ years:
   - public_holiday: true
     date: '2016-02-15'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2016-05-30'
     names:
@@ -291,7 +291,7 @@ years:
   - public_holiday: true
     date: '2017-02-20'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2017-05-29'
     names:
@@ -336,7 +336,7 @@ years:
   - public_holiday: true
     date: '2018-02-19'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2018-05-28'
     names:
@@ -385,7 +385,7 @@ years:
   - public_holiday: true
     date: '2019-02-18'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2019-05-27'
     names:
@@ -430,7 +430,7 @@ years:
   - public_holiday: true
     date: '2020-02-17'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2020-05-25'
     names:
@@ -479,7 +479,7 @@ years:
   - public_holiday: true
     date: '2021-02-15'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2021-05-31'
     names:
@@ -524,7 +524,7 @@ years:
   - public_holiday: true
     date: '2022-02-21'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2022-05-30'
     names:
@@ -573,7 +573,7 @@ years:
   - public_holiday: true
     date: '2023-02-20'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2023-05-29'
     names:
@@ -618,7 +618,7 @@ years:
   - public_holiday: true
     date: '2024-02-19'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2024-05-27'
     names:
@@ -667,7 +667,7 @@ years:
   - public_holiday: true
     date: '2025-02-17'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2025-05-26'
     names:
@@ -712,7 +712,7 @@ years:
   - public_holiday: true
     date: '2026-02-16'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2026-05-25'
     names:
@@ -761,7 +761,7 @@ years:
   - public_holiday: true
     date: '2027-02-15'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2027-05-31'
     names:
@@ -806,7 +806,7 @@ years:
   - public_holiday: true
     date: '2028-02-21'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2028-05-29'
     names:
@@ -855,7 +855,7 @@ years:
   - public_holiday: true
     date: '2029-02-19'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2029-05-28'
     names:
@@ -900,7 +900,7 @@ years:
   - public_holiday: true
     date: '2030-02-18'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2030-05-27'
     names:
@@ -949,7 +949,7 @@ years:
   - public_holiday: true
     date: '2031-02-17'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2031-05-26'
     names:
@@ -994,7 +994,7 @@ years:
   - public_holiday: true
     date: '2032-02-16'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2032-05-31'
     names:
@@ -1043,7 +1043,7 @@ years:
   - public_holiday: true
     date: '2033-02-21'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2033-05-30'
     names:
@@ -1088,7 +1088,7 @@ years:
   - public_holiday: true
     date: '2034-02-20'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2034-05-29'
     names:
@@ -1137,7 +1137,7 @@ years:
   - public_holiday: true
     date: '2035-02-19'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2035-05-28'
     names:
@@ -1182,7 +1182,7 @@ years:
   - public_holiday: true
     date: '2036-02-18'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2036-05-26'
     names:
@@ -1231,7 +1231,7 @@ years:
   - public_holiday: true
     date: '2037-02-16'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2037-05-25'
     names:
@@ -1276,7 +1276,7 @@ years:
   - public_holiday: true
     date: '2038-02-15'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2038-05-31'
     names:
@@ -1325,7 +1325,7 @@ years:
   - public_holiday: true
     date: '2039-02-21'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2039-05-30'
     names:
@@ -1370,7 +1370,7 @@ years:
   - public_holiday: true
     date: '2040-02-20'
     names:
-      en: President’s Day
+      en: President's Day
   - public_holiday: true
     date: '2040-05-28'
     names:

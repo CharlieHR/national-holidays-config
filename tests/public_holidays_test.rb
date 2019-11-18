@@ -64,6 +64,10 @@ describe 'Public Holidays' do
               it "region #{region_name} holiday #{name} does not end with whitespace" do
                 name.wont_match(/\s$/)
               end
+
+              it "region #{region_name} holiday #{name} does not contain any smart quotes" do
+                name.wont_match(/[‘’]/)
+              end
             end
           end
         end

@@ -5,7 +5,7 @@ years:
   - public_holiday: true
     date: '2011-01-03'
     names:
-      en: New Year’s Day
+      en: New Year's Day
   - public_holiday: true
     date: '2011-01-17'
     names:
@@ -13,11 +13,11 @@ years:
   - public_holiday: true
     date: '2011-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2011-02-21'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2011-04-22'
     names:
@@ -49,7 +49,7 @@ years:
   - public_holiday: true
     date: '2011-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2011-11-24'
     names:
@@ -70,11 +70,11 @@ years:
   - public_holiday: true
     date: '2012-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2012-02-20'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2012-04-06'
     names:
@@ -106,7 +106,7 @@ years:
   - public_holiday: true
     date: '2012-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2012-11-22'
     names:
@@ -127,11 +127,11 @@ years:
   - public_holiday: true
     date: '2013-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2013-02-18'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2013-03-29'
     names:
@@ -163,7 +163,7 @@ years:
   - public_holiday: true
     date: '2013-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2013-11-28'
     names:
@@ -184,11 +184,11 @@ years:
   - public_holiday: true
     date: '2014-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2014-02-17'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2014-04-18'
     names:
@@ -220,7 +220,7 @@ years:
   - public_holiday: true
     date: '2014-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2014-11-27'
     names:
@@ -241,11 +241,11 @@ years:
   - public_holiday: true
     date: '2015-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2015-02-16'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2015-04-03'
     names:
@@ -277,7 +277,7 @@ years:
   - public_holiday: true
     date: '2015-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2015-11-26'
     names:
@@ -298,11 +298,11 @@ years:
   - public_holiday: true
     date: '2016-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2016-02-15'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2016-03-25'
     names:
@@ -334,7 +334,7 @@ years:
   - public_holiday: true
     date: '2016-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2016-11-24'
     names:
@@ -355,11 +355,11 @@ years:
   - public_holiday: true
     date: '2017-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2017-02-20'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2017-04-14'
     names:
@@ -391,7 +391,7 @@ years:
   - public_holiday: true
     date: '2017-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2017-11-23'
     names:
@@ -412,11 +412,11 @@ years:
   - public_holiday: true
     date: '2018-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2018-02-19'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2018-03-30'
     names:
@@ -448,7 +448,7 @@ years:
   - public_holiday: true
     date: '2018-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2018-11-22'
     names:
@@ -469,11 +469,11 @@ years:
   - public_holiday: true
     date: '2019-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2019-02-18'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2019-04-19'
     names:
@@ -505,7 +505,7 @@ years:
   - public_holiday: true
     date: '2019-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2019-11-28'
     names:
@@ -526,11 +526,11 @@ years:
   - public_holiday: true
     date: '2020-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2020-02-17'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2020-04-10'
     names:
@@ -562,7 +562,7 @@ years:
   - public_holiday: true
     date: '2020-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2020-11-26'
     names:
@@ -583,11 +583,11 @@ years:
   - public_holiday: true
     date: '2021-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2021-02-15'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2021-04-02'
     names:
@@ -619,7 +619,7 @@ years:
   - public_holiday: true
     date: '2021-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2021-11-25'
     names:
@@ -636,7 +636,7 @@ years:
   - public_holiday: true
     date: '2022-01-03'
     names:
-      en: New Year’s Day
+      en: New Year's Day
   - public_holiday: true
     date: '2022-01-17'
     names:
@@ -644,11 +644,11 @@ years:
   - public_holiday: true
     date: '2022-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2022-02-21'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2022-04-15'
     names:
@@ -680,7 +680,7 @@ years:
   - public_holiday: true
     date: '2022-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2022-11-24'
     names:
@@ -701,11 +701,11 @@ years:
   - public_holiday: true
     date: '2023-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2023-02-20'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2023-04-07'
     names:
@@ -737,7 +737,7 @@ years:
   - public_holiday: true
     date: '2023-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2023-11-23'
     names:
@@ -758,11 +758,11 @@ years:
   - public_holiday: true
     date: '2024-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2024-02-19'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2024-03-29'
     names:
@@ -794,7 +794,7 @@ years:
   - public_holiday: true
     date: '2024-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2024-11-28'
     names:
@@ -815,11 +815,11 @@ years:
   - public_holiday: true
     date: '2025-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2025-02-17'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2025-04-18'
     names:
@@ -851,7 +851,7 @@ years:
   - public_holiday: true
     date: '2025-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2025-11-27'
     names:
@@ -872,11 +872,11 @@ years:
   - public_holiday: true
     date: '2026-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2026-02-16'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2026-04-03'
     names:
@@ -908,7 +908,7 @@ years:
   - public_holiday: true
     date: '2026-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2026-11-26'
     names:
@@ -929,11 +929,11 @@ years:
   - public_holiday: true
     date: '2027-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2027-02-15'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2027-03-26'
     names:
@@ -965,7 +965,7 @@ years:
   - public_holiday: true
     date: '2027-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2027-11-25'
     names:
@@ -982,7 +982,7 @@ years:
   - public_holiday: true
     date: '2028-01-03'
     names:
-      en: New Year’s Day
+      en: New Year's Day
   - public_holiday: true
     date: '2028-01-17'
     names:
@@ -990,11 +990,11 @@ years:
   - public_holiday: true
     date: '2028-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2028-02-21'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2028-04-14'
     names:
@@ -1026,7 +1026,7 @@ years:
   - public_holiday: true
     date: '2028-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2028-11-23'
     names:
@@ -1047,11 +1047,11 @@ years:
   - public_holiday: true
     date: '2029-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2029-02-19'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2029-03-30'
     names:
@@ -1083,7 +1083,7 @@ years:
   - public_holiday: true
     date: '2029-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2029-11-22'
     names:
@@ -1104,11 +1104,11 @@ years:
   - public_holiday: true
     date: '2030-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2030-02-18'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2030-04-19'
     names:
@@ -1140,7 +1140,7 @@ years:
   - public_holiday: true
     date: '2030-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2030-11-28'
     names:
@@ -1161,11 +1161,11 @@ years:
   - public_holiday: true
     date: '2031-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2031-02-17'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2031-04-11'
     names:
@@ -1197,7 +1197,7 @@ years:
   - public_holiday: true
     date: '2031-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2031-11-27'
     names:
@@ -1218,11 +1218,11 @@ years:
   - public_holiday: true
     date: '2032-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2032-02-16'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2032-03-26'
     names:
@@ -1254,7 +1254,7 @@ years:
   - public_holiday: true
     date: '2032-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2032-11-25'
     names:
@@ -1271,7 +1271,7 @@ years:
   - public_holiday: true
     date: '2033-01-03'
     names:
-      en: New Year’s Day
+      en: New Year's Day
   - public_holiday: true
     date: '2033-01-17'
     names:
@@ -1279,11 +1279,11 @@ years:
   - public_holiday: true
     date: '2033-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2033-02-21'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2033-04-15'
     names:
@@ -1315,7 +1315,7 @@ years:
   - public_holiday: true
     date: '2033-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2033-11-24'
     names:
@@ -1336,11 +1336,11 @@ years:
   - public_holiday: true
     date: '2034-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2034-02-20'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2034-04-07'
     names:
@@ -1372,7 +1372,7 @@ years:
   - public_holiday: true
     date: '2034-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2034-11-23'
     names:
@@ -1393,11 +1393,11 @@ years:
   - public_holiday: true
     date: '2035-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2035-02-19'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2035-03-23'
     names:
@@ -1429,7 +1429,7 @@ years:
   - public_holiday: true
     date: '2035-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2035-11-22'
     names:
@@ -1450,11 +1450,11 @@ years:
   - public_holiday: true
     date: '2036-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2036-02-18'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2036-04-11'
     names:
@@ -1486,7 +1486,7 @@ years:
   - public_holiday: true
     date: '2036-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2036-11-27'
     names:
@@ -1507,11 +1507,11 @@ years:
   - public_holiday: true
     date: '2037-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2037-02-16'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2037-04-03'
     names:
@@ -1543,7 +1543,7 @@ years:
   - public_holiday: true
     date: '2037-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2037-11-26'
     names:
@@ -1564,11 +1564,11 @@ years:
   - public_holiday: true
     date: '2038-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2038-02-15'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2038-04-23'
     names:
@@ -1600,7 +1600,7 @@ years:
   - public_holiday: true
     date: '2038-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2038-11-25'
     names:
@@ -1617,7 +1617,7 @@ years:
   - public_holiday: true
     date: '2039-01-03'
     names:
-      en: New Year’s Day
+      en: New Year's Day
   - public_holiday: true
     date: '2039-01-17'
     names:
@@ -1625,11 +1625,11 @@ years:
   - public_holiday: true
     date: '2039-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2039-02-21'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2039-04-08'
     names:
@@ -1661,7 +1661,7 @@ years:
   - public_holiday: true
     date: '2039-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2039-11-24'
     names:
@@ -1682,11 +1682,11 @@ years:
   - public_holiday: true
     date: '2040-02-12'
     names:
-      en: Lincoln’s Birthday
+      en: Lincoln's Birthday
   - public_holiday: true
     date: '2040-02-20'
     names:
-      en: Washington’s Birthday
+      en: Washington's Birthday
   - public_holiday: true
     date: '2040-03-30'
     names:
@@ -1718,7 +1718,7 @@ years:
   - public_holiday: true
     date: '2040-11-11'
     names:
-      en: Veterans’ Day
+      en: Veterans' Day
   - public_holiday: true
     date: '2040-11-22'
     names:

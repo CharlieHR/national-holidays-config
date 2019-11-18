@@ -10,8 +10,8 @@ years:
   - public_holiday: true
     date: '2017-01-02'
     names:
-      en: Heroes’ Day / Ancestors’ Day
-      fr: Heroes’ Day / Ancestors’ Day
+      en: Heroes' Day / Ancestors' Day
+      fr: Heroes' Day / Ancestors' Day
   - public_holiday: true
     date: '2017-02-07'
     names:
@@ -66,8 +66,8 @@ years:
   - public_holiday: true
     date: '2018-01-02'
     names:
-      en: Heroes’ Day / Ancestors’ Day
-      fr: Heroes’ Day / Ancestors’ Day
+      en: Heroes' Day / Ancestors' Day
+      fr: Heroes' Day / Ancestors' Day
   - public_holiday: true
     date: '2018-02-13'
     names:

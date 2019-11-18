@@ -35,7 +35,7 @@ years:
   - public_holiday: true
     date: '2016-05-05'
     names:
-      en: Patriots’ Victory Day
+      en: Patriots' Victory Day
       am: Arbegnoch Qen
   - public_holiday: true
     date: '2016-05-28'
@@ -86,7 +86,7 @@ years:
   - public_holiday: true
     date: '2017-05-05'
     names:
-      en: Patriots’ Victory Day
+      en: Patriots' Victory Day
       am: Arbegnoch Qen
   - public_holiday: true
     date: '2017-05-28'
