@@ -1,0 +1,109 @@
+---
+name: Zug
+years:
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names: 
+      en: New Year's Day
+  - public_holiday: true
+    date: '2019-01-02'
+    names: 
+      en: Saint Berchtold’s Day
+  - public_holiday: true
+    date: '2019-04-19'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2019-04-22'
+    names: 
+      en: Easter Monday  
+  - public_holiday: true
+    date: '2019-05-30'
+    names: 
+      en: Ascension Day 
+  - public_holiday: true
+    date: '2019-06-10'
+    names: 
+      en: Whitmonday
+  - public_holiday: true
+    date: '2019-06-20'
+    names: 
+      en: Corpus Christi
+  - public_holiday: true
+    date: '2019-08-01'
+    names: 
+      en: Swiss National Day
+  - public_holiday: true
+    date: '2019-08-15'
+    names: 
+      en: Assumption Day
+  - public_holiday: true
+    date: '2019-11-01'
+    names: 
+      en: All Saints' Day
+  - public_holiday: true
+    date: '2019-12-08'
+    names: 
+      en: Immaculate Conception
+  - public_holiday: true
+    date: '2019-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2019-12-26'
+    names: 
+      en: St. Stephen's Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names: 
+      en: New Year's Day
+  - public_holiday: true
+    date: '2020-01-02'
+    names: 
+      en: Saint Berchtold’s Day
+  - public_holiday: true
+    date: '2020-04-10'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2020-04-13'
+    names: 
+      en: Easter Monday  
+  - public_holiday: true
+    date: '2020-05-21'
+    names: 
+      en: Ascension Day 
+  - public_holiday: true
+    date: '2020-06-01'
+    names: 
+      en: Whitmonday
+  - public_holiday: true
+    date: '2020-06-11'
+    names: 
+      en: Corpus Christi
+  - public_holiday: true
+    date: '2020-08-01'
+    names: 
+      en: Swiss National Day
+  - public_holiday: true
+    date: '2020-08-15'
+    names: 
+      en: Assumption Day
+  - public_holiday: true
+    date: '2020-11-01'
+    names: 
+      en: All Saints' Day
+  - public_holiday: true
+    date: '2020-12-08'
+    names: 
+      en: Immaculate Conception
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-26'
+    names: 
+      en: St. Stephen's Day
