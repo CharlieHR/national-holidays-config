@@ -376,10 +376,6 @@ years:
     names:
       en: Jour de l'An
   - public_holiday: true
-    date: '2020-01-02'
-    names:
-      en: Vacances nouvel an
-  - public_holiday: true
     date: '2020-04-10'
     names:
       en: Vendredi saint
