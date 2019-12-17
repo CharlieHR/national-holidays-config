@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2019-11-18.
+Last updated 2019-12-17.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -30,7 +30,7 @@ Last updated 2019-11-18.
 | 🇧🇭 | Bahrain | Bahrain (all) | 2020 | 16 | - | - |
 | 🇧🇩 | Bangladesh | No Data | - | - | - | - |
 | 🇧🇧 | Barbados | No Data | - | - | - | - |
-| 🇧🇾 | Belarus | Belarus | 2020 | 10 | - | - |
+| 🇧🇾 | Belarus | Belarus | 2020 | 10 | 2019 | 12 |
 | 🇧🇪 | Belgium | Belgium (all) | 2040 | 12 | - | - |
 | 🇧🇿 | Belize | No Data | - | - | - | - |
 | 🇧🇯 | Benin | No Data | - | - | - | - |
@@ -223,7 +223,7 @@ Last updated 2019-11-18.
 | 🇵🇦 | Panama | No Data | - | - | - | - |
 | 🇵🇬 | Papua New Guinea | No Data | - | - | - | - |
 | 🇵🇾 | Paraguay | No Data | - | - | - | - |
-| 🇵🇪 | Peru | No Data | - | - | - | - |
+| 🇵🇪 | Peru | Peru (all) | 2021 | 12 | - | - |
 | 🇵🇭 | Philippines | Philippines (all) | 2020 | 16 | - | - |
 | 🇵🇳 | Pitcairn | No Data | - | - | - | - |
 | 🇵🇱 | Poland | Poland (all) | 2040 | 13 | - | - |
@@ -366,4 +366,4 @@ Last updated 2019-11-18.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 83 / 249
+Total coverage: 84 / 249
