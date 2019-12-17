@@ -1,0 +1,191 @@
+---
+name: Peru (all)
+years:
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names: 
+      en: New Year's Day
+      es: New Year's Day
+  - public_holiday: true
+    date: '2019-04-18'
+    names: 
+      en: Maundy Thursday
+      es: Maundy Thursday
+  - public_holiday: true
+    date: '2019-04-19'
+    names: 
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2019-05-01'
+    names: 
+      en: Labour Day
+      es: Labour Day
+  - public_holiday: true
+    date: '2019-06-29'
+    names: 
+      en: Saint Peter and Saint Paul
+      es: Saint Peter and Saint Paul
+  - public_holiday: true
+    date: '2019-07-28'
+    names: 
+      en: Independance Day
+      es: Independance Day
+  - public_holiday: true
+    date: '2019-07-29'
+    names: 
+      en: Independance Day Holiday
+      es: Independance Day Holiday
+  - public_holiday: true
+    date: '2019-08-30'
+    names: 
+      en: Santa Rosa de Lima
+      es: Santa Rosa de Lima
+  - public_holiday: true
+    date: '2019-10-08'
+    names: 
+      en: Battle of Angamos
+      es: Combate de Angamos
+  - public_holiday: true
+    date: '2019-11-01'
+    names: 
+      en: All Saint's Day
+      es: All Saint's Day
+  - public_holiday: true
+    date: '2019-12-08'
+    names: 
+      en: Immaculate Conception Day
+      es: Immaculate Conception Day
+  - public_holiday: true
+    date: '2019-12-25'
+    names: 
+      en: Christmas Day
+      es: Navidad
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names: 
+      en: New Year's Day
+      es: New Year's Day
+  - public_holiday: true
+    date: '2020-04-09'
+    names: 
+      en: Maundy Thursday
+      es: Maundy Thursday
+  - public_holiday: true
+    date: '2020-04-10'
+    names: 
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2020-05-01'
+    names: 
+      en: Labour Day
+      es: Labour Day
+  - public_holiday: true
+    date: '2020-06-29'
+    names: 
+      en: Saint Peter and Saint Paul
+      es: Saint Peter and Saint Paul
+  - public_holiday: true
+    date: '2020-07-27'
+    names: 
+      en: Independance Day Holiday
+      es: Independance Day Holiday
+  - public_holiday: true
+    date: '2020-07-28'
+    names: 
+      en: Independance Day
+      es: Independance Day
+  - public_holiday: true
+    date: '2020-07-29'
+    names: 
+      en: Independance Day Holiday
+      es: Independance Day Holiday
+  - public_holiday: true
+    date: '2020-08-30'
+    names: 
+      en: Santa Rosa de Lima
+      es: Santa Rosa de Lima
+  - public_holiday: true
+    date: '2020-10-08'
+    names: 
+      en: Battle of Angamos
+      es: Combate de Angamos
+  - public_holiday: true
+    date: '2020-11-01'
+    names: 
+      en: All Saint's Day
+      es: All Saint's Day
+  - public_holiday: true
+    date: '2020-12-08'
+    names: 
+      en: Immaculate Conception Day
+      es: Immaculate Conception Day
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+      es: Navidad
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Year's Day
+      es: New Year's Day
+  - public_holiday: true
+    date: '2021-04-01'
+    names: 
+      en: Maundy Thursday
+      es: Maundy Thursday
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: Labour Day
+      es: Labour Day
+  - public_holiday: true
+    date: '2021-06-29'
+    names: 
+      en: Saint Peter and Saint Paul
+      es: Saint Peter and Saint Paul
+  - public_holiday: true
+    date: '2021-07-28'
+    names: 
+      en: Independance Day
+      es: Independance Day
+  - public_holiday: true
+    date: '2021-07-29'
+    names: 
+      en: Independance Day Holiday
+      es: Independance Day Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Santa Rosa de Lima
+      es: Santa Rosa de Lima
+  - public_holiday: true
+    date: '2021-10-08'
+    names: 
+      en: Battle of Angamos
+      es: Combate de Angamos
+  - public_holiday: true
+    date: '2021-11-01'
+    names: 
+      en: All Saint's Day
+      es: All Saint's Day
+  - public_holiday: true
+    date: '2021-12-08'
+    names: 
+      en: Immaculate Conception Day
+      es: Immaculate Conception Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day
+      es: Navidad
