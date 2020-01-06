@@ -176,6 +176,11 @@ years:
       en: New Year's Day
       vi: New Year's Day
   - public_holiday: true
+    date: '2020-01-23'
+    names:
+      en: Vietnamese New Year
+      vi: Tet Holiday
+  - public_holiday: true
     date: '2020-01-24'
     names:
       en: Vietnamese New Year
@@ -202,11 +207,6 @@ years:
       vi: Tet Holiday
   - public_holiday: true
     date: '2020-01-29'
-    names:
-      en: Vietnamese New Year
-      vi: Tet Holiday
-  - public_holiday: true
-    date: '2020-01-30'
     names:
       en: Vietnamese New Year
       vi: Tet Holiday
