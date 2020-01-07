@@ -724,8 +724,18 @@ years:
   - public_holiday: true
     date: '2020-02-11'
     names:
-      en: Foundation Day
+      en: National Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2020-02-23'
+    names:
+      en: Emperor's Birthday
+      ja: 
+  - public_holiday: true
+    date: '2020-02-24'
+    names:
+      en: Emperor's Birthday (observed)
+      ja: 
   - public_holiday: true
     date: '2020-03-20'
     names:
@@ -736,6 +746,11 @@ years:
     names:
       en: Shōwa Day
       ja: 昭和の日 Shōwa no Hi
+  - public_holiday: true
+    date: '2020-05-03'
+    names:
+      en: Constitution Memorial Day
+      ja: 
   - public_holiday: true
     date: '2020-05-04'
     names:
@@ -752,10 +767,15 @@ years:
       en: Constitution Memorial Day
       ja: 憲法記念日 Kenpō Kinenbi
   - public_holiday: true
-    date: '2020-07-20'
+    date: '2020-07-23'
     names:
       en: Marine Day
       ja: 海の日 Umi no Hi
+  - public_holiday: true
+    date: '2020-07-24'
+    names:
+      en: Sports Day
+      ja: 
   - public_holiday: true
     date: '2020-08-11'
     names:
@@ -772,11 +792,6 @@ years:
       en: Autumnal Equinox Day
       ja: 秋分の日 Shūbun no Hi
   - public_holiday: true
-    date: '2020-10-12'
-    names:
-      en: Health and Sports Day
-      ja: 体育の日 Taiiku no Hi
-  - public_holiday: true
     date: '2020-11-03'
     names:
       en: Culture Day
@@ -786,11 +801,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2020-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2021':
   - public_holiday: true
     date: '2021-01-01'
