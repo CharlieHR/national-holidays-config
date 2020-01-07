@@ -730,12 +730,12 @@ years:
     date: '2020-02-23'
     names:
       en: Emperor's Birthday
-      ja: 
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2020-02-24'
     names:
       en: Emperor's Birthday (observed)
-      ja: 
+      ja: 天皇誕生日 Tennō Tanjōbi (observed)
   - public_holiday: true
     date: '2020-03-20'
     names:
@@ -750,7 +750,7 @@ years:
     date: '2020-05-03'
     names:
       en: Constitution Memorial Day
-      ja: 
+      ja: 憲法記念日 Kenpō Kinenbi
   - public_holiday: true
     date: '2020-05-04'
     names:
@@ -774,8 +774,8 @@ years:
   - public_holiday: true
     date: '2020-07-24'
     names:
-      en: Sports Day
-      ja: 
+      en: Health and Sports Day
+      ja: 体育の日 Taiiku no Hi
   - public_holiday: true
     date: '2020-08-11'
     names:
