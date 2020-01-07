@@ -152,11 +152,6 @@ years:
     date: '2019-12-25'
     names:
       en: Christmas Day
-  '2020':
-  - public_holiday: true
-    date: '2020-01-01'
-    names:
-      en: New Year's Day
   '2018':
   - public_holiday: true
     date: '2018-01-25'
@@ -205,4 +200,65 @@ years:
   - public_holiday: true
     date: '2018-12-25'
     names:
+      en: Christmas Day
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2020-01-01'
+    names: 
+      en: New Year's Day
+  - public_holiday: true
+    date: '2020-01-25'
+    names: 
+      en: Chinese New Year
+  - public_holiday: true
+    date: '2020-01-26'
+    names: 
+      en: Chinese New Year
+  - public_holiday: true
+    date: '2020-01-27'
+    names: 
+      en: Chinese New Year observed
+  - public_holiday: true
+    date: '2020-04-10'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2020-05-01'
+    names: 
+      en: Labour Day
+  - public_holiday: true
+    date: '2020-05-07'
+    names: 
+      en: Vesak Day
+  - public_holiday: true
+    date: '2020-05-24'
+    names: 
+      en: Hari Raya Puasa
+  - public_holiday: true
+    date: '2020-05-25'
+    names: 
+      en: Hari Raya Puasa observed
+  - public_holiday: true
+    date: '2020-07-31'
+    names: 
+      en: Hari Raya Haji
+  - public_holiday: true
+    date: '2020-08-09'
+    names: 
+      en: National Day
+  - public_holiday: true
+    date: '2020-08-10'
+    names: 
+      en: National Day observed
+  - public_holiday: true
+    date: '2020-11-14'
+    names: 
+      en: Deepavali
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
       en: Christmas Day
