@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2019-12-17.
+Last updated 2020-01-07.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
