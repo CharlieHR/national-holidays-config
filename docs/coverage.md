@@ -265,7 +265,7 @@ Last updated 2020-01-07.
 | 🇪🇸 | Spain | Catalunya | 2020 | 13 | - | - |
 | 🇪🇸 | Spain | Andalucía | 2020 | 14 | - | - |
 | 🇪🇸 | Spain | Comunidad Valenciana | 2020 | 14 | - | - |
-| 🇪🇸 | Spain | Sevilla | 2019 | 14 | - | - |
+| 🇪🇸 | Spain | Sevilla | 2020 | 13 | - | - |
 | 🇪🇸 | Spain | Bilbao | 2017 | 15 | - | - |
 | 🇪🇸 | Spain | Baleares | 2018 | 13 | - | - |
 | 🇱🇰 | Sri Lanka | No Data | - | - | - | - |
