@@ -214,3 +214,56 @@ years:
     names:
       en: Christmas Day
       es: Dia de Navidad
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names: 
+      en: New Year's Day
+  - public_holiday: true
+    date: '2020-01-06'
+    names: 
+      en: Epiphany
+  - public_holiday: true
+    date: '2020-02-28'
+    names: 
+      en: Day of Andalusia
+  - public_holiday: true
+    date: '2020-04-09'
+    names: 
+      en: Holy Thursday
+  - public_holiday: true
+    date: '2020-04-10'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2020-05-01'
+    names: 
+      en: International Workers' Day
+  - public_holiday: true
+    date: '2020-05-30'
+    names: 
+      en: St. Ferdinand's Day
+  - public_holiday: true
+    date: '2020-08-15'
+    names: 
+      en: Assumption of Mary
+  - public_holiday: true
+    date: '2020-10-12'
+    names: 
+      en: Columbus Day
+  - public_holiday: true
+    date: '2020-11-01'
+    names: 
+      en: All Saint's Day
+  - public_holiday: true
+    date: '2020-12-06'
+    names: 
+      en: Spanish Constituion Day
+  - public_holiday: true
+    date: '2020-12-08'
+    names: 
+      en: Immaculate conception
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
