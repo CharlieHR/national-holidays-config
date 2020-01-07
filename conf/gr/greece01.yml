@@ -59,11 +59,6 @@ years:
       el: Christmas Day
   '2018':
   - public_holiday: true
-    date: '2018-12-26'
-    names:
-      en: Synaxis of the Mother of God
-      el: Synaxis of the Mother of God
-  - public_holiday: true
     date: '2018-01-01'
     names:
       en: New Year's Day

@@ -51,16 +51,6 @@ years:
   - public_holiday: true
     date: '2018-06-15'
     names:
-      en: Eid-al-Fitr (End of Ramadan)
-      ar: Eid-al-Fitr (End of Ramadan)
-  - public_holiday: true
-    date: '2018-06-15'
-    names:
-      en: Eid-al-Fitr Holiday
-      ar: Eid-al-Fitr Holiday
-  - public_holiday: true
-    date: '2018-06-15'
-    names:
       en: Eid-al-Fitr Holiday
       ar: Eid-al-Fitr Holiday
   - public_holiday: true

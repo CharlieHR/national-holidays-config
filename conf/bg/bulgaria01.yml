@@ -38,45 +38,15 @@ years:
       en: St George's Day
       bg: St George's Day
   - public_holiday: true
-    date: '2017-05-24'
-    names:
-      en: Culture and Literacy Day
-      bg: Culture and Literacy Day
-  - public_holiday: true
     date: '2017-09-06'
     names:
       en: Unification Day
       bg: Unification Day
   - public_holiday: true
-    date: '2017-09-22'
-    names:
-      en: Independence Day
-      bg: Independence Day
-  - public_holiday: true
-    date: '2017-12-24'
-    names:
-      en: Christmas Eve
-      bg: Christmas Eve
-  - public_holiday: true
-    date: '2017-12-25'
-    names:
-      en: Christmas Day
-      bg: Christmas Day
-  - public_holiday: true
-    date: '2017-12-26'
-    names:
-      en: Second Day of Christmas
-      bg: Second Day of Christmas
-  - public_holiday: true
     date: '2017-01-27'
     names:
       en: Third Day of Christmas
       bg: Third Day of Christmas
-  - public_holiday: true
-    date: '2017-03-03'
-    names:
-      en: Liberation Day
-      bg: Liberation Day
   - public_holiday: true
     date: '2017-04-06'
     names:
@@ -102,11 +72,6 @@ years:
     names:
       en: Culture and Literacy Day
       bg: Culture and Literacy Day
-  - public_holiday: true
-    date: '2017-09-06'
-    names:
-      en: Unification Day
-      bg: Unification Day
   - public_holiday: true
     date: '2017-09-22'
     names:

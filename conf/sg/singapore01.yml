@@ -204,10 +204,6 @@ years:
   '2020':
   - public_holiday: true
     date: '2020-01-01'
-    names:
-      en: New Year's Day
-  - public_holiday: true
-    date: '2020-01-01'
     names: 
       en: New Year's Day
   - public_holiday: true

@@ -43,14 +43,6 @@ years:
     names:
       en: Christmas Day
   - public_holiday: true
-    date: '2011-07-12'
-    names:
-      en: Battle of the Boyne
-  - public_holiday: true
-    date: '2011-03-17'
-    names:
-      en: St. Patrick's Day
-  - public_holiday: true
     date: '2011-07-14'
     names:
       en: Battle of the Boyne

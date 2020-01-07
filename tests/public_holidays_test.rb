@@ -29,6 +29,29 @@ describe 'Public Holidays' do
     end
   end
 
+  describe 'must have a unique date + name' do
+    Dir.chdir(TestUtils.config_directory) do
+      Dir.glob('*/*.yml').each do |region_file|
+        region_data = YAML.safe_load(File.read(region_file))
+        region_name = region_data['name']
+
+        dates = Hash.new(0)
+        region_data['years'].each do |year, holidays|
+          holidays.each do |holiday|
+            key = [holiday['date'], holiday['names'].values.first]
+            dates[key] += 1
+          end
+        end
+
+        dates.each do |key, holidays|
+          it "#{region_name} #{key} has exactly one holiday" do
+            holidays.must_equal 1
+          end
+        end
+      end
+    end
+  end
+
   describe 'must occur within the year that they are under' do
     Dir.chdir(TestUtils.config_directory) do
       Dir.glob('*/*.yml').each do |region_file|

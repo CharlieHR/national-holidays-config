@@ -249,7 +249,7 @@ Last updated 2020-01-07.
 | 🇷🇸 | Serbia | Serbia (all) | 2040 | 13 | - | - |
 | 🇸🇨 | Seychelles | No Data | - | - | - | - |
 | 🇸🇱 | Sierra Leone | No Data | - | - | - | - |
-| 🇸🇬 | Singapore | Singapore (all) | 2020 | 1 | - | - |
+| 🇸🇬 | Singapore | Singapore (all) | 2020 | 14 | - | - |
 | 🇸🇽 | Sint Maarten (Dutch part) | No Data | - | - | - | - |
 | 🇸🇰 | Slovakia | Slovakia (all) | 2040 | 15 | - | - |
 | 🇸🇮 | Slovenia | Slovenia (all) | 2040 | 14 | - | - |
