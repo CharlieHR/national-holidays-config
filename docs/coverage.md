@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2020-01-07.
+Last updated 2020-01-16.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -158,7 +158,7 @@ Last updated 2020-01-07.
 | 🇰🇮 | Kiribati | No Data | - | - | - | - |
 | 🇰🇵 | Korea (Democratic People's Republic of) | No Data | - | - | - | - |
 | 🇰🇷 | Korea (Republic of) | South Korea (all) | 2040 | 15 | - | - |
-| 🇰🇼 | Kuwait | Kuwait | 2020 | 14 | - | - |
+| 🇰🇼 | Kuwait | Kuwait | 2020 | 17 | - | - |
 | 🇰🇬 | Kyrgyzstan | No Data | - | - | - | - |
 | 🇱🇦 | Lao People's Democratic Republic | No Data | - | - | - | - |
 | 🇱🇻 | Latvia | Latvia (all) | 2040 | 15 | - | - |
