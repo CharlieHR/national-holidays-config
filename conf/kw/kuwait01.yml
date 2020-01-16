@@ -210,12 +210,12 @@ years:
     names:
       en: Bank and public sector holiday (Death of Omani Sultan Qaboos)
       ar: Bank and public sector holiday (Death of Omani Sultan Qaboos)
- - public_holiday: true
+  - public_holiday: true
     date: '2020-01-12'
     names:
       en: Bank and public sector holiday (Death of Omani Sultan Qaboos)
       ar: Bank and public sector holiday (Death of Omani Sultan Qaboos)
- - public_holiday: true
+  - public_holiday: true
     date: '2020-01-13'
     names:
       en: Bank and public sector holiday (Death of Omani Sultan Qaboos)
