@@ -867,6 +867,11 @@ years:
       en: Defender of the Fatherland Day
       ru: День защитника Отечества
   - public_holiday: true
+    date: '2020-02-24'
+    names:
+      en: Defender of the Fatherland Day
+      ru: День защитника Отечества
+  - public_holiday: true
     date: '2020-03-08'
     names:
       en: International Women's Day
@@ -882,10 +887,35 @@ years:
       en: The Day of Spring and Labor
       ru: Праздник Весны и Труда
   - public_holiday: true
+    date: '2020-05-02'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+  - public_holiday: true
+    date: '2020-05-03'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+  - public_holiday: true
+    date: '2020-05-04'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+  - public_holiday: true
+    date: '2020-05-05'
+    names:
+      en: The Day of Spring and Labor
+      ru: Праздник Весны и Труда
+  - public_holiday: true
     date: '2020-05-09'
     names:
       en: Victory Day
       ru: День Победы
+  - public_holiday: true
+    date: '2020-05-10'
+    names:
+      en: Holiday
+      ru: Праздник
   - public_holiday: true
     date: '2020-05-11'
     names:
