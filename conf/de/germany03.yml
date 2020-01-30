@@ -452,6 +452,11 @@ years:
       en: Labour Day
       de: Tag der Arbeit
   - public_holiday: true
+    date: '2020-05-08'
+    names:
+      en: Liberation Day
+      de: Tag der Befreiung
+  - public_holiday: true
     date: '2020-05-21'
     names:
       en: Ascension Day
