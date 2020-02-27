@@ -67,3 +67,79 @@ years:
     names:
       en: Christmas Day
       es: Día de Navidad
+ '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      es: Fin de Año
+  - public_holiday: true
+    date: '2020-01-06'
+    names:
+      en: Epiphany
+      es: Epifanía del Señor
+  - public_holiday: true
+    date: '2020-03-01'
+    names:
+      en: Balearic Day
+      es: Día de las Islas Baleares
+  - public_holiday: true
+    date: '2020-04-09'
+    names:
+      en: Holy Thursday
+      es: Jueves Santo
+  - public_holiday: true
+    date: '2020-03-30'
+    names:
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2020-04-13'
+    names:
+      en: Easter Monday
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour Day
+      es: Fiesta del Trabajo
+  - public_holiday: true
+    date: '2020-08-15'
+    names:
+      en: Assumption Day
+      es: Asunción de Maria
+  - public_holiday: true
+    date: '2020-10-12'
+    names:
+      en: Hispanic Day
+      es: Fiesta Nacional
+  - public_holiday: true
+    date: '2020-11-01'
+    names:
+      en: All Saints Day
+      es: Día de Tots Sants
+  - public_holiday: true
+    date: '2020-12-06'
+    names:
+      en: Constitution Day
+      es: Día de la Constitución
+  - public_holiday: true
+    date: '2020-12-07'
+    names:
+      en: Constitution Day observed
+      es: Día de la Constitución
+  - public_holiday: true
+    date: '2020-12-08'
+    names:
+      en: Immaculate Conception Day
+      es: Immaculada Concepción
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      es: Día de Navidad
+  - public_holiday: true
+    date: '2020-12-26'
+    names:
+      en: Christmas holiday
+      es: Navidad
