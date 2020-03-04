@@ -88,6 +88,10 @@ years:
     names:
       en: Maha Shivaratree
   - public_holiday: true
+    date: '2020-03-12'
+    names:
+      en: Independence & Republic Day
+  - public_holiday: true
     date: '2020-03-25'
     names:
       en: Ougadi
@@ -99,6 +103,10 @@ years:
     date: '2020-05-24'
     names:
       en: Eid-Ul-Fitr
+  - public_holiday: true
+    date: '2020-08-15'
+    names:
+      en: Assumption of the Blessed Virgin Mary
   - public_holiday: true
     date: '2020-08-23'
     names:
