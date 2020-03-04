@@ -662,6 +662,10 @@ years:
       en: National Day (Anniversary of the Revolution 1848-49)
       hu: Nemzeti ünnep
   - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday
+  - public_holiday: true
     date: '2020-04-12'
     names:
       en: Easter Sunday
@@ -692,6 +696,10 @@ years:
       en: Saint Stephen's Day
       hu: Szent István ünnepe
   - public_holiday: true
+    date: '2020-08-21'
+    names:
+      en: Saint Stephen's Day (Bridge Day)
+  - public_holiday: true
     date: '2020-10-23'
     names:
       en: National Day (Proclamation of the Republic / Anniversary of the Revolution 1956)
@@ -701,6 +709,10 @@ years:
     names:
       en: All Saints' Day
       hu: Mindenszentek
+  - public_holiday: true
+    date: '2020-12-24'
+    names:
+      en: Holy Night
   - public_holiday: true
     date: '2020-12-25'
     names:
