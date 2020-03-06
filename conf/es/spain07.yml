@@ -67,7 +67,7 @@ years:
     names:
       en: Christmas Day
       es: Día de Navidad
- '2020':
+  '2020':
   - public_holiday: true
     date: '2020-01-01'
     names:
