@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2020-01-22.
+Last updated 2020-03-09.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -170,7 +170,6 @@ Last updated 2020-01-22.
 | 🇱🇹 | Lithuania | Lithuania (all) | 2040 | 15 | - | - |
 | 🇱🇺 | Luxembourg | Luxembourg (all) | 2040 | 10 | - | - |
 | 🇲🇴 | Macao | No Data | - | - | - | - |
-| 🇲🇰 | Macedonia (the former Yugoslav Republic of) | Macedonia, Republic of (all) | 2020 | 10 | - | - |
 | 🇲🇬 | Madagascar | No Data | - | - | - | - |
 | 🇲🇼 | Malawi | No Data | - | - | - | - |
 | 🇲🇾 | Malaysia | Malaysia (all) | 2020 | 13 | - | - |
@@ -180,7 +179,7 @@ Last updated 2020-01-22.
 | 🇲🇭 | Marshall Islands | No Data | - | - | - | - |
 | 🇲🇶 | Martinique | No Data | - | - | - | - |
 | 🇲🇷 | Mauritania | No Data | - | - | - | - |
-| 🇲🇺 | Mauritius | Mauritius (all) | 2020 | 13 | - | - |
+| 🇲🇺 | Mauritius | Mauritius (all) | 2020 | 15 | - | - |
 | 🇾🇹 | Mayotte | No Data | - | - | - | - |
 | 🇲🇽 | Mexico | Mexico (all) | 2040 | 10 | - | - |
 | 🇫🇲 | Micronesia (Federated States of) | No Data | - | - | - | - |
@@ -214,6 +213,7 @@ Last updated 2020-01-22.
 | 🇳🇬 | Nigeria | Nigeria (all) | 2020 | 11 | - | - |
 | 🇳🇺 | Niue | No Data | - | - | - | - |
 | 🇳🇫 | Norfolk Island | No Data | - | - | - | - |
+| 🇲🇰 | North Macedonia | Macedonia, Republic of (all) | 2020 | 10 | - | - |
 | 🇲🇵 | Northern Mariana Islands | No Data | - | - | - | - |
 | 🇳🇴 | Norway | Norway (all) | 2040 | 12 | - | - |
 | 🇴🇲 | Oman | Oman | 2020 | 16 | - | - |
@@ -267,12 +267,11 @@ Last updated 2020-01-22.
 | 🇪🇸 | Spain | Comunidad Valenciana | 2020 | 14 | - | - |
 | 🇪🇸 | Spain | Sevilla | 2020 | 13 | - | - |
 | 🇪🇸 | Spain | Bilbao | 2017 | 15 | - | - |
-| 🇪🇸 | Spain | Baleares | 2018 | 13 | - | - |
+| 🇪🇸 | Spain | Baleares | 2020 | 15 | - | - |
 | 🇱🇰 | Sri Lanka | No Data | - | - | - | - |
 | 🇸🇩 | Sudan | No Data | - | - | - | - |
 | 🇸🇷 | Suriname | No Data | - | - | - | - |
 | 🇸🇯 | Svalbard and Jan Mayen | No Data | - | - | - | - |
-| 🇸🇿 | Swaziland | No Data | - | - | - | - |
 | 🇸🇪 | Sweden | Sweden (all) | 2040 | 16 | - | - |
 | 🇨🇭 | Switzerland | Geneva | 2020 | 9 | - | - |
 | 🇨🇭 | Switzerland | Zug | 2020 | 13 | - | - |
@@ -364,6 +363,7 @@ Last updated 2020-01-22.
 | 🇾🇪 | Yemen | No Data | - | - | - | - |
 | 🇿🇲 | Zambia | No Data | - | - | - | - |
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
+| 🇸🇿 | eSwatini | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
 Total coverage: 84 / 249
