@@ -11,7 +11,7 @@ years:
     date: '2011-04-22'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2011-04-24'
     names:
@@ -87,7 +87,7 @@ years:
     date: '2012-04-06'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2012-04-08'
     names:
@@ -168,7 +168,7 @@ years:
     date: '2013-03-29'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2013-03-31'
     names:
@@ -254,7 +254,7 @@ years:
     date: '2014-04-18'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2014-04-20'
     names:
@@ -345,7 +345,7 @@ years:
     date: '2015-04-03'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2015-04-05'
     names:
@@ -426,7 +426,7 @@ years:
     date: '2016-03-25'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2016-03-27'
     names:
@@ -502,7 +502,7 @@ years:
     date: '2017-04-14'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2017-04-16'
     names:
@@ -578,7 +578,7 @@ years:
     date: '2018-03-30'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2018-04-01'
     names:
@@ -654,7 +654,7 @@ years:
     date: '2019-04-19'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2019-04-21'
     names:
@@ -730,7 +730,7 @@ years:
     date: '2020-04-10'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2020-04-12'
     names:
@@ -806,7 +806,7 @@ years:
     date: '2021-04-02'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2021-04-04'
     names:
@@ -882,7 +882,7 @@ years:
     date: '2022-04-15'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2022-04-17'
     names:
@@ -958,7 +958,7 @@ years:
     date: '2023-04-07'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2023-04-09'
     names:
@@ -1034,7 +1034,7 @@ years:
     date: '2024-03-29'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2024-03-31'
     names:
@@ -1110,7 +1110,7 @@ years:
     date: '2025-04-18'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2025-04-20'
     names:
@@ -1186,7 +1186,7 @@ years:
     date: '2026-04-03'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2026-04-05'
     names:
@@ -1262,7 +1262,7 @@ years:
     date: '2027-03-26'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2027-03-28'
     names:
@@ -1338,7 +1338,7 @@ years:
     date: '2028-04-14'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2028-04-16'
     names:
@@ -1414,7 +1414,7 @@ years:
     date: '2029-03-30'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2029-04-01'
     names:
@@ -1490,7 +1490,7 @@ years:
     date: '2030-04-19'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2030-04-21'
     names:
@@ -1566,7 +1566,7 @@ years:
     date: '2031-04-11'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2031-04-13'
     names:
@@ -1642,7 +1642,7 @@ years:
     date: '2032-03-26'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2032-03-28'
     names:
@@ -1718,7 +1718,7 @@ years:
     date: '2033-04-15'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2033-04-17'
     names:
@@ -1794,7 +1794,7 @@ years:
     date: '2034-04-07'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2034-04-09'
     names:
@@ -1870,7 +1870,7 @@ years:
     date: '2035-03-23'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2035-03-25'
     names:
@@ -1946,7 +1946,7 @@ years:
     date: '2036-04-11'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2036-04-13'
     names:
@@ -2022,7 +2022,7 @@ years:
     date: '2037-04-03'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2037-04-05'
     names:
@@ -2098,7 +2098,7 @@ years:
     date: '2038-04-23'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2038-04-25'
     names:
@@ -2174,7 +2174,7 @@ years:
     date: '2039-04-08'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2039-04-10'
     names:
@@ -2250,7 +2250,7 @@ years:
     date: '2040-03-30'
     names:
       en: Good Friday
-      lv: Lielo Piektdienu
+      lv: Lielā piektdiena
   - public_holiday: true
     date: '2040-04-01'
     names:
