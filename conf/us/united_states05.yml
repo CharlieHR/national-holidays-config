@@ -432,6 +432,10 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
+    date: '2020-11-27'
+    names:
+      en: Day after Thanksgiving Day
+  - public_holiday: true
     date: '2020-12-25'
     names:
       en: Christmas Day
