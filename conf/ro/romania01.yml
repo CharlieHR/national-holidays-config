@@ -388,6 +388,11 @@ years:
       en: Labour Day
       ro: Ziua muncii
   - public_holiday: true
+    date: '2020-06-01'
+    names:
+      en: Children's day
+      ro: 
+  - public_holiday: true
     date: '2020-06-07'
     names:
       en: Orthodox Whit Sunday
