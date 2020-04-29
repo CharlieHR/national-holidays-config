@@ -384,7 +384,7 @@ years:
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    date: '2020-07-12'
+    date: '2020-07-13'
     names:
       en: Battle of the Boyne
   - public_holiday: true
