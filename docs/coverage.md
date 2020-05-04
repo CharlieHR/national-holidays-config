@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2020-04-06.
+Last updated 2020-05-04.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -298,8 +298,9 @@ Last updated 2020-04-06.
 | 🇦🇪 | United Arab Emirates | United Arab Emirates (all) | 2018 | 12 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | England | 2040 | 8 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Wales | 2040 | 8 | - | - |
-| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Scotland | 2034 | 8 | - | - |
+| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Scotland (incl. St. Andrew's Day) | 2034 | 8 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Northern Ireland | 2034 | 9 | - | - |
+| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Scotland (excl. St. Andrew's Day) | 2034 | 8 | - | - |
 | 🇺🇲 | United States Minor Outlying Islands | No Data | - | - | - | - |
 | 🇺🇸 | United States of America | Alabama | 2040 | 13 | - | - |
 | 🇺🇸 | United States of America | Alaska | 2040 | 11 | - | - |
