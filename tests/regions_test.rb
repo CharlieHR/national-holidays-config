@@ -29,15 +29,15 @@ describe 'Regions' do
         region_name = region_file.sub(%r{^.+/}, '').sub(/\.yml$/, '')
 
         it "region #{region_name} does not end with a comma" do
-          name.wont_match(/,$/)
+          _(name).wont_match(/,$/)
         end
 
         it "region #{region_name} does not end with whitespace" do
-          name.wont_match(/\s$/)
+          _(name).wont_match(/\s$/)
         end
 
         it "region #{region_name} does not contain any smart quotes" do
-          name.wont_match(/[‘’]/)
+          _(name).wont_match(/[‘’]/)
         end
       end
     end

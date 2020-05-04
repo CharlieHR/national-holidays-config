@@ -21,7 +21,7 @@ describe 'Public Holidays' do
                      rescue ArgumentError
                        nil
                      end
-              date&.strftime('%Y-%m-%d').must_equal holiday['date']
+              _(date&.strftime('%Y-%m-%d')).must_equal holiday['date']
             end
           end
         end
@@ -45,7 +45,7 @@ describe 'Public Holidays' do
 
         dates.each do |key, holidays|
           it "#{region_name} #{key} has exactly one holiday" do
-            holidays.must_equal 1
+            _(holidays).must_equal 1
           end
         end
       end
@@ -62,7 +62,7 @@ describe 'Public Holidays' do
         region_data['years'].each do |year, holidays|
           holidays.each do |holiday|
             it "region #{region_name} holiday #{holiday['names'].values.first} in #{year} is in #{year}" do
-              holiday['date'].must_match(/^#{year}-[0-9]{2}-[0-9]{2}$/)
+              _(holiday['date']).must_match(/^#{year}-[0-9]{2}-[0-9]{2}$/)
             end
           end
         end
@@ -81,19 +81,19 @@ describe 'Public Holidays' do
           holidays.each do |holiday|
             holiday['names'].values.each do |name|
               it "region #{region_name} holiday #{name} does not end with a comma" do
-                name.wont_match(/,$/)
+                _(name).wont_match(/,$/)
               end
 
               it "region #{region_name} holiday #{name} does not end with whitespace" do
-                name.wont_match(/\s$/)
+                _(name).wont_match(/\s$/)
               end
 
               it "region #{region_name} holiday #{name} does not contain any smart quotes" do
-                name.wont_match(/[‘’]/)
+                _(name).wont_match(/[‘’]/)
               end
 
               it "region #{region_name} holiday has a name" do
-                name.must_match(/\S+/)
+                _(name).must_match(/\S+/)
               end
             end
           end
