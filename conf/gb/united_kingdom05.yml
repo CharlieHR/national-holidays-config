@@ -1,5 +1,5 @@
 ---
-name: Scotland (incl. St. Andrew's Day)
+name: Scotland (excl. St. Andrew's Day)
 years:
   '2011':
   - public_holiday: true
@@ -299,10 +299,6 @@ years:
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
-    date: '2019-12-02'
-    names:
-      en: St. Andrew's Day
-  - public_holiday: true
     date: '2019-12-25'
     names:
       en: Christmas Day
@@ -335,10 +331,6 @@ years:
     date: '2020-08-03'
     names:
       en: Late Summer Bank Holiday
-  - public_holiday: true
-    date: '2020-11-30'
-    names:
-      en: St. Andrew's Day
   - public_holiday: true
     date: '2020-12-25'
     names:
