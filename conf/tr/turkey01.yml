@@ -1,0 +1,155 @@
+---
+name: Turkey (all)
+years:
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      tr: Yılbaşı
+  - public_holiday: true
+    date: '2020-04-23'
+    names:
+      en: National Sovereignty and Children's Day
+      tr: Ulusal Egemenlik ve Çocuk Bayramı
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour and Solidarity Day
+      tr: Emek ve Dayanışma Günü
+  - public_holiday: true
+    date: '2020-05-19'
+    names:
+      en: Commemoration of Atatürk, Youth and Sports Day
+      tr: Atatürk'ü Anma Gençlik ve Spor Bayramı
+  - public_holiday: true
+    date: '2020-05-23'
+    names:
+      en: Ramadan Feast
+      tr: Ramazan Bayramı
+  - public_holiday: true
+    date: '2020-05-24'
+    names:
+      en: Ramadan Feast
+      tr: Ramazan Bayramı
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: Ramadan Feast
+      tr: Ramazan Bayramı
+  - public_holiday: true
+    date: '2020-05-26'
+    names:
+      en: Ramadan Feast
+      tr: Ramazan Bayramı
+  - public_holiday: true
+    date: '2020-07-15'
+    names:
+      en: Democracy and National Unity Day
+      tr: Demokrasi ve Millî Birlik Günü
+  - public_holiday: true
+    date: '2020-07-31'
+    names:
+      en: Sacrifice Feast
+      tr: Kurban Bayramı
+  - public_holiday: true
+    date: '2020-08-01'
+    names:
+      en: Sacrifice Feast
+      tr: Kurban Bayramı
+  - public_holiday: true
+    date: '2020-08-02'
+    names:
+      en: Sacrifice Feast
+      tr: Kurban Bayramı
+  - public_holiday: true
+    date: '2020-08-03'
+    names:
+      en: Sacrifice Feast
+      tr: Kurban Bayramı
+  - public_holiday: true
+    date: '2020-08-30'
+    names:
+      en: Victory Day
+      tr: Zafer Bayramı
+  - public_holiday: true
+    date: '2020-10-29'
+    names:
+      en: Republic day
+      tr: Cumhuriyet Bayramı
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year's Day
+      tr: Yılbaşı
+  - public_holiday: true
+    date: '2021-04-23'
+    names:
+      en: National Sovereignty and Children's Day
+      tr: Ulusal Egemenlik ve Çocuk Bayramı
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour and Solidarity Day
+      tr: Emek ve Dayanışma Günü
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Ramadan Feast
+      tr: Ramazan Bayramı
+  - public_holiday: true
+    date: '2021-05-14'
+    names:
+      en: Ramadan Feast
+      tr: Ramazan Bayramı
+  - public_holiday: true
+    date: '2021-05-15'
+    names:
+      en: Ramadan Feast
+      tr: Ramazan Bayramı
+  - public_holiday: true
+    date: '2021-05-16'
+    names:
+      en: Ramadan Feast
+      tr: Ramazan Bayramı
+  - public_holiday: true
+    date: '2021-05-19'
+    names:
+      en: Commemoration of Atatürk, Youth and Sports Day
+      tr: Atatürk'ü Anma Gençlik ve Spor Bayramı
+  - public_holiday: true
+    date: '2021-07-15'
+    names:
+      en: Democracy and National Unity Day
+      tr: Demokrasi ve Millî Birlik Günü
+  - public_holiday: true
+    date: '2021-07-20'
+    names:
+      en: Sacrifice Feast
+      tr: Kurban Bayramı
+  - public_holiday: true
+    date: '2021-07-21'
+    names:
+      en: Sacrifice Feast
+      tr: Kurban Bayramı
+  - public_holiday: true
+    date: '2021-07-22'
+    names:
+      en: Sacrifice Feast
+      tr: Kurban Bayramı
+  - public_holiday: true
+    date: '2021-07-23'
+    names:
+      en: Sacrifice Feast
+      tr: Kurban Bayramı
+  - public_holiday: true
+    date: '2021-08-30'
+    names:
+      en: Victory Day
+      tr: Zafer Bayramı
+  - public_holiday: true
+    date: '2021-10-29'
+    names:
+      en: Republic day
+      tr: Cumhuriyet Bayramı
