@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2020-06-02.
+Last updated 2020-06-03.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -154,7 +154,7 @@ Last updated 2020-06-02.
 | 🇯🇪 | Jersey | No Data | - | - | - | - |
 | 🇯🇴 | Jordan | Jordan (all) | 2019 | 14 | - | - |
 | 🇰🇿 | Kazakhstan | No Data | - | - | - | - |
-| 🇰🇪 | Kenya | Kenya (all) | 2019 | 11 | - | - |
+| 🇰🇪 | Kenya | Kenya (all) | 2021 | 12 | - | - |
 | 🇰🇮 | Kiribati | No Data | - | - | - | - |
 | 🇰🇵 | Korea (Democratic People's Republic of) | No Data | - | - | - | - |
 | 🇰🇷 | Korea (Republic of) | South Korea (all) | 2040 | 15 | - | - |
