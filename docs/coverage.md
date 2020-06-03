@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2020-05-04.
+Last updated 2020-06-02.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -288,7 +288,7 @@ Last updated 2020-05-04.
 | 🇹🇴 | Tonga | No Data | - | - | - | - |
 | 🇹🇹 | Trinidad and Tobago | No Data | - | - | - | - |
 | 🇹🇳 | Tunisia | No Data | - | - | - | - |
-| 🇹🇷 | Turkey | No Data | - | - | - | - |
+| 🇹🇷 | Turkey | Turkey (all) | 2021 | 15 | - | - |
 | 🇹🇲 | Turkmenistan | No Data | - | - | - | - |
 | 🇹🇨 | Turks and Caicos Islands | No Data | - | - | - | - |
 | 🇹🇻 | Tuvalu | No Data | - | - | - | - |
@@ -367,4 +367,4 @@ Last updated 2020-05-04.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 84 / 249
+Total coverage: 85 / 249
