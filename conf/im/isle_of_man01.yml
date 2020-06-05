@@ -146,6 +146,10 @@ years:
     names:
       en: Late May Bank Holiday
   - public_holiday: true
+      date: '2020-06-12'
+    names:
+      en: TT Bank Holiday
+  - public_holiday: true
     date: '2020-07-06'
     names:
       en: Tynwald Day
