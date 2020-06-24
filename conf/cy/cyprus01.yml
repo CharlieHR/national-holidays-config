@@ -17,7 +17,7 @@ years:
   - public_holiday: true
     date: '2019-03-25'
     names: 
-      en: Greek Independance Day
+      en: Greek Independence Day
   - public_holiday: true
     date: '2019-04-01'
     names: 
@@ -49,7 +49,7 @@ years:
   - public_holiday: true
     date: '2019-10-01'
     names: 
-      en: Cypriot Independance Day
+      en: Cypriot Independence Day
   - public_holiday: true
     date: '2019-10-28'
     names: 
@@ -78,7 +78,7 @@ years:
   - public_holiday: true
     date: '2020-03-25'
     names: 
-      en: Greek Independance Day
+      en: Greek Independence Day
   - public_holiday: true
     date: '2020-04-01'
     names: 
@@ -106,7 +106,7 @@ years:
   - public_holiday: true
     date: '2020-10-01'
     names: 
-      en: Cypriot Independance Day
+      en: Cypriot Independence Day
   - public_holiday: true
     date: '2020-10-28'
     names: 
@@ -131,7 +131,7 @@ years:
   - public_holiday: true
     date: '2021-03-25'
     names: 
-      en: Greek Independance Day
+      en: Greek Independence Day
   - public_holiday: true
     date: '2021-04-01'
     names: 
@@ -159,7 +159,7 @@ years:
   - public_holiday: true
     date: '2021-10-01'
     names: 
-      en: Cypriot Independance Day
+      en: Cypriot Independence Day
   - public_holiday: true
     date: '2021-10-28'
     names: 

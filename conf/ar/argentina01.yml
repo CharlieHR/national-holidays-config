@@ -197,8 +197,8 @@ years:
   - public_holiday: true
     date: '2020-07-09'
     names:
-      en: Indepndence Day
-      es: Indepndence Day
+      en: Independence Day
+      es: Independence Day
   - public_holiday: true
     date: '2020-08-17'
     names:

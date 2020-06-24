@@ -29,7 +29,7 @@ years:
   - public_holiday: true
     date: '2019-03-12'
     names:
-      en: Independance and Republic Day
+      en: Independence and Republic Day
   - public_holiday: true
     date: '2019-04-06'
     names:
