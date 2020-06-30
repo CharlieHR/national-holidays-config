@@ -460,6 +460,10 @@ years:
     names:
       en: Memorial Day
   - public_holiday: true
+    date: '2020-07-03'
+    names:
+      en: Independence Day (observed)
+  - public_holiday: true
     date: '2020-07-04'
     names:
       en: Independence Day
