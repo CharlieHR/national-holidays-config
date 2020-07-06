@@ -1,0 +1,100 @@
+---
+name: Armenia (all)
+years:
+  '2020':
+  - public_holiday: true
+    date: '2020-07-05'
+    names: 
+      en: Constitution Day
+      hy: Սահմանադրության օր
+  - public_holiday: true
+    date: '2020-09-21'
+    names: 
+      en: Independance day
+      hy: Անկախության օր
+  - public_holiday: true
+    date: '2020-12-31'
+    names: 
+      en: New Years Days
+      hy: Ամանոր
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Year Day
+      hy: Ամանոր 
+  - public_holiday: true
+    date: '2021-01-02'
+    names: 
+      en: New Year Day
+      hy: Ամանոր 
+  - public_holiday: true
+    date: '2021-01-03'
+    names: 
+      en: Pre Christmas Holidays
+      hy: Նախածննդյան տոներ
+  - public_holiday: true
+    date: '2021-01-04'
+    names: 
+      en: Pre Christmas Holidays
+      hy: Նախածննդյան տոներ
+  - public_holiday: true
+    date: '2021-01-05'
+    names: 
+      en: Pre Christmas Holidays
+      hy: Նախածննդյան տոներ
+  - public_holiday: true
+    date: '2021-01-06'
+    names: 
+      en: Christmas day
+      hy: Սուրբ Ծնունդ
+  - public_holiday: true
+    date: '2021-01-07'
+    names: 
+      en: The day of commemoration of all dead people after Christmas Day        
+      hy: Սուրբ Ծննդյան և Հայտնության տոնին հաջորդող` Մեռելոց հիշատակի օր        
+  - public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: Army Day
+      hy: Բանակի օր
+  - public_holiday: true
+    date: '2021-03-08'
+    names: 
+      en: International Women's Day
+      hy: Կանանց տոն
+  - public_holiday: true
+    date: '2021-04-24'
+    names: 
+      en: Armenian Genocide Memorial day
+      hy: Եղեռնի զոհերի հիշատակի օր
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: International Workers' Day
+      hy: Աշխատանքի օր
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Victory and Peace Day
+      hy: Հաղթանակի եւ Խաղաղության տոն
+  - public_holiday: true
+    date: '2021-05-28'
+    names: 
+      en: Republic Day
+      hy: Հանրապետության օր
+  - public_holiday: true
+    date: '2021-07-05'
+    names: 
+      en: Constitution Day
+      hy: Սահմանադրության օր
+  - public_holiday: true
+    date: '2021-09-21'
+    names: 
+      en: Independance day
+      hy: Անկախության օր
+  - public_holiday: true
+    date: '2021-12-31'
+    names: 
+      en: New Years Days
+      hy: Ամանոր
