@@ -1,0 +1,613 @@
+---	---
+name: Jersey (all)	name: Jersey (all)
+years:	years:
+  '2020':	  '2020':
+  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day	  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day
+  '2021':	  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day	  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day	
+  '2021':	
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day	
+  '2021':	
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day	
+  '2021':	
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day	
+  '2021':	
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day	
+  '2021':	
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day	
+  '2021':	
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day	
+  '2021':	
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day	
+  '2021':	
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day	
+  '0':	
+#N/A	
+  '2020':	
+  - public_holiday: true
+    date: '2020-08-31'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2020-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2020-12-28'
+    names: 
+      en: Boxing day	
+  '2021':	
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Early May Bank Holiday
+  - public_holiday: true
+    date: '2021-05-09'
+    names: 
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names: 
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-08-30'
+    names: 
+      en: Summer bank holiday
+  - public_holiday: true
+    date: '2021-09-27'
+    names: 
+      en: Corn Riots
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Boxing day	
+  '0':	
+#N/A	
