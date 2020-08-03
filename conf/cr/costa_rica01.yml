@@ -91,3 +91,92 @@ years:
     date: '2019-12-25'
     names:
       en: 'Christmas Day'
+- public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: "New Year's Day"
+  - public_holiday: true
+    date: '2020-04-09'
+    names:
+      en: 'Good Thursday'
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: 'Good Friday'
+  - public_holiday: true
+    date: '2020-04-11'
+    names:
+      en: 'Juan Santamaria Day'
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: 'Labor Day'
+  - public_holiday: true
+    date: '2020-07-27'
+    names:
+      en: 'Guanacaste Day'
+  - public_holiday: true
+    date: '2020-08-02'
+    names:
+      en: 'Virgin of Los Angeles Day'
+  - public_holiday: true
+    date: '2020-08-17'
+    names:
+      en: "Mother's Day"
+  - public_holiday: true
+    date: '2020-09-14'
+    names:
+      en: 'Independence Day'
+  - public_holiday: true
+    date: '2020-11-1230'
+    names:
+      en: 'National Cultures Day'
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: 'Christmas Day'
+  '2019':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: "New Year's Day"
+  - public_holiday: true
+    date: '2021-04-01'
+    names:
+      en: 'Good Thursday'
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: 'Good Friday'
+  - public_holiday: true
+    date: '2021-04-11'
+    names:
+      en: 'Juan Santamaria Day'
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: 'Labor Day'
+  - public_holiday: true
+    date: '2021-07-26'
+    names:
+      en: 'Guanacaste Day'
+  - public_holiday: true
+    date: '2021-08-02'
+    names:
+      en: 'Virgin of Los Angeles Day'
+  - public_holiday: true
+    date: '2021-08-15'
+    names:
+      en: "Mother's Day"
+  - public_holiday: true
+    date: '2021-09-20'
+    names:
+      en: 'Independence Day'
+  - public_holiday: true
+    date: '2019-12-01'
+    names:
+      en: 'Army Abolition Day'
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: 'Christmas Day'
