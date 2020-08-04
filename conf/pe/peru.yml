@@ -30,13 +30,13 @@ years:
   - public_holiday: true
     date: '2019-07-28'
     names: 
-      en: Independance Day
-      es: Independance Day
+      en: Independence Day
+      es: Independence Day
   - public_holiday: true
     date: '2019-07-29'
     names: 
-      en: Independance Day Holiday
-      es: Independance Day Holiday
+      en: Independence Day Holiday
+      es: Independence Day Holiday
   - public_holiday: true
     date: '2019-08-30'
     names: 
@@ -91,18 +91,18 @@ years:
   - public_holiday: true
     date: '2020-07-27'
     names: 
-      en: Independance Day Holiday
-      es: Independance Day Holiday
+      en: Independence Day Holiday
+      es: Independence Day Holiday
   - public_holiday: true
     date: '2020-07-28'
     names: 
-      en: Independance Day
-      es: Independance Day
+      en: Independence Day
+      es: Independence Day
   - public_holiday: true
     date: '2020-07-29'
     names: 
-      en: Independance Day Holiday
-      es: Independance Day Holiday
+      en: Independence Day Holiday
+      es: Independence Day Holiday
   - public_holiday: true
     date: '2020-08-30'
     names: 
@@ -157,13 +157,13 @@ years:
   - public_holiday: true
     date: '2021-07-28'
     names: 
-      en: Independance Day
-      es: Independance Day
+      en: Independence Day
+      es: Independence Day
   - public_holiday: true
     date: '2021-07-29'
     names: 
-      en: Independance Day Holiday
-      es: Independance Day Holiday
+      en: Independence Day Holiday
+      es: Independence Day Holiday
   - public_holiday: true
     date: '2021-08-30'
     names: 

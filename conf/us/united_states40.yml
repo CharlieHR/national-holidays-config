@@ -348,6 +348,10 @@ years:
     names:
       en: Independence Day
   - public_holiday: true
+    date: '2020-07-06'
+    names:
+      en: Independence Day (observed)
+  - public_holiday: true
     date: '2020-08-10'
     names:
       en: Victory Day

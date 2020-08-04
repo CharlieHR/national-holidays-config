@@ -70,7 +70,7 @@ years:
   - public_holiday: true
     date: '2018-12-29'
     names:
-      en: Independance Day
+      en: Independence Day
       mn: Indpendance Day
   '2018':
   - public_holiday: true
@@ -141,7 +141,7 @@ years:
   - public_holiday: true
     date: '2018-12-29'
     names:
-      en: Independance Day
+      en: Independence Day
       mn: Indpendance Day
   '2018':
   - public_holiday: true
@@ -212,7 +212,7 @@ years:
   - public_holiday: true
     date: '2018-12-29'
     names:
-      en: Independance Day
+      en: Independence Day
       mn: Indpendance Day
   '2019':
   - public_holiday: true
@@ -283,8 +283,8 @@ years:
   - public_holiday: true
     date: '2019-12-29'
     names:
-      en: Independance Day
-      mn: Independance Day
+      en: Independence Day
+      mn: Independence Day
   '2020':
   - public_holiday: true
     date: '2020-01-01'
@@ -354,5 +354,5 @@ years:
   - public_holiday: true
     date: '2020-12-29'
     names:
-      en: Independance Day
-      mn: Independance Day
+      en: Independence Day
+      mn: Independence Day
