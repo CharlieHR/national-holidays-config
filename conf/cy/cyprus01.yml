@@ -4,171 +4,171 @@ years:
   '2019':
   - public_holiday: true
     date: '2019-01-01'
-    names: 
+    names:
       en: New Year's Day
   - public_holiday: true
     date: '2019-01-06'
-    names: 
-      en: Epiphany 
+    names:
+      en: Epiphany
   - public_holiday: true
     date: '2019-03-11'
-    names: 
+    names:
       en: Green Monday
   - public_holiday: true
     date: '2019-03-25'
-    names: 
+    names:
       en: Greek Independence Day
   - public_holiday: true
     date: '2019-04-01'
-    names: 
+    names:
       en: National Day
   - public_holiday: true
     date: '2019-04-26'
-    names: 
+    names:
       en: Orthodox Good Friday
   - public_holiday: true
     date: '2019-04-29'
-    names: 
+    names:
       en: Orthodox Easter Monday
   - public_holiday: true
     date: '2019-05-01'
-    names: 
+    names:
       en: Labour Day
   - public_holiday: true
     date: '2019-06-17'
-    names: 
+    names:
       en: Orthodox Pentecost Monday
   - public_holiday: true
     date: '2019-06-25'
-    names: 
+    names:
       en: Public Holiday
   - public_holiday: true
     date: '2019-08-15'
-    names: 
+    names:
       en: Dormition of the Theotokos
   - public_holiday: true
     date: '2019-10-01'
-    names: 
+    names:
       en: Cypriot Independence Day
   - public_holiday: true
     date: '2019-10-28'
-    names: 
+    names:
       en: Greece National Anniversary Day
   - public_holiday: true
     date: '2019-12-25'
-    names: 
+    names:
       en: Christmas Day
   - public_holiday: true
     date: '2019-12-26'
-    names: 
+    names:
       en: Boxing Day
   '2020':
   - public_holiday: true
     date: '2020-01-01'
-    names: 
+    names:
       en: New Year's Day
   - public_holiday: true
     date: '2020-01-06'
-    names: 
-      en: Epiphany 
+    names:
+      en: Epiphany
   - public_holiday: true
     date: '2020-03-02'
-    names: 
+    names:
       en: Green Monday
   - public_holiday: true
     date: '2020-03-25'
-    names: 
+    names:
       en: Greek Independence Day
   - public_holiday: true
     date: '2020-04-01'
-    names: 
+    names:
       en: National Day
   - public_holiday: true
     date: '2020-04-17'
-    names: 
+    names:
       en: Orthodox Good Friday
   - public_holiday: true
     date: '2020-04-20'
-    names: 
+    names:
       en: Orthodox Easter Monday
   - public_holiday: true
     date: '2020-05-01'
-    names: 
+    names:
       en: Labour Day
   - public_holiday: true
     date: '2020-06-08'
-    names: 
+    names:
       en: Orthodox Pentecost Monday
   - public_holiday: true
     date: '2020-08-15'
-    names: 
+    names:
       en: Dormition of the Theotokos
   - public_holiday: true
     date: '2020-10-01'
-    names: 
+    names:
       en: Cypriot Independence Day
   - public_holiday: true
     date: '2020-10-28'
-    names: 
+    names:
       en: Greece National Anniversary Day
   - public_holiday: true
     date: '2020-12-25'
-    names: 
+    names:
       en: Christmas Day
   - public_holiday: true
     date: '2020-12-26'
-    names: 
+    names:
       en: Boxing Day
   '2021':
   - public_holiday: true
     date: '2021-01-06'
-    names: 
-      en: Epiphany 
+    names:
+      en: Epiphany
   - public_holiday: true
     date: '2021-03-15'
-    names: 
+    names:
       en: Green Monday
   - public_holiday: true
     date: '2021-03-25'
-    names: 
+    names:
       en: Greek Independence Day
   - public_holiday: true
     date: '2021-04-01'
-    names: 
+    names:
       en: National Day
   - public_holiday: true
     date: '2021-04-30'
-    names: 
+    names:
       en: Orthodox Good Friday
   - public_holiday: true
     date: '2021-05-01'
-    names: 
+    names:
       en: Labour Day
   - public_holiday: true
     date: '2021-05-03'
-    names: 
+    names:
       en: Orthodox Easter Monday
   - public_holiday: true
     date: '2021-05-24'
-    names: 
+    names:
       en: Orthodox Pentecost Monday
   - public_holiday: true
     date: '2021-08-15'
-    names: 
+    names:
       en: Dormition of the Theotokos
   - public_holiday: true
     date: '2021-10-01'
-    names: 
+    names:
       en: Cypriot Independence Day
   - public_holiday: true
     date: '2021-10-28'
-    names: 
+    names:
       en: Greece National Anniversary Day
   - public_holiday: true
     date: '2021-12-25'
-    names: 
+    names:
       en: Christmas Day
   - public_holiday: true
     date: '2021-12-26'
-    names: 
+    names:
       en: Boxing Day

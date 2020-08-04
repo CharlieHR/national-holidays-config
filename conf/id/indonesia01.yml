@@ -287,69 +287,69 @@ years:
       id: Ascension Day
    - public_holiday: true
     date: '2020-05-22'
-    names: 
+    names:
       en: Cuti Bersama
   - public_holiday: true
     date: '2020-05-24'
-    names: 
+    names:
       en: Hari Raya Puasa
   - public_holiday: true
     date: '2020-05-25'
-    names: 
+    names:
       en: Hari Raya Puasa holiday
   - public_holiday: true
     date: '2020-06-01'
-    names: 
+    names:
       en: Pancasila day
   - public_holiday: true
     date: '2020-07-31'
-    names: 
+    names:
       en: Feast of the sacrifice
   - public_holiday: true
     date: '2020-08-17'
-    names: 
+    names:
       en: Independance Day
   - public_holiday: true
     date: '2020-08-20'
-    names: 
+    names:
       en: Muharran
   - public_holiday: true
     date: '2020-08-21'
-    names: 
+    names:
       en: Cuti Bersama
   - public_holiday: true
     date: '2020-10-28'
-    names: 
+    names:
       en: Cuti Bersama
   - public_holiday: true
     date: '2020-10-29'
-    names: 
+    names:
       en: Maulad Nabi
   - public_holiday: true
     date: '2020-10-30'
-    names: 
+    names:
       en: Cuti Bersama
   - public_holiday: true
     date: '2020-12-24'
-    names: 
+    names:
       en: Cuti Bersama
   - public_holiday: true
     date: '2020-12-25'
-    names: 
+    names:
       en: Christmas Day
   - public_holiday: true
     date: '2020-12-28'
-    names: 
+    names:
       en: Cuti Bersama
   - public_holiday: true
     date: '2020-12-29'
-    names: 
+    names:
       en: Cuti Bersama
   - public_holiday: true
     date: '2020-12-30'
-    names: 
+    names:
       en: Cuti Bersama
   - public_holiday: true
     date: '2020-12-31'
-    names: 
+    names:
       en: Cuti Bersama
