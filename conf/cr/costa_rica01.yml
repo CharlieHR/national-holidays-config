@@ -129,7 +129,7 @@ years:
     names:
       en: 'Independence Day'
   - public_holiday: true
-    date: '2020-11-1230'
+    date: '2020-10-12'
     names:
       en: 'National Cultures Day'
   - public_holiday: true
@@ -174,7 +174,7 @@ years:
     names:
       en: 'Independence Day'
   - public_holiday: true
-    date: '2019-12-01'
+    date: '2021-12-01'
     names:
       en: 'Army Abolition Day'
   - public_holiday: true
