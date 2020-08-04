@@ -285,7 +285,7 @@ years:
     names:
       en: Ascension Day
       id: Ascension Day
-   - public_holiday: true
+  - public_holiday: true
     date: '2020-05-22'
     names:
       en: Cuti Bersama

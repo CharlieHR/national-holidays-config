@@ -91,7 +91,8 @@ years:
     date: '2019-12-25'
     names:
       en: 'Christmas Day'
-- public_holiday: true
+  '2020':
+  - public_holiday: true
     date: '2020-01-01'
     names:
       en: "New Year's Day"
@@ -135,7 +136,7 @@ years:
     date: '2020-12-25'
     names:
       en: 'Christmas Day'
-  '2019':
+  '2021':
   - public_holiday: true
     date: '2021-01-01'
     names:
