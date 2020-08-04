@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2020-06-30.
+Last updated 2020-08-04.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -14,7 +14,7 @@ Last updated 2020-06-30.
 | 🇦🇶 | Antarctica | No Data | - | - | - | - |
 | 🇦🇬 | Antigua and Barbuda | No Data | - | - | - | - |
 | 🇦🇷 | Argentina | Argentina (all) | 2020 | 10 | - | - |
-| 🇦🇲 | Armenia | No Data | - | - | - | - |
+| 🇦🇲 | Armenia | Armenia (all) | 2021 | 16 | - | - |
 | 🇦🇼 | Aruba | No Data | - | - | - | - |
 | 🇦🇺 | Australia | Australian Capital Territory | 2040 | 14 | - | - |
 | 🇦🇺 | Australia | Queensland | 2040 | 12 | - | - |
@@ -75,7 +75,7 @@ Last updated 2020-06-30.
 | 🇨🇬 | Congo | No Data | - | - | - | - |
 | 🇨🇩 | Congo (Democratic Republic of the) | No Data | - | - | - | - |
 | 🇨🇰 | Cook Islands | No Data | - | - | - | - |
-| 🇨🇷 | Costa Rica | Costa Rica (all) | 2019 | 11 | - | - |
+| 🇨🇷 | Costa Rica | Costa Rica (all) | 2021 | 11 | - | - |
 | 🇭🇷 | Croatia | Croatia (all) | 2040 | 14 | - | - |
 | 🇨🇺 | Cuba | No Data | - | - | - | - |
 | 🇨🇼 | Curaçao | No Data | - | - | - | - |
@@ -142,11 +142,11 @@ Last updated 2020-06-30.
 | 🇭🇺 | Hungary | Hungary (all) | 2040 | 12 | - | - |
 | 🇮🇸 | Iceland | Iceland (all) | 2040 | 16 | - | - |
 | 🇮🇳 | India | India (all) | 2030 | 3 | - | - |
-| 🇮🇩 | Indonesia | Indonesia | 2020 | 10 | - | - |
+| 🇮🇩 | Indonesia | Indonesia | 2020 | 25 | - | - |
 | 🇮🇷 | Iran (Islamic Republic of) | Iran (all) | 2020 | 16 | - | - |
 | 🇮🇶 | Iraq | No Data | - | - | - | - |
 | 🇮🇪 | Ireland | Ireland (all) | 2040 | 9 | - | - |
-| 🇮🇲 | Isle of Man | Isle of Man | 2020 | 9 | - | - |
+| 🇮🇲 | Isle of Man | Isle of Man | 2020 | 10 | - | - |
 | 🇮🇱 | Israel | Israel (all) | 2040 | 12 | - | - |
 | 🇮🇹 | Italy | Italy (all) | 2040 | 12 | - | - |
 | 🇯🇲 | Jamaica | Jamaica (all) | 2020 | 12 | - | - |
@@ -367,4 +367,4 @@ Last updated 2020-06-30.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 85 / 249
+Total coverage: 86 / 249
