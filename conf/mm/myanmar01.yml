@@ -294,42 +294,6 @@ years:
     names:
       en: Labour Day
       my: Labour Day
-  '2018':
-  - public_holiday: true
-    date: '2018-05-20'
-    names:
-      en: Full Moon Day of Kasong
-      my: Full Moon Day of Kasong
-  - public_holiday: true
-    date: '2018-06-17'
-    names:
-      en: Full Moon Day of Waso
-      my: Full Moon Day of Waso
-  - public_holiday: true
-    date: '2018-06-19'
-    names:
-      en: Martyr's Day
-      my: Martyr's Day
-  - public_holiday: true
-    date: '2018-10-14'
-    names:
-      en: Full Mooon Day of Thadingyut
-      my: Full Moon Day of Thadingyut
-  - public_holiday: true
-    date: '2018-11-12'
-    names:
-      en: Full Moon Day of Tazaungmone
-      my: Full Moon Day of Tazaungome
-  - public_holiday: true
-    date: '2018-11-22'
-    names:
-      en: National Day
-      my: National Day
-  - public_holiday: true
-    date: '2018-12-25'
-    names:
-      en: Christmas Day
-      my: Christmas Day
   '2020':
   - public_holiday: true
     date: '2020-08-13'

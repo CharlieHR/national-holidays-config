@@ -132,8 +132,3 @@ years:
     date: '2020-10-29'
     names:
       en: Id el Maulud
-  '2018':
-  - public_holiday: true
-    date: '2018-12-25'
-    names:
-      en: Christmas Day

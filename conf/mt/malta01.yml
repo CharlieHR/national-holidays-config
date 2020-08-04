@@ -270,9 +270,3 @@ years:
     names:
       en: Republic Day Malta
       mt: Republic Day Malta
-  '2018':
-  - public_holiday: true
-    date: '2018-12-25'
-    names:
-      en: Christmas Day
-      mt: Christmas Day

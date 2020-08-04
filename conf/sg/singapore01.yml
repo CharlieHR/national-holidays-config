@@ -152,55 +152,6 @@ years:
     date: '2019-12-25'
     names:
       en: Christmas Day
-  '2018':
-  - public_holiday: true
-    date: '2018-01-25'
-    names:
-      en: Chinese New Year
-  - public_holiday: true
-    date: '2018-01-26'
-    names:
-      en: Chinese New Year
-  - public_holiday: true
-    date: '2018-01-27'
-    names:
-      en: Chinese New Year
-  - public_holiday: true
-    date: '2018-04-10'
-    names:
-      en: Good Friday
-  - public_holiday: true
-    date: '2018-05-01'
-    names:
-      en: National Labour Day
-  - public_holiday: true
-    date: '2018-05-07'
-    names:
-      en: Birth of Buddha
-  - public_holiday: true
-    date: '2018-05-24'
-    names:
-      en: Hari Raya Puasa
-  - public_holiday: true
-    date: '2018-05-25'
-    names:
-      en: Hari Raya Puasa
-  - public_holiday: true
-    date: '2018-07-31'
-    names:
-      en: Feast of the Sacrifice
-  - public_holiday: true
-    date: '2018-09-09'
-    names:
-      en: National Day
-  - public_holiday: true
-    date: '2018-11-14'
-    names:
-      en: Dewali
-  - public_holiday: true
-    date: '2018-12-25'
-    names:
-      en: Christmas Day
   '2020':
   - public_holiday: true
     date: '2020-01-01'
