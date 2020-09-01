@@ -326,22 +326,6 @@ years:
       en: Chakri Memorial Day
       th: Chakri Memorial Day
   - public_holiday: true
-    date: '2020-04-13'
-    names:
-      en: Songkran Festival
-      th: Songkran Festival
-  - public_holiday: true
-    date: '2020-04-14'
-    names:
-      en: Songkran Festival
-      th: Songkran Festival
-  - public_holiday: true
-    date: '2020-04-15'
-    names:
-      en: Songkran Festival
-      th: Songkran Festival
-  - public_holiday: true
-    date: '2020-04-16'
     names:
       en: Songkran Festival
       th: Songkran Festival
@@ -370,6 +354,16 @@ years:
     names:
       en: H.M the Queen's Birthday
       th: H.M the Queen's Birthday
+  - public_holiday: true
+    date: '2020-09-04'
+    names:
+      en: Songkran substitute Day
+      th: Songkran substitute Day
+  - public_holiday: true
+    date: '2020-09-07'
+    names:
+      en: Songkran substitute Day
+      th: Songkran substitute Day
   - public_holiday: true
     date: '2020-10-13'
     names:
