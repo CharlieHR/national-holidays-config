@@ -326,10 +326,6 @@ years:
       en: Chakri Memorial Day
       th: Chakri Memorial Day
   - public_holiday: true
-    names:
-      en: Songkran Festival
-      th: Songkran Festival
-  - public_holiday: true
     date: '2020-05-01'
     names:
       en: National Labour Day
