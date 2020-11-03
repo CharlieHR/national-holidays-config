@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2020-08-04.
+Last updated 2020-11-03.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -281,7 +281,7 @@ Last updated 2020-08-04.
 | 🇹🇼 | Taiwan, Province of China | Taiwan (all) | 2030 | 14 | - | - |
 | 🇹🇯 | Tajikistan | No Data | - | - | - | - |
 | 🇹🇿 | Tanzania, United Republic of | No Data | - | - | - | - |
-| 🇹🇭 | Thailand | Thailand (all) | 2020 | 18 | - | - |
+| 🇹🇭 | Thailand | Thailand (all) | 2020 | 16 | - | - |
 | 🇹🇱 | Timor-Leste | No Data | - | - | - | - |
 | 🇹🇬 | Togo | No Data | - | - | - | - |
 | 🇹🇰 | Tokelau | No Data | - | - | - | - |
