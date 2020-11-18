@@ -346,7 +346,12 @@ years:
       en: Christmas Day
       bg: Christmas Day
   - public_holiday: true
-    date: '2020-12-28'
+    date: '2020-12-26'
     names:
       en: Second Day of Christmas
       bg: Second Day of Christmas
+        - public_holiday: true
+    date: '2020-12-28'
+    names:
+      en: Christmas Holiday
+      bg: Christmas Holiday
