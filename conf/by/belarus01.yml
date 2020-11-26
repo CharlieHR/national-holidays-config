@@ -154,12 +154,6 @@ years:
     names:
       en: Christmas Day
       be: Christmas Day
-  '2020':
-  - public_holiday: true
-    date: '2020-12-11'
-    names:
-      en: Constitution Day
-      be: Constitution Day
   - public_holiday: true
     date: '2020-01-01'
     names:
