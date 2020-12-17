@@ -344,14 +344,14 @@ years:
     date: '2021-01-01'
     names:
       en: New Year's Day
+       - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: Second January Substitute Day
   - public_holiday: true
     date: '2021-04-02'
     names:
       en: Good Friday
-  - public_holiday: true
-    date: '2021-04-05'
-    names:
-      en: Easter Monday
   - public_holiday: true
     date: '2021-05-03'
     names:
@@ -361,17 +361,21 @@ years:
     names:
       en: Spring Bank Holiday
   - public_holiday: true
-    date: '2021-08-30'
+    date: '2021-08-02'
     names:
       en: Late Summer Bank Holiday
+        - public_holiday: true
+    date: '2021-11-30'
+    names:
+      en: St Andrews Day
   - public_holiday: true
     date: '2021-12-27'
     names:
-      en: Boxing Day
+      en: Christmas Day
   - public_holiday: true
     date: '2021-12-28'
     names:
-      en: Christmas Day
+      en: Boxing Day
   '2022':
   - public_holiday: true
     date: '2022-01-03'
