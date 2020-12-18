@@ -148,3 +148,105 @@ years:
     names:
       en: New Year's Eve
       de: Silvester
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: Neujahrstag
+      de: Neujahrstag
+  - public_holiday: true
+    date: '2021-01-02'
+    names:
+      en: Berchtoldstag
+      de: Berchtoldstag
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Karfreitag
+      de: Karfreitag
+  - public_holiday: true
+    date: '2021-04-05'
+    names:
+      en: Ostermontag
+      de: Ostermontag
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Tag der Arbeit
+      de: Tag der Arbeit
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Auffahrt
+      de: Auffahrt
+  - public_holiday: true
+    date: '2021-05-24'
+    names:
+      en: Pfingstmontag
+      de: Pfingstmontag
+  - public_holiday: true
+    date: '2021-08-01'
+    names:
+      en: Bundesfeiertag
+      de: Bundesfeiertag
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Weihnachten
+      de: Weihnachten
+  - public_holiday: true
+    date: '2021-12-26'
+    names:
+      en: Stefanstag
+      de: Stefanstag
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: Neujahrstag
+      de: Neujahrstag
+  - public_holiday: true
+    date: '2022-01-02'
+    names:
+      en: Berchtoldstag
+      de: Berchtoldstag
+  - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Karfreitag
+      de: Karfreitag
+  - public_holiday: true
+    date: '2022-04-18'
+    names:
+      en: Ostermontag
+      de: Ostermontag
+  - public_holiday: true
+    date: '2022-05-01'
+    names:
+      en: Tag der Arbeit
+      de: Tag der Arbeit
+  - public_holiday: true
+    date: '2022-05-26'
+    names:
+      en: Auffahrt
+      de: Auffahrt
+  - public_holiday: true
+    date: '2022-06-06'
+    names:
+      en: Pfingstmontag
+      de: Pfingstmontag
+  - public_holiday: true
+    date: '2022-08-01'
+    names:
+      en: Bundesfeiertag
+      de: Bundesfeiertag
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Weihnachten
+      de: Weihnachten
+  - public_holiday: true
+    date: '2022-12-26'
+    names:
+      en: Stefanstag
+      de: Stefanstag

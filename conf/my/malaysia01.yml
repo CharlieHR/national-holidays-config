@@ -250,3 +250,53 @@ years:
     names:
       en: Christmas Day
       ms: Christmas Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-06-04'
+    names:
+      en: Agong's Birthday
+  - public_holiday: true
+    date: '2021-08-31'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2021-09-16'
+    names:
+      en: Malaysia Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2022-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2022-06-04'
+    names:
+      en: Agong's Birthday
+  - public_holiday: true
+    date: '2022-08-31'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2022-09-16'
+    names:
+      en: Malaysia Day
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Christmas Day

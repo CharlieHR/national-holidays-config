@@ -270,3 +270,145 @@ years:
     names:
       en: Republic Day Malta
       mt: Republic Day Malta
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: L-Ewwel tas-Sena
+      mt: L-Ewwel tas-Sena
+  - public_holiday: true
+    date: '2021-02-10'
+    names:
+      en: Nawfraġju ta' San Pawl
+      mt: Nawfraġju ta' San Pawl
+  - public_holiday: true
+    date: '2021-03-19'
+    names:
+      en: San Ġużepp
+      mt: San Ġużepp
+  - public_holiday: true
+    date: '2021-03-31'
+    names:
+      en: Jum il-Ħelsien
+      mt: Jum il-Ħelsien
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Il-Ġimgħa l-Kbira
+      mt: Il-Ġimgħa l-Kbira
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Jum il-Ħaddiem
+      mt: Jum il-Ħaddiem
+  - public_holiday: true
+    date: '2021-06-07'
+    names:
+      en: Sette Giugno
+      mt: Sette Giugno
+  - public_holiday: true
+    date: '2021-06-29'
+    names:
+      en: L-Imnarja
+      mt: L-Imnarja
+  - public_holiday: true
+    date: '2021-08-15'
+    names:
+      en: Santa Marija
+      mt: Santa Marija
+  - public_holiday: true
+    date: '2021-09-08'
+    names:
+      en: Jum il-Vitorja
+      mt: Jum il-Vitorja
+  - public_holiday: true
+    date: '2021-09-21'
+    names:
+      en: Jum l-Indipendenza
+      mt: Jum l-Indipendenza
+  - public_holiday: true
+    date: '2021-12-08'
+    names:
+      en: Il-Kunċizzjoni
+      mt: Il-Kunċizzjoni
+  - public_holiday: true
+    date: '2021-12-13'
+    names:
+      en: Jum ir-Repubblika
+      mt: Jum ir-Repubblika
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Il-Milied
+      mt: Il-Milied
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: L-Ewwel tas-Sena
+      mt: L-Ewwel tas-Sena
+  - public_holiday: true
+    date: '2022-02-10'
+    names:
+      en: Nawfraġju ta' San Pawl
+      mt: Nawfraġju ta' San Pawl
+  - public_holiday: true
+    date: '2022-03-19'
+    names:
+      en: San Ġużepp
+      mt: San Ġużepp
+  - public_holiday: true
+    date: '2022-03-31'
+    names:
+      en: Jum il-Ħelsien
+      mt: Jum il-Ħelsien
+  - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Il-Ġimgħa l-Kbira
+      mt: Il-Ġimgħa l-Kbira
+  - public_holiday: true
+    date: '2022-05-01'
+    names:
+      en: Jum il-Ħaddiem
+      mt: Jum il-Ħaddiem
+  - public_holiday: true
+    date: '2022-06-07'
+    names:
+      en: Sette Giugno
+      mt: Sette Giugno
+  - public_holiday: true
+    date: '2022-06-29'
+    names:
+      en: L-Imnarja
+      mt: L-Imnarja
+  - public_holiday: true
+    date: '2022-08-15'
+    names:
+      en: Santa Marija
+      mt: Santa Marija
+  - public_holiday: true
+    date: '2022-09-08'
+    names:
+      en: Jum il-Vitorja
+      mt: Jum il-Vitorja
+  - public_holiday: true
+    date: '2022-09-21'
+    names:
+      en: Jum l-Indipendenza
+      mt: Jum l-Indipendenza
+  - public_holiday: true
+    date: '2022-12-08'
+    names:
+      en: Il-Kunċizzjoni
+      mt: Il-Kunċizzjoni
+  - public_holiday: true
+    date: '2022-12-13'
+    names:
+      en: Jum ir-Repubblika
+      mt: Jum ir-Repubblika
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Il-Milied
+      mt: Il-Milied

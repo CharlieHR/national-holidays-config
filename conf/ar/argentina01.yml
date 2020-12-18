@@ -224,3 +224,175 @@ years:
     names:
       en: Christmas Day
       es: Christmas Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: Año Nuevo
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2021-02-15'
+    names:
+      en: Carnaval Lunes
+      es: Carnaval Lunes
+  - public_holiday: true
+    date: '2021-02-16'
+    names:
+      en: Carnaval Martes
+      es: Carnaval Martes
+  - public_holiday: true
+    date: '2021-03-24'
+    names:
+      en: Día Nacional de la Memoria por la Verdad y la Justicia
+      es: Día Nacional de la Memoria por la Verdad y la Justicia
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Viernes Santo
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Día del Veterano y de los Caídos en la Guerra de Malvinas
+      es: Día del Veterano y de los Caídos en la Guerra de Malvinas
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Día del Trabajador
+      es: Día del Trabajador
+  - public_holiday: true
+    date: '2021-05-25'
+    names:
+      en: Día de la Revolución de Mayo
+      es: Día de la Revolución de Mayo
+  - public_holiday: true
+    date: '2021-06-20'
+    names:
+      en: Día de la Bandera
+      es: Día de la Bandera
+  - public_holiday: true
+    date: '2021-07-08'
+    names:
+      en: Feriado puente turístico
+      es: Feriado puente turístico
+  - public_holiday: true
+    date: '2021-07-09'
+    names:
+      en: Día de la Independencia
+      es: Día de la Independencia
+  - public_holiday: true
+    date: '2021-08-15'
+    names:
+      en: Paso a la Inmortalidad del General José de San Martín
+      es: Paso a la Inmortalidad del General José de San Martín
+  - public_holiday: true
+    date: '2021-10-12'
+    names:
+      en: Día del Respeto a la Diversidad Cultural
+      es: Día del Respeto a la Diversidad Cultural
+  - public_holiday: true
+    date: '2021-11-20'
+    names:
+      en: Día de la Soberanía Nacional
+      es: Día de la Soberanía Nacional
+  - public_holiday: true
+    date: '2021-12-08'
+    names:
+      en: Inmaculada Concepción de María
+      es: Inmaculada Concepción de María
+  - public_holiday: true
+    date: '2021-12-09'
+    names:
+      en: Feriado puente turístico
+      es: Feriado puente turístico
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Navidad
+      es: Navidad
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: Año Nuevo
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2022-02-28'
+    names:
+      en: Carnaval Lunes
+      es: Carnaval Lunes
+  - public_holiday: true
+    date: '2022-03-01'
+    names:
+      en: Carnaval Martes
+      es: Carnaval Martes
+  - public_holiday: true
+    date: '2022-03-24'
+    names:
+      en: Día Nacional de la Memoria por la Verdad y la Justicia
+      es: Día Nacional de la Memoria por la Verdad y la Justicia
+  - public_holiday: true
+    date: '2022-04-02'
+    names:
+      en: Día del Veterano y de los Caídos en la Guerra de Malvinas
+      es: Día del Veterano y de los Caídos en la Guerra de Malvinas
+  - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Viernes Santo
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2022-05-01'
+    names:
+      en: Día del Trabajador
+      es: Día del Trabajador
+  - public_holiday: true
+    date: '2022-05-25'
+    names:
+      en: Día de la Revolución de Mayo
+      es: Día de la Revolución de Mayo
+  - public_holiday: true
+    date: '2022-06-20'
+    names:
+      en: Día de la Bandera
+      es: Día de la Bandera
+  - public_holiday: true
+    date: '2022-07-08'
+    names:
+      en: Feriado puente turístico
+      es: Feriado puente turístico
+  - public_holiday: true
+    date: '2022-07-09'
+    names:
+      en: Día de la Independencia
+      es: Día de la Independencia
+  - public_holiday: true
+    date: '2022-08-15'
+    names:
+      en: Paso a la Inmortalidad del General José de San Martín
+      es: Paso a la Inmortalidad del General José de San Martín
+  - public_holiday: true
+    date: '2022-10-12'
+    names:
+      en: Día del Respeto a la Diversidad Cultural
+      es: Día del Respeto a la Diversidad Cultural
+  - public_holiday: true
+    date: '2022-11-20'
+    names:
+      en: Día de la Soberanía Nacional
+      es: Día de la Soberanía Nacional
+  - public_holiday: true
+    date: '2022-12-08'
+    names:
+      en: Inmaculada Concepción de María
+      es: Inmaculada Concepción de María
+  - public_holiday: true
+    date: '2022-12-09'
+    names:
+      en: Feriado puente turístico
+      es: Feriado puente turístico
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Navidad
+      es: Navidad

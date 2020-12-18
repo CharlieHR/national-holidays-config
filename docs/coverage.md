@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2020-11-03.
+Last updated 2020-12-18.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -13,7 +13,7 @@ Last updated 2020-11-03.
 | 🇦🇮 | Anguilla | No Data | - | - | - | - |
 | 🇦🇶 | Antarctica | No Data | - | - | - | - |
 | 🇦🇬 | Antigua and Barbuda | No Data | - | - | - | - |
-| 🇦🇷 | Argentina | Argentina (all) | 2020 | 10 | - | - |
+| 🇦🇷 | Argentina | Argentina (all) | 2022 | 17 | - | - |
 | 🇦🇲 | Armenia | Armenia (all) | 2021 | 16 | - | - |
 | 🇦🇼 | Aruba | No Data | - | - | - | - |
 | 🇦🇺 | Australia | Australian Capital Territory | 2040 | 14 | - | - |
@@ -30,7 +30,7 @@ Last updated 2020-11-03.
 | 🇧🇭 | Bahrain | Bahrain (all) | 2020 | 16 | - | - |
 | 🇧🇩 | Bangladesh | No Data | - | - | - | - |
 | 🇧🇧 | Barbados | No Data | - | - | - | - |
-| 🇧🇾 | Belarus | Belarus | 2020 | 10 | 2019 | 12 |
+| 🇧🇾 | Belarus | Belarus | 2020 | 9 | 2019 | 12 |
 | 🇧🇪 | Belgium | Belgium (all) | 2040 | 12 | - | - |
 | 🇧🇿 | Belize | No Data | - | - | - | - |
 | 🇧🇯 | Benin | No Data | - | - | - | - |
@@ -44,7 +44,7 @@ Last updated 2020-11-03.
 | 🇧🇷 | Brazil | Brazil (all) | 2040 | 15 | - | - |
 | 🇮🇴 | British Indian Ocean Territory | No Data | - | - | - | - |
 | 🇧🇳 | Brunei Darussalam | No Data | - | - | - | - |
-| 🇧🇬 | Bulgaria | Bulgaria (all) | 2020 | 16 | - | - |
+| 🇧🇬 | Bulgaria | Bulgaria (all) | 2022 | 14 | - | - |
 | 🇧🇫 | Burkina Faso | No Data | - | - | - | - |
 | 🇧🇮 | Burundi | No Data | - | - | - | - |
 | 🇨🇻 | Cabo Verde | No Data | - | - | - | - |
@@ -99,7 +99,7 @@ Last updated 2020-11-03.
 | 🇫🇮 | Finland | Finland (all) | 2040 | 15 | - | - |
 | 🇫🇷 | France | Alsace | 2040 | 13 | - | - |
 | 🇫🇷 | France | Moselle | 2040 | 13 | - | - |
-| 🇫🇷 | France | Metropolitan | 2020 | 11 | - | - |
+| 🇫🇷 | France | Metropolitan | 2022 | 11 | - | - |
 | 🇬🇫 | French Guiana | No Data | - | - | - | - |
 | 🇵🇫 | French Polynesia | No Data | - | - | - | - |
 | 🇹🇫 | French Southern Territories | No Data | - | - | - | - |
@@ -120,8 +120,8 @@ Last updated 2020-11-03.
 | 🇩🇪 | Germany | Saarland | 2040 | 12 | - | - |
 | 🇩🇪 | Germany | Schleswig Holstein | 2040 | 9 | - | - |
 | 🇩🇪 | Germany | Thuringia | 2040 | 11 | - | - |
-| 🇩🇪 | Germany | Saxony | 2019 | 12 | - | - |
-| 🇩🇪 | Germany | Saxony-Anhalt | 2019 | 10 | - | - |
+| 🇩🇪 | Germany | Saxony | 2022 | 11 | - | - |
+| 🇩🇪 | Germany | Saxony-Anhalt | 2022 | 11 | - | - |
 | 🇬🇭 | Ghana | No Data | - | - | - | - |
 | 🇬🇮 | Gibraltar | Gibraltar (all) | 2019 | 12 | - | - |
 | 🇬🇷 | Greece | Greece (all) | 2020 | 13 | - | - |
@@ -146,7 +146,7 @@ Last updated 2020-11-03.
 | 🇮🇷 | Iran (Islamic Republic of) | Iran (all) | 2020 | 16 | - | - |
 | 🇮🇶 | Iraq | No Data | - | - | - | - |
 | 🇮🇪 | Ireland | Ireland (all) | 2040 | 9 | - | - |
-| 🇮🇲 | Isle of Man | Isle of Man | 2020 | 10 | - | - |
+| 🇮🇲 | Isle of Man | Isle of Man | 2022 | 8 | - | - |
 | 🇮🇱 | Israel | Israel (all) | 2040 | 12 | - | - |
 | 🇮🇹 | Italy | Italy (all) | 2040 | 12 | - | - |
 | 🇯🇲 | Jamaica | Jamaica (all) | 2020 | 12 | - | - |
@@ -173,10 +173,10 @@ Last updated 2020-11-03.
 | 🇲🇰 | Macedonia (the former Yugoslav Republic of) | Macedonia, Republic of (all) | 2020 | 10 | - | - |
 | 🇲🇬 | Madagascar | No Data | - | - | - | - |
 | 🇲🇼 | Malawi | No Data | - | - | - | - |
-| 🇲🇾 | Malaysia | Malaysia (all) | 2020 | 13 | - | - |
+| 🇲🇾 | Malaysia | Malaysia (all) | 2022 | 6 | - | - |
 | 🇲🇻 | Maldives | No Data | - | - | - | - |
 | 🇲🇱 | Mali | No Data | - | - | - | - |
-| 🇲🇹 | Malta | Malta (all) | 2020 | 12 | - | - |
+| 🇲🇹 | Malta | Malta (all) | 2022 | 14 | - | - |
 | 🇲🇭 | Marshall Islands | No Data | - | - | - | - |
 | 🇲🇶 | Martinique | No Data | - | - | - | - |
 | 🇲🇷 | Mauritania | No Data | - | - | - | - |
@@ -211,7 +211,7 @@ Last updated 2020-11-03.
 | 🇳🇿 | New Zealand | Wellington | 2040 | 11 | - | - |
 | 🇳🇮 | Nicaragua | No Data | - | - | - | - |
 | 🇳🇪 | Niger | No Data | - | - | - | - |
-| 🇳🇬 | Nigeria | Nigeria (all) | 2020 | 11 | - | - |
+| 🇳🇬 | Nigeria | Nigeria (all) | 2022 | 8 | - | - |
 | 🇳🇺 | Niue | No Data | - | - | - | - |
 | 🇳🇫 | Norfolk Island | No Data | - | - | - | - |
 | 🇲🇵 | Northern Mariana Islands | No Data | - | - | - | - |
@@ -224,7 +224,7 @@ Last updated 2020-11-03.
 | 🇵🇬 | Papua New Guinea | No Data | - | - | - | - |
 | 🇵🇾 | Paraguay | No Data | - | - | - | - |
 | 🇵🇪 | Peru | Peru (all) | 2021 | 12 | - | - |
-| 🇵🇭 | Philippines | Philippines (all) | 2020 | 16 | - | - |
+| 🇵🇭 | Philippines | Philippines (all) | 2022 | 14 | - | - |
 | 🇵🇳 | Pitcairn | No Data | - | - | - | - |
 | 🇵🇱 | Poland | Poland (all) | 2040 | 13 | - | - |
 | 🇵🇹 | Portugal | Portugal (all) | 2040 | 13 | - | - |
@@ -249,7 +249,7 @@ Last updated 2020-11-03.
 | 🇷🇸 | Serbia | Serbia (all) | 2040 | 13 | - | - |
 | 🇸🇨 | Seychelles | No Data | - | - | - | - |
 | 🇸🇱 | Sierra Leone | No Data | - | - | - | - |
-| 🇸🇬 | Singapore | Singapore (all) | 2020 | 14 | - | - |
+| 🇸🇬 | Singapore | Singapore (all) | 2022 | 5 | - | - |
 | 🇸🇽 | Sint Maarten (Dutch part) | No Data | - | - | - | - |
 | 🇸🇰 | Slovakia | Slovakia (all) | 2040 | 15 | - | - |
 | 🇸🇮 | Slovenia | Slovenia (all) | 2040 | 14 | - | - |
@@ -258,30 +258,30 @@ Last updated 2020-11-03.
 | 🇿🇦 | South Africa | South Africa (all) | 2040 | 14 | - | - |
 | 🇬🇸 | South Georgia and the South Sandwich Islands | No Data | - | - | - | - |
 | 🇸🇸 | South Sudan | No Data | - | - | - | - |
-| 🇪🇸 | Spain | Asturias | 2020 | 12 | - | - |
-| 🇪🇸 | Spain | Castile and León | 2020 | 12 | - | - |
-| 🇪🇸 | Spain | Galicia | 2020 | 13 | - | - |
-| 🇪🇸 | Spain | Comunidad de Madrid | 2020 | 11 | - | - |
-| 🇪🇸 | Spain | Catalunya | 2020 | 13 | - | - |
-| 🇪🇸 | Spain | Andalucía | 2020 | 14 | - | - |
-| 🇪🇸 | Spain | Comunidad Valenciana | 2020 | 14 | - | - |
+| 🇪🇸 | Spain | Asturias | 2022 | 12 | - | - |
+| 🇪🇸 | Spain | Castile and León | 2022 | 12 | - | - |
+| 🇪🇸 | Spain | Galicia | 2022 | 12 | - | - |
+| 🇪🇸 | Spain | Comunidad de Madrid | 2022 | 13 | - | - |
+| 🇪🇸 | Spain | Catalunya | 2022 | 16 | - | - |
+| 🇪🇸 | Spain | Andalucía | 2022 | 12 | - | - |
+| 🇪🇸 | Spain | Comunidad Valenciana | 2022 | 14 | - | - |
 | 🇪🇸 | Spain | Sevilla | 2020 | 13 | - | - |
 | 🇪🇸 | Spain | Bilbao | 2017 | 15 | - | - |
-| 🇪🇸 | Spain | Baleares | 2020 | 15 | - | - |
+| 🇪🇸 | Spain | Baleares | 2022 | 13 | - | - |
 | 🇱🇰 | Sri Lanka | No Data | - | - | - | - |
 | 🇸🇩 | Sudan | No Data | - | - | - | - |
 | 🇸🇷 | Suriname | No Data | - | - | - | - |
 | 🇸🇯 | Svalbard and Jan Mayen | No Data | - | - | - | - |
 | 🇸🇿 | Swaziland | No Data | - | - | - | - |
 | 🇸🇪 | Sweden | Sweden (all) | 2040 | 16 | - | - |
-| 🇨🇭 | Switzerland | Geneva | 2020 | 9 | - | - |
-| 🇨🇭 | Switzerland | Zug | 2020 | 13 | - | - |
-| 🇨🇭 | Switzerland | Zurich | 2020 | 13 | - | - |
+| 🇨🇭 | Switzerland | Geneva | 2022 | 9 | - | - |
+| 🇨🇭 | Switzerland | Zug | 2022 | 13 | - | - |
+| 🇨🇭 | Switzerland | Zurich | 2022 | 10 | - | - |
 | 🇸🇾 | Syrian Arab Republic | No Data | - | - | - | - |
 | 🇹🇼 | Taiwan, Province of China | Taiwan (all) | 2030 | 14 | - | - |
 | 🇹🇯 | Tajikistan | No Data | - | - | - | - |
 | 🇹🇿 | Tanzania, United Republic of | No Data | - | - | - | - |
-| 🇹🇭 | Thailand | Thailand (all) | 2020 | 16 | - | - |
+| 🇹🇭 | Thailand | Thailand (all) | 2022 | 12 | - | - |
 | 🇹🇱 | Timor-Leste | No Data | - | - | - | - |
 | 🇹🇬 | Togo | No Data | - | - | - | - |
 | 🇹🇰 | Tokelau | No Data | - | - | - | - |
@@ -356,7 +356,7 @@ Last updated 2020-11-03.
 | 🇺🇾 | Uruguay | Uruguay (all) | 2020 | 10 | - | - |
 | 🇺🇿 | Uzbekistan | No Data | - | - | - | - |
 | 🇻🇺 | Vanuatu | No Data | - | - | - | - |
-| 🇻🇪 | Venezuela (Bolivarian Republic of) | Venezuela | 2020 | 13 | - | - |
+| 🇻🇪 | Venezuela (Bolivarian Republic of) | Venezuela | 2022 | 12 | - | - |
 | 🇻🇳 | Viet Nam | Vietnam | 2020 | 12 | - | - |
 | 🇻🇬 | Virgin Islands (British) | No Data | - | - | - | - |
 | 🇻🇮 | Virgin Islands (U.S.) | No Data | - | - | - | - |

@@ -350,3 +350,145 @@ years:
     names:
       en: Second Day of Christmas
       bg: Second Day of Christmas
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: Нова година
+      bg: Нова година
+  - public_holiday: true
+    date: '2021-03-03'
+    names:
+      en: Освобожението на България
+      bg: Освобожението на България
+  - public_holiday: true
+    date: '2021-04-17'
+    names:
+      en: Разпети петък
+      bg: Разпети петък
+  - public_holiday: true
+    date: '2021-04-18'
+    names:
+      en: Велика събота
+      bg: Велика събота
+  - public_holiday: true
+    date: '2021-04-19'
+    names:
+      en: Възкресение Христово. Великден
+      bg: Възкресение Христово. Великден
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Ден на труда
+      bg: Ден на труда
+  - public_holiday: true
+    date: '2021-05-06'
+    names:
+      en: Гергьовден. Ден на храбростта
+      bg: Гергьовден. Ден на храбростта
+  - public_holiday: true
+    date: '2021-05-24'
+    names:
+      en: Ден на славянската писменост
+      bg: Ден на славянската писменост
+  - public_holiday: true
+    date: '2021-09-06'
+    names:
+      en: Ден на Съединението
+      bg: Ден на Съединението
+  - public_holiday: true
+    date: '2021-09-22'
+    names:
+      en: Ден на Независимостта
+      bg: Ден на Независимостта
+  - public_holiday: true
+    date: '2021-11-01'
+    names:
+      en: Ден на Народните будители
+      bg: Ден на Народните будители
+  - public_holiday: true
+    date: '2021-12-24'
+    names:
+      en: Бъдни вечер
+      bg: Бъдни вечер
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Рождество Христово. Коледа
+      bg: Рождество Христово. Коледа
+  - public_holiday: true
+    date: '2021-12-26'
+    names:
+      en: Рождество Христово. Коледа
+      bg: Рождество Христово. Коледа
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: Нова година
+      bg: Нова година
+  - public_holiday: true
+    date: '2022-03-03'
+    names:
+      en: Освобожението на България
+      bg: Освобожението на България
+  - public_holiday: true
+    date: '2022-04-09'
+    names:
+      en: Разпети петък
+      bg: Разпети петък
+  - public_holiday: true
+    date: '2022-04-10'
+    names:
+      en: Велика събота
+      bg: Велика събота
+  - public_holiday: true
+    date: '2022-04-11'
+    names:
+      en: Възкресение Христово. Великден
+      bg: Възкресение Христово. Великден
+  - public_holiday: true
+    date: '2022-05-01'
+    names:
+      en: Ден на труда
+      bg: Ден на труда
+  - public_holiday: true
+    date: '2022-05-06'
+    names:
+      en: Гергьовден. Ден на храбростта
+      bg: Гергьовден. Ден на храбростта
+  - public_holiday: true
+    date: '2022-05-24'
+    names:
+      en: Ден на славянската писменост
+      bg: Ден на славянската писменост
+  - public_holiday: true
+    date: '2022-09-06'
+    names:
+      en: Ден на Съединението
+      bg: Ден на Съединението
+  - public_holiday: true
+    date: '2022-09-22'
+    names:
+      en: Ден на Независимостта
+      bg: Ден на Независимостта
+  - public_holiday: true
+    date: '2022-11-01'
+    names:
+      en: Ден на Народните будители
+      bg: Ден на Народните будители
+  - public_holiday: true
+    date: '2022-12-24'
+    names:
+      en: Бъдни вечер
+      bg: Бъдни вечер
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Рождество Христово. Коледа
+      bg: Рождество Христово. Коледа
+  - public_holiday: true
+    date: '2022-12-26'
+    names:
+      en: Рождество Христово. Коледа
+      bg: Рождество Христово. Коледа

@@ -269,3 +269,117 @@ years:
     names:
       en: Rizal Day
       tl: Rizal Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year’s Day
+  - public_holiday: true
+    date: '2021-04-01'
+    names:
+      en: Maundy Thursday
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-03'
+    names:
+      en: Holy Saturday
+  - public_holiday: true
+    date: '2021-04-04'
+    names:
+      en: Easter Sunday
+  - public_holiday: true
+    date: '2021-04-09'
+    names:
+      en: The Day of Valor
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labor Day
+  - public_holiday: true
+    date: '2021-06-12'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2021-08-21'
+    names:
+      en: Ninoy Aquino Day
+  - public_holiday: true
+    date: '2021-08-30'
+    names:
+      en: National Heroes Day
+  - public_holiday: true
+    date: '2021-11-30'
+    names:
+      en: Bonifacio Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-30'
+    names:
+      en: Rizal Day
+  - public_holiday: true
+    date: '2021-12-31'
+    names:
+      en: New Year's Eve
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: New Year’s Day
+  - public_holiday: true
+    date: '2022-04-09'
+    names:
+      en: The Day of Valor
+  - public_holiday: true
+    date: '2022-04-14'
+    names:
+      en: Maundy Thursday
+  - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2022-04-16'
+    names:
+      en: Holy Saturday
+  - public_holiday: true
+    date: '2022-04-17'
+    names:
+      en: Easter Sunday
+  - public_holiday: true
+    date: '2022-05-01'
+    names:
+      en: Labor Day
+  - public_holiday: true
+    date: '2022-06-12'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2022-08-21'
+    names:
+      en: Ninoy Aquino Day
+  - public_holiday: true
+    date: '2022-08-29'
+    names:
+      en: National Heroes Day
+  - public_holiday: true
+    date: '2022-11-30'
+    names:
+      en: Bonifacio Day
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2022-12-30'
+    names:
+      en: Rizal Day
+  - public_holiday: true
+    date: '2022-12-31'
+    names:
+      en: New Year's Eve

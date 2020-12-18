@@ -103,3 +103,115 @@ years:
     names:
       en: St. Stephen's Day
       de: Zweiter Weihnachtsfeiertag
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: Neujahrstag
+      de: Neujahrstag
+  - public_holiday: true
+    date: '2021-01-06'
+    names:
+      en: Heilige Drei Könige
+      de: Heilige Drei Könige
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Karfreitag
+      de: Karfreitag
+  - public_holiday: true
+    date: '2021-04-05'
+    names:
+      en: Ostermontag
+      de: Ostermontag
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Tag der Arbeit
+      de: Tag der Arbeit
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Christi Himmelfahrt
+      de: Christi Himmelfahrt
+  - public_holiday: true
+    date: '2021-05-24'
+    names:
+      en: Pfingstmontag
+      de: Pfingstmontag
+  - public_holiday: true
+    date: '2021-10-03'
+    names:
+      en: Tag der Deutschen Einheit
+      de: Tag der Deutschen Einheit
+  - public_holiday: true
+    date: '2021-10-31'
+    names:
+      en: Reformationstag
+      de: Reformationstag
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: 1. Weihnachtstag
+      de: 1. Weihnachtstag
+  - public_holiday: true
+    date: '2021-12-26'
+    names:
+      en: 2. Weihnachtstag
+      de: 2. Weihnachtstag
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: Neujahrstag
+      de: Neujahrstag
+  - public_holiday: true
+    date: '2022-01-06'
+    names:
+      en: Heilige Drei Könige
+      de: Heilige Drei Könige
+  - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Karfreitag
+      de: Karfreitag
+  - public_holiday: true
+    date: '2022-04-18'
+    names:
+      en: Ostermontag
+      de: Ostermontag
+  - public_holiday: true
+    date: '2022-05-01'
+    names:
+      en: Tag der Arbeit
+      de: Tag der Arbeit
+  - public_holiday: true
+    date: '2022-05-26'
+    names:
+      en: Christi Himmelfahrt
+      de: Christi Himmelfahrt
+  - public_holiday: true
+    date: '2022-06-06'
+    names:
+      en: Pfingstmontag
+      de: Pfingstmontag
+  - public_holiday: true
+    date: '2022-10-03'
+    names:
+      en: Tag der Deutschen Einheit
+      de: Tag der Deutschen Einheit
+  - public_holiday: true
+    date: '2022-10-31'
+    names:
+      en: Reformationstag
+      de: Reformationstag
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: 1. Weihnachtstag
+      de: 1. Weihnachtstag
+  - public_holiday: true
+    date: '2022-12-26'
+    names:
+      en: 2. Weihnachtstag
+      de: 2. Weihnachtstag

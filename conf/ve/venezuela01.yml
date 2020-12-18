@@ -290,3 +290,125 @@ years:
     names:
       en: New Year's Eve
       es: New Year's Eve
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: Año Nuevo
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2021-02-15'
+    names:
+      en: Lunes Carnaval
+      es: Lunes Carnaval
+  - public_holiday: true
+    date: '2021-02-16'
+    names:
+      en: Martes Carnaval
+      es: Martes Carnaval
+  - public_holiday: true
+    date: '2021-04-01'
+    names:
+      en: Jueves Santo
+      es: Jueves Santo
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Viernes Santo
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2021-04-19'
+    names:
+      en: Declaración Independencia
+      es: Declaración Independencia
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Día del Trabajador
+      es: Día del Trabajador
+  - public_holiday: true
+    date: '2021-06-24'
+    names:
+      en: Aniversario Batalla de Carabobo
+      es: Aniversario Batalla de Carabobo
+  - public_holiday: true
+    date: '2021-07-05'
+    names:
+      en: Día de la Independencia
+      es: Día de la Independencia
+  - public_holiday: true
+    date: '2021-07-24'
+    names:
+      en: Natalicio de Simón Bolívar
+      es: Natalicio de Simón Bolívar
+  - public_holiday: true
+    date: '2021-10-12'
+    names:
+      en: Día de la Resistencia Indígena
+      es: Día de la Resistencia Indígena
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Día de Navidad
+      es: Día de Navidad
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: Año Nuevo
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2022-02-28'
+    names:
+      en: Lunes Carnaval
+      es: Lunes Carnaval
+  - public_holiday: true
+    date: '2022-03-01'
+    names:
+      en: Martes Carnaval
+      es: Martes Carnaval
+  - public_holiday: true
+    date: '2022-04-14'
+    names:
+      en: Jueves Santo
+      es: Jueves Santo
+  - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Viernes Santo
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2022-04-19'
+    names:
+      en: Declaración Independencia
+      es: Declaración Independencia
+  - public_holiday: true
+    date: '2022-05-01'
+    names:
+      en: Día del Trabajador
+      es: Día del Trabajador
+  - public_holiday: true
+    date: '2022-06-24'
+    names:
+      en: Aniversario Batalla de Carabobo
+      es: Aniversario Batalla de Carabobo
+  - public_holiday: true
+    date: '2022-07-05'
+    names:
+      en: Día de la Independencia
+      es: Día de la Independencia
+  - public_holiday: true
+    date: '2022-07-24'
+    names:
+      en: Natalicio de Simón Bolívar
+      es: Natalicio de Simón Bolívar
+  - public_holiday: true
+    date: '2022-10-12'
+    names:
+      en: Día de la Resistencia Indígena
+      es: Día de la Resistencia Indígena
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Día de Navidad
+      es: Día de Navidad

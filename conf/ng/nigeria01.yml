@@ -132,3 +132,69 @@ years:
     date: '2020-10-29'
     names:
       en: Id el Maulud
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names:
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Workers' Day
+  - public_holiday: true
+    date: '2021-06-12'
+    names:
+      en: Democracy Day
+  - public_holiday: true
+    date: '2021-10-01'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-26'
+    names:
+      en: Boxing Day
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2022-04-18'
+    names:
+      en: Easter Monday
+  - public_holiday: true
+    date: '2022-05-01'
+    names:
+      en: Workers' Day
+  - public_holiday: true
+    date: '2022-06-12'
+    names:
+      en: Democracy Day
+  - public_holiday: true
+    date: '2022-10-01'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2022-12-26'
+    names:
+      en: Boxing Day

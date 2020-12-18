@@ -165,3 +165,69 @@ years:
     date: '2020-12-28'
     names:
       en: Boxing Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-04'
+    names:
+      en: Easter Sunday
+  - public_holiday: true
+    date: '2021-05-03'
+    names:
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names:
+      en: Bank Holiday
+  - public_holiday: true
+    date: '2021-07-05'
+    names:
+      en: Tynwald Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-26'
+    names:
+      en: Boxing Day
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2022-04-17'
+    names:
+      en: Easter Sunday
+  - public_holiday: true
+    date: '2022-05-02'
+    names:
+      en: May Day
+  - public_holiday: true
+    date: '2022-05-30'
+    names:
+      en: Bank Holiday
+  - public_holiday: true
+    date: '2022-07-05'
+    names:
+      en: Tynwald Day
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2022-12-26'
+    names:
+      en: Boxing Day
