@@ -344,7 +344,7 @@ years:
     date: '2021-01-01'
     names:
       en: New Year's Day
-       - public_holiday: true
+  - public_holiday: true
     date: '2021-01-04'
     names:
       en: Second January Substitute Day
@@ -364,7 +364,7 @@ years:
     date: '2021-08-02'
     names:
       en: Late Summer Bank Holiday
-        - public_holiday: true
+  - public_holiday: true
     date: '2021-11-30'
     names:
       en: St Andrews Day
