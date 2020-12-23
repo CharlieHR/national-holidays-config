@@ -647,11 +647,6 @@ years:
       en: Constitution Day
       da: Grundlovsdag
   - public_holiday: true
-    date: '2020-12-24'
-    names:
-      en: Christmas Eve
-      da: Juleaften
-  - public_holiday: true
     date: '2020-12-25'
     names:
       en: Christmas Day
@@ -712,11 +707,6 @@ years:
     names:
       en: Constitution Day
       da: Grundlovsdag
-  - public_holiday: true
-    date: '2021-12-24'
-    names:
-      en: Christmas Eve
-      da: Juleaften
   - public_holiday: true
     date: '2021-12-25'
     names:
@@ -779,11 +769,6 @@ years:
       en: Whit Monday
       da: 2. Pinsedag
   - public_holiday: true
-    date: '2022-12-24'
-    names:
-      en: Christmas Eve
-      da: Juleaften
-  - public_holiday: true
     date: '2022-12-25'
     names:
       en: Christmas Day
@@ -844,11 +829,6 @@ years:
     names:
       en: Constitution Day
       da: Grundlovsdag
-  - public_holiday: true
-    date: '2023-12-24'
-    names:
-      en: Christmas Eve
-      da: Juleaften
   - public_holiday: true
     date: '2023-12-25'
     names:
@@ -911,11 +891,6 @@ years:
       en: Constitution Day
       da: Grundlovsdag
   - public_holiday: true
-    date: '2024-12-24'
-    names:
-      en: Christmas Eve
-      da: Juleaften
-  - public_holiday: true
     date: '2024-12-25'
     names:
       en: Christmas Day
@@ -976,11 +951,6 @@ years:
     names:
       en: Whit Monday
       da: 2. Pinsedag
-  - public_holiday: true
-    date: '2025-12-24'
-    names:
-      en: Christmas Eve
-      da: Juleaften
   - public_holiday: true
     date: '2025-12-25'
     names:
