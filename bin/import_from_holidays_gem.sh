@@ -3,6 +3,8 @@
 set -e
 set -x
 
+# Updating existing regions
+
 ./bin/import_from_holidays_gem.rb 'conf/ar/argentina01.yml'      'es' 'ar'     '2021' '2022'
 ./bin/import_from_holidays_gem.rb 'conf/bg/bulgaria01.yml'       'bg' 'bg_bg'  '2021' '2022'
 ./bin/import_from_holidays_gem.rb 'conf/fr/france03.yml'         'fr' 'fr'     '2021' '2022'
@@ -27,3 +29,8 @@ set -x
 ./bin/import_from_holidays_gem.rb 'conf/ch/zurich.yml'           'de' 'ch_zh'  '2021' '2022'
 ./bin/import_from_holidays_gem.rb 'conf/th/thailand01.yml'       'th' 'th'     '2021' '2022'
 ./bin/import_from_holidays_gem.rb 'conf/ve/venezuela01.yml'      'es' 've'     '2021' '2022'
+
+# New regions
+
+./bin/import_from_holidays_gem.rb 'conf/us/united_states52.yml'  'en' 'us'     '2020' '2022'
+./bin/import_from_holidays_gem.rb 'conf/ca/canada14.yml'         'en' 'ca'     '2020' '2022'

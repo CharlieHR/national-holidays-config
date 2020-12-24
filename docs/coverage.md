@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2020-12-23.
+Last updated 2020-12-24.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -63,6 +63,7 @@ Last updated 2020-12-23.
 | 🇨🇦 | Canada | Quebec | 2040 | 10 | - | - |
 | 🇨🇦 | Canada | Saskatchewan | 2040 | 10 | - | - |
 | 🇨🇦 | Canada | Yukon | 2040 | 9 | - | - |
+| 🇨🇦 | Canada | Statutory Only | 2022 | 5 | - | - |
 | 🇰🇾 | Cayman Islands | No Data | - | - | - | - |
 | 🇨🇫 | Central African Republic | No Data | - | - | - | - |
 | 🇹🇩 | Chad | No Data | - | - | - | - |
@@ -353,6 +354,7 @@ Last updated 2020-12-23.
 | 🇺🇸 | United States of America | West Virginia | 2040 | 16 | - | - |
 | 🇺🇸 | United States of America | Wisconsin | 2040 | 9 | - | - |
 | 🇺🇸 | United States of America | Wyoming | 2040 | 9 | - | - |
+| 🇺🇸 | United States of America | Federal Only | 2022 | 9 | - | - |
 | 🇺🇾 | Uruguay | Uruguay (all) | 2020 | 10 | - | - |
 | 🇺🇿 | Uzbekistan | No Data | - | - | - | - |
 | 🇻🇺 | Vanuatu | No Data | - | - | - | - |

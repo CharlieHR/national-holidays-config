@@ -1,0 +1,114 @@
+---
+name: Federal Only
+years:
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2020-01-20'
+    names:
+      en: Martin Luther King, Jr. Day
+  - public_holiday: true
+    date: '2020-02-17'
+    names:
+      en: Presidents' Day
+  - public_holiday: true
+    date: '2020-05-25'
+    names:
+      en: Memorial Day
+  - public_holiday: true
+    date: '2020-07-04'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2020-09-07'
+    names:
+      en: Labor Day
+  - public_holiday: true
+    date: '2020-11-11'
+    names:
+      en: Veterans Day
+  - public_holiday: true
+    date: '2020-11-26'
+    names:
+      en: Thanksgiving
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2021-01-18'
+    names:
+      en: Martin Luther King, Jr. Day
+  - public_holiday: true
+    date: '2021-02-15'
+    names:
+      en: Presidents' Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names:
+      en: Memorial Day
+  - public_holiday: true
+    date: '2021-07-04'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2021-09-06'
+    names:
+      en: Labor Day
+  - public_holiday: true
+    date: '2021-11-11'
+    names:
+      en: Veterans Day
+  - public_holiday: true
+    date: '2021-11-25'
+    names:
+      en: Thanksgiving
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2022-01-17'
+    names:
+      en: Martin Luther King, Jr. Day
+  - public_holiday: true
+    date: '2022-02-21'
+    names:
+      en: Presidents' Day
+  - public_holiday: true
+    date: '2022-05-30'
+    names:
+      en: Memorial Day
+  - public_holiday: true
+    date: '2022-07-04'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2022-09-05'
+    names:
+      en: Labor Day
+  - public_holiday: true
+    date: '2022-11-11'
+    names:
+      en: Veterans Day
+  - public_holiday: true
+    date: '2022-11-24'
+    names:
+      en: Thanksgiving
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Christmas Day
