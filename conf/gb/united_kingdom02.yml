@@ -345,10 +345,6 @@ years:
     names:
       en: New Year's Day
   - public_holiday: true
-    date: '2021-01-04'
-    names:
-      en: Second January Substitute Day
-  - public_holiday: true
     date: '2021-04-02'
     names:
       en: Good Friday
