@@ -255,3 +255,60 @@ years:
     names:
       en: Christmas Day
       fr: Christmas Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: Independance Day
+  - public_holiday: true
+    date: '2021-01-02'
+    names:
+      en: Founder's Day
+  - public_holiday: true
+    date: '2021-02-16'
+    names:
+      en: Carnival
+  - public_holiday: true
+    date: '2021-02-17'
+    names:
+      en: Ash Wednesday
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour and Agricultural Day
+  - public_holiday: true
+    date: '2021-05-18'
+    names:
+      en: Flag and University day
+  - public_holiday: true
+    date: '2021-07-03'
+    names:
+      en: Corpus Christi
+  - public_holiday: true
+    date: '2021-08-15'
+    names:
+      en: Assumption Day
+  - public_holiday: true
+    date: '2021-10-17'
+    names:
+      en: Death of Dessalines
+  - public_holiday: true
+    date: '2021-11-01'
+    names:
+      en: All Saint's Day
+  - public_holiday: true
+    date: '2021-11-02'
+    names:
+      en: All Soul's Day
+  - public_holiday: true
+    date: '2021-11-18'
+    names:
+      en: Battle of Vertieres
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day

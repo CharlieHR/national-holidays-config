@@ -159,3 +159,48 @@ years:
     names:
       en: Saint Kliment Ohridski's Day
       mk: Saint Kliment Ohridski's Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-01-07'
+    names:
+      en: Orthodox Christmas Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-03'
+    names:
+      en: Orthodox Easter Monday
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Ramazan Bajram
+  - public_holiday: true
+    date: '2021-05-24'
+    names:
+      en: St Cyril and St Methodius Day
+  - public_holiday: true
+    date: '2021-08-02'
+    names:
+      en: Republic Day
+  - public_holiday: true
+    date: '2021-09-08'
+    names:
+      en: Independance Day
+  - public_holiday: true
+    date: '2021-10-11'
+    names:
+      en: Revolution day
+  - public_holiday: true
+    date: '2021-10-23'
+    names:
+      en: Day of the Macedonian Revolution
+  - public_holiday: true
+    date: '2021-12-08'
+    names:
+      en: Saint Clement of Ohrid Day

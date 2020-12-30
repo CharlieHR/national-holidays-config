@@ -315,3 +315,60 @@ years:
     names:
       en: National Day
       ar: National Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Eid al-Fitr
+  - public_holiday: true
+    date: '2021-05-14'
+    names:
+      en: Eid al-Fitr holiday
+  - public_holiday: true
+    date: '2021-05-15'
+    names:
+      en: Eid al-Fitr holiday
+  - public_holiday: true
+    date: '2021-07-20'
+    names:
+      en: Eid al adha
+  - public_holiday: true
+    date: '2021-07-21'
+    names:
+      en: Eid al adha holiday
+  - public_holiday: true
+    date: '2021-07-22'
+    names:
+      en: Eid al adha holiday
+  - public_holiday: true
+    date: '2021-08-09'
+    names:
+      en: Al Hijra New Year
+  - public_holiday: true
+    date: '2021-08-17'
+    names:
+      en: Ashoora
+  - public_holiday: true
+    date: '2021-08-18'
+    names:
+      en: Ashoora
+  - public_holiday: true
+    date: '2021-10-18'
+    names:
+      en: Prophet's birthday
+  - public_holiday: true
+    date: '2021-12-16'
+    names:
+      en: Bahrain National Day
+  - public_holiday: true
+    date: '2021-12-17'
+    names:
+      en: Bahrain National Day

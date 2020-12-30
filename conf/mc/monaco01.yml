@@ -255,3 +255,52 @@ years:
     names:
       en: Christmas Day
       fr: Christmas Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2021-01-27'
+    names:
+      en: Saint Dévote's Day
+  - public_holiday: true
+    date: '2021-04-05'
+    names:
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Ascension Day
+  - public_holiday: true
+    date: '2021-05-24'
+    names:
+      en: Whit Monday
+  - public_holiday: true
+    date: '2021-06-03'
+    names:
+      en: Corpus Christi
+  - public_holiday: true
+    date: '2021-08-15'
+    names:
+      en: Assumption Day
+  - public_holiday: true
+    date: '2021-11-01'
+    names:
+      en: All Saints' Day
+  - public_holiday: true
+    date: '2021-11-19'
+    names:
+      en: National Day
+  - public_holiday: true
+    date: '2021-12-08'
+    names:
+      en: Immaculate Conception
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day

@@ -108,3 +108,56 @@ years:
     names:
       en: Finding of the True Cross
       am: Meskel
+  '2021':
+  - public_holiday: true
+    date: '2021-01-07'
+    names:
+      en: Ethiopian Christmas
+  - public_holiday: true
+    date: '2021-01-19'
+    names:
+      en: Timket
+  - public_holiday: true
+    date: '2021-03-02'
+    names:
+      en: Adwa Victory Day
+  - public_holiday: true
+    date: '2021-04-30'
+    names:
+      en: Siklet
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-02'
+    names:
+      en: Ethiopian Easter Sunday
+  - public_holiday: true
+    date: '2021-05-05'
+    names:
+      en: Patriot's Victory Day
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Eid al-Fitr
+  - public_holiday: true
+    date: '2021-05-28'
+    names:
+      en: Derg Downfall Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names:
+      en: Eid al-Adha
+  - public_holiday: true
+    date: '2021-07-11'
+    names:
+      en: Ethiopian New Year
+  - public_holiday: true
+    date: '2021-07-27'
+    names:
+      en: Mescal
+  - public_holiday: true
+    date: '2021-10-19'
+    names:
+      en: Prophet Muhammad's Birthday

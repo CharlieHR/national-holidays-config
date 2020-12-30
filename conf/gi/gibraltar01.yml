@@ -99,3 +99,52 @@ years:
     date: '2019-12-26'
     names:
       en: Boxing Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-02-15'
+    names:
+      en: Commonwealth Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names:
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-04-28'
+    names:
+      en: Workers Memorial Day
+  - public_holiday: true
+    date: '2021-05-03'
+    names:
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-31'
+    names:
+      en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2021-06-14'
+    names:
+      en: Queen's Birthday
+  - public_holiday: true
+    date: '2021-08-30'
+    names:
+      en: Late Summer Bank Holiday
+  - public_holiday: true
+    date: '2021-09-10'
+    names:
+      en: National Day
+  - public_holiday: true
+    date: '2021-12-27'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-28'
+    names:
+      en: Boxing Day

@@ -123,3 +123,64 @@ years:
     date: '2020-12-25'
     names:
       en: Christmas Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2021-01-02'
+    names:
+      en: New Year's Holiday
+  - public_holiday: true
+    date: '2021-01-28'
+    names:
+      en: Thaipoosam Cavadee
+  - public_holiday: true
+    date: '2021-02-01'
+    names:
+      en: Abolition of Slavery
+  - public_holiday: true
+    date: '2021-02-12'
+    names:
+      en: Chinese Spring Festival
+  - public_holiday: true
+    date: '2021-03-11'
+    names:
+      en: Maha Shivaratree
+  - public_holiday: true
+    date: '2021-03-12'
+    names:
+      en: Independence and Republic Day
+  - public_holiday: true
+    date: '2021-04-13'
+    names:
+      en: Ougadi
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-14'
+    names:
+      en: Eid-Ul-Fitr
+  - public_holiday: true
+    date: '2021-09-11'
+    names:
+      en: Ganesh Chaturthi
+  - public_holiday: true
+    date: '2021-11-01'
+    names:
+      en: All Saints' Day
+  - public_holiday: true
+    date: '2021-11-02'
+    names:
+      en: Arrival of Indentured Labourers
+  - public_holiday: true
+    date: '2021-11-04'
+    names:
+      en: Diwali
+  - public_holiday: true
+    date: '2021-11-25'
+    names:
+      en: Christmas Day

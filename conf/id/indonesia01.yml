@@ -353,3 +353,92 @@ years:
     date: '2020-12-31'
     names:
       en: Cuti Bersama
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-02-12'
+    names:
+      en: Chinese New Year
+  - public_holiday: true
+    date: '2021-03-11'
+    names:
+      en: Isra Mi'raj
+  - public_holiday: true
+    date: '2021-03-12'
+    names:
+      en: Isra Mi'raj Holiday
+  - public_holiday: true
+    date: '2021-03-14'
+    names:
+      en: Bali Hindu New Year
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-12'
+    names:
+      en: Lebehan Day
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Ascention Day of Jesus
+  - public_holiday: true
+    date: '2021-05-14'
+    names:
+      en: Hari Raya Idul Fitri
+  - public_holiday: true
+    date: '2021-05-17'
+    names:
+      en: Lebehan Holiday
+  - public_holiday: true
+    date: '2021-05-18'
+    names:
+      en: Lebehan Holiday
+  - public_holiday: true
+    date: '2021-05-19'
+    names:
+      en: Lebehan Holiday
+  - public_holiday: true
+    date: '2021-05-26'
+    names:
+      en: Waisak Day
+  - public_holiday: true
+    date: '2021-06-01'
+    names:
+      en: Pancasila Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names:
+      en: Idul Adha
+  - public_holiday: true
+    date: '2021-08-10'
+    names:
+      en: Islamic New Year
+  - public_holiday: true
+    date: '2021-08-17'
+    names:
+      en: Independance Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names:
+      en: Prophet Muhammad's Birthday
+  - public_holiday: true
+    date: '2021-12-24'
+    names:
+      en: Christmas Holiday
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-27'
+    names:
+      en: Christmas Holiday

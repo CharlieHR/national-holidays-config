@@ -77,3 +77,56 @@ years:
     names:
       en: Christmas Day
       es: Dia de Navidad
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2021-01-06'
+    names:
+      en: Epiphany
+  - public_holiday: true
+    date: '2021-03-19'
+    names:
+      en: St. Joseph's Day
+  - public_holiday: true
+    date: '2021-04-09'
+    names:
+      en: Holy Thursday
+  - public_holiday: true
+    date: '2021-04-10'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-13'
+    names:
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-08-15'
+    names:
+      en: Assumption of the Virgin
+  - public_holiday: true
+    date: '2021-10-12'
+    names:
+      en: Hispanic Day
+  - public_holiday: true
+    date: '2021-11-01'
+    names:
+      en: All Saints Day
+  - public_holiday: true
+    date: '2021-12-06'
+    names:
+      en: Constitution Day
+  - public_holiday: true
+    date: '2021-12-08'
+    names:
+      en: Immaculate Conception Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day

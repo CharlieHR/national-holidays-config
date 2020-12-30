@@ -150,3 +150,40 @@ years:
     names:
       en: National Day
       ar: National Day
+  '2021':
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Eid Al Fitr
+  - public_holiday: true
+    date: '2021-05-14'
+    names:
+      en: Eid Al Fitr
+  - public_holiday: true
+    date: '2021-05-15'
+    names:
+      en: Eid Al Fitr
+  - public_holiday: true
+    date: '2021-05-16'
+    names:
+      en: Eid Al Fitr
+  - public_holiday: true
+    date: '2021-07-19'
+    names:
+      en: Arafat Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names:
+      en: Eid al-Adha
+  - public_holiday: true
+    date: '2021-07-21'
+    names:
+      en: Eid al-Adha
+  - public_holiday: true
+    date: '2021-07-22'
+    names:
+      en: Eid al-Adha
+  - public_holiday: true
+    date: '2021-09-23'
+    names:
+      en: Saudi National Day

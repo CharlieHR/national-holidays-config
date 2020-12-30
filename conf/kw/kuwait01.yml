@@ -285,3 +285,48 @@ years:
     names:
       en: New Year's Eve
       ar: New Year's Eve
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-02-25'
+    names:
+      en: National Day
+  - public_holiday: true
+    date: '2021-02-26'
+    names:
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-03-11'
+    names:
+      en: The Prophet's Ascention
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Eid al-Fitr
+  - public_holiday: true
+    date: '2021-05-14'
+    names:
+      en: Eid al-Fitr Holiday
+  - public_holiday: true
+    date: '2021-05-15'
+    names:
+      en: Eid al-Fitr Holiday
+  - public_holiday: true
+    date: '2021-07-20'
+    names:
+      en: Eid al-Adha
+  - public_holiday: true
+    date: '2021-07-21'
+    names:
+      en: Eid al-Adha Holiday
+  - public_holiday: true
+    date: '2021-08-09'
+    names:
+      en: Islamic New Year
+  - public_holiday: true
+    date: '2021-10-19'
+    names:
+      en: Prophet Muhammad's Birthday

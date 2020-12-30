@@ -200,3 +200,40 @@ years:
     names:
       en: Catholic Christmas Day
       be: Catholic Christmas Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-01-07'
+    names:
+      en: Orthodox Christmas Day
+  - public_holiday: true
+    date: '2021-03-08'
+    names:
+      en: International Women's day
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-09'
+    names:
+      en: Victory Day
+  - public_holiday: true
+    date: '2021-05-11'
+    names:
+      en: Radonitsa
+  - public_holiday: true
+    date: '2021-07-03'
+    names:
+      en: Independance Day
+  - public_holiday: true
+    date: '2021-11-07'
+    names:
+      en: October Revolution Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Catholic Christmas Day

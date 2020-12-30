@@ -267,3 +267,52 @@ years:
     date: '2020-12-25'
     names:
       en: Christmas Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year
+  - public_holiday: true
+    date: '2021-01-06'
+    names:
+      en: Three Kings
+  - public_holiday: true
+    date: '2021-03-01'
+    names:
+      en: Andalucia Day
+  - public_holiday: true
+    date: '2021-04-01'
+    names:
+      en: Maundy Thursday
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: May Day
+  - public_holiday: true
+    date: '2021-08-16'
+    names:
+      en: Asuncion Day
+  - public_holiday: true
+    date: '2021-10-12'
+    names:
+      en: Hispanic Day
+  - public_holiday: true
+    date: '2021-11-01'
+    names:
+      en: All Saints Day
+  - public_holiday: true
+    date: '2021-12-06'
+    names:
+      en: Constitution Day
+  - public_holiday: true
+    date: '2021-12-08'
+    names:
+      en: Day of the Immaculate Conception
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day

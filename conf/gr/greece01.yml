@@ -245,3 +245,60 @@ years:
     names:
       en: Synaxis of the Mother of God
       el: Synaxis of the Mother of God
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-01-06'
+    names:
+      en: Ephiphany
+  - public_holiday: true
+    date: '2021-03-15'
+    names:
+      en: Orthodox Ash Wednesday
+  - public_holiday: true
+    date: '2021-03-25'
+    names:
+      en: Independance Day
+  - public_holiday: true
+    date: '2021-04-30'
+    names:
+      en: Orthodox Good Friday
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-02'
+    names:
+      en: Orthodox Easter Sunday
+  - public_holiday: true
+    date: '2021-05-03'
+    names:
+      en: Orthodox Easter Monday
+  - public_holiday: true
+    date: '2021-06-20'
+    names:
+      en: Orthodox Whit Sunday
+  - public_holiday: true
+    date: '2021-06-21'
+    names:
+      en: Orthodox Whit Monday
+  - public_holiday: true
+    date: '2021-08-15'
+    names:
+      en: Assumption Day
+  - public_holiday: true
+    date: '2021-10-28'
+    names:
+      en: Ochi Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-26'
+    names:
+      en: 2nd Day of Chrismas

@@ -133,3 +133,64 @@ years:
     names:
       en: UAE National Day
       ar: UAE National Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2021-05-11'
+    names:
+      en: Eid al-Fitr Holiday
+  - public_holiday: true
+    date: '2021-05-12'
+    names:
+      en: Eid al-Fitr Holiday
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Eid al-Fitr
+  - public_holiday: true
+    date: '2021-05-14'
+    names:
+      en: Eid al-Fitr Holiday
+  - public_holiday: true
+    date: '2021-05-15'
+    names:
+      en: Eid al-Fitr Holiday
+  - public_holiday: true
+    date: '2021-07-19'
+    names:
+      en: Arafat Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names:
+      en: Eid al-Adha
+  - public_holiday: true
+    date: '2021-07-21'
+    names:
+      en: Eid al-Adha Holiday
+  - public_holiday: true
+    date: '2021-07-22'
+    names:
+      en: Eid al-Adha Holiday
+  - public_holiday: true
+    date: '2021-08-12'
+    names:
+      en: Islamic New Year
+  - public_holiday: true
+    date: '2021-10-21'
+    names:
+      en: Prophet Muhammad's Birthday
+  - public_holiday: true
+    date: '2021-12-01'
+    names:
+      en: Commemoration Day
+  - public_holiday: true
+    date: '2021-12-02'
+    names:
+      en: National Day
+  - public_holiday: true
+    date: '2021-12-03'
+    names:
+      en: National Day Holiday

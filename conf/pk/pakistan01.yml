@@ -193,3 +193,60 @@ years:
     date: '2020-12-25'
     names:
       en: Quiad-e-Azam Day
+  '2021':
+  - public_holiday: true
+    date: '2021-02-05'
+    names:
+      en: Kashmir Day
+  - public_holiday: true
+    date: '2021-03-23'
+    names:
+      en: Pakistan Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Eid ul-Fitr
+  - public_holiday: true
+    date: '2021-05-14'
+    names:
+      en: Eid ul-Fitr Holiday
+  - public_holiday: true
+    date: '2021-05-15'
+    names:
+      en: Eid ul-Fitr Holiday
+  - public_holiday: true
+    date: '2021-07-20'
+    names:
+      en: Eid ul-Azha
+  - public_holiday: true
+    date: '2021-07-21'
+    names:
+      en: Eid ul-Azha Holiday
+  - public_holiday: true
+    date: '2021-08-14'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2021-08-18'
+    names:
+      en: Ashura
+  - public_holiday: true
+    date: '2021-08-19'
+    names:
+      en: Ashura
+  - public_holiday: true
+    date: '2021-10-19'
+    names:
+      en: Milad un-Nabi
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Quiad-e-Azam Day

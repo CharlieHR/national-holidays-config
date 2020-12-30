@@ -255,3 +255,56 @@ years:
     names:
       en: Constitution Day
       ro: Constitution Day
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: New Year's Day
+  - public_holiday: true
+    date: '2021-01-07'
+    names:
+      en: Orthodox Christmas Day
+  - public_holiday: true
+    date: '2021-01-08'
+    names:
+      en: Orthodox Christmas Holiday
+  - public_holiday: true
+    date: '2021-03-08'
+    names:
+      en: International Women's Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-02'
+    names:
+      en: Orthodox Easter Sunday
+  - public_holiday: true
+    date: '2021-05-03'
+    names:
+      en: Orthodox Easter Monday
+  - public_holiday: true
+    date: '2021-05-09'
+    names:
+      en: Victory Day
+  - public_holiday: true
+    date: '2021-05-10'
+    names:
+      en: Easter of Blajini
+  - public_holiday: true
+    date: '2021-06-01'
+    names:
+      en: Childern's Day
+  - public_holiday: true
+    date: '2021-08-27'
+    names:
+      en: Independence Day
+  - public_holiday: true
+    date: '2021-08-31'
+    names:
+      en: National Language Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
