@@ -392,6 +392,11 @@ years:
       en: วันขึ้นปีใหม่
       th: วันขึ้นปีใหม่
   - public_holiday: true
+    date: '2021-02-26'
+    names:
+      en: ពិធីបុណ្យមាឃបូជា
+      th: ពិធីបុណ្យមាឃបូជា
+  - public_holiday: true
     date: '2021-04-06'
     names:
       en: วันจักรี
