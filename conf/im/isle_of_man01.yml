@@ -175,9 +175,9 @@ years:
     names:
       en: Good Friday
   - public_holiday: true
-    date: '2021-04-04'
+    date: '2021-04-05'
     names:
-      en: Easter Sunday
+      en: Easter Monday
   - public_holiday: true
     date: '2021-05-03'
     names:
@@ -208,9 +208,9 @@ years:
     names:
       en: Good Friday
   - public_holiday: true
-    date: '2022-04-17'
+    date: '2022-04-18'
     names:
-      en: Easter Sunday
+      en: Easter Monday
   - public_holiday: true
     date: '2022-05-02'
     names:
