@@ -190,6 +190,10 @@ years:
     date: '2021-07-05'
     names:
       en: Tynwald Day
+        - public_holiday: true
+    date: '2021-08-30'
+    names:
+      en: Late Summer Bank Holiday
   - public_holiday: true
     date: '2021-12-25'
     names:
