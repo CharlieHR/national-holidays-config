@@ -175,9 +175,9 @@ years:
     names:
       en: Good Friday
   - public_holiday: true
-    date: '2021-04-04'
+    date: '2021-04-05'
     names:
-      en: Easter Sunday
+      en: Easter Monday
   - public_holiday: true
     date: '2021-05-03'
     names:
@@ -190,7 +190,11 @@ years:
     date: '2021-07-05'
     names:
       en: Tynwald Day
-        - public_holiday: true
+  - public_holiday: true
+    date: '2021-08-27'
+    names:
+      en: TT Senior Race Day
+  - public_holiday: true
     date: '2021-08-30'
     names:
       en: Late Summer Bank Holiday
@@ -212,9 +216,9 @@ years:
     names:
       en: Good Friday
   - public_holiday: true
-    date: '2022-04-17'
+    date: '2022-04-18'
     names:
-      en: Easter Sunday
+      en: Easter Monday
   - public_holiday: true
     date: '2022-05-02'
     names:
