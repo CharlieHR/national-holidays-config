@@ -195,6 +195,10 @@ years:
     names:
       en: TT Senior Race Day
   - public_holiday: true
+    date: '2021-08-30'
+    names:
+      en: Late Summer Bank Holiday
+  - public_holiday: true
     date: '2021-12-25'
     names:
       en: Christmas Day
