@@ -408,7 +408,7 @@ years:
     date: '2021-03-17'
     names:
       en: St. Patrick's Day
-        - public_holiday: true
+  - public_holiday: true
     date: '2021-04-02'
     names:
       en: Good Friday

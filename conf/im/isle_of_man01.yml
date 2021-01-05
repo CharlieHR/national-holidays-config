@@ -190,7 +190,7 @@ years:
     date: '2021-07-05'
     names:
       en: Tynwald Day
-       - public_holiday: true
+  - public_holiday: true
     date: '2021-08-27'
     names:
       en: TT Senior Race Day
