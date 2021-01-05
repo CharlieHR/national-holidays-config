@@ -357,6 +357,10 @@ years:
     names:
       en: New Year's Day
   - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Good Friday
+  - public_holiday: true
     date: '2021-04-05'
     names:
       en: Easter Monday
