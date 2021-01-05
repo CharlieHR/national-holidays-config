@@ -371,11 +371,11 @@ years:
   - public_holiday: true
     date: '2021-12-27'
     names:
-      en: Boxing Day
+      en: Christmas Day
   - public_holiday: true
     date: '2021-12-28'
     names:
-      en: Christmas Day
+      en: Boxing Day
   '2022':
   - public_holiday: true
     date: '2022-01-03'
