@@ -361,10 +361,6 @@ years:
     names:
       en: Good Friday
   - public_holiday: true
-    date: '2021-04-05'
-    names:
-      en: Easter Monday
-  - public_holiday: true
     date: '2021-05-03'
     names:
       en: May Day Bank Holiday
@@ -394,9 +390,9 @@ years:
     names:
       en: New Year's Day
   - public_holiday: true
-    date: '2022-04-18'
+    date: '2022-04-15'
     names:
-      en: Easter Monday
+      en: Good Friday
   - public_holiday: true
     date: '2022-05-02'
     names:
