@@ -377,6 +377,10 @@ years:
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
+    date: '2021-11-30'
+    names:
+      en: St. Andrew's Day
+  - public_holiday: true
     date: '2021-12-27'
     names:
       en: Christmas Day
@@ -402,13 +406,21 @@ years:
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    date: '2022-05-30'
+    date: '2022-06-02'
     names:
       en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2022-06-03'
+    names:
+      en: Platinum Jubilee bank holiday
   - public_holiday: true
     date: '2022-08-01'
     names:
       en: Late Summer Bank Holiday
+  - public_holiday: true
+    date: '2022-11-30'
+    names:
+      en: St. Andrew's Day
   - public_holiday: true
     date: '2022-12-26'
     names:
