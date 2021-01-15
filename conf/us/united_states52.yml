@@ -64,6 +64,10 @@ years:
     names:
       en: Labor Day
   - public_holiday: true
+    date: '2021-10-11'
+    names:
+      en: Columbus Day
+  - public_holiday: true
     date: '2021-11-11'
     names:
       en: Veterans Day
@@ -100,6 +104,10 @@ years:
     date: '2022-09-05'
     names:
       en: Labor Day
+  - public_holiday: true
+    date: '2022-10-11'
+    names:
+      en: Columbus Day
   - public_holiday: true
     date: '2022-11-11'
     names:
