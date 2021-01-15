@@ -420,12 +420,12 @@ years:
     date: '2021-05-03'
     names:
       en: Labour Day
-      th: 
+      th: วันแรงงาน
   - public_holiday: true
     date: '2021-05-26'
     names:
       en: Visakha Bucha Day
-      th: 
+      th: ความหมายของวันวิสาขบูชา
   - public_holiday: true
     date: '2021-07-28'
     names:
