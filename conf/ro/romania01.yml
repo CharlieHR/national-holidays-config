@@ -443,6 +443,11 @@ years:
     names:
       en: Unification of the Romanian Principalities/Small Union
       ro: Unirea Principatelor Române/Mica Unire
+      - public_holiday: true
+    date: '2021-04-30'
+    names:
+      en: Orthodox Good Friday
+      ro: 
   - public_holiday: true
     date: '2021-05-01'
     names:
@@ -458,6 +463,11 @@ years:
     names:
       en: Orthodox Easter Monday
       ro: Doua zi de Pasti
+   - public_holiday: true
+    date: '2021-06-1'
+    names:
+      en: Children's day
+      ro: 
   - public_holiday: true
     date: '2021-06-20'
     names:
