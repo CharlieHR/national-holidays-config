@@ -477,9 +477,17 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
+    date: '2021-11-26'
+    names:
+      en: Day after Thanksgiving
+  - public_holiday: true
     date: '2021-12-25'
     names:
       en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-31'
+    names:
+      en: New years Day in Lieu
   '2022':
   - public_holiday: true
     date: '2022-01-01'
