@@ -367,22 +367,27 @@ years:
       en: Освобожението на България
       bg: Освобожението на България
   - public_holiday: true
-    date: '2021-04-17'
+    date: '2021-04-30'
     names:
       en: Разпети петък
       bg: Разпети петък
   - public_holiday: true
-    date: '2021-04-18'
+    date: '2021-05-01'
     names:
       en: Велика събота
       bg: Велика събота
-  - public_holiday: true
-    date: '2021-04-19'
+   - public_holiday: true
+    date: '2021-05-02'
     names:
       en: Възкресение Христово. Великден
       bg: Възкресение Христово. Великден
   - public_holiday: true
-    date: '2021-05-01'
+    date: '2021-05-03'
+    names:
+      en: православен Великден понеделник
+      bg: православен Великден понеделник
+  - public_holiday: true
+    date: '2021-05-04'
     names:
       en: Ден на труда
       bg: Ден на труда
