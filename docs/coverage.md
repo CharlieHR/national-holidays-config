@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2021-01-28.
+Last updated 2021-02-01.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -354,7 +354,7 @@ Last updated 2021-01-28.
 | 🇺🇸 | United States of America | West Virginia | 2040 | 16 | - | - |
 | 🇺🇸 | United States of America | Wisconsin | 2040 | 9 | - | - |
 | 🇺🇸 | United States of America | Wyoming | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | Federal Only | 2022 | 9 | - | - |
+| 🇺🇸 | United States of America | Federal Only | 2022 | 10 | - | - |
 | 🇺🇾 | Uruguay | Uruguay (all) | 2020 | 10 | - | - |
 | 🇺🇿 | Uzbekistan | No Data | - | - | - | - |
 | 🇻🇺 | Vanuatu | No Data | - | - | - | - |
