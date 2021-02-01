@@ -215,11 +215,11 @@ years:
     names:
       en: New Year's Day
   - public_holiday: true
-    date: '2021-01-13'
+    date: '2021-02-12'
     names:
       en: Chinese Lunar New Years Day
   - public_holiday: true
-    date: '2021-01-12'
+    date: '2021-02-13'
     names:
       en: Second Day of Chinese Lunar New Years Day
   - public_holiday: true
