@@ -390,58 +390,58 @@ years:
     date: '2021-01-01'
     names:
       en: New Years Day
-      th: วันขึ้นปีใหม่
+      th: New Years Day
   - public_holiday: true
     date: '2021-02-26'
     names:
       en: Makra Bukra
-      th: ពិធីបុណ្យមាឃបូជា
+      th: Makra Bukra
   - public_holiday: true
     date: '2021-04-06'
     names:
       en: Chakri Day
-      th: วันจักรี
+      th: Chakri Day
   - public_holiday: true
     date: '2021-04-13'
     names:
       en: Songkran
-      th: วันสงกรานต์
+      th: Songkran
   - public_holiday: true
     date: '2021-04-14'
     names:
       en: Songkran Holiday
-      th: วันสงกรานต์
+      th: Songkran Holiday
   - public_holiday: true
     date: '2021-04-15'
     names:
       en: Songkran Holiday
-      th: วันสงกรานต์
+      th: Songkran Holiday
   - public_holiday: true
     date: '2021-05-03'
     names:
       en: Labour Day
-      th: วันแรงงาน
+      th: Labour Day
   - public_holiday: true
     date: '2021-05-26'
     names:
       en: Visakha Bucha Day
-      th: ความหมายของวันวิสาขบูชา
+      th: Visakha Bucha Day
   - public_holiday: true
     date: '2021-07-28'
     names:
       en: H.M. King's Birthday
-      th: วันเฉลิมพระชนมพรรษาสมเด็จพระเจ้าอยู่หัวมหาวชิราลงกรณ บดินทรเทพยวรางกูร
+      th: H.M. King's Birthday
   - public_holiday: true
     date: '2021-08-12'
     names:
       en: H.M. Queen Mother's Birthday
-      th: วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถในรัชกาลที่
+      th: H.M. Queen Mother's Birthday
         ๙
   - public_holiday: true
     date: '2021-10-13'
     names:
       en: The passing of king Bhumibol
-      th: วันคล้ายวันสวรรคตพระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช บรมนาถบพิตร
+      th: The passing of king Bhumibol
   - public_holiday: true
     date: '2021-10-22'
     names:
@@ -451,28 +451,28 @@ years:
     date: '2021-12-05'
     names:
       en: King Bhumibol's birthday
-      th: วันคล้ายวันเฉลิมพระชนมพรรษาพระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช บรมนาถบพิตร
+      th: King Bhumibol's birthday
   - public_holiday: true
     date: '2021-12-10'
     names:
       en: Thailand Constitution Day
-      th: วันรัฐธรรมนูญ
+      th: Thailand Constitution Day
   - public_holiday: true
     date: '2021-12-31'
     names:
       en: New Years Eve
-      th: วันสิ้นปี
+      th: New Years Eve
   '2022':
   - public_holiday: true
     date: '2022-01-01'
     names:
       en: New Years Day
-      th: วันขึ้นปีใหม่
+      th: New Years Day
   - public_holiday: true
     date: '2022-04-06'
     names:
-      en: วันจักรี
-      th: วันจักรี
+      en: Chakri Day
+      th: Chakri Day
   - public_holiday: true
     date: '2022-04-13'
     names:
@@ -481,30 +481,38 @@ years:
   - public_holiday: true
     date: '2022-04-14'
     names:
-      en: วันสงกรานต์
-      th: วันสงกรานต์
+      en: songkran
+      th: songkran
   - public_holiday: true
     date: '2022-04-15'
     names:
-      en: วันสงกรานต์
-      th: วันสงกรานต์
+      en: songkran
+      th: songkran
+   - public_holiday: true
+    date: '2022-05-02'
+    names:
+      en: Labour Day in lieu
+      th: Labour Day in lieu
+   - public_holiday: true
+    date: '2022-05-04'
+    names:
+      en: h.m. King's Coronation
+      th: h.m. King's Coronation
   - public_holiday: true
     date: '2022-07-28'
     names:
-      en: วันเฉลิมพระชนมพรรษาสมเด็จพระเจ้าอยู่หัวมหาวชิราลงกรณ บดินทรเทพยวรางกูร
-      th: วันเฉลิมพระชนมพรรษาสมเด็จพระเจ้าอยู่หัวมหาวชิราลงกรณ บดินทรเทพยวรางกูร
+      en:  h.m. King's birthday
+      th:  h.m. King's birthday
   - public_holiday: true
     date: '2022-08-12'
     names:
-      en: วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถในรัชกาลที่
-        ๙
-      th: วันเฉลิมพระชนมพรรษาสมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถในรัชกาลที่
-        ๙
+      en:  Mother's day
+      th:  Mother's day
   - public_holiday: true
     date: '2022-10-13'
     names:
-      en: วันคล้ายวันสวรรคตพระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช บรมนาถบพิตร
-      th: วันคล้ายวันสวรรคตพระบาทสมเด็จพระปรมินทรมหาภูมิพลอดุลยเดช บรมนาถบพิตร
+      en:  The passing of king Bhumibol
+      th:  The passing of king Bhumibol
   - public_holiday: true
     date: '2022-10-23'
     names:
