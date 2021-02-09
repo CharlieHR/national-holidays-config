@@ -444,6 +444,11 @@ years:
       en: Día de Andalucía
       es: Día de Andalucía
   - public_holiday: true
+    date: '2021-03-01'
+    names:
+      en: Día de Andalucía in Lieu
+      es: Día de Andalucía in Lieu
+  - public_holiday: true
     date: '2021-04-01'
     names:
       en: Jueves Santo
@@ -463,6 +468,21 @@ years:
     names:
       en: Asunción
       es: Asunción
+   - public_holiday: true
+    date: '2021-08-16'
+    names:
+      en: Asunción in Lieu
+      es: Asunción in Lieu
+   - public_holiday: true
+    date: '2021-08-16'
+    names:
+      en: Toma de Málaga por los Reyes Católicos
+      es: Toma de Málaga por los Reyes Católicos
+  - public_holiday: true
+    date: '2021-09-08'
+    names:
+      en: Virgen de la Victoria
+      es: Virgen de la Victoria
   - public_holiday: true
     date: '2021-10-12'
     names:
