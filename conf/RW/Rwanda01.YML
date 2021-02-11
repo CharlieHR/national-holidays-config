@@ -1,0 +1,99 @@
+---
+name: Rwanda (all)
+years:
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Year's Day
+      rw: New Year's Day
+  - public_holiday: true
+    date: '2021-04-01'
+    names: 
+      en: New Year Holiday
+      rw: New Year Holiday
+  - public_holiday: true
+    date: '2021-02-01'
+    names: 
+      en: National Heroes Day
+      rw: National Heroes Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+      rw: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+      rw: Easter Monday
+  - public_holiday: true
+    date: '2021-04-07'
+    names: 
+      en: Tutsi Genocide Memorial Day
+      rw: Tutsi Genocide Memorial Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: Labour Day
+      rw: Labour Day
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Labour Day Holiday
+      rw: Labour Day Holiday
+  - public_holiday: true
+    date: '2021-05-13'
+    names: 
+      en: Eid al-Fitr
+      rw: Eid al-Fitr
+  - public_holiday: true
+    date: '2021-07-01'
+    names: 
+      en: Independence Day
+      rw: Independence Day
+  - public_holiday: true
+    date: '2021-07-04'
+    names: 
+      en: Liberation Day
+      rw: Liberation Day
+  - public_holiday: true
+    date: '2021-07-05'
+    names: 
+      en: Liberation Day holiday
+      rw: Liberation Day holiday
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Eid al-Adha
+      rw: Eid al-Adha
+  - public_holiday: true
+    date: '2021-08-06'
+    names: 
+      en: Umuganura
+      rw: Umuganura
+  - public_holiday: true
+    date: '2021-08-15'
+    names: 
+      en: Assumption Day
+      rw: Assumption Day
+  - public_holiday: true
+    date: '2021-08-16'
+    names: 
+      en: Assumption Day Holiday
+      rw: Assumption Day Holiday
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day
+      rw: Christmas Day
+  - public_holiday: true
+    date: '2021-12-26'
+    names: 
+      en: Boxing Day
+      rw: Boxing Day
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Holiday
+      rw: Christmas Holiday
