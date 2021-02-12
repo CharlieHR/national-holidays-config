@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2021-02-01.
+Last updated 2021-02-12.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -171,7 +171,6 @@ Last updated 2021-02-01.
 | 🇱🇹 | Lithuania | Lithuania (all) | 2040 | 15 | - | - |
 | 🇱🇺 | Luxembourg | Luxembourg (all) | 2040 | 10 | - | - |
 | 🇲🇴 | Macao | No Data | - | - | - | - |
-| 🇲🇰 | Macedonia (the former Yugoslav Republic of) | Macedonia, Republic of (all) | 2021 | 11 | - | - |
 | 🇲🇬 | Madagascar | No Data | - | - | - | - |
 | 🇲🇼 | Malawi | No Data | - | - | - | - |
 | 🇲🇾 | Malaysia | Malaysia (all) | 2022 | 6 | - | - |
@@ -215,6 +214,7 @@ Last updated 2021-02-01.
 | 🇳🇬 | Nigeria | Nigeria (all) | 2022 | 8 | - | - |
 | 🇳🇺 | Niue | No Data | - | - | - | - |
 | 🇳🇫 | Norfolk Island | No Data | - | - | - | - |
+| 🇲🇰 | North Macedonia | Macedonia, Republic of (all) | 2021 | 11 | - | - |
 | 🇲🇵 | Northern Mariana Islands | No Data | - | - | - | - |
 | 🇳🇴 | Norway | Norway (all) | 2040 | 12 | - | - |
 | 🇴🇲 | Oman | Oman | 2021 | 13 | - | - |
@@ -233,7 +233,7 @@ Last updated 2021-02-01.
 | 🇶🇦 | Qatar | No Data | - | - | - | - |
 | 🇷🇴 | Romania | Romania (all) | 2040 | 13 | - | - |
 | 🇷🇺 | Russian Federation | Russia (all) | 2040 | 16 | - | - |
-| 🇷🇼 | Rwanda | No Data | - | - | - | - |
+| 🇷🇼 | Rwanda | Rwanda (all) | 2021 | 19 | - | - |
 | 🇷🇪 | Réunion | No Data | - | - | - | - |
 | 🇧🇱 | Saint Barthélemy | No Data | - | - | - | - |
 | 🇸🇭 | Saint Helena, Ascension and Tristan da Cunha | No Data | - | - | - | - |
@@ -273,7 +273,6 @@ Last updated 2021-02-01.
 | 🇸🇩 | Sudan | No Data | - | - | - | - |
 | 🇸🇷 | Suriname | No Data | - | - | - | - |
 | 🇸🇯 | Svalbard and Jan Mayen | No Data | - | - | - | - |
-| 🇸🇿 | Swaziland | No Data | - | - | - | - |
 | 🇸🇪 | Sweden | Sweden (all) | 2040 | 16 | - | - |
 | 🇨🇭 | Switzerland | Geneva | 2022 | 9 | - | - |
 | 🇨🇭 | Switzerland | Zug | 2022 | 13 | - | - |
@@ -282,7 +281,7 @@ Last updated 2021-02-01.
 | 🇹🇼 | Taiwan, Province of China | Taiwan (all) | 2030 | 14 | - | - |
 | 🇹🇯 | Tajikistan | No Data | - | - | - | - |
 | 🇹🇿 | Tanzania, United Republic of | No Data | - | - | - | - |
-| 🇹🇭 | Thailand | Thailand (all) | 2022 | 12 | - | - |
+| 🇹🇭 | Thailand | Thailand (all) | 2022 | 14 | - | - |
 | 🇹🇱 | Timor-Leste | No Data | - | - | - | - |
 | 🇹🇬 | Togo | No Data | - | - | - | - |
 | 🇹🇰 | Tokelau | No Data | - | - | - | - |
@@ -367,6 +366,7 @@ Last updated 2021-02-01.
 | 🇾🇪 | Yemen | No Data | - | - | - | - |
 | 🇿🇲 | Zambia | No Data | - | - | - | - |
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
+| 🇸🇿 | eSwatini | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 86 / 249
+Total coverage: 87 / 249
