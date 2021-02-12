@@ -468,12 +468,12 @@ years:
     names:
       en: Asunción
       es: Asunción
-   - public_holiday: true
+  - public_holiday: true
     date: '2021-08-16'
     names:
       en: Asunción in lieu
       es: Asunción in lieu
-   - public_holiday: true
+  - public_holiday: true
     date: '2021-08-19'
     names:
       en: Toma de Málaga por los Reyes Católicos

@@ -488,12 +488,12 @@ years:
     names:
       en: songkran
       th: songkran
-   - public_holiday: true
+  - public_holiday: true
     date: '2022-05-02'
     names:
       en: Labour Day in lieu
       th: Labour Day in lieu
-   - public_holiday: true
+  - public_holiday: true
     date: '2022-05-04'
     names:
       en: h.m. King's Coronation
