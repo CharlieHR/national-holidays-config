@@ -1,0 +1,141 @@
+---
+name: Canton de Vaud
+years:
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: Neujahrstag
+      de: Neujahrstag
+  - public_holiday: true
+    date: '2020-01-02'
+    names:
+      en: Berchtoldstag
+      de: Berchtoldstag
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Karfreitag
+      de: Karfreitag
+  - public_holiday: true
+    date: '2020-04-13'
+    names:
+      en: Ostermontag
+      de: Ostermontag
+  - public_holiday: true
+    date: '2020-05-21'
+    names:
+      en: Auffahrt
+      de: Auffahrt
+  - public_holiday: true
+    date: '2020-06-01'
+    names:
+      en: Pfingstmontag
+      de: Pfingstmontag
+  - public_holiday: true
+    date: '2020-08-01'
+    names:
+      en: Bundesfeiertag
+      de: Bundesfeiertag
+  - public_holiday: true
+    date: '2020-09-21'
+    names:
+      en: Lundi du Jeûne fédéral
+      fr: Lundi du Jeûne fédéral
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Weihnachten
+      de: Weihnachten
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: Neujahrstag
+      de: Neujahrstag
+  - public_holiday: true
+    date: '2021-01-02'
+    names:
+      en: Berchtoldstag
+      de: Berchtoldstag
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Karfreitag
+      de: Karfreitag
+  - public_holiday: true
+    date: '2021-04-05'
+    names:
+      en: Ostermontag
+      de: Ostermontag
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Auffahrt
+      de: Auffahrt
+  - public_holiday: true
+    date: '2021-05-24'
+    names:
+      en: Pfingstmontag
+      de: Pfingstmontag
+  - public_holiday: true
+    date: '2021-08-01'
+    names:
+      en: Bundesfeiertag
+      de: Bundesfeiertag
+  - public_holiday: true
+    date: '2021-09-20'
+    names:
+      en: Lundi du Jeûne fédéral
+      fr: Lundi du Jeûne fédéral
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Weihnachten
+      de: Weihnachten
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: Neujahrstag
+      de: Neujahrstag
+  - public_holiday: true
+    date: '2022-01-02'
+    names:
+      en: Berchtoldstag
+      de: Berchtoldstag
+  - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Karfreitag
+      de: Karfreitag
+  - public_holiday: true
+    date: '2022-04-18'
+    names:
+      en: Ostermontag
+      de: Ostermontag
+  - public_holiday: true
+    date: '2022-05-26'
+    names:
+      en: Auffahrt
+      de: Auffahrt
+  - public_holiday: true
+    date: '2022-06-06'
+    names:
+      en: Pfingstmontag
+      de: Pfingstmontag
+  - public_holiday: true
+    date: '2022-08-01'
+    names:
+      en: Bundesfeiertag
+      de: Bundesfeiertag
+  - public_holiday: true
+    date: '2022-09-19'
+    names:
+      en: Lundi du Jeûne fédéral
+      fr: Lundi du Jeûne fédéral
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Weihnachten
+      de: Weihnachten
