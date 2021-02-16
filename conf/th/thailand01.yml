@@ -394,8 +394,8 @@ years:
   - public_holiday: true
     date: '2021-02-26'
     names:
-      en: Makra Bukra
-      th: Makra Bukra
+      en: Makha Bucha
+      th: Makha Bucha
   - public_holiday: true
     date: '2021-04-06'
     names:
@@ -446,7 +446,7 @@ years:
     date: '2021-10-22'
     names:
       en: Chulalongkorn
-      th: วันปิยมหาราช
+      th: Chulalongkorn
   - public_holiday: true
     date: '2021-12-05'
     names:
