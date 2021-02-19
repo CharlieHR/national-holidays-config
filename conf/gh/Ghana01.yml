@@ -1,0 +1,68 @@
+---
+name: Ghana (all)
+years:
+  '2021':
+  - public_holiday: true
+    date: '2021-01-07'
+    names: 
+      en: Constitution Day
+  - public_holiday: true
+    date: '2021-03-06'
+    names: 
+      en: Independance Day
+  - public_holiday: true
+    date: '2021-03-08'
+    names: 
+      en: Independance Day Holiday
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-05'
+    names: 
+      en: Easter Monday
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: May Day Holiday
+  - public_holiday: true
+    date: '2021-05-13'
+    names: 
+      en: Eid Al-Fitr
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Eid Al-Adha
+  - public_holiday: true
+    date: '2021-08-20'
+    names: 
+      en: Eid Al-Fitr
+  - public_holiday: true
+    date: '2021-09-04'
+    names: 
+      en: Kwarme Nkrumah Memorial Day
+  - public_holiday: true
+    date: '2021-12-03'
+    names: 
+      en: Farmers Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-26'
+    names: 
+      en: Boxing Day
+  - public_holiday: true
+    date: '2021-12-27'
+    names: 
+      en: Christmas Holiday
+  - public_holiday: true
+    date: '2021-12-28'
+    names: 
+      en: Christmas Holiday
