@@ -194,56 +194,56 @@ years:
     names:
       en: Christmas Day
       es: Day of the Family
-        '2021':
+  '2021':
   - public_holiday: true
     date: '2021-01-06'
-    names: 
-      en: Epiphany 
+    names:
+      en: Epiphany
   - public_holiday: true
     date: '2021-02-15'
-    names: 
+    names:
       en: Carnival
   - public_holiday: true
     date: '2021-02-16'
-    names: 
+    names:
       en: Carnival
   - public_holiday: true
     date: '2021-04-02'
-    names: 
+    names:
       en: Good Friday
   - public_holiday: true
     date: '2021-04-19'
-    names: 
+    names:
       en: Landing of the Patriots
   - public_holiday: true
     date: '2021-05-01'
-    names: 
+    names:
       en: Labour Day
   - public_holiday: true
     date: '2021-05-17'
-    names: 
+    names:
       en: Battle of Las Piedras
   - public_holiday: true
     date: '2021-06-19'
-    names: 
+    names:
       en: Birth of Artigas
   - public_holiday: true
     date: '2021-07-18'
-    names: 
+    names:
       en: Constitution Day
   - public_holiday: true
     date: '2021-08-25'
-    names: 
+    names:
       en: Independance Day
   - public_holiday: true
     date: '2021-10-11'
-    names: 
+    names:
       en: Day of the Race
   - public_holiday: true
     date: '2021-11-02'
-    names: 
+    names:
       en: All Souls Day
   - public_holiday: true
     date: '2021-12-25'
-    names: 
+    names:
       en: Christmas Day
