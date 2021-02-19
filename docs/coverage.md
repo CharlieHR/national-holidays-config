@@ -123,7 +123,7 @@ Last updated 2021-02-19.
 | 🇩🇪 | Germany | Thuringia | 2040 | 11 | - | - |
 | 🇩🇪 | Germany | Saxony | 2022 | 11 | - | - |
 | 🇩🇪 | Germany | Saxony-Anhalt | 2022 | 11 | - | - |
-| 🇬🇭 | Ghana | No Data | - | - | - | - |
+| 🇬🇭 | Ghana | Ghana (all) | 2021 | 16 | - | - |
 | 🇬🇮 | Gibraltar | Gibraltar (all) | 2021 | 12 | - | - |
 | 🇬🇷 | Greece | Greece (all) | 2021 | 14 | - | - |
 | 🇬🇱 | Greenland | No Data | - | - | - | - |
@@ -370,4 +370,4 @@ Last updated 2021-02-19.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 88 / 249
+Total coverage: 89 / 249
