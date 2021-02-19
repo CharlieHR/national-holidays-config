@@ -1,0 +1,72 @@
+---
+name: Lebanon
+years:
+  '2021':
+  - public_holiday: true
+    date: '2021-01-06'
+    names:
+      en: Armenian Christmas Day
+  - public_holiday: true
+    date: '2021-01-09'
+    names:
+      en: St Maroun's Day
+  - public_holiday: true
+    date: '2021-02-14'
+    names:
+      en: Rafik Hariri Memorial Day
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-03'
+    names:
+      en: Easter Sunday
+  - public_holiday: true
+    date: '2021-04-30'
+    names:
+      en: Orthodox Good Friday
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-02'
+    names:
+      en: Orthodox Easter Sunday
+  - public_holiday: true
+    date: '2021-05-13'
+    names:
+      en: Eid Al-Fitr
+  - public_holiday: true
+    date: '2021-05-25'
+    names:
+      en: Resistance & Liberation Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names:
+      en: Eid al adha
+  - public_holiday: true
+    date: '2021-08-10'
+    names:
+      en: Hijri new year
+  - public_holiday: true
+    date: '2021-08-15'
+    names:
+      en: Assumption Day
+  - public_holiday: true
+    date: '2021-08-10'
+    names:
+      en: Ashoura
+  - public_holiday: true
+    date: '2021-10-19'
+    names:
+      en: Birthday of Prophet Muhammad
+  - public_holiday: true
+    date: '2021-11-22'
+    names:
+      en: Independance Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day"
