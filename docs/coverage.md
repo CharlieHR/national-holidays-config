@@ -356,7 +356,7 @@ Last updated 2021-02-19.
 | 🇺🇸 | United States of America | Wisconsin | 2040 | 9 | - | - |
 | 🇺🇸 | United States of America | Wyoming | 2040 | 9 | - | - |
 | 🇺🇸 | United States of America | Federal Only | 2022 | 10 | - | - |
-| 🇺🇾 | Uruguay | Uruguay (all) | 2020 | 10 | - | - |
+| 🇺🇾 | Uruguay | Uruguay (all) | 2021 | 13 | - | - |
 | 🇺🇿 | Uzbekistan | No Data | - | - | - | - |
 | 🇻🇺 | Vanuatu | No Data | - | - | - | - |
 | 🇻🇪 | Venezuela (Bolivarian Republic of) | Venezuela | 2022 | 12 | - | - |
