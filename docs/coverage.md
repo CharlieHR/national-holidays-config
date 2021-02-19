@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2021-02-15.
+Last updated 2021-02-19.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -163,7 +163,7 @@ Last updated 2021-02-15.
 | 🇰🇬 | Kyrgyzstan | No Data | - | - | - | - |
 | 🇱🇦 | Lao People's Democratic Republic | No Data | - | - | - | - |
 | 🇱🇻 | Latvia | Latvia (all) | 2040 | 15 | - | - |
-| 🇱🇧 | Lebanon | No Data | - | - | - | - |
+| 🇱🇧 | Lebanon | Lebanon | 2021 | 17 | - | - |
 | 🇱🇸 | Lesotho | No Data | - | - | - | - |
 | 🇱🇷 | Liberia | No Data | - | - | - | - |
 | 🇱🇾 | Libya | No Data | - | - | - | - |
@@ -370,4 +370,4 @@ Last updated 2021-02-15.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 87 / 249
+Total coverage: 88 / 249
