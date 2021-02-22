@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2021-02-21.
+Last updated 2021-02-22.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -123,7 +123,7 @@ Last updated 2021-02-21.
 | 🇩🇪 | Germany | Thuringia | 2040 | 11 | - | - |
 | 🇩🇪 | Germany | Saxony | 2022 | 11 | - | - |
 | 🇩🇪 | Germany | Saxony-Anhalt | 2022 | 11 | - | - |
-| 🇬🇭 | Ghana | Ghana (all) | 2021 | 16 | - | - |
+| 🇬🇭 | Ghana | Ghana (all) | 2021 | 15 | - | - |
 | 🇬🇮 | Gibraltar | Gibraltar (all) | 2021 | 12 | - | - |
 | 🇬🇷 | Greece | Greece (all) | 2021 | 14 | - | - |
 | 🇬🇱 | Greenland | No Data | - | - | - | - |
