@@ -653,16 +653,6 @@ years:
       en: Orthodox Easter
       sr: Vaskrs
   - public_holiday: true
-    date: '2021-05-01'
-    names:
-      en: May Day Holiday
-      sr: Praznik rada
-  - public_holiday: true
-    date: '2021-05-02'
-    names:
-      en: May Day Holiday
-      sr: Praznik rada
-  - public_holiday: true
     date: '2021-05-03'
     names:
       en: Orthodox Easter Monday
