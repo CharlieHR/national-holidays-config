@@ -55,7 +55,7 @@ years:
     names:
       en: Assumption Day
   - public_holiday: true
-    date: '2021-08-10'
+    date: '2021-08-19'
     names:
       en: Ashoura
   - public_holiday: true
@@ -69,4 +69,4 @@ years:
   - public_holiday: true
     date: '2021-12-25'
     names:
-      en: Christmas Day"
+      en: Christmas Day
