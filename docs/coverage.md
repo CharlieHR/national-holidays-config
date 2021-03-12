@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2021-02-25.
+Last updated 2021-03-12.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -171,7 +171,6 @@ Last updated 2021-02-25.
 | 🇱🇹 | Lithuania | Lithuania (all) | 2040 | 15 | - | - |
 | 🇱🇺 | Luxembourg | Luxembourg (all) | 2040 | 10 | - | - |
 | 🇲🇴 | Macao | No Data | - | - | - | - |
-| 🇲🇰 | Macedonia (the former Yugoslav Republic of) | Macedonia, Republic of (all) | 2021 | 11 | - | - |
 | 🇲🇬 | Madagascar | No Data | - | - | - | - |
 | 🇲🇼 | Malawi | No Data | - | - | - | - |
 | 🇲🇾 | Malaysia | Malaysia (all) | 2022 | 6 | - | - |
@@ -215,6 +214,7 @@ Last updated 2021-02-25.
 | 🇳🇬 | Nigeria | Nigeria (all) | 2022 | 8 | - | - |
 | 🇳🇺 | Niue | No Data | - | - | - | - |
 | 🇳🇫 | Norfolk Island | No Data | - | - | - | - |
+| 🇲🇰 | North Macedonia | Macedonia, Republic of (all) | 2021 | 11 | - | - |
 | 🇲🇵 | Northern Mariana Islands | No Data | - | - | - | - |
 | 🇳🇴 | Norway | Norway (all) | 2040 | 12 | - | - |
 | 🇴🇲 | Oman | Oman | 2021 | 13 | - | - |
@@ -273,7 +273,6 @@ Last updated 2021-02-25.
 | 🇸🇩 | Sudan | No Data | - | - | - | - |
 | 🇸🇷 | Suriname | No Data | - | - | - | - |
 | 🇸🇯 | Svalbard and Jan Mayen | No Data | - | - | - | - |
-| 🇸🇿 | Swaziland | No Data | - | - | - | - |
 | 🇸🇪 | Sweden | Sweden (all) | 2040 | 16 | - | - |
 | 🇨🇭 | Switzerland | Canton de Vaud | 2022 | 9 | - | - |
 | 🇨🇭 | Switzerland | Geneva | 2022 | 9 | - | - |
@@ -368,6 +367,7 @@ Last updated 2021-02-25.
 | 🇾🇪 | Yemen | No Data | - | - | - | - |
 | 🇿🇲 | Zambia | No Data | - | - | - | - |
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
+| 🇸🇿 | eSwatini | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
 Total coverage: 89 / 249
