@@ -1221,6 +1221,11 @@ years:
       en: Spring Festival
       zh: 春节
   - public_holiday: true
+    date: '2021-04-03'
+    names:
+      en: Tomb Sweeping Day
+      zh: 清明节
+  - public_holiday: true
     date: '2021-04-04'
     names:
       en: Tomb Sweeping Day
@@ -1247,6 +1252,16 @@ years:
       zh: 劳动节
   - public_holiday: true
     date: '2021-05-03'
+    names:
+      en: Labor Day Holiday
+      zh: 劳动节
+  - public_holiday: true
+    date: '2021-05-04'
+    names:
+      en: Labor Day Holiday
+      zh: 劳动节
+  - public_holiday: true
+    date: '2021-05-05'
     names:
       en: Labor Day Holiday
       zh: 劳动节
