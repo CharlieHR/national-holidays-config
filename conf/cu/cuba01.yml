@@ -1,0 +1,56 @@
+---
+name: Cuba (all)
+years:
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: Liberation Day
+  - public_holiday: true
+    date: '2021-01-02'
+    names:
+      en: Victory Day
+  - public_holiday: true
+    date: '2021-01-03'
+    names:
+      en: New Year Holiday
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Labor Day
+  - public_holiday: true
+    date: '2021-07-25'
+    names:
+      en: Revolution Anniversary
+  - public_holiday: true
+    date: '2021-07-26'
+    names:
+      en: Revolution Anniversary
+  - public_holiday: true
+    date: '2021-07-27'
+    names:
+      en: Revolution Anniversary
+  - public_holiday: true
+    date: '2021-07-28'
+    names:
+      en: Revolution Anniversary Holiday
+  - public_holiday: true
+    date: '2021-10-10'
+    names:
+      en: Independance Day
+  - public_holiday: true
+    date: '2021-10-11'
+    names:
+      en: Independance Day Holiday
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Christmas Day
+  - public_holiday: true
+    date: '2021-12-31'
+    names:
+      en: New year's Eve
