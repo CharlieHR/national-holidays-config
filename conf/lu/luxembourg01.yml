@@ -527,6 +527,11 @@ years:
     names:
       en: May Day
       fr: 1. Mee / Fête du Travail / Tag der Arbeit
+       - public_holiday: true
+    date: '2021-05-09'
+    names:
+      en: Europe Day
+      fr: Europe Day
   - public_holiday: true
     date: '2021-05-13'
     names:
