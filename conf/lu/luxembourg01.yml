@@ -16,7 +16,7 @@ years:
     date: '2011-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2011-06-02'
     names:
@@ -67,7 +67,7 @@ years:
     date: '2012-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2012-05-17'
     names:
@@ -118,7 +118,7 @@ years:
     date: '2013-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2013-05-09'
     names:
@@ -169,7 +169,7 @@ years:
     date: '2014-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2014-05-29'
     names:
@@ -220,7 +220,7 @@ years:
     date: '2015-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2015-05-14'
     names:
@@ -271,7 +271,7 @@ years:
     date: '2016-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2016-05-05'
     names:
@@ -322,7 +322,7 @@ years:
     date: '2017-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2017-05-25'
     names:
@@ -373,7 +373,7 @@ years:
     date: '2018-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2018-05-10'
     names:
@@ -424,7 +424,7 @@ years:
     date: '2019-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2019-05-30'
     names:
@@ -475,7 +475,7 @@ years:
     date: '2020-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2020-05-21'
     names:
@@ -526,8 +526,8 @@ years:
     date: '2021-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
-       - public_holiday: true
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
+  - public_holiday: true
     date: '2021-05-09'
     names:
       en: Europe Day
@@ -582,7 +582,7 @@ years:
     date: '2022-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2022-05-26'
     names:
@@ -633,7 +633,7 @@ years:
     date: '2023-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2023-05-18'
     names:
@@ -684,7 +684,7 @@ years:
     date: '2024-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2024-05-09'
     names:
@@ -735,7 +735,7 @@ years:
     date: '2025-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2025-05-29'
     names:
@@ -786,7 +786,7 @@ years:
     date: '2026-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2026-05-14'
     names:
@@ -837,7 +837,7 @@ years:
     date: '2027-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2027-05-06'
     names:
@@ -888,7 +888,7 @@ years:
     date: '2028-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2028-05-25'
     names:
@@ -939,7 +939,7 @@ years:
     date: '2029-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2029-05-10'
     names:
@@ -990,7 +990,7 @@ years:
     date: '2030-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2030-05-30'
     names:
@@ -1041,7 +1041,7 @@ years:
     date: '2031-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2031-05-22'
     names:
@@ -1092,7 +1092,7 @@ years:
     date: '2032-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2032-05-06'
     names:
@@ -1143,7 +1143,7 @@ years:
     date: '2033-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2033-05-26'
     names:
@@ -1194,7 +1194,7 @@ years:
     date: '2034-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2034-05-18'
     names:
@@ -1245,7 +1245,7 @@ years:
     date: '2035-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2035-05-03'
     names:
@@ -1296,7 +1296,7 @@ years:
     date: '2036-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2036-05-22'
     names:
@@ -1347,7 +1347,7 @@ years:
     date: '2037-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2037-05-14'
     names:
@@ -1398,7 +1398,7 @@ years:
     date: '2038-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2038-06-03'
     names:
@@ -1449,7 +1449,7 @@ years:
     date: '2039-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2039-05-19'
     names:
@@ -1500,7 +1500,7 @@ years:
     date: '2040-05-01'
     names:
       en: May Day
-      fr: 1. Mee / Fête du Travail / Tag der Arbeit
+      fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
     date: '2040-05-10'
     names:
