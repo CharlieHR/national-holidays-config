@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2021-04-14.
+Last updated 2021-05-04.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -190,7 +190,7 @@ Last updated 2021-04-14.
 | 🇲🇳 | Mongolia | Mongolia (all) | 2020 | 14 | - | - |
 | 🇲🇪 | Montenegro | No Data | - | - | - | - |
 | 🇲🇸 | Montserrat | No Data | - | - | - | - |
-| 🇲🇦 | Morocco | No Data | - | - | - | - |
+| 🇲🇦 | Morocco | Morocco (all) | 2021 | 12 | - | - |
 | 🇲🇿 | Mozambique | No Data | - | - | - | - |
 | 🇲🇲 | Myanmar | Myanmar | 2020 | 7 | - | - |
 | 🇳🇦 | Namibia | No Data | - | - | - | - |
@@ -370,4 +370,4 @@ Last updated 2021-04-14.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 90 / 249
+Total coverage: 91 / 249
