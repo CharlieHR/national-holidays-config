@@ -493,6 +493,11 @@ years:
       en: King's Day
       nl: Koningsdag
   - public_holiday: true
+    date: '2021-05-25'
+    names:
+      en: Liberation Day
+      nl: Bevrijdingsdag
+  - public_holiday: true
     date: '2021-05-13'
     names:
       en: Ascension Day
