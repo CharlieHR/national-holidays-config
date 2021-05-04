@@ -1,0 +1,51 @@
+name: Morocco (all)
+years:
+  '2021':
+  - public_holiday: true
+    date: '2021-01-11'
+    names: 
+      en: Proclamation of Independance
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-13'
+    names: 
+      en: Eid al-Fitr
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Eid al-Adha
+  - public_holiday: true
+    date: '2021-07-30'
+    names: 
+      en: Throne Day
+  - public_holiday: true
+    date: '2021-08-10'
+    names: 
+      en: Islamic New Year
+  - public_holiday: true
+    date: '2021-08-14'
+    names: 
+      en: Oued Ed-Dahab Day
+  - public_holiday: true
+    date: '2021-08-20'
+    names: 
+      en: Revolution Day
+  - public_holiday: true
+    date: '2021-08-21'
+    names: 
+      en: Youth Day
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Prophet Muhammad's Birthday
+  - public_holiday: true
+    date: '2021-11-06'
+    names: 
+      en: Green March Day
+  - public_holiday: true
+    date: '2021-11-18'
+    names: 
+      en: Independance Day
