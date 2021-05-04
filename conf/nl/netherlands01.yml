@@ -492,7 +492,7 @@ years:
     names:
       en: King's Day
       nl: Koningsdag
-       - public_holiday: true
+  - public_holiday: true
     date: '2021-05-25'
     names:
       en: Liberation Day
