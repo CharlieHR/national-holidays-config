@@ -356,10 +356,14 @@ years:
     date: '2021-05-03'
     names:
       en: May Day Bank Holiday
-  - public_holiday: true
-    date: '2021-05-31'
+ - public_holiday: true
+    date: '2021-06-02'
     names:
       en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2012-06-03'
+    names:
+      en: Queen's Diamond Jubilee
   - public_holiday: true
     date: '2021-08-30'
     names:
@@ -390,9 +394,13 @@ years:
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    date: '2022-05-30'
+    date: '2021-06-02'
     names:
       en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2012-06-35'
+    names:
+      en: Queen's Diamond Jubilee
   - public_holiday: true
     date: '2022-08-29'
     names:
