@@ -390,9 +390,13 @@ years:
     names:
       en: May Day Bank Holiday
   - public_holiday: true
-    date: '2022-05-30'
+    date: '2022-06-02'
     names:
       en: Spring Bank Holiday
+  - public_holiday: true
+    date: '2022-06-03'
+    names:
+      en: Platinum Jubilee Holiday
   - public_holiday: true
     date: '2022-08-29'
     names:
