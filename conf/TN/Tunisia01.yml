@@ -1,0 +1,63 @@
+name: Tunisia (all)
+years:
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-01-14'
+    names: 
+      en: Revolution & Youth Day
+  - public_holiday: true
+    date: '2021-03-20'
+    names: 
+      en: Independence Day
+  - public_holiday: true
+    date: '2021-04-09'
+    names: 
+      en: Martyr's Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-12'
+    names: 
+      en: Aid El-Fitr Holiday
+  - public_holiday: true
+    date: '2021-05-13'
+    names: 
+      en: Aid El-Fitr Holiday
+  - public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: Aid El-Fitr Holiday
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Aid El-Kibr
+  - public_holiday: true
+    date: '2021-07-21'
+    names: 
+      en: Aid El-Kibr Holiday
+  - public_holiday: true
+    date: '2021-07-25'
+    names: 
+      en: Republic Day
+  - public_holiday: true
+    date: '2021-08-09'
+    names: 
+      en: Ras el am el Hejri
+  - public_holiday: true
+    date: '2021-09-13'
+    names: 
+      en: Women's Day
+  - public_holiday: true
+    date: '2021-10-15'
+    names: 
+      en: Evacuation Day
+  - public_holiday: true
+    date: '2021-10-18'
+    names: 
+      en: Le Mouled
