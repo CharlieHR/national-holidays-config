@@ -1,0 +1,35 @@
+name: Somalia (All)
+years:
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: Labour Day
+  - public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Eid Al Fitr
+  - public_holiday: true
+    date: '2021-06-26'
+    names: 
+      en: Independence Day
+  - public_holiday: true
+    date: '2021-07-01'
+    names: 
+      en: Republic Day
+  - public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Eid Al Adha
+  - public_holiday: true
+    date: '2021-07-19'
+    names: 
+      en: Ashura
+  - public_holiday: true
+    date: '2021-10-19'
+    names: 
+      en: Mawlid Nabi
