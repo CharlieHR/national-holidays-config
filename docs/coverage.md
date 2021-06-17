@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2021-05-28.
+Last updated 2021-06-17.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -255,7 +255,7 @@ Last updated 2021-05-28.
 | 🇸🇰 | Slovakia | Slovakia (all) | 2040 | 15 | - | - |
 | 🇸🇮 | Slovenia | Slovenia (all) | 2040 | 14 | - | - |
 | 🇸🇧 | Solomon Islands | No Data | - | - | - | - |
-| 🇸🇴 | Somalia | No Data | - | - | - | - |
+| 🇸🇴 | Somalia | Somalia (All) | 2021 | 8 | - | - |
 | 🇿🇦 | South Africa | South Africa (all) | 2040 | 14 | - | - |
 | 🇬🇸 | South Georgia and the South Sandwich Islands | No Data | - | - | - | - |
 | 🇸🇸 | South Sudan | No Data | - | - | - | - |
@@ -370,4 +370,4 @@ Last updated 2021-05-28.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 92 / 249
+Total coverage: 93 / 249
