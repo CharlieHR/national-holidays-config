@@ -58,7 +58,7 @@ years:
   - public_holiday: true
     date: '2021-06-19'
     names:
-      en: Juneteeth
+      en: Juneteenth
   - public_holiday: true
     date: '2021-07-05'
     names:
@@ -103,7 +103,7 @@ years:
   - public_holiday: true
     date: '2022-06-19'
     names:
-      en: Juneteeth
+      en: Juneteenth
   - public_holiday: true
     date: '2022-07-04'
     names:
