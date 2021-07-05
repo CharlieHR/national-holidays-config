@@ -1,0 +1,96 @@
+- public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: Bank Holiday 
+- public_holiday: true
+    date: '2021-01-07'
+    names: 
+      en: Eastern/Coptic Christmas
+- public_holiday: true
+    date: '2021-01-28'
+    names: 
+      en: January Revolution and National Police Day Holiday 
+- public_holiday: true
+    date: '2021-04-29'
+    names: 
+      en: Sinai Liberation Day HOliday 
+- public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: Labour Day 
+- public_holiday: true
+    date: '2021-05-02'
+    names: 
+      en: Coptic Easter
+- public_holiday: true
+    date: '2021-05-03'
+    names: 
+      en: Sham el Nessim
+- public_holiday: true
+    date: '2021-05-12'
+    names: 
+      en: End of Ramadan Holiday 
+- public_holiday: true
+    date: '2021-05-13'
+    names: 
+      en: Eid al-Fitr
+- public_holiday: true
+    date: '2021-05-14'
+    names: 
+      en: End of Ramadan Holiday 
+- public_holiday: true
+    date: '2021-05-15'
+    names: 
+      en: End of Ramadan Holiday 
+- public_holiday: true
+    date: '2021-05-16'
+    names: 
+      en: End of Ramadan Holiday 
+- public_holiday: true
+    date: '2021-07-01'
+    names: 
+      en: Bank Holiday 
+- public_holiday: true
+    date: '2021-07-01'
+    names: 
+      en: June 30th Anniversary Holiday
+- public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Wakfet Arafat
+- public_holiday: true
+    date: '2021-07-20'
+    names: 
+      en: Eid al Adha
+- public_holiday: true
+    date: '2021-07-21'
+    names: 
+      en: Al Adha Holiday 
+- public_holiday: true
+    date: '2021-07-22'
+    names: 
+      en: Al Adha Holiday 
+- public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Revolution Day
+- public_holiday: true
+    date: '2021-07-23'
+    names: 
+      en: Al Adha Holiday 
+- public_holiday: true
+    date: '2021-07-25'
+    names: 
+      en: Bank Holiday (tentative?)
+- public_holiday: true
+    date: '2021-08-09'
+    names: 
+      en: El Hijra
+- public_holiday: true
+    date: '2021-10-07'
+    names: 
+      en: Armed Forces Day Holiday 
+- public_holiday: true
+    date: '2021-10-18'
+    names: 
+      en: Moulid El Nabi
