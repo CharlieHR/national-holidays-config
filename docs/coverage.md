@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2021-06-18.
+Last updated 2021-09-02.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -63,7 +63,7 @@ Last updated 2021-06-18.
 | 🇨🇦 | Canada | Quebec | 2040 | 10 | - | - |
 | 🇨🇦 | Canada | Saskatchewan | 2040 | 10 | - | - |
 | 🇨🇦 | Canada | Yukon | 2040 | 9 | - | - |
-| 🇨🇦 | Canada | Statutory Only | 2022 | 5 | - | - |
+| 🇨🇦 | Canada | Statutory Only | 2022 | 6 | - | - |
 | 🇰🇾 | Cayman Islands | No Data | - | - | - | - |
 | 🇨🇫 | Central African Republic | No Data | - | - | - | - |
 | 🇹🇩 | Chad | No Data | - | - | - | - |
@@ -88,7 +88,7 @@ Last updated 2021-06-18.
 | 🇩🇲 | Dominica | No Data | - | - | - | - |
 | 🇩🇴 | Dominican Republic | No Data | - | - | - | - |
 | 🇪🇨 | Ecuador | No Data | - | - | - | - |
-| 🇪🇬 | Egypt | No Data | - | - | - | - |
+| 🇪🇬 | Egypt | Egypt (all) | 2021 | 24 | - | - |
 | 🇸🇻 | El Salvador | No Data | - | - | - | - |
 | 🇬🇶 | Equatorial Guinea | No Data | - | - | - | - |
 | 🇪🇷 | Eritrea | No Data | - | - | - | - |
@@ -370,4 +370,4 @@ Last updated 2021-06-18.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 93 / 249
+Total coverage: 94 / 249
