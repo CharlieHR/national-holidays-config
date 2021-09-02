@@ -40,6 +40,10 @@ years:
     names:
       en: Labour Day
   - public_holiday: true
+    date: '2021-09-30'
+    names:
+      en: National Day for Truth and Reconciliation
+  - public_holiday: true
     date: '2021-12-25'
     names:
       en: Christmas Day
@@ -60,6 +64,10 @@ years:
     date: '2022-09-05'
     names:
       en: Labour Day
+  - public_holiday: true
+    date: '2022-09-30'
+    names:
+      en: National Day for Truth and Reconciliation
   - public_holiday: true
     date: '2022-12-25'
     names:

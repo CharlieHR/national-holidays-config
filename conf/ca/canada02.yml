@@ -433,6 +433,10 @@ years:
     names:
       en: Labour Day / Fête du travail
   - public_holiday: true
+    date: '2021-09-30'
+    names:
+      en: National Day for Truth and Reconciliation
+  - public_holiday: true
     date: '2021-10-11'
     names:
       en: Thanksgiving Day / Action de grâce
@@ -473,6 +477,10 @@ years:
     date: '2022-09-05'
     names:
       en: Labour Day / Fête du travail
+  - public_holiday: true
+    date: '2022-09-30'
+    names:
+      en: National Day for Truth and Reconciliation
   - public_holiday: true
     date: '2022-10-10'
     names:
