@@ -1,0 +1,44 @@
+---
+name: Guatemala (all)
+years:
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names: 
+      en: New Years Day
+  - public_holiday: true
+    date: '2021-04-01'
+    names: 
+      en: Maunday Thursday
+  - public_holiday: true
+    date: '2021-04-02'
+    names: 
+      en: Good Friday
+  - public_holiday: true
+    date: '2021-04-03'
+    names: 
+      en: Holy Saturday
+  - public_holiday: true
+    date: '2021-05-01'
+    names: 
+      en: Labor Day
+  - public_holiday: true
+    date: '2021-06-28'
+    names: 
+      en: Army Day Holiday
+  - public_holiday: true
+    date: '2021-09-15'
+    names: 
+      en: Independence Day
+  - public_holiday: true
+    date: '2021-10-20'
+    names: 
+      en: Revolution Day
+  - public_holiday: true
+    date: '2021-11-01'
+    names: 
+      en: All Saints' Day
+  - public_holiday: true
+    date: '2021-12-25'
+    names: 
+      en: Christmas Day
