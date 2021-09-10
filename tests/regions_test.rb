@@ -39,6 +39,10 @@ describe 'Regions' do
         it "region #{region_name} does not contain any smart quotes" do
           _(name).wont_match(/[‘’]/)
         end
+
+        it "#{region_name} is lower case" do
+          _(region_name).must_equal(region_name.downcase)
+        end
       end
     end
   end

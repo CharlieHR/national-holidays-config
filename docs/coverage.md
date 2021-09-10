@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2021-09-02.
+Last updated 2021-09-10.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -130,7 +130,7 @@ Last updated 2021-09-02.
 | 🇬🇩 | Grenada | No Data | - | - | - | - |
 | 🇬🇵 | Guadeloupe | No Data | - | - | - | - |
 | 🇬🇺 | Guam | No Data | - | - | - | - |
-| 🇬🇹 | Guatemala | No Data | - | - | - | - |
+| 🇬🇹 | Guatemala | Guatemala (all) | 2021 | 10 | - | - |
 | 🇬🇬 | Guernsey | No Data | - | - | - | - |
 | 🇬🇳 | Guinea | No Data | - | - | - | - |
 | 🇬🇼 | Guinea-Bissau | No Data | - | - | - | - |
@@ -370,4 +370,4 @@ Last updated 2021-09-02.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 94 / 249
+Total coverage: 95 / 249
