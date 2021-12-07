@@ -493,6 +493,11 @@ years:
     names:
       en: Christmas Day
       uk: Різдво Христове
+  - public_holiday: true
+    date: '2021-12-27'
+    names:
+      en: Christmas Day Holiday
+      uk: Свято Різдва
   '2022':
   - public_holiday: true
     date: '2022-01-03'
