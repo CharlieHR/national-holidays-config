@@ -625,7 +625,7 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2021-12-27'
+    date: '2021-12-24'
     names:
       en: Christmas Day
   - public_holiday: true
