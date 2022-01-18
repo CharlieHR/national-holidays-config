@@ -101,7 +101,7 @@ years:
     names:
       en: Memorial Day
   - public_holiday: true
-    date: '2022-06-19'
+    date: '2022-06-20'
     names:
       en: Juneteenth
   - public_holiday: true
@@ -125,6 +125,6 @@ years:
     names:
       en: Thanksgiving
   - public_holiday: true
-    date: '2022-12-25'
+    date: '2022-12-26'
     names:
       en: Christmas Day
