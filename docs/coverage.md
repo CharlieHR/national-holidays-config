@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2022-01-18.
+Last updated 2022-01-20.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -146,7 +146,7 @@ Last updated 2022-01-18.
 | 🇮🇩 | Indonesia | Indonesia | 2021 | 22 | - | - |
 | 🇮🇷 | Iran (Islamic Republic of) | Iran (all) | 2021 | 26 | - | - |
 | 🇮🇶 | Iraq | No Data | - | - | - | - |
-| 🇮🇪 | Ireland | Ireland (all) | 2040 | 9 | - | - |
+| 🇮🇪 | Ireland | Ireland (all) | 2040 | 10 | - | - |
 | 🇮🇲 | Isle of Man | Isle of Man | 2022 | 8 | - | - |
 | 🇮🇱 | Israel | Israel (all) | 2040 | 12 | - | - |
 | 🇮🇹 | Italy | Italy (all) | 2040 | 12 | - | - |
