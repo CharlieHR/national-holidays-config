@@ -418,6 +418,10 @@ years:
     names:
       en: Lá Fhéile Pádraig
   - public_holiday: true
+    date: '2022-03-18'
+    names:
+      en: Day of Remembrance and Recognition
+  - public_holiday: true
     date: '2022-04-18'
     names:
       en: Luan Cásca
@@ -450,6 +454,10 @@ years:
     date: '2023-01-01'
     names:
       en: Lá Caille or Lá Bliana Nua
+  - public_holiday: true
+    date: '2023-02-01'
+    names:
+      en: Lá Fhéile Bríde
   - public_holiday: true
     date: '2023-03-17'
     names:
@@ -488,6 +496,10 @@ years:
     names:
       en: Lá Caille or Lá Bliana Nua
   - public_holiday: true
+    date: '2024-02-01'
+    names:
+      en: Lá Fhéile Bríde
+  - public_holiday: true
     date: '2024-03-17'
     names:
       en: Lá Fhéile Pádraig
@@ -524,6 +536,10 @@ years:
     date: '2025-01-01'
     names:
       en: Lá Caille or Lá Bliana Nua
+  - public_holiday: true
+    date: '2025-02-01'
+    names:
+      en: Lá Fhéile Bríde
   - public_holiday: true
     date: '2025-03-17'
     names:
@@ -562,6 +578,10 @@ years:
     names:
       en: Lá Caille or Lá Bliana Nua
   - public_holiday: true
+    date: '2026-02-01'
+    names:
+      en: Lá Fhéile Bríde
+  - public_holiday: true
     date: '2026-03-17'
     names:
       en: Lá Fhéile Pádraig
@@ -598,6 +618,10 @@ years:
     date: '2027-01-01'
     names:
       en: Lá Caille or Lá Bliana Nua
+  - public_holiday: true
+    date: '2027-02-01'
+    names:
+      en: Lá Fhéile Bríde
   - public_holiday: true
     date: '2027-03-17'
     names:
@@ -636,6 +660,10 @@ years:
     names:
       en: Lá Caille or Lá Bliana Nua
   - public_holiday: true
+    date: '2028-02-01'
+    names:
+      en: Lá Fhéile Bríde
+  - public_holiday: true
     date: '2028-03-17'
     names:
       en: Lá Fhéile Pádraig
@@ -672,6 +700,10 @@ years:
     date: '2029-01-01'
     names:
       en: Lá Caille or Lá Bliana Nua
+  - public_holiday: true
+    date: '2029-02-01'
+    names:
+      en: Lá Fhéile Bríde
   - public_holiday: true
     date: '2029-03-17'
     names:
@@ -710,6 +742,10 @@ years:
     names:
       en: Lá Caille or Lá Bliana Nua
   - public_holiday: true
+    date: '2030-02-01'
+    names:
+      en: Lá Fhéile Bríde
+  - public_holiday: true
     date: '2030-03-17'
     names:
       en: Lá Fhéile Pádraig
@@ -746,6 +782,10 @@ years:
     date: '2031-01-01'
     names:
       en: Lá Caille or Lá Bliana Nua
+  - public_holiday: true
+    date: '2031-02-01'
+    names:
+      en: Lá Fhéile Bríde
   - public_holiday: true
     date: '2031-03-17'
     names:
@@ -784,6 +824,10 @@ years:
     names:
       en: Lá Caille or Lá Bliana Nua
   - public_holiday: true
+    date: '2032-02-01'
+    names:
+      en: Lá Fhéile Bríde
+  - public_holiday: true
     date: '2032-03-17'
     names:
       en: Lá Fhéile Pádraig
@@ -820,6 +864,10 @@ years:
     date: '2033-01-01'
     names:
       en: Lá Caille or Lá Bliana Nua
+  - public_holiday: true
+    date: '2033-02-01'
+    names:
+      en: Lá Fhéile Bríde
   - public_holiday: true
     date: '2033-03-17'
     names:
@@ -858,6 +906,10 @@ years:
     names:
       en: Lá Caille or Lá Bliana Nua
   - public_holiday: true
+    date: '2034-02-01'
+    names:
+      en: Lá Fhéile Bríde
+  - public_holiday: true
     date: '2034-03-17'
     names:
       en: Lá Fhéile Pádraig
@@ -894,6 +946,10 @@ years:
     date: '2035-01-01'
     names:
       en: Lá Caille or Lá Bliana Nua
+  - public_holiday: true
+    date: '2035-02-01'
+    names:
+      en: Lá Fhéile Bríde
   - public_holiday: true
     date: '2035-03-17'
     names:
@@ -932,6 +988,10 @@ years:
     names:
       en: Lá Caille or Lá Bliana Nua
   - public_holiday: true
+    date: '2036-02-01'
+    names:
+      en: Lá Fhéile Bríde
+  - public_holiday: true
     date: '2036-03-17'
     names:
       en: Lá Fhéile Pádraig
@@ -968,6 +1028,10 @@ years:
     date: '2037-01-01'
     names:
       en: Lá Caille or Lá Bliana Nua
+  - public_holiday: true
+    date: '2037-02-01'
+    names:
+      en: Lá Fhéile Bríde
   - public_holiday: true
     date: '2037-03-17'
     names:
@@ -1006,6 +1070,10 @@ years:
     names:
       en: Lá Caille or Lá Bliana Nua
   - public_holiday: true
+    date: '2038-02-01'
+    names:
+      en: Lá Fhéile Bríde
+  - public_holiday: true
     date: '2038-03-17'
     names:
       en: Lá Fhéile Pádraig
@@ -1043,6 +1111,10 @@ years:
     names:
       en: Lá Caille or Lá Bliana Nua
   - public_holiday: true
+    date: '2039-02-01'
+    names:
+      en: Lá Fhéile Bríde
+  - public_holiday: true
     date: '2039-03-17'
     names:
       en: Lá Fhéile Pádraig
@@ -1079,6 +1151,10 @@ years:
     date: '2040-01-01'
     names:
       en: Lá Caille or Lá Bliana Nua
+  - public_holiday: true
+    date: '2040-02-01'
+    names:
+      en: Lá Fhéile Bríde
   - public_holiday: true
     date: '2040-03-17'
     names:
