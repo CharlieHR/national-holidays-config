@@ -450,6 +450,10 @@ years:
     names:
       en: St. Patrick's Day
   - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Good Friday
+  - public_holiday: true
     date: '2022-04-18'
     names:
       en: Easter Monday
