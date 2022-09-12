@@ -414,6 +414,10 @@ years:
     names:
       en: Late Summer Bank Holiday
   - public_holiday: true
+    date: '2022-09-19'
+    names:
+      en: State Funeral of Queen Elizabeth II
+  - public_holiday: true
     date: '2022-11-30'
     names:
       en: St. Andrew's Day
