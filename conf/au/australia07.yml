@@ -614,6 +614,10 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
+    date: '2022-09-22'
+    names:
+      en: Memorial Day for Queen Elizabeth II
+  - public_holiday: true
     date: '2022-11-01'
     names:
       en: Melbourne Cup Day

@@ -710,6 +710,10 @@ years:
     names:
       en: Picnic Day
   - public_holiday: true
+    date: '2022-09-22'
+    names:
+      en: Memorial Day for Queen Elizabeth II
+  - public_holiday: true
     date: '2022-12-26'
     names:
       en: Christmas Day

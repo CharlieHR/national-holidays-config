@@ -542,6 +542,10 @@ years:
     names:
       en: Western Australia Day
   - public_holiday: true
+    date: '2022-09-22'
+    names:
+      en: Memorial Day for Queen Elizabeth II
+  - public_holiday: true
     date: '2022-09-26'
     names:
       en: Queen's Birthday

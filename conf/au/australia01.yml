@@ -638,6 +638,10 @@ years:
     names:
       en: Queen's Birthday
   - public_holiday: true
+    date: '2022-09-22'
+    names:
+      en: Memorial Day for Queen Elizabeth II
+  - public_holiday: true
     date: '2022-09-26'
     names:
       en: Family and Community Day

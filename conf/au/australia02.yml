@@ -578,6 +578,10 @@ years:
     names:
       en: Royal Queensland Show
   - public_holiday: true
+    date: '2022-09-22'
+    names:
+      en: Memorial Day for Queen Elizabeth II
+  - public_holiday: true
     date: '2022-10-03'
     names:
       en: Queen's Birthday
