@@ -447,6 +447,10 @@ years:
     names:
       en: May Day Bank Holiday
   - public_holiday: true
+    date: '2023-05-08'
+    names:
+      en: King Charles III Coronation Holiday
+  - public_holiday: true
     date: '2023-05-29'
     names:
       en: Spring Bank Holiday
