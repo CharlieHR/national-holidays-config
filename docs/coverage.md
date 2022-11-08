@@ -81,7 +81,7 @@ Last updated 2022-11-08.
 | 🇨🇺 | Cuba | Cuba (all) | 2021 | 13 | - | - |
 | 🇨🇼 | Curaçao | No Data | - | - | - | - |
 | 🇨🇾 | Cyprus | Cyprus | 2021 | 13 | - | - |
-| 🇨🇿 | Czech Republic | Czech Republic (all) | 2040 | 13 | - | - |
+| 🇨🇿 | Czechia | Czech Republic (all) | 2040 | 13 | - | - |
 | 🇨🇮 | Côte d'Ivoire | No Data | - | - | - | - |
 | 🇩🇰 | Denmark | Denmark (all) | 2040 | 13 | - | - |
 | 🇩🇯 | Djibouti | No Data | - | - | - | - |
@@ -93,6 +93,7 @@ Last updated 2022-11-08.
 | 🇬🇶 | Equatorial Guinea | No Data | - | - | - | - |
 | 🇪🇷 | Eritrea | No Data | - | - | - | - |
 | 🇪🇪 | Estonia | Estonia (all) | 2040 | 12 | - | - |
+| 🇸🇿 | Eswatini | No Data | - | - | - | - |
 | 🇪🇹 | Ethiopia | Ethiopia (all) | 2021 | 13 | - | - |
 | 🇫🇰 | Falkland Islands (Malvinas) | No Data | - | - | - | - |
 | 🇫🇴 | Faroe Islands | No Data | - | - | - | - |
@@ -171,7 +172,6 @@ Last updated 2022-11-08.
 | 🇱🇹 | Lithuania | Lithuania (all) | 2040 | 15 | - | - |
 | 🇱🇺 | Luxembourg | Luxembourg (all) | 2040 | 10 | - | - |
 | 🇲🇴 | Macao | No Data | - | - | - | - |
-| 🇲🇰 | Macedonia (the former Yugoslav Republic of) | Macedonia, Republic of (all) | 2021 | 11 | - | - |
 | 🇲🇬 | Madagascar | No Data | - | - | - | - |
 | 🇲🇼 | Malawi | No Data | - | - | - | - |
 | 🇲🇾 | Malaysia | Malaysia (all) | 2022 | 6 | - | - |
@@ -215,6 +215,7 @@ Last updated 2022-11-08.
 | 🇳🇬 | Nigeria | Nigeria (all) | 2022 | 8 | - | - |
 | 🇳🇺 | Niue | No Data | - | - | - | - |
 | 🇳🇫 | Norfolk Island | No Data | - | - | - | - |
+| 🇲🇰 | North Macedonia | Macedonia, Republic of (all) | 2021 | 11 | - | - |
 | 🇲🇵 | Northern Mariana Islands | No Data | - | - | - | - |
 | 🇳🇴 | Norway | Norway (all) | 2040 | 12 | - | - |
 | 🇴🇲 | Oman | Oman | 2021 | 13 | - | - |
@@ -273,7 +274,6 @@ Last updated 2022-11-08.
 | 🇸🇩 | Sudan | No Data | - | - | - | - |
 | 🇸🇷 | Suriname | No Data | - | - | - | - |
 | 🇸🇯 | Svalbard and Jan Mayen | No Data | - | - | - | - |
-| 🇸🇿 | Swaziland | No Data | - | - | - | - |
 | 🇸🇪 | Sweden | Sweden (all) | 2040 | 16 | - | - |
 | 🇨🇭 | Switzerland | Canton de Vaud | 2022 | 9 | - | - |
 | 🇨🇭 | Switzerland | Geneva | 2022 | 9 | - | - |
@@ -290,10 +290,10 @@ Last updated 2022-11-08.
 | 🇹🇴 | Tonga | No Data | - | - | - | - |
 | 🇹🇹 | Trinidad and Tobago | No Data | - | - | - | - |
 | 🇹🇳 | Tunisia | Tunisia (all) | 2021 | 15 | - | - |
-| 🇹🇷 | Turkey | Turkey (all) | 2021 | 15 | - | - |
 | 🇹🇲 | Turkmenistan | No Data | - | - | - | - |
 | 🇹🇨 | Turks and Caicos Islands | No Data | - | - | - | - |
 | 🇹🇻 | Tuvalu | No Data | - | - | - | - |
+| 🇹🇷 | Türkiye | Turkey (all) | 2021 | 15 | - | - |
 | 🇺🇬 | Uganda | No Data | - | - | - | - |
 | 🇺🇦 | Ukraine | Ukraine (all) | 2040 | 13 | - | - |
 | 🇦🇪 | United Arab Emirates | Dubai (all) | 2021 | 15 | - | - |

@@ -12,7 +12,7 @@ class Danger
 
   def run
     Dir.chdir(config_directory) do
-      ISO3166::Country.all.sort_by(&:name).map do |country|
+      ISO3166::Country.all.sort_by(&:iso_short_name).map do |country|
         check(country)
       end
     end
@@ -36,7 +36,7 @@ class Danger
           end.map(&:to_i).compact.max
 
           if public_holidays_latest_year <= Date.today.year
-            puts "#{country.name}\t#{region_name}\t#{public_holidays_latest_year}"
+            puts "#{country.iso_short_name}\t#{region_name}\t#{public_holidays_latest_year}"
           end
         end
       end

@@ -59,7 +59,7 @@ class CoverageDoc
       table << table.first.map { |s| s.gsub(/./, '-') }
 
       Dir.chdir(config_directory) do
-        ISO3166::Country.all.sort_by(&:name).map do |country|
+        ISO3166::Country.all.sort_by(&:iso_short_name).map do |country|
           country_rows(country).each do |row|
             table << row
           end
@@ -91,7 +91,7 @@ class CoverageDoc
 
           [
             country.emoji_flag,
-            country.name,
+            country.iso_short_name,
             region_name,
             public_holidays_latest_year || '-',
             public_holidays_latest_year ? region_years[public_holidays_latest_year].count : '-',
@@ -102,7 +102,7 @@ class CoverageDoc
       end
     else
       [
-        [country.emoji_flag, country.name, 'No Data', '-', '-', '-', '-']
+        [country.emoji_flag, country.iso_short_name, 'No Data', '-', '-', '-', '-']
       ]
     end
   end
