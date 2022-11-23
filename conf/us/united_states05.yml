@@ -526,6 +526,10 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
+    date: '2022-11-25'
+    names:
+      en: Thanksgiving Day
+  - public_holiday: true
     date: '2022-12-26'
     names:
       en: Christmas Day
