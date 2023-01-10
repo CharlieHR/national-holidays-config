@@ -281,3 +281,59 @@ years:
     names:
       en: Noël
       fr: Noël
+  '2023':
+  - public_holiday: true
+    date: '2023-01-01'
+    names:
+      en: Jour de l'an
+      fr: Jour de l'an
+  - public_holiday: true
+    date: '2023-04-18'
+    names:
+      en: Lundi de Pâques
+      fr: Lundi de Pâques
+  - public_holiday: true
+    date: '2023-05-01'
+    names:
+      en: Fête du travail
+      fr: Fête du travail
+  - public_holiday: true
+    date: '2023-05-08'
+    names:
+      en: Victoire 1945
+      fr: Victoire 1945
+  - public_holiday: true
+    date: '2023-05-26'
+    names:
+      en: Ascension
+      fr: Ascension
+  - public_holiday: true
+    date: '2023-06-06'
+    names:
+      en: Lundi de Pentecôte
+      fr: Lundi de Pentecôte
+  - public_holiday: true
+    date: '2023-07-14'
+    names:
+      en: Fête nationale
+      fr: Fête nationale
+  - public_holiday: true
+    date: '2023-08-15'
+    names:
+      en: Assomption
+      fr: Assomption
+  - public_holiday: true
+    date: '2023-11-01'
+    names:
+      en: Toussaint
+      fr: Toussaint
+  - public_holiday: true
+    date: '2023-11-11'
+    names:
+      en: Armistice 1918
+      fr: Armistice 1918
+  - public_holiday: true
+    date: '2023-12-25'
+    names:
+      en: Noël
+      fr: Noël
