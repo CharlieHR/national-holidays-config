@@ -168,7 +168,7 @@ Last updated 2022-11-23.
 | 🇱🇷 | Liberia | No Data | - | - | - | - |
 | 🇱🇾 | Libya | No Data | - | - | - | - |
 | 🇱🇮 | Liechtenstein | No Data | - | - | - | - |
-| 🇱🇹 | Lithuania | Lithuania (all) | 2040 | 15 | - | - |
+| 🇱🇹 | Lithuania | Lithuania (all) | 2040 | 16 | - | - |
 | 🇱🇺 | Luxembourg | Luxembourg (all) | 2040 | 10 | - | - |
 | 🇲🇴 | Macao | No Data | - | - | - | - |
 | 🇲🇰 | Macedonia (the former Yugoslav Republic of) | Macedonia, Republic of (all) | 2021 | 11 | - | - |
