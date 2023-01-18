@@ -980,6 +980,11 @@ years:
       en: All Saints' Day
       lt: Visų šventųjų diena
   - public_holiday: true
+    date: '2023-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
+  - public_holiday: true
     date: '2023-12-24'
     names:
       en: Christmas Eve
@@ -1055,6 +1060,11 @@ years:
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
+  - public_holiday: true
+    date: '2024-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
   - public_holiday: true
     date: '2024-12-24'
     names:
@@ -1132,6 +1142,11 @@ years:
       en: All Saints' Day
       lt: Visų šventųjų diena
   - public_holiday: true
+    date: '2025-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
+  - public_holiday: true
     date: '2025-12-24'
     names:
       en: Christmas Eve
@@ -1207,6 +1222,11 @@ years:
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
+  - public_holiday: true
+    date: '2026-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
   - public_holiday: true
     date: '2026-12-24'
     names:
@@ -1284,6 +1304,11 @@ years:
       en: All Saints' Day
       lt: Visų šventųjų diena
   - public_holiday: true
+    date: '2027-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
+  - public_holiday: true
     date: '2027-12-24'
     names:
       en: Christmas Eve
@@ -1359,6 +1384,11 @@ years:
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
+  - public_holiday: true
+    date: '2028-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
   - public_holiday: true
     date: '2028-12-24'
     names:
@@ -1436,6 +1466,11 @@ years:
       en: All Saints' Day
       lt: Visų šventųjų diena
   - public_holiday: true
+    date: '2029-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
+  - public_holiday: true
     date: '2029-12-24'
     names:
       en: Christmas Eve
@@ -1511,6 +1546,11 @@ years:
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
+  - public_holiday: true
+    date: '2030-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
   - public_holiday: true
     date: '2030-12-24'
     names:
@@ -1588,6 +1628,11 @@ years:
       en: All Saints' Day
       lt: Visų šventųjų diena
   - public_holiday: true
+    date: '2031-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
+  - public_holiday: true
     date: '2031-12-24'
     names:
       en: Christmas Eve
@@ -1663,6 +1708,11 @@ years:
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
+  - public_holiday: true
+    date: '2032-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
   - public_holiday: true
     date: '2032-12-24'
     names:
@@ -1740,6 +1790,11 @@ years:
       en: All Saints' Day
       lt: Visų šventųjų diena
   - public_holiday: true
+    date: '2033-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
+  - public_holiday: true
     date: '2033-12-24'
     names:
       en: Christmas Eve
@@ -1815,6 +1870,11 @@ years:
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
+  - public_holiday: true
+    date: '2034-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
   - public_holiday: true
     date: '2034-12-24'
     names:
@@ -1892,6 +1952,11 @@ years:
       en: All Saints' Day
       lt: Visų šventųjų diena
   - public_holiday: true
+    date: '2035-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
+  - public_holiday: true
     date: '2035-12-24'
     names:
       en: Christmas Eve
@@ -1967,6 +2032,11 @@ years:
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
+  - public_holiday: true
+    date: '2036-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
   - public_holiday: true
     date: '2036-12-24'
     names:
@@ -2044,6 +2114,11 @@ years:
       en: All Saints' Day
       lt: Visų šventųjų diena
   - public_holiday: true
+    date: '2037-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
+  - public_holiday: true
     date: '2037-12-24'
     names:
       en: Christmas Eve
@@ -2119,6 +2194,11 @@ years:
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
+  - public_holiday: true
+    date: '2038-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
   - public_holiday: true
     date: '2038-12-24'
     names:
@@ -2196,6 +2276,11 @@ years:
       en: All Saints' Day
       lt: Visų šventųjų diena
   - public_holiday: true
+    date: '2039-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
+  - public_holiday: true
     date: '2039-12-24'
     names:
       en: Christmas Eve
@@ -2271,6 +2356,11 @@ years:
     names:
       en: All Saints' Day
       lt: Visų šventųjų diena
+  - public_holiday: true
+    date: '2040-11-02'
+    names:
+      en: All Souls' Day
+      lt: Mirusiųjų atminimo (Vėlinių) diena
   - public_holiday: true
     date: '2040-12-24'
     names:
