@@ -288,7 +288,7 @@ years:
       en: Jour de l'an
       fr: Jour de l'an
   - public_holiday: true
-    date: '2023-04-18'
+    date: '2023-04-10'
     names:
       en: Lundi de Pâques
       fr: Lundi de Pâques
@@ -303,12 +303,12 @@ years:
       en: Victoire 1945
       fr: Victoire 1945
   - public_holiday: true
-    date: '2023-05-26'
+    date: '2023-05-18'
     names:
       en: Ascension
       fr: Ascension
   - public_holiday: true
-    date: '2023-06-06'
+    date: '2023-05-29'
     names:
       en: Lundi de Pentecôte
       fr: Lundi de Pentecôte
