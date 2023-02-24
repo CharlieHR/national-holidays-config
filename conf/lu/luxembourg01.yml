@@ -635,6 +635,11 @@ years:
       en: May Day
       fr: "1. Mee / Fête du Travail / Tag der Arbeit"
   - public_holiday: true
+    date: '2023-05-09'
+    names:
+      en: Europe Day
+      fr: "Europadag / Journée de l'Europe / Europatag"
+  - public_holiday: true
     date: '2023-05-18'
     names:
       en: Ascension Day
