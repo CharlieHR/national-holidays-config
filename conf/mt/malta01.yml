@@ -412,3 +412,74 @@ years:
     names:
       en: Il-Milied
       mt: Il-Milied
+  '2023':
+  - public_holiday: true
+    date: '2023-01-01'
+    names:
+      en: New Year's Day
+      mt: New Year's Day
+  - public_holiday: true
+    date: '2023-02-10'
+    names:
+      en: Feast of St. Paul's Shipwreck
+      mt: Feast of St. Paul's Shipwreck
+  - public_holiday: true
+    date: '2023-03-19'
+    names:
+      en: Feast of St. Joseph
+      mt: Feast of St. Joseph
+  - public_holiday: true
+    date: '2023-03-31'
+    names:
+      en: Freedom Day
+      mt: Freedom Day
+  - public_holiday: true
+    date: '2023-04-07'
+    names:
+      en: Good Friday
+      mt: Good Friday
+  - public_holiday: true
+    date: '2023-05-01'
+    names:
+      en: Workers' Day
+      mt: Workers' Day
+  - public_holiday: true
+    date: '2023-06-07'
+    names:
+      en: Sette Giugno
+      mt: Sette Giugno
+  - public_holiday: true
+    date: '2023-06-29'
+    names:
+      en: Feast of St. Peter and St. Paul
+      mt: Feast of St. Peter and St. Paul
+  - public_holiday: true
+    date: '2023-08-15'
+    names:
+      en: Feast of the Assumption
+      mt: Feast of the Assumption
+  - public_holiday: true
+    date: '2023-09-08'
+    names:
+      en: Feast of Our Lady of Victories
+      mt: Feast of Our Lady of Victories
+  - public_holiday: true
+    date: '2023-09-21'
+    names:
+      en: Independence Day
+      mt: Independence Day
+  - public_holiday: true
+    date: '2023-12-08'
+    names:
+      en: Feast of the Immaculate Conception
+      mt: Feast of the Immaculate Conception
+  - public_holiday: true
+    date: '2023-12-13'
+    names:
+      en: Republic Day
+      mt: Republic Day
+  - public_holiday: true
+    date: '2023-12-25'
+    names:
+      en: Christmas Day
+      mt: Christmas Day
