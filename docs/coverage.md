@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2022-11-23.
+Last updated 2023-04-06.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -300,7 +300,7 @@ Last updated 2022-11-23.
 | 🇦🇪 | United Arab Emirates | United Arab Emirates (all) | 2021 | 15 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | England | 2040 | 8 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Wales | 2040 | 8 | - | - |
-| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Scotland (incl. St. Andrew's Day) | 2034 | 8 | - | - |
+| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Scotland (incl. St. Andrew's Day) | 2034 | 9 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Northern Ireland | 2034 | 9 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Scotland (excl. St. Andrew's Day) | 2034 | 8 | - | - |
 | 🇺🇲 | United States Minor Outlying Islands | No Data | - | - | - | - |
