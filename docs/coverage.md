@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2023-04-06.
+Last updated 2023-05-10.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -36,7 +36,7 @@ Last updated 2023-04-06.
 | 🇧🇯 | Benin | No Data | - | - | - | - |
 | 🇧🇲 | Bermuda | No Data | - | - | - | - |
 | 🇧🇹 | Bhutan | No Data | - | - | - | - |
-| 🇧🇴 | Bolivia (Plurinational State of) | No Data | - | - | - | - |
+| 🇧🇴 | Bolivia | No Data | - | - | - | - |
 | 🇧🇶 | Bonaire, Sint Eustatius and Saba | No Data | - | - | - | - |
 | 🇧🇦 | Bosnia and Herzegovina | No Data | - | - | - | - |
 | 🇧🇼 | Botswana | No Data | - | - | - | - |
@@ -74,14 +74,14 @@ Last updated 2023-04-06.
 | 🇨🇴 | Colombia | Colombia (all) | 2040 | 20 | - | - |
 | 🇰🇲 | Comoros | No Data | - | - | - | - |
 | 🇨🇬 | Congo | No Data | - | - | - | - |
-| 🇨🇩 | Congo (Democratic Republic of the) | No Data | - | - | - | - |
+| 🇨🇩 | Congo, The Democratic Republic of the | No Data | - | - | - | - |
 | 🇨🇰 | Cook Islands | No Data | - | - | - | - |
 | 🇨🇷 | Costa Rica | Costa Rica (all) | 2021 | 11 | - | - |
 | 🇭🇷 | Croatia | Croatia (all) | 2040 | 14 | - | - |
 | 🇨🇺 | Cuba | Cuba (all) | 2021 | 13 | - | - |
 | 🇨🇼 | Curaçao | No Data | - | - | - | - |
 | 🇨🇾 | Cyprus | Cyprus | 2021 | 13 | - | - |
-| 🇨🇿 | Czech Republic | Czech Republic (all) | 2040 | 13 | - | - |
+| 🇨🇿 | Czechia | Czech Republic (all) | 2040 | 13 | - | - |
 | 🇨🇮 | Côte d'Ivoire | No Data | - | - | - | - |
 | 🇩🇰 | Denmark | Denmark (all) | 2040 | 13 | - | - |
 | 🇩🇯 | Djibouti | No Data | - | - | - | - |
@@ -93,6 +93,7 @@ Last updated 2023-04-06.
 | 🇬🇶 | Equatorial Guinea | No Data | - | - | - | - |
 | 🇪🇷 | Eritrea | No Data | - | - | - | - |
 | 🇪🇪 | Estonia | Estonia (all) | 2040 | 12 | - | - |
+| 🇸🇿 | Eswatini | No Data | - | - | - | - |
 | 🇪🇹 | Ethiopia | Ethiopia (all) | 2021 | 13 | - | - |
 | 🇫🇰 | Falkland Islands (Malvinas) | No Data | - | - | - | - |
 | 🇫🇴 | Faroe Islands | No Data | - | - | - | - |
@@ -100,7 +101,7 @@ Last updated 2023-04-06.
 | 🇫🇮 | Finland | Finland (all) | 2040 | 15 | - | - |
 | 🇫🇷 | France | Alsace | 2040 | 13 | - | - |
 | 🇫🇷 | France | Moselle | 2040 | 13 | - | - |
-| 🇫🇷 | France | Metropolitan | 2022 | 11 | - | - |
+| 🇫🇷 | France | Metropolitan | 2023 | 11 | - | - |
 | 🇬🇫 | French Guiana | No Data | - | - | - | - |
 | 🇵🇫 | French Polynesia | No Data | - | - | - | - |
 | 🇹🇫 | French Southern Territories | No Data | - | - | - | - |
@@ -137,19 +138,20 @@ Last updated 2023-04-06.
 | 🇬🇾 | Guyana | No Data | - | - | - | - |
 | 🇭🇹 | Haiti | Haiti (all) | 2021 | 14 | - | - |
 | 🇭🇲 | Heard Island and McDonald Islands | No Data | - | - | - | - |
-| 🇻🇦 | Holy See | No Data | - | - | - | - |
+| 🇻🇦 | Holy See (Vatican City State) | No Data | - | - | - | - |
 | 🇭🇳 | Honduras | No Data | - | - | - | - |
 | 🇭🇰 | Hong Kong | Hong Kong (all) | 2040 | 17 | - | - |
 | 🇭🇺 | Hungary | Hungary (all) | 2040 | 12 | - | - |
 | 🇮🇸 | Iceland | Iceland (all) | 2040 | 16 | - | - |
 | 🇮🇳 | India | India (all) | 2030 | 3 | - | - |
 | 🇮🇩 | Indonesia | Indonesia | 2021 | 22 | - | - |
-| 🇮🇷 | Iran (Islamic Republic of) | Iran (all) | 2021 | 26 | - | - |
+| 🇮🇷 | Iran | Iran (all) | 2021 | 26 | - | - |
 | 🇮🇶 | Iraq | No Data | - | - | - | - |
 | 🇮🇪 | Ireland | Ireland (all) | 2040 | 10 | - | - |
 | 🇮🇲 | Isle of Man | Isle of Man | 2022 | 8 | - | - |
 | 🇮🇱 | Israel | Israel (all) | 2040 | 12 | - | - |
 | 🇮🇹 | Italy | Italy (all) | 2040 | 12 | - | - |
+| 🇮🇹 | Italy | Milan | 2040 | 13 | - | - |
 | 🇯🇲 | Jamaica | Jamaica (all) | 2020 | 12 | - | - |
 | 🇯🇵 | Japan | Japan (all) | 2040 | 16 | - | - |
 | 🇯🇪 | Jersey | No Data | - | - | - | - |
@@ -157,8 +159,6 @@ Last updated 2023-04-06.
 | 🇰🇿 | Kazakhstan | No Data | - | - | - | - |
 | 🇰🇪 | Kenya | Kenya (all) | 2021 | 12 | - | - |
 | 🇰🇮 | Kiribati | No Data | - | - | - | - |
-| 🇰🇵 | Korea (Democratic People's Republic of) | No Data | - | - | - | - |
-| 🇰🇷 | Korea (Republic of) | South Korea (all) | 2040 | 15 | - | - |
 | 🇰🇼 | Kuwait | Kuwait | 2021 | 11 | - | - |
 | 🇰🇬 | Kyrgyzstan | No Data | - | - | - | - |
 | 🇱🇦 | Lao People's Democratic Republic | No Data | - | - | - | - |
@@ -171,21 +171,20 @@ Last updated 2023-04-06.
 | 🇱🇹 | Lithuania | Lithuania (all) | 2040 | 15 | - | - |
 | 🇱🇺 | Luxembourg | Luxembourg (all) | 2040 | 10 | - | - |
 | 🇲🇴 | Macao | No Data | - | - | - | - |
-| 🇲🇰 | Macedonia (the former Yugoslav Republic of) | Macedonia, Republic of (all) | 2021 | 11 | - | - |
 | 🇲🇬 | Madagascar | No Data | - | - | - | - |
 | 🇲🇼 | Malawi | No Data | - | - | - | - |
 | 🇲🇾 | Malaysia | Malaysia (all) | 2022 | 6 | - | - |
 | 🇲🇻 | Maldives | No Data | - | - | - | - |
 | 🇲🇱 | Mali | No Data | - | - | - | - |
-| 🇲🇹 | Malta | Malta (all) | 2022 | 14 | - | - |
+| 🇲🇹 | Malta | Malta (all) | 2023 | 14 | - | - |
 | 🇲🇭 | Marshall Islands | No Data | - | - | - | - |
 | 🇲🇶 | Martinique | No Data | - | - | - | - |
 | 🇲🇷 | Mauritania | No Data | - | - | - | - |
 | 🇲🇺 | Mauritius | Mauritius (all) | 2021 | 15 | - | - |
 | 🇾🇹 | Mayotte | No Data | - | - | - | - |
 | 🇲🇽 | Mexico | Mexico (all) | 2040 | 10 | - | - |
-| 🇫🇲 | Micronesia (Federated States of) | No Data | - | - | - | - |
-| 🇲🇩 | Moldova (Republic of) | Moldova (all) | 2021 | 13 | - | - |
+| 🇫🇲 | Micronesia, Federated States of | No Data | - | - | - | - |
+| 🇲🇩 | Moldova | Moldova (all) | 2021 | 13 | - | - |
 | 🇲🇨 | Monaco | Monaco (all) | 2021 | 12 | - | - |
 | 🇲🇳 | Mongolia | Mongolia (all) | 2020 | 14 | - | - |
 | 🇲🇪 | Montenegro | No Data | - | - | - | - |
@@ -215,6 +214,8 @@ Last updated 2023-04-06.
 | 🇳🇬 | Nigeria | Nigeria (all) | 2022 | 8 | - | - |
 | 🇳🇺 | Niue | No Data | - | - | - | - |
 | 🇳🇫 | Norfolk Island | No Data | - | - | - | - |
+| 🇰🇵 | North Korea | No Data | - | - | - | - |
+| 🇲🇰 | North Macedonia | Macedonia, Republic of (all) | 2021 | 11 | - | - |
 | 🇲🇵 | Northern Mariana Islands | No Data | - | - | - | - |
 | 🇳🇴 | Norway | Norway (all) | 2040 | 12 | - | - |
 | 🇴🇲 | Oman | Oman | 2021 | 13 | - | - |
@@ -258,6 +259,7 @@ Last updated 2023-04-06.
 | 🇸🇴 | Somalia | Somalia (All) | 2021 | 8 | - | - |
 | 🇿🇦 | South Africa | South Africa (all) | 2040 | 14 | - | - |
 | 🇬🇸 | South Georgia and the South Sandwich Islands | No Data | - | - | - | - |
+| 🇰🇷 | South Korea | South Korea (all) | 2040 | 15 | - | - |
 | 🇸🇸 | South Sudan | No Data | - | - | - | - |
 | 🇪🇸 | Spain | Asturias | 2022 | 12 | - | - |
 | 🇪🇸 | Spain | Castile and León | 2022 | 12 | - | - |
@@ -273,16 +275,15 @@ Last updated 2023-04-06.
 | 🇸🇩 | Sudan | No Data | - | - | - | - |
 | 🇸🇷 | Suriname | No Data | - | - | - | - |
 | 🇸🇯 | Svalbard and Jan Mayen | No Data | - | - | - | - |
-| 🇸🇿 | Swaziland | No Data | - | - | - | - |
 | 🇸🇪 | Sweden | Sweden (all) | 2040 | 16 | - | - |
 | 🇨🇭 | Switzerland | Canton de Vaud | 2022 | 9 | - | - |
 | 🇨🇭 | Switzerland | Geneva | 2022 | 9 | - | - |
 | 🇨🇭 | Switzerland | Zug | 2022 | 13 | - | - |
 | 🇨🇭 | Switzerland | Zurich | 2022 | 10 | - | - |
 | 🇸🇾 | Syrian Arab Republic | No Data | - | - | - | - |
-| 🇹🇼 | Taiwan, Province of China | Taiwan (all) | 2030 | 14 | - | - |
+| 🇹🇼 | Taiwan | Taiwan (all) | 2030 | 14 | - | - |
 | 🇹🇯 | Tajikistan | No Data | - | - | - | - |
-| 🇹🇿 | Tanzania, United Republic of | No Data | - | - | - | - |
+| 🇹🇿 | Tanzania | No Data | - | - | - | - |
 | 🇹🇭 | Thailand | Thailand (all) | 2022 | 14 | - | - |
 | 🇹🇱 | Timor-Leste | No Data | - | - | - | - |
 | 🇹🇬 | Togo | No Data | - | - | - | - |
@@ -290,79 +291,79 @@ Last updated 2023-04-06.
 | 🇹🇴 | Tonga | No Data | - | - | - | - |
 | 🇹🇹 | Trinidad and Tobago | No Data | - | - | - | - |
 | 🇹🇳 | Tunisia | Tunisia (all) | 2021 | 15 | - | - |
-| 🇹🇷 | Turkey | Turkey (all) | 2021 | 15 | - | - |
 | 🇹🇲 | Turkmenistan | No Data | - | - | - | - |
 | 🇹🇨 | Turks and Caicos Islands | No Data | - | - | - | - |
 | 🇹🇻 | Tuvalu | No Data | - | - | - | - |
+| 🇹🇷 | Türkiye | Turkey (all) | 2021 | 15 | - | - |
 | 🇺🇬 | Uganda | No Data | - | - | - | - |
 | 🇺🇦 | Ukraine | Ukraine (all) | 2040 | 13 | - | - |
 | 🇦🇪 | United Arab Emirates | Dubai (all) | 2021 | 15 | - | - |
 | 🇦🇪 | United Arab Emirates | United Arab Emirates (all) | 2021 | 15 | - | - |
-| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | England | 2040 | 8 | - | - |
-| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Wales | 2040 | 8 | - | - |
-| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Scotland (incl. St. Andrew's Day) | 2034 | 9 | - | - |
-| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Northern Ireland | 2034 | 9 | - | - |
-| 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Scotland (excl. St. Andrew's Day) | 2034 | 8 | - | - |
+| 🇬🇧 | United Kingdom | England | 2040 | 8 | - | - |
+| 🇬🇧 | United Kingdom | Wales | 2040 | 8 | - | - |
+| 🇬🇧 | United Kingdom | Scotland (incl. St. Andrew's Day) | 2034 | 8 | - | - |
+| 🇬🇧 | United Kingdom | Northern Ireland | 2034 | 9 | - | - |
+| 🇬🇧 | United Kingdom | Scotland (excl. St. Andrew's Day) | 2034 | 8 | - | - |
+| 🇺🇸 | United States | Alabama | 2040 | 13 | - | - |
+| 🇺🇸 | United States | Alaska | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Arizona | 2040 | 10 | - | - |
+| 🇺🇸 | United States | Arkansas | 2040 | 10 | - | - |
+| 🇺🇸 | United States | California | 2040 | 10 | - | - |
+| 🇺🇸 | United States | Colorado | 2040 | 10 | - | - |
+| 🇺🇸 | United States | Connecticut | 2040 | 12 | - | - |
+| 🇺🇸 | United States | Delaware | 2040 | 12 | - | - |
+| 🇺🇸 | United States | District Of Columbia | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Florida | 2040 | 9 | - | - |
+| 🇺🇸 | United States | Georgia | 2040 | 12 | - | - |
+| 🇺🇸 | United States | Hawaii | 2040 | 14 | - | - |
+| 🇺🇸 | United States | Idaho | 2040 | 10 | - | - |
+| 🇺🇸 | United States | Illinois | 2040 | 13 | - | - |
+| 🇺🇸 | United States | Indiana | 2040 | 14 | - | - |
+| 🇺🇸 | United States | Iowa | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Kansas | 2040 | 9 | - | - |
+| 🇺🇸 | United States | Kentucky | 2040 | 13 | - | - |
+| 🇺🇸 | United States | Louisiana | 2040 | 12 | - | - |
+| 🇺🇸 | United States | Maine | 2040 | 12 | - | - |
+| 🇺🇸 | United States | Maryland | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Massachusetts | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Michigan | 2040 | 13 | - | - |
+| 🇺🇸 | United States | Minnesota | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Mississippi | 2040 | 10 | - | - |
+| 🇺🇸 | United States | Missouri | 2040 | 12 | - | - |
+| 🇺🇸 | United States | Montana | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Nebraska | 2040 | 12 | - | - |
+| 🇺🇸 | United States | Nevada | 2040 | 11 | - | - |
+| 🇺🇸 | United States | New Hampshire | 2040 | 12 | - | - |
+| 🇺🇸 | United States | New Jersey | 2040 | 12 | - | - |
+| 🇺🇸 | United States | New Mexico | 2040 | 10 | - | - |
+| 🇺🇸 | United States | New York | 2040 | 10 | - | - |
+| 🇺🇸 | United States | North Carolina | 2040 | 11 | - | - |
+| 🇺🇸 | United States | North Dakota | 2040 | 10 | - | - |
+| 🇺🇸 | United States | Ohio | 2040 | 10 | - | - |
+| 🇺🇸 | United States | Oklahoma | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Oregon | 2040 | 9 | - | - |
+| 🇺🇸 | United States | Pennsylvania | 2040 | 14 | - | - |
+| 🇺🇸 | United States | Rhode Island | 2040 | 9 | - | - |
+| 🇺🇸 | United States | South Carolina | 2040 | 13 | - | - |
+| 🇺🇸 | United States | South Dakota | 2040 | 10 | - | - |
+| 🇺🇸 | United States | Tennessee | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Texas | 2040 | 12 | - | - |
+| 🇺🇸 | United States | Utah | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Vermont | 2040 | 11 | - | - |
+| 🇺🇸 | United States | Virginia | 2040 | 12 | - | - |
+| 🇺🇸 | United States | Washington | 2040 | 10 | - | - |
+| 🇺🇸 | United States | West Virginia | 2040 | 16 | - | - |
+| 🇺🇸 | United States | Wisconsin | 2040 | 9 | - | - |
+| 🇺🇸 | United States | Wyoming | 2040 | 9 | - | - |
+| 🇺🇸 | United States | Federal Only | 2022 | 11 | - | - |
 | 🇺🇲 | United States Minor Outlying Islands | No Data | - | - | - | - |
-| 🇺🇸 | United States of America | Alabama | 2040 | 13 | - | - |
-| 🇺🇸 | United States of America | Alaska | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Arizona | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Arkansas | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | California | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Colorado | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Connecticut | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Delaware | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | District Of Columbia | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Florida | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | Georgia | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Hawaii | 2040 | 14 | - | - |
-| 🇺🇸 | United States of America | Idaho | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Illinois | 2040 | 13 | - | - |
-| 🇺🇸 | United States of America | Indiana | 2040 | 14 | - | - |
-| 🇺🇸 | United States of America | Iowa | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Kansas | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | Kentucky | 2040 | 13 | - | - |
-| 🇺🇸 | United States of America | Louisiana | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Maine | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Maryland | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Massachusetts | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Michigan | 2040 | 13 | - | - |
-| 🇺🇸 | United States of America | Minnesota | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Mississippi | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Missouri | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Montana | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Nebraska | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Nevada | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | New Hampshire | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | New Jersey | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | New Mexico | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | New York | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | North Carolina | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | North Dakota | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Ohio | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Oklahoma | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Oregon | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | Pennsylvania | 2040 | 14 | - | - |
-| 🇺🇸 | United States of America | Rhode Island | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | South Carolina | 2040 | 13 | - | - |
-| 🇺🇸 | United States of America | South Dakota | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | Tennessee | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Texas | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Utah | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Vermont | 2040 | 11 | - | - |
-| 🇺🇸 | United States of America | Virginia | 2040 | 12 | - | - |
-| 🇺🇸 | United States of America | Washington | 2040 | 10 | - | - |
-| 🇺🇸 | United States of America | West Virginia | 2040 | 16 | - | - |
-| 🇺🇸 | United States of America | Wisconsin | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | Wyoming | 2040 | 9 | - | - |
-| 🇺🇸 | United States of America | Federal Only | 2022 | 11 | - | - |
 | 🇺🇾 | Uruguay | Uruguay (all) | 2021 | 13 | - | - |
 | 🇺🇿 | Uzbekistan | No Data | - | - | - | - |
 | 🇻🇺 | Vanuatu | No Data | - | - | - | - |
-| 🇻🇪 | Venezuela (Bolivarian Republic of) | Venezuela | 2022 | 12 | - | - |
-| 🇻🇳 | Viet Nam | Vietnam | 2021 | 14 | - | - |
-| 🇻🇬 | Virgin Islands (British) | No Data | - | - | - | - |
-| 🇻🇮 | Virgin Islands (U.S.) | No Data | - | - | - | - |
+| 🇻🇪 | Venezuela | Venezuela | 2022 | 12 | - | - |
+| 🇻🇳 | Vietnam | Vietnam | 2021 | 14 | - | - |
+| 🇻🇬 | Virgin Islands, British | No Data | - | - | - | - |
+| 🇻🇮 | Virgin Islands, U.S. | No Data | - | - | - | - |
 | 🇼🇫 | Wallis and Futuna | No Data | - | - | - | - |
 | 🇪🇭 | Western Sahara | No Data | - | - | - | - |
 | 🇾🇪 | Yemen | No Data | - | - | - | - |
