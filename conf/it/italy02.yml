@@ -1,0 +1,1191 @@
+---
+name: Milan
+years:
+  '2023':
+  - public_holiday: true
+    date: '2023-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2023-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2023-04-09'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2023-04-10'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2023-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2023-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2023-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2023-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2023-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2023-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2023-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2023-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2023-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2024':
+  - public_holiday: true
+    date: '2024-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2024-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2024-03-31'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2024-04-01'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2024-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2024-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2024-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2024-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2024-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2024-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2024-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2024-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2024-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2025':
+  - public_holiday: true
+    date: '2025-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2025-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2025-04-20'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2025-04-21'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2025-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2025-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2025-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2025-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2025-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2025-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2025-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2025-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2025-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2026':
+  - public_holiday: true
+    date: '2026-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2026-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2026-04-05'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2026-04-06'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2026-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2026-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2026-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2026-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2026-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2026-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2026-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2026-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2026-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2027':
+  - public_holiday: true
+    date: '2027-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2027-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2027-03-28'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2027-03-29'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2027-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2027-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2027-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2027-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2027-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2027-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2027-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2027-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2027-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2028':
+  - public_holiday: true
+    date: '2028-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2028-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2028-04-16'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2028-04-17'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2028-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2028-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2028-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2028-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2028-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2028-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2028-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2028-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2028-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2029':
+  - public_holiday: true
+    date: '2029-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2029-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2029-04-01'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2029-04-02'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2029-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2029-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2029-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2029-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2029-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2029-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2029-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2029-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2029-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2030':
+  - public_holiday: true
+    date: '2030-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2030-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2030-04-21'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2030-04-22'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2030-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2030-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2030-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2030-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2030-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2030-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2030-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2030-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2030-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2031':
+  - public_holiday: true
+    date: '2031-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2031-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2031-04-13'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2031-04-14'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2031-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2031-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2031-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2031-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2031-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2031-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2031-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2031-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2031-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2032':
+  - public_holiday: true
+    date: '2032-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2032-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2032-03-28'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2032-03-29'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2032-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2032-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2032-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2032-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2032-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2032-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2032-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2032-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2032-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2033':
+  - public_holiday: true
+    date: '2033-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2033-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2033-04-17'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2033-04-18'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2033-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2033-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2033-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2033-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2033-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2033-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2033-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2033-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2033-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2034':
+  - public_holiday: true
+    date: '2034-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2034-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2034-04-09'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2034-04-10'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2034-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2034-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2034-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2034-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2034-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2034-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2034-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2034-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2034-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2035':
+  - public_holiday: true
+    date: '2035-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2035-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2035-03-25'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2035-03-26'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2035-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2035-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2035-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2035-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2035-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2035-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2035-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2035-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2035-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2036':
+  - public_holiday: true
+    date: '2036-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2036-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2036-04-13'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2036-04-14'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2036-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2036-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2036-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2036-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2036-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2036-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2036-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2036-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2036-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2037':
+  - public_holiday: true
+    date: '2037-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2037-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2037-04-05'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2037-04-06'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2037-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2037-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2037-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2037-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2037-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2037-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2037-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2037-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2037-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2038':
+  - public_holiday: true
+    date: '2038-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2038-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2038-04-25'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2038-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2038-04-26'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2038-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2038-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2038-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2038-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2038-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2038-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2038-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2038-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2039':
+  - public_holiday: true
+    date: '2039-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2039-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2039-04-10'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2039-04-11'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2039-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2039-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2039-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2039-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2039-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2039-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2039-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2039-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2039-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
+  '2040':
+  - public_holiday: true
+    date: '2040-01-01'
+    names:
+      en: New Year's Day
+      it: Capodanno
+  - public_holiday: true
+    date: '2040-01-06'
+    names:
+      en: Epiphany
+      it: Epifania
+  - public_holiday: true
+    date: '2040-04-01'
+    names:
+      en: Easter Sunday
+      it: Pasqua
+  - public_holiday: true
+    date: '2040-04-02'
+    names:
+      en: Easter Monday
+      it: Lunedì dell'Angelo, Pasquetta
+  - public_holiday: true
+    date: '2040-04-25'
+    names:
+      en: Anniversary of Liberation
+      it: Anniversario della Liberazione
+  - public_holiday: true
+    date: '2040-05-01'
+    names:
+      en: Labour Day
+      it: Festa del Lavoro (Festa dei Lavoratori)
+  - public_holiday: true
+    date: '2040-06-02'
+    names:
+      en: Republic Day
+      it: Festa della Repubblica
+  - public_holiday: true
+    date: '2040-08-15'
+    names:
+      en: Assumption of Mary
+      it: Ferragosto and Assunzione
+  - public_holiday: true
+    date: '2040-11-01'
+    names:
+      en: All Saints' Day
+      it: Tutti i santi (Ognissanti)
+  - public_holiday: true
+    date: '2040-12-07'
+    names:
+      en: The Feast of St Ambrose
+      it: Festa di sant'Ambrogio
+  - public_holiday: true
+    date: '2040-12-08'
+    names:
+      en: Immaculate Conception Day
+      it: Immacolata Concezione
+  - public_holiday: true
+    date: '2040-12-25'
+    names:
+      en: Christmas Day
+      it: Natale
+  - public_holiday: true
+    date: '2040-12-26'
+    names:
+      en: St Stephen's Day
+      it: Santo Stefano
