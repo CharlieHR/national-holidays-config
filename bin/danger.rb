@@ -12,7 +12,7 @@ class Danger
 
   def run
     Dir.chdir(config_directory) do
-      ISO3166::Country.all.sort_by(&:name).map do |country|
+      ISO3166::Country.all.sort_by(&:iso_short_name).map do |country|
         check(country)
       end
     end

@@ -1,0 +1,713 @@
+---
+name: Barcelona
+years:
+  '2015':
+  - public_holiday: true
+    date: '2015-01-01'
+    names:
+      en: New Year's Day
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2015-01-06'
+    names:
+      en: Lord's Epiphany
+      es: Epifanía del Señor
+  - public_holiday: true
+    date: '2015-04-03'
+    names:
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2015-04-06'
+    names:
+      en: Good Monday
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2015-05-01'
+    names:
+      en: Labour Day
+      es: Día del trabajo
+  - public_holiday: true
+    date: '2015-06-24'
+    names:
+      en: St. Joseph's
+      es: San Juan
+  - public_holiday: true
+    date: '2015-08-15'
+    names:
+      en: Assumption of Mary
+      es: Asunción de la Virgen
+  - public_holiday: true
+    date: '2015-09-11'
+    names:
+      en: Catalunya's Day
+      es: Día de Catalunya
+  - public_holiday: true
+    date: '2015-10-12'
+    names:
+      en: National Day of Spain
+      es: Fiesta Nacional de España
+  - public_holiday: true
+    date: '2015-11-01'
+    names:
+      en: All Saints
+      es: Todos los Santos
+  - public_holiday: true
+    date: '2015-12-06'
+    names:
+      en: Spanish Contitution's Day
+      es: Día de la Constitución Española
+  - public_holiday: true
+    date: '2015-12-08'
+    names:
+      en: Immaculate Conception Day
+      es: Immaculada Concepción
+  - public_holiday: true
+    date: '2015-12-25'
+    names:
+      en: Christmas Day
+      es: Dia de Navidad
+  - public_holiday: true
+    date: '2015-12-26'
+    names:
+      en: St. Stephen's Day
+      es: San Esteban
+  '2016':
+  - public_holiday: true
+    date: '2016-01-01'
+    names:
+      en: New Year's Day
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2016-01-06'
+    names:
+      en: Lord's Epiphany
+      es: Epifanía del Señor
+  - public_holiday: true
+    date: '2016-03-25'
+    names:
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2016-03-28'
+    names:
+      en: Good Monday
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2016-05-02'
+    names:
+      en: Labour Day
+      es: Día del trabajo
+  - public_holiday: true
+    date: '2016-05-16'
+    names:
+      en: Good Monday
+      es: Lunes de Pascua Granada
+  - public_holiday: true
+    date: '2016-06-24'
+    names:
+      en: St. Joseph's Day
+      es: San Juan
+  - public_holiday: true
+    date: '2016-08-15'
+    names:
+      en: Assumption of Mary
+      es: Asunción de la Virgen
+  - public_holiday: true
+    date: '2016-09-11'
+    names:
+      en: Catalunya's Day
+      es: Día de Catalunya
+  - public_holiday: true
+    date: '2016-10-12'
+    names:
+      en: National Day of Spain
+      es: Fiesta Nacional de España
+  - public_holiday: true
+    date: '2016-11-01'
+    names:
+      en: All Saints
+      es: Todos los Santos
+  - public_holiday: true
+    date: '2016-12-06'
+    names:
+      en: Spanish Contitution's Day
+      es: Día de la Constitución Española
+  - public_holiday: true
+    date: '2016-12-08'
+    names:
+      en: Immaculate Conception Day
+      es: Immaculada Concepción
+  - public_holiday: true
+    date: '2016-12-26'
+    names:
+      en: Christmas Day
+      es: Dia de Navidad
+  '2017':
+  - public_holiday: true
+    date: '2017-01-01'
+    names:
+      en: New Year's Day
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2017-01-06'
+    names:
+      en: Lord's Epiphany
+      es: Epifanía del Señor
+  - public_holiday: true
+    date: '2017-04-14'
+    names:
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2017-04-17'
+    names:
+      en: Good Monday
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2017-05-01'
+    names:
+      en: Labour Day
+      es: Día del trabajo
+  - public_holiday: true
+    date: '2017-06-24'
+    names:
+      en: St. Joseph's Day
+      es: San Juan
+  - public_holiday: true
+    date: '2017-08-15'
+    names:
+      en: Assumption of Mary
+      es: Asunción de la Virgen
+  - public_holiday: true
+    date: '2017-09-11'
+    names:
+      en: Catalunya's Day
+      es: Día de Catalunya
+  - public_holiday: true
+    date: '2017-10-12'
+    names:
+      en: National Day of Spain
+      es: Fiesta Nacional de España
+  - public_holiday: true
+    date: '2017-11-01'
+    names:
+      en: All Saints
+      es: Todos los Santos
+  - public_holiday: true
+    date: '2017-12-06'
+    names:
+      en: Spanish Contitution's Day
+      es: Día de la Constitución Española
+  - public_holiday: true
+    date: '2017-12-08'
+    names:
+      en: Immaculate Conception Day
+      es: Immaculada Concepción
+  - public_holiday: true
+    date: '2017-12-25'
+    names:
+      en: Christmas Day
+      es: Dia de Navidad
+  '2018':
+  - public_holiday: true
+    date: '2018-01-01'
+    names:
+      en: New Year's Day
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2018-01-06'
+    names:
+      en: Lord's Epiphany
+      es: Epifanía del Señor
+  - public_holiday: true
+    date: '2018-03-30'
+    names:
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2018-04-02'
+    names:
+      en: Good Monday
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2018-05-01'
+    names:
+      en: Labour Day
+      es: Día del trabajo
+  - public_holiday: true
+    date: '2018-06-25'
+    names:
+      en: St. Joseph's Day
+      es: San Juan
+  - public_holiday: true
+    date: '2018-08-15'
+    names:
+      en: Assumption of Mary
+      es: Asunción de la Virgen
+  - public_holiday: true
+    date: '2018-09-11'
+    names:
+      en: Catalunya's Day
+      es: Día de Catalunya
+  - public_holiday: true
+    date: '2018-10-12'
+    names:
+      en: National Day of Spain
+      es: Fiesta Nacional de España
+  - public_holiday: true
+    date: '2018-11-01'
+    names:
+      en: All Saints
+      es: Todos los Santos
+  - public_holiday: true
+    date: '2018-12-06'
+    names:
+      en: Spanish Contitution's Day
+      es: Día de la Constitución Española
+  - public_holiday: true
+    date: '2018-12-08'
+    names:
+      en: Immaculate Conception Day
+      es: Immaculada Concepción
+  - public_holiday: true
+    date: '2018-12-25'
+    names:
+      en: Christmas Day
+      es: Dia de Navidad
+  '2019':
+  - public_holiday: true
+    date: '2019-01-01'
+    names:
+      en: New Year's Day
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2019-01-06'
+    names:
+      en: Lord's Epiphany
+      es: Epifanía del Señor
+  - public_holiday: true
+    date: '2019-04-19'
+    names:
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2019-04-22'
+    names:
+      en: Good Monday
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2019-05-01'
+    names:
+      en: Labour Day
+      es: Día del trabajo
+  - public_holiday: true
+    date: '2019-06-24'
+    names:
+      en: St. Joseph's Day
+      es: San Juan
+  - public_holiday: true
+    date: '2019-08-15'
+    names:
+      en: Assumption of Mary
+      es: Asunción de la Virgen
+  - public_holiday: true
+    date: '2019-09-11'
+    names:
+      en: Catalunya's Day
+      es: Día de Catalunya
+  - public_holiday: true
+    date: '2019-10-12'
+    names:
+      en: National Day of Spain
+      es: Fiesta Nacional de España
+  - public_holiday: true
+    date: '2019-11-01'
+    names:
+      en: All Saints
+      es: Todos los Santos
+  - public_holiday: true
+    date: '2019-12-06'
+    names:
+      en: Spanish Contitution's Day
+      es: Día de la Constitución Española
+  - public_holiday: true
+    date: '2019-12-08'
+    names:
+      en: Immaculate Conception Day
+      es: Immaculada Concepción
+  - public_holiday: true
+    date: '2019-12-25'
+    names:
+      en: Christmas Day
+      es: Dia de Navidad
+  '2020':
+  - public_holiday: true
+    date: '2020-01-01'
+    names:
+      en: New Year's Day
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2020-01-06'
+    names:
+      en: Lord's Epiphany
+      es: Epifanía del Señor
+  - public_holiday: true
+    date: '2020-04-10'
+    names:
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2020-04-13'
+    names:
+      en: Good Monday
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2020-05-01'
+    names:
+      en: Labour Day
+      es: Día del trabajo
+  - public_holiday: true
+    date: '2020-06-24'
+    names:
+      en: St. Joseph's Day
+      es: San Juan
+  - public_holiday: true
+    date: '2020-08-15'
+    names:
+      en: Assumption of Mary
+      es: Asunción de la Virgen
+  - public_holiday: true
+    date: '2020-09-11'
+    names:
+      en: Catalunya's Day
+      es: Día de Catalunya
+  - public_holiday: true
+    date: '2020-10-12'
+    names:
+      en: National Day of Spain
+      es: Fiesta Nacional de España
+  - public_holiday: true
+    date: '2020-11-01'
+    names:
+      en: All Saints
+      es: Todos los Santos
+  - public_holiday: true
+    date: '2020-12-07'
+    names:
+      en: Spanish Contitution's Day
+      es: Día de la Constitución Española
+  - public_holiday: true
+    date: '2020-12-08'
+    names:
+      en: Immaculate Conception Day
+      es: Immaculada Concepción
+  - public_holiday: true
+    date: '2020-12-25'
+    names:
+      en: Christmas Day
+      es: Dia de Navidad
+  '2021':
+  - public_holiday: true
+    date: '2021-01-01'
+    names:
+      en: Año Nuevo
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2021-01-06'
+    names:
+      en: Día de Reyes
+      es: Día de Reyes
+  - public_holiday: true
+    date: '2021-04-02'
+    names:
+      en: Viernes Santo
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2021-04-05'
+    names:
+      en: Lunes de Pascua
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2021-05-01'
+    names:
+      en: Día del Trabajador
+      es: Día del Trabajador
+  - public_holiday: true
+    date: '2021-05-24'
+    names:
+      en: Lunes de Pascua Granada
+      es: Lunes de Pascua Granada
+  - public_holiday: true
+    date: '2021-06-24'
+    names:
+      en: San Juan
+      es: San Juan
+  - public_holiday: true
+    date: '2021-08-15'
+    names:
+      en: Asunción
+      es: Asunción
+  - public_holiday: true
+    date: '2021-09-11'
+    names:
+      en: Fiesta Nacional de Cataluña
+      es: Fiesta Nacional de Cataluña
+  - public_holiday: true
+    date: '2021-09-24'
+    names:
+      en: La Mercè
+      es: La Mercè
+  - public_holiday: true
+    date: '2021-10-12'
+    names:
+      en: Día de la Hispanidad
+      es: Día de la Hispanidad
+  - public_holiday: true
+    date: '2021-11-01'
+    names:
+      en: Todos los Santos
+      es: Todos los Santos
+  - public_holiday: true
+    date: '2021-12-06'
+    names:
+      en: Día de la Constitución
+      es: Día de la Constitución
+  - public_holiday: true
+    date: '2021-12-08'
+    names:
+      en: Inmaculada Concepción
+      es: Inmaculada Concepción
+  - public_holiday: true
+    date: '2021-12-25'
+    names:
+      en: Navidad del Señor
+      es: Navidad del Señor
+  - public_holiday: true
+    date: '2021-12-26'
+    names:
+      en: San Esteban
+      es: San Esteban
+  '2022':
+  - public_holiday: true
+    date: '2022-01-01'
+    names:
+      en: Año Nuevo
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2022-01-06'
+    names:
+      en: Día de Reyes
+      es: Día de Reyes
+  - public_holiday: true
+    date: '2022-04-15'
+    names:
+      en: Viernes Santo
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2022-04-18'
+    names:
+      en: Lunes de Pascua
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2022-05-01'
+    names:
+      en: Día del Trabajador
+      es: Día del Trabajador
+  - public_holiday: true
+    date: '2022-06-06'
+    names:
+      en: Lunes de Pascua Granada
+      es: Lunes de Pascua Granada
+  - public_holiday: true
+    date: '2022-06-24'
+    names:
+      en: San Juan
+      es: San Juan
+  - public_holiday: true
+    date: '2022-08-15'
+    names:
+      en: Asunción
+      es: Asunción
+  - public_holiday: true
+    date: '2022-09-11'
+    names:
+      en: Fiesta Nacional de Cataluña
+      es: Fiesta Nacional de Cataluña
+  - public_holiday: true
+    date: '2022-09-24'
+    names:
+      en: La Mercè
+      es: La Mercè
+  - public_holiday: true
+    date: '2022-10-12'
+    names:
+      en: Día de la Hispanidad
+      es: Día de la Hispanidad
+  - public_holiday: true
+    date: '2022-11-01'
+    names:
+      en: Todos los Santos
+      es: Todos los Santos
+  - public_holiday: true
+    date: '2022-12-06'
+    names:
+      en: Día de la Constitución
+      es: Día de la Constitución
+  - public_holiday: true
+    date: '2022-12-08'
+    names:
+      en: Inmaculada Concepción
+      es: Inmaculada Concepción
+  - public_holiday: true
+    date: '2022-12-25'
+    names:
+      en: Navidad del Señor
+      es: Navidad del Señor
+  - public_holiday: true
+    date: '2022-12-26'
+    names:
+      en: San Esteban
+      es: San Esteban
+  '2023':
+  - public_holiday: true
+    date: '2023-01-06'
+    names:
+      en: Día de Reyes
+      es: Día de Reyes
+  - public_holiday: true
+    date: '2023-04-7'
+    names:
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2023-04-10'
+    names:
+      en: Lunes de Pascua
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2023-05-01'
+    names:
+      en: Día del Trabajador
+      es: Día del Trabajador
+  - public_holiday: true
+    date: '2023-06-05'
+    names:
+      en: Lunes de Pascua Granada
+      es: Lunes de Pascua Granada
+  - public_holiday: true
+    date: '2023-06-24'
+    names:
+      en: San Juan
+      es: San Juan
+  - public_holiday: true
+    date: '2023-08-15'
+    names:
+      en: Asunción
+      es: Asunción
+  - public_holiday: true
+    date: '2023-09-11'
+    names:
+      en: Fiesta Nacional de Cataluña
+      es: Fiesta Nacional de Cataluña
+  - public_holiday: true
+    date: '2023-09-25'
+    names:
+      en: La Mercè
+      es: La Mercè
+  - public_holiday: true
+    date: '2023-10-12'
+    names:
+      en: Día de la Hispanidad
+      es: Día de la Hispanidad
+  - public_holiday: true
+    date: '2023-11-01'
+    names:
+      en: Todos los Santos
+      es: Todos los Santos
+  - public_holiday: true
+    date: '2023-12-06'
+    names:
+      en: Día de la Constitución
+      es: Día de la Constitución
+  - public_holiday: true
+    date: '2023-12-08'
+    names:
+      en: Inmaculada Concepción
+      es: Inmaculada Concepción
+  - public_holiday: true
+    date: '2023-12-25'
+    names:
+      en: Navidad del Señor
+      es: Navidad del Señor
+  - public_holiday: true
+    date: '2023-12-26'
+    names:
+      en: San Esteban
+      es: San Esteban
+  '2024':
+  - public_holiday: true
+    date: '2024-01-01'
+    names:
+      en: Año Nuevo
+      es: Año Nuevo
+  - public_holiday: true
+    date: '2024-01-06'
+    names:
+      en: Día de Reyes
+      es: Día de Reyes
+  - public_holiday: true
+    date: '2024-03-29'
+    names:
+      en: Good Friday
+      es: Viernes Santo
+  - public_holiday: true
+    date: '2024-04-1'
+    names:
+      en: Lunes de Pascua
+      es: Lunes de Pascua
+  - public_holiday: true
+    date: '2024-05-01'
+    names:
+      en: Día del Trabajador
+      es: Día del Trabajador
+  - public_holiday: true
+    date: '2024-06-24'
+    names:
+      en: San Juan
+      es: San Juan
+  - public_holiday: true
+    date: '2024-08-15'
+    names:
+      en: Asunción
+      es: Asunción
+  - public_holiday: true
+    date: '2024-09-11'
+    names:
+      en: Fiesta Nacional de Cataluña
+      es: Fiesta Nacional de Cataluña
+  - public_holiday: true
+    date: '2024-10-12'
+    names:
+      en: Día de la Hispanidad
+      es: Día de la Hispanidad
+  - public_holiday: true
+    date: '2024-11-01'
+    names:
+      en: Todos los Santos
+      es: Todos los Santos
+  - public_holiday: true
+    date: '2024-12-06'
+    names:
+      en: Día de la Constitución
+      es: Día de la Constitución
+  - public_holiday: true
+    date: '2024-12-25'
+    names:
+      en: Navidad del Señor
+      es: Navidad del Señor
+  - public_holiday: true
+    date: '2024-12-26'
+    names:
+      en: San Esteban
+      es: San Esteban
