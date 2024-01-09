@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2023-06-06.
+Last updated 2024-01-09.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -271,7 +271,6 @@ Last updated 2023-06-06.
 | 🇪🇸 | Spain | Sevilla | 2021 | 12 | - | - |
 | 🇪🇸 | Spain | Bilbao | 2021 | 13 | - | - |
 | 🇪🇸 | Spain | Baleares | 2022 | 13 | - | - |
-| 🇪🇸 | Spain | Barcelona | 2024 | 13 | - | - |
 | 🇱🇰 | Sri Lanka | No Data | - | - | - | - |
 | 🇸🇩 | Sudan | No Data | - | - | - | - |
 | 🇸🇷 | Suriname | No Data | - | - | - | - |
