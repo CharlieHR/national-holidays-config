@@ -628,6 +628,10 @@ years:
     names:
       en: Memorial Day
   - public_holiday: true
+    date: '2024-06-19'
+    names:
+      en: Juneteenth
+  - public_holiday: true
     date: '2024-07-04'
     names:
       en: Independence Day
@@ -668,6 +672,10 @@ years:
     date: '2025-05-26'
     names:
       en: Memorial Day
+  - public_holiday: true
+    date: '2025-06-19'
+    names:
+      en: Juneteenth
   - public_holiday: true
     date: '2025-07-04'
     names:
@@ -710,6 +718,10 @@ years:
     names:
       en: Memorial Day
   - public_holiday: true
+    date: '2026-06-19'
+    names:
+      en: Juneteenth
+  - public_holiday: true
     date: '2026-07-04'
     names:
       en: Independence Day
@@ -750,6 +762,10 @@ years:
     date: '2027-05-31'
     names:
       en: Memorial Day
+  - public_holiday: true
+    date: '2027-06-19'
+    names:
+      en: Juneteenth
   - public_holiday: true
     date: '2027-07-05'
     names:
@@ -792,6 +808,10 @@ years:
     names:
       en: Memorial Day
   - public_holiday: true
+    date: '2028-06-19'
+    names:
+      en: Juneteenth
+  - public_holiday: true
     date: '2028-07-04'
     names:
       en: Independence Day
@@ -833,6 +853,10 @@ years:
     names:
       en: Memorial Day
   - public_holiday: true
+    date: '2029-06-19'
+    names:
+      en: Juneteenth
+  - public_holiday: true
     date: '2029-07-04'
     names:
       en: Independence Day
@@ -873,6 +897,10 @@ years:
     date: '2030-05-27'
     names:
       en: Memorial Day
+  - public_holiday: true
+    date: '2030-06-19'
+    names:
+      en: Juneteenth
   - public_holiday: true
     date: '2030-07-04'
     names:
