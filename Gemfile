@@ -6,6 +6,7 @@ group :development, :test do
   gem 'countries'
   gem 'date'
   gem 'minitest'
+  gem 'minitest-fail-fast'
   gem 'minitest-reporters'
   gem 'rake'
 end
