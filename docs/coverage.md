@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2024-01-09.
+Last updated 2025-11-18.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -169,7 +169,7 @@ Last updated 2024-01-09.
 | 🇱🇾 | Libya | No Data | - | - | - | - |
 | 🇱🇮 | Liechtenstein | No Data | - | - | - | - |
 | 🇱🇹 | Lithuania | Lithuania (all) | 2040 | 15 | - | - |
-| 🇱🇺 | Luxembourg | Luxembourg (all) | 2040 | 10 | - | - |
+| 🇱🇺 | Luxembourg | Luxembourg (all) | 2040 | 11 | - | - |
 | 🇲🇴 | Macao | No Data | - | - | - | - |
 | 🇲🇬 | Madagascar | No Data | - | - | - | - |
 | 🇲🇼 | Malawi | No Data | - | - | - | - |
@@ -314,7 +314,7 @@ Last updated 2024-01-09.
 | 🇺🇸 | United States | Delaware | 2040 | 12 | - | - |
 | 🇺🇸 | United States | District Of Columbia | 2040 | 11 | - | - |
 | 🇺🇸 | United States | Florida | 2040 | 9 | - | - |
-| 🇺🇸 | United States | Georgia | 2040 | 12 | - | - |
+| 🇺🇸 | United States | Georgia | 2040 | 10 | - | - |
 | 🇺🇸 | United States | Hawaii | 2040 | 14 | - | - |
 | 🇺🇸 | United States | Idaho | 2040 | 10 | - | - |
 | 🇺🇸 | United States | Illinois | 2040 | 13 | - | - |
