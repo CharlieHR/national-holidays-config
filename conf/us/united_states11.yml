@@ -709,9 +709,9 @@ years:
     names:
       en: Washington's Birthday
   - public_holiday: true
-    date: '2025-04-28'
+    date: '2025-04-18'
     names:
-      en: Confederate Memorial Day
+      en: State Holiday
   - public_holiday: true
     date: '2025-05-26'
     names:
@@ -739,7 +739,7 @@ years:
   - public_holiday: true
     date: '2025-11-28'
     names:
-      en: Robert E. Lee's Birthday
+      en: State Holiday
   - public_holiday: true
     date: '2025-12-25'
     names:
@@ -758,9 +758,9 @@ years:
     names:
       en: Washington's Birthday
   - public_holiday: true
-    date: '2026-04-27'
+    date: '2026-04-03'
     names:
-      en: Confederate Memorial Day
+      en: State Holiday
   - public_holiday: true
     date: '2026-05-25'
     names:
@@ -788,7 +788,7 @@ years:
   - public_holiday: true
     date: '2026-11-27'
     names:
-      en: Robert E. Lee's Birthday
+      en: State Holiday
   - public_holiday: true
     date: '2026-12-25'
     names:
@@ -806,10 +806,6 @@ years:
     date: '2027-02-15'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2027-04-26'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2027-05-31'
     names:
@@ -835,10 +831,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2027-11-26'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2027-12-27'
     names:
       en: Christmas Day
@@ -855,10 +847,6 @@ years:
     date: '2028-02-21'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2028-04-24'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2028-05-29'
     names:
@@ -884,10 +872,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2028-11-24'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2028-12-25'
     names:
       en: Christmas Day
@@ -904,10 +888,6 @@ years:
     date: '2029-02-19'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2029-04-23'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2029-05-28'
     names:
@@ -933,10 +913,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2029-11-23'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2029-12-25'
     names:
       en: Christmas Day
@@ -953,10 +929,6 @@ years:
     date: '2030-02-18'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2030-04-22'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2030-05-27'
     names:
@@ -982,10 +954,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2030-11-29'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2030-12-25'
     names:
       en: Christmas Day
@@ -1002,10 +970,6 @@ years:
     date: '2031-02-17'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2031-04-28'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2031-05-26'
     names:
@@ -1031,10 +995,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2031-11-28'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2031-12-25'
     names:
       en: Christmas Day
@@ -1051,10 +1011,6 @@ years:
     date: '2032-02-16'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2032-04-26'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2032-05-31'
     names:
@@ -1080,10 +1036,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2032-11-26'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2032-12-27'
     names:
       en: Christmas Day
@@ -1100,10 +1052,6 @@ years:
     date: '2033-02-21'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2033-04-25'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2033-05-30'
     names:
@@ -1129,10 +1077,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2033-11-25'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2033-12-26'
     names:
       en: Christmas Day
@@ -1149,10 +1093,6 @@ years:
     date: '2034-02-20'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2034-04-24'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2034-05-29'
     names:
@@ -1178,10 +1118,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2034-11-24'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2034-12-25'
     names:
       en: Christmas Day
@@ -1198,10 +1134,6 @@ years:
     date: '2035-02-19'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2035-04-23'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2035-05-28'
     names:
@@ -1227,10 +1159,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2035-11-23'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2035-12-25'
     names:
       en: Christmas Day
@@ -1247,10 +1175,6 @@ years:
     date: '2036-02-18'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2036-04-28'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2036-05-26'
     names:
@@ -1276,10 +1200,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2036-11-28'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2036-12-25'
     names:
       en: Christmas Day
@@ -1296,10 +1216,6 @@ years:
     date: '2037-02-16'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2037-04-27'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2037-05-25'
     names:
@@ -1325,10 +1241,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2037-11-27'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2037-12-25'
     names:
       en: Christmas Day
@@ -1345,10 +1257,6 @@ years:
     date: '2038-02-15'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2038-04-26'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2038-05-31'
     names:
@@ -1374,10 +1282,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2038-11-26'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2038-12-27'
     names:
       en: Christmas Day
@@ -1394,10 +1298,6 @@ years:
     date: '2039-02-21'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2039-04-25'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2039-05-30'
     names:
@@ -1423,10 +1323,6 @@ years:
     names:
       en: Thanksgiving Day
   - public_holiday: true
-    date: '2039-11-25'
-    names:
-      en: Robert E. Lee's Birthday
-  - public_holiday: true
     date: '2039-12-26'
     names:
       en: Christmas Day
@@ -1443,10 +1339,6 @@ years:
     date: '2040-02-20'
     names:
       en: Washington's Birthday
-  - public_holiday: true
-    date: '2040-04-23'
-    names:
-      en: Confederate Memorial Day
   - public_holiday: true
     date: '2040-05-28'
     names:
@@ -1471,10 +1363,6 @@ years:
     date: '2040-11-22'
     names:
       en: Thanksgiving Day
-  - public_holiday: true
-    date: '2040-11-23'
-    names:
-      en: Robert E. Lee's Birthday
   - public_holiday: true
     date: '2040-12-25'
     names:
