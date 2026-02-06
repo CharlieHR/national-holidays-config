@@ -722,6 +722,10 @@ years:
     names:
       en: Juneteenth
   - public_holiday: true
+    date: '2026-07-03'
+    names:
+      en: Independence Day Holiday
+  - public_holiday: true
     date: '2026-07-04'
     names:
       en: Independence Day
