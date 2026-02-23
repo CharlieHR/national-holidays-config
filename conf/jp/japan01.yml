@@ -705,11 +705,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2019-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2020':
   - public_holiday: true
     date: '2020-01-01'
@@ -818,6 +813,11 @@ years:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
   - public_holiday: true
+    date: '2021-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
+  - public_holiday: true
     date: '2021-03-20'
     names:
       en: Vernal Equinox Day
@@ -877,11 +877,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2021-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2022':
   - public_holiday: true
     date: '2022-01-01'
@@ -898,6 +893,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2022-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2022-03-21'
     names:
@@ -958,11 +958,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2022-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2023':
   - public_holiday: true
     date: '2023-01-02'
@@ -979,6 +974,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2023-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2023-03-21'
     names:
@@ -1039,11 +1039,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2023-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2024':
   - public_holiday: true
     date: '2024-01-01'
@@ -1060,6 +1055,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2024-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2024-03-20'
     names:
@@ -1120,11 +1120,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2024-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2025':
   - public_holiday: true
     date: '2025-01-01'
@@ -1141,6 +1136,16 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2025-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
+  - public_holiday: true
+    date: '2025-02-24'
+    names:
+      en: The Emperor's Birthday (observed)
+      ja: 天皇誕生日 Tennō Tanjōbi (observed)
   - public_holiday: true
     date: '2025-03-20'
     names:
@@ -1201,11 +1206,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2025-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2026':
   - public_holiday: true
     date: '2026-01-01'
@@ -1222,6 +1222,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2026-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2026-03-20'
     names:
@@ -1282,11 +1287,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2026-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2027':
   - public_holiday: true
     date: '2027-01-01'
@@ -1303,6 +1303,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2027-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2027-03-22'
     names:
@@ -1363,11 +1368,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2027-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2028':
   - public_holiday: true
     date: '2028-01-01'
@@ -1384,6 +1384,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2028-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2028-03-20'
     names:
@@ -1444,11 +1449,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2028-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2029':
   - public_holiday: true
     date: '2029-01-01'
@@ -1465,6 +1465,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2029-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2029-03-20'
     names:
@@ -1525,11 +1530,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2029-12-24'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2030':
   - public_holiday: true
     date: '2030-01-01'
@@ -1546,6 +1546,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2030-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2030-03-20'
     names:
@@ -1606,11 +1611,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2030-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2031':
   - public_holiday: true
     date: '2031-01-01'
@@ -1627,6 +1627,16 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2031-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
+  - public_holiday: true
+    date: '2031-02-24'
+    names:
+      en: The Emperor's Birthday (observed)
+      ja: 天皇誕生日 Tennō Tanjōbi (observed)
   - public_holiday: true
     date: '2031-03-20'
     names:
@@ -1687,11 +1697,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2031-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2032':
   - public_holiday: true
     date: '2032-01-01'
@@ -1708,6 +1713,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2032-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2032-03-20'
     names:
@@ -1768,11 +1778,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2032-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2033':
   - public_holiday: true
     date: '2033-01-01'
@@ -1789,6 +1794,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2033-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2033-03-21'
     names:
@@ -1849,11 +1859,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2033-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2034':
   - public_holiday: true
     date: '2034-01-02'
@@ -1870,6 +1875,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2034-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2034-03-20'
     names:
@@ -1930,11 +1940,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2034-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2035':
   - public_holiday: true
     date: '2035-01-01'
@@ -1951,6 +1956,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2035-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2035-03-20'
     names:
@@ -2011,11 +2021,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2035-12-24'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2036':
   - public_holiday: true
     date: '2036-01-01'
@@ -2032,6 +2037,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2036-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2036-03-20'
     names:
@@ -2092,11 +2102,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2036-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2037':
   - public_holiday: true
     date: '2037-01-01'
@@ -2113,6 +2118,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2037-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2037-03-20'
     names:
@@ -2173,11 +2183,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2037-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2038':
   - public_holiday: true
     date: '2038-01-01'
@@ -2194,6 +2199,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2038-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2038-03-20'
     names:
@@ -2254,11 +2264,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2038-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2039':
   - public_holiday: true
     date: '2039-01-01'
@@ -2275,6 +2280,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2039-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2039-03-21'
     names:
@@ -2335,11 +2345,6 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2039-12-23'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
   '2040':
   - public_holiday: true
     date: '2040-01-02'
@@ -2356,6 +2361,11 @@ years:
     names:
       en: Foundation Day
       ja: 建国記念の日 Kenkoku Kinen no Hi
+  - public_holiday: true
+    date: '2040-02-23'
+    names:
+      en: The Emperor's Birthday
+      ja: 天皇誕生日 Tennō Tanjōbi
   - public_holiday: true
     date: '2040-03-20'
     names:
@@ -2416,8 +2426,3 @@ years:
     names:
       en: Labour Thanksgiving Day
       ja: 勤労感謝の日 Kinrō Kansha no Hi
-  - public_holiday: true
-    date: '2040-12-24'
-    names:
-      en: The Emperor's Birthday
-      ja: 天皇誕生日 Tennō Tanjōbi
