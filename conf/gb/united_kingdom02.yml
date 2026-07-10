@@ -577,11 +577,11 @@ years:
   - public_holiday: true
     date: '2027-12-27'
     names:
-      en: Boxing Day
+      en: Christmas Day
   - public_holiday: true
     date: '2027-12-28'
     names:
-      en: Christmas Day
+      en: Boxing Day
   '2028':
   - public_holiday: true
     date: '2028-01-03'
